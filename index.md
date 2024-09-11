@@ -8,7 +8,7 @@
 ### Algebra II and Trigonometry Honors
 - [1.1 Key Features of Functions](./envision-algebra-2/1-linear-functions-and-systems/1.1-key-features-of-functions.md)
 - [1.2 Transformation of Functions](./envision-algebra-2/1-linear-functions-and-systems/1.2-transformation-of-functions.md)
-- [1.3 Piecewise-Defined Functions](./envision-algebra-2/1-linear-functions-and-systems/1.3-piecewise-defined-functions.md)
+- [1.3 Piecewise-Defined Functions](./envision-algebra-2/1-linear-functions-and-systems/1.3-piecewise-functions.md)
 
 ### Probability and Statistics
 - [1.1 An Overview of Statistics](./elementary-statistics-larson/1-introduction-to-statistics/1.1-an-overview-of-statistics.md)
