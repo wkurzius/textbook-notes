@@ -18,7 +18,7 @@
 - [1.1 Key Features of Functions](./envision-algebra-2/1-linear-functions-and-systems/1.1-key-features-of-functions.md)
 - [1.2 Transformation of Functions](./envision-algebra-2/1-linear-functions-and-systems/1.2-transformation-of-functions.md)
 - [1.3 Piecewise-Defined Functions](./envision-algebra-2/1-linear-functions-and-systems/1.3-piecewise-functions.md)
-- [1.4 Arithmetic Sequences and Series](./envision-algebra-2/1-linear-functions-and-systems/1.4-arithmetic-sequences-and-series.md)]
+- [1.4 Arithmetic Sequences and Series](./envision-algebra-2/1-linear-functions-and-systems/1.4-arithmetic-sequences-and-series.md)
 
 ---
 
