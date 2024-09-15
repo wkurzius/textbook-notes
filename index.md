@@ -8,6 +8,7 @@
 - [P.2 Linear Model and Rates of Change](./calc-for-ap-larson/0-preperation-for-calculus/0.2-linear-models-and-rates-of-change.md)
 - [P.3 Functions and Their Graphs](./calc-for-ap-larson/0-preperation-for-calculus/0.3-functions-and-their-graphs.md)
 - [P.4 Inverse Functions](/calc-for-ap-larson/0-preperation-for-calculus/0.4-inverse-functions.md)
+- [P.5 Exponential and Logarithmic Functions](./calc-for-ap-larson/0-preperation-for-calculus/0.5-exponential-and-logarithmic-functions.md)
 
 ---
 
