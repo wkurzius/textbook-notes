@@ -10,6 +10,12 @@
 - [P.4 Inverse Functions](/calc-for-ap-larson/0-preperation-for-calculus/0.4-inverse-functions.md)
 - [P.5 Exponential and Logarithmic Functions](./calc-for-ap-larson/0-preperation-for-calculus/0.5-exponential-and-logarithmic-functions.md)
 
+#### 1 Limits and Their Properties
+
+- [1.1 A Preview of Calculus](/calc-for-ap-larson/1-limits-and-their-properties/1.1-a-preview-of-calculus.md)
+- [1.2 Finding Limits Graphically and Numerically](/calc-for-ap-larson/1-limits-and-their-properties/1.2-finding-limits-graphically-and-numerically.md)
+- [1.3 Evaluating Limits Analytically](/calc-for-ap-larson/1-limits-and-their-properties/1.3-evaluating-limit-analytically.md)
+
 ---
 
 ### Algebra II and Trigonometry Honors
@@ -20,6 +26,8 @@
 - [1.2 Transformation of Functions](./envision-algebra-2/1-linear-functions-and-systems/1.2-transformation-of-functions.md)
 - [1.3 Piecewise-Defined Functions](./envision-algebra-2/1-linear-functions-and-systems/1.3-piecewise-functions.md)
 - [1.4 Arithmetic Sequences and Series](./envision-algebra-2/1-linear-functions-and-systems/1.4-arithmetic-sequences-and-series.md)
+- [1.5 Solving Equations and Inequalities By Graphing](/envision-algebra-2/1-linear-functions-and-systems/1.5-solving-equations-and-inequalities-by-graphing.md)
+- [1.6 Linear Systems](/envision-algebra-2/1-linear-functions-and-systems/1.6-linear-systems.md)
 
 ---
 
