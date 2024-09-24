@@ -29,6 +29,7 @@
 - [1.2 Transformation of Functions](./envision-algebra-2/1-linear-functions-and-systems/1.2-transformation-of-functions.md)
 - [1.3 Piecewise-Defined Functions](./envision-algebra-2/1-linear-functions-and-systems/1.3-piecewise-functions.md)
 - [1.4 Arithmetic Sequences and Series](./envision-algebra-2/1-linear-functions-and-systems/1.4-arithmetic-sequences-and-series.md)
+
 <!--
 - [1.5 Solving Equations and Inequalities By Graphing](/envision-algebra-2/1-linear-functions-and-systems/1.5-solving-equations-and-inequalities-by-graphing.md)
 - [1.6 Linear Systems](/envision-algebra-2/1-linear-functions-and-systems/1.6-linear-systems.md)
@@ -47,6 +48,7 @@
 #### 2 Descriptive Statistics
 
 - [2.1 Frequency Distributions and Their Graphs](/elementary-statistics-larson/2-descriptive-statistics/2.1-frequency-distributions-and-their-graphs.md)
+
 <!--
 - [2.2 More Graphs and Displays](/elementary-statistics-larson/2-descriptive-statistics/2.2-more-graphs-and-displays.md)
 -->
