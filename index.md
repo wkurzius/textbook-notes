@@ -48,7 +48,7 @@
 #### 2 Descriptive Statistics
 
 - [2.1 Frequency Distributions and Their Graphs](/elementary-statistics-larson/2-descriptive-statistics/2.1-frequency-distributions-and-their-graphs.md)
+- [2.2 More Graphs and Displays](/elementary-statistics-larson/2-descriptive-statistics/2.2-more-graphs-and-displays.md)
 
 <!--
-- [2.2 More Graphs and Displays](/elementary-statistics-larson/2-descriptive-statistics/2.2-more-graphs-and-displays.md)
 -->
