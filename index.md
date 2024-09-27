@@ -51,4 +51,5 @@
 - [2.2 More Graphs and Displays](/elementary-statistics-larson/2-descriptive-statistics/2.2-more-graphs-and-displays.md)
 
 <!--
+- [2.3 Measures of Central Tendency](/elementary-statistics-larson/2-descriptive-statistics/2.3-measures-of-central-tendency.md)
 -->
