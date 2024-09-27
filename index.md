@@ -1,4 +1,4 @@
-title: Notes for the 2024-25 School Year
+# Notes for the 2024-25 School Year
 
 ## AP Calculus
 
@@ -49,7 +49,7 @@ title: Notes for the 2024-25 School Year
 
 - [2.1 Frequency Distributions and Their Graphs](/elementary-statistics-larson/2-descriptive-statistics/2.1-frequency-distributions-and-their-graphs.md)
 - [2.2 More Graphs and Displays](/elementary-statistics-larson/2-descriptive-statistics/2.2-more-graphs-and-displays.md)
+- [2.3 Measures of Central Tendency](/elementary-statistics-larson/2-descriptive-statistics/2.3-measures-of-central-tendency.md)
 
 <!--
-- [2.3 Measures of Central Tendency](/elementary-statistics-larson/2-descriptive-statistics/2.3-measures-of-central-tendency.md)
 -->
