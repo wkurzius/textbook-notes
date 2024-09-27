@@ -1,6 +1,4 @@
----
-title: Kurzius Math Notes
----
+# Kurzius Math Notes
 
 ## Notes for the 2024-25 School Year
 
