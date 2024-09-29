@@ -1,14 +1,5 @@
 # Kurzius Math Notes
 
-- [AP Calculus](#ap-calculus)
-  - [P Preparation for Calculus](#p-preparation-for-calculus)
-  - [1 Limits and Their Properties](#1-limits-and-their-properties)
-- [Algebra II and Trigonometry Honors](#algebra-ii-and-trigonometry-honors)
-  - [1 Linear Functions and Systems](#1-linear-functions-and-systems)
-- [Probability and Statistics](#probability-and-statistics)
-  - [1 Introduction to Statistics](#1-introduction-to-statistics)
-  - [2 Descriptive Statistics](#2-descriptive-statistics)
-
 ## AP Calculus
 
 ### P Preparation for Calculus
