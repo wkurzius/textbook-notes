@@ -30,6 +30,7 @@
 - [1.4 Arithmetic Sequences and Series](./envision-algebra-2/1-linear-functions-and-systems/1.4-arithmetic-sequences-and-series.md)
 - [1.5 Solving Equations and Inequalities By Graphing](/envision-algebra-2/1-linear-functions-and-systems/1.5-solving-equations-and-inequalities-by-graphing.md)
 - [1.6 Linear Systems](/envision-algebra-2/1-linear-functions-and-systems/1.6-linear-systems.md)
+- [1.7 Solving Linear Systems Using Matrices](./envision-algebra-2/1-linear-functions-and-systems/1.7-solving-linear-systems-using-matrices.md)
 
 <!--
 -->
