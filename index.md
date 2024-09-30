@@ -15,6 +15,7 @@
 - [1.1 A Preview of Calculus](/calc-for-ap-larson/1-limits-and-their-properties/1.1-a-preview-of-calculus.md)
 - [1.2 Finding Limits Graphically and Numerically](/calc-for-ap-larson/1-limits-and-their-properties/1.2-finding-limits-graphically-and-numerically.md)
 - [1.3 Evaluating Limits Analytically](/calc-for-ap-larson/1-limits-and-their-properties/1.3-evaluating-limit-analytically.md)
+- [1.4 Continuity and One-Sided Limits](./calc-for-ap-larson/1-limits-and-their-properties/1.4-continuity-and-one-sided-limits.md)
 
 <!--
 -->
