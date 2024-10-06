@@ -16,8 +16,10 @@
 - [1.2 Finding Limits Graphically and Numerically](/calc-for-ap-larson/1-limits-and-their-properties/1.2-finding-limits-graphically-and-numerically.md)
 - [1.3 Evaluating Limits Analytically](/calc-for-ap-larson/1-limits-and-their-properties/1.3-evaluating-limit-analytically.md)
 - [1.4 Continuity and One-Sided Limits](./calc-for-ap-larson/1-limits-and-their-properties/1.4-continuity-and-one-sided-limits.md)
+- [1.5 Infinite Limits](./calc-for-ap-larson/1-limits-and-their-properties/1.5-infinite-limits.md)
 
 <!--
+- [1.6 Limits at Infinity](./calc-for-ap-larson/1-limits-and-their-properties/1.6-limits-at-infinity.md)
 -->
 
 ## Algebra II and Trigonometry Honors
@@ -31,6 +33,10 @@
 - [1.5 Solving Equations and Inequalities By Graphing](/envision-algebra-2/1-linear-functions-and-systems/1.5-solving-equations-and-inequalities-by-graphing.md)
 - [1.6 Linear Systems](/envision-algebra-2/1-linear-functions-and-systems/1.6-linear-systems.md)
 - [1.7 Solving Linear Systems Using Matrices](./envision-algebra-2/1-linear-functions-and-systems/1.7-solving-linear-systems-using-matrices.md)
+
+### Quadratic Functions and Equations
+
+- [2.1 Vertex Form of a Quadratic Formula](./envision-algebra-2/2-quadratic-functions-and-equations/2.1-vertex-form-of-a-quadratic-formula.md)
 
 <!--
 -->
