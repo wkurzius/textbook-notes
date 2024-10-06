@@ -37,6 +37,7 @@
 ### Quadratic Functions and Equations
 
 - [2.1 Vertex Form of a Quadratic Formula](./envision-algebra-2/2-quadratic-functions-and-equations/2.1-vertex-form-of-a-quadratic-formula.md)
+- [2.2 Standard Form of a Quadratic Formula](./envision-algebra-2/2-quadratic-functions-and-equations/2.2-standard-form-of-a-quadratic-formula.md)
 
 <!--
 -->
