@@ -19,6 +19,16 @@
 - [1.5 Infinite Limits](./calc-for-ap-larson/1-limits-and-their-properties/1.5-infinite-limits.md)
 - [1.6 Limits at Infinity](./calc-for-ap-larson/1-limits-and-their-properties/1.6-limits-at-infinity.md)
 
+### 2 Differentiation
+
+- 2.1 The Derivative and the Tangent Line Problem
+- 2.2 Basic Differentiation Rules and Rates of Change
+- 2.3 Product and Quotient Rules and Higher-Order Derivatives
+- 2.4 The Chain Rule
+- 2.5 Implicit Differentiation
+- 2.6 Derivatives of Inverse Functions
+- 2.7 Related Rates
+
 <!--
 -->
 
@@ -39,6 +49,10 @@
 - [2.1 Vertex Form of a Quadratic Formula](./envision-algebra-2/2-quadratic-functions-and-equations/2.1-vertex-form-of-a-quadratic-formula.md)
 - [2.2 Standard Form of a Quadratic Formula](./envision-algebra-2/2-quadratic-functions-and-equations/2.2-standard-form-of-a-quadratic-formula.md)
 - [2.3 Factored Form of a Quadratic Function](./envision-algebra-2/2-quadratic-functions-and-equations/2.3-factored-form-of-a-quadratic-function.md)
+- 2.4 Complex Numbers and Operations
+- 2.5 Completing the Square
+- 2.6 The Quadratic Formula
+- 2.7 Linear-Quadratic Formula
 
 <!--
 -->
