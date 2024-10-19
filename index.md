@@ -22,7 +22,7 @@
 ### 2 Differentiation
 
 - [2.1 The Derivative and the Tangent Line Problem](./calc-for-ap-larson/2-differentiation/2.1-the-derivative-and-the-tangent-line-problem.md)
-- 2.2 Basic Differentiation Rules and Rates of Change
+- [2.2 Basic Differentiation Rules and Rates of Change](./calc-for-ap-larson/2-differentiation/2.2-basic-differentiation-rules-and-rates-of-change.md)
 - 2.3 Product and Quotient Rules and Higher-Order Derivatives
 - 2.4 The Chain Rule
 - 2.5 Implicit Differentiation
