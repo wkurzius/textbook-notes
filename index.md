@@ -11,6 +11,7 @@
   - [2 Quadratic Functions and Equations](#2-quadratic-functions-and-equations)
 - [Probability and Statistics](#probability-and-statistics)
   - [1 Displaying a single quantitative variable](#1-displaying-a-single-quantitative-variable)
+  - [2 Analyzing a single quantitative variable](#2-analyzing-a-single-quantitative-variable)
 - [Miscellaneous](#miscellaneous)
 
 ## AP Calculus
@@ -79,6 +80,14 @@
 - [Mean and median in data displays](./khan-academy-hs-statistics/1-displaying-a-single-quantitative-variable/1.2.1-mean-and-median-in-data-displays.md)
 - [Interquartile range](./khan-academy-hs-statistics/1-displaying-a-single-quantitative-variable/1.2.2-interquartile-range.md)
 - [Box and whisker plots](./khan-academy-hs-statistics/1-displaying-a-single-quantitative-variable/1.3-box-and-whisker-plots.md)
+
+### 2 Analyzing a single quantitative variable
+
+- Standard deviation
+- Comparing distributions
+- Percentiles and z-scores
+- Normal distributions and the empirical rule
+- Normal distribution calculations
 
 <!--
 -->
