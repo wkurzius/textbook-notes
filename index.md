@@ -1,5 +1,18 @@
 # Kurzius Math Notes
 
+## Table of Contents<!-- omit from toc -->
+
+- [AP Calculus](#ap-calculus)
+  - [P Preparation for Calculus](#p-preparation-for-calculus)
+  - [1 Limits and Their Properties](#1-limits-and-their-properties)
+  - [2 Differentiation](#2-differentiation)
+- [Algebra II and Trigonometry Honors](#algebra-ii-and-trigonometry-honors)
+  - [1 Linear Functions and Systems](#1-linear-functions-and-systems)
+  - [Quadratic Functions and Equations](#quadratic-functions-and-equations)
+- [Probability and Statistics](#probability-and-statistics)
+  - [1 Displaying a single quantitative variable](#1-displaying-a-single-quantitative-variable)
+- [Miscellaneous](#miscellaneous)
+
 ## AP Calculus
 
 ### P Preparation for Calculus
@@ -49,7 +62,7 @@
 - [2.1 Vertex Form of a Quadratic Formula](./envision-algebra-2/2-quadratic-functions-and-equations/2.1-vertex-form-of-a-quadratic-formula.md)
 - [2.2 Standard Form of a Quadratic Formula](./envision-algebra-2/2-quadratic-functions-and-equations/2.2-standard-form-of-a-quadratic-formula.md)
 - [2.3 Factored Form of a Quadratic Function](./envision-algebra-2/2-quadratic-functions-and-equations/2.3-factored-form-of-a-quadratic-function.md)
-- 2.4 Complex Numbers and Operations
+- [2.4 Complex Numbers and Operations](./envision-algebra-2/2-quadratic-functions-and-equations/2.4-complex-numbers-and-operations.md)
 - 2.5 Completing the Square
 - 2.6 The Quadratic Formula
 - 2.7 Linear-Quadratic Formula
