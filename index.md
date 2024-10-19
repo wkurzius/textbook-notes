@@ -6,13 +6,13 @@
   - [P Preparation for Calculus](#p-preparation-for-calculus)
   - [1 Limits and Their Properties](#1-limits-and-their-properties)
   - [2 Differentiation](#2-differentiation)
+  - [Cheat Sheets](#cheat-sheets)
 - [Algebra II and Trigonometry Honors](#algebra-ii-and-trigonometry-honors)
   - [1 Linear Functions and Systems](#1-linear-functions-and-systems)
   - [2 Quadratic Functions and Equations](#2-quadratic-functions-and-equations)
 - [Probability and Statistics](#probability-and-statistics)
   - [1 Displaying a single quantitative variable](#1-displaying-a-single-quantitative-variable)
   - [2 Analyzing a single quantitative variable](#2-analyzing-a-single-quantitative-variable)
-- [Miscellaneous](#miscellaneous)
 
 ## AP Calculus
 
@@ -43,8 +43,10 @@
 - 2.6 Derivatives of Inverse Functions
 - 2.7 Related Rates
 
-<!--
--->
+### Cheat Sheets
+
+- [Differentiation cheat sheet](./pdfs/differentiation-cheat-sheet.pdf)
+- [Integration cheat sheet](./pdfs/integration-cheat-sheet.pdf)
 
 ## Algebra II and Trigonometry Honors
 
@@ -68,9 +70,6 @@
 - 2.6 The Quadratic Formula
 - 2.7 Linear-Quadratic Formula
 
-<!--
--->
-
 ## Probability and Statistics
 
 [Old notes](./archives.md)
@@ -88,11 +87,3 @@
 - Percentiles and z-scores
 - Normal distributions and the empirical rule
 - Normal distribution calculations
-
-<!--
--->
-
-## Miscellaneous
-
-- [Differentiation cheat sheet](./pdfs/differentiation-cheat-sheet.pdf)
-- [Integration cheat sheet](./pdfs/integration-cheat-sheet.pdf)
