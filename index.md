@@ -8,7 +8,7 @@
   - [2 Differentiation](#2-differentiation)
 - [Algebra II and Trigonometry Honors](#algebra-ii-and-trigonometry-honors)
   - [1 Linear Functions and Systems](#1-linear-functions-and-systems)
-  - [Quadratic Functions and Equations](#quadratic-functions-and-equations)
+  - [2 Quadratic Functions and Equations](#2-quadratic-functions-and-equations)
 - [Probability and Statistics](#probability-and-statistics)
   - [1 Displaying a single quantitative variable](#1-displaying-a-single-quantitative-variable)
 - [Miscellaneous](#miscellaneous)
@@ -57,7 +57,7 @@
 - [1.6 Linear Systems](/envision-algebra-2/1-linear-functions-and-systems/1.6-linear-systems.md)
 - [1.7 Solving Linear Systems Using Matrices](./envision-algebra-2/1-linear-functions-and-systems/1.7-solving-linear-systems-using-matrices.md)
 
-### Quadratic Functions and Equations
+### 2 Quadratic Functions and Equations
 
 - [2.1 Vertex Form of a Quadratic Formula](./envision-algebra-2/2-quadratic-functions-and-equations/2.1-vertex-form-of-a-quadratic-formula.md)
 - [2.2 Standard Form of a Quadratic Formula](./envision-algebra-2/2-quadratic-functions-and-equations/2.2-standard-form-of-a-quadratic-formula.md)
