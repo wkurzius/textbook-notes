@@ -69,3 +69,8 @@
 
 <!--
 -->
+
+## Miscellaneous
+
+- [Differentiation cheat sheet](./pdfs/differentiation-cheat-sheet.pdf)
+- [Integration cheat sheet](./pdfs/integration-cheat-sheet.pdf)
