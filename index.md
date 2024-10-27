@@ -82,7 +82,7 @@
 
 ### 2 Analyzing a single quantitative variable
 
-- Standard deviation
+- [Standard deviation](./khan-academy-hs-statistics/2-analyzing-a-single-quantitative-variable/2.1-standard-deviation.md)
 - Comparing distributions
 - Percentiles and z-scores
 - Normal distributions and the empirical rule
