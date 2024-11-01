@@ -84,6 +84,6 @@
 
 - [Standard deviation](./khan-academy-hs-statistics/2-analyzing-a-single-quantitative-variable/2.1-standard-deviation.md)
 - [Comparing distributions](./khan-academy-hs-statistics/2-analyzing-a-single-quantitative-variable/2.2-comparing-distributions.md)
-- Percentiles and z-scores  
+- [Percentiles and z-scores](./khan-academy-hs-statistics/2-analyzing-a-single-quantitative-variable/2.3-percentiles-and-z-scores.md)
 - Normal distributions and the empirical rule
 - Normal distribution calculations
