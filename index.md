@@ -66,7 +66,7 @@
 - [2.2 Standard Form of a Quadratic Formula](./envision-algebra-2/2-quadratic-functions-and-equations/2.2-standard-form-of-a-quadratic-formula.md)
 - [2.3 Factored Form of a Quadratic Function](./envision-algebra-2/2-quadratic-functions-and-equations/2.3-factored-form-of-a-quadratic-function.md)
 - [2.4 Complex Numbers and Operations](./envision-algebra-2/2-quadratic-functions-and-equations/2.4-complex-numbers-and-operations.md)
-- 2.5 Completing the Square
+- [2.5 Completing the Square](./envision-algebra-2/2-quadratic-functions-and-equations/2.5-completing-the-square.md)
 - 2.6 The Quadratic Formula
 - 2.7 Linear-Quadratic Formula
 
