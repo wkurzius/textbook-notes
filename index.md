@@ -68,7 +68,7 @@
 - [2.4 Complex Numbers and Operations](./envision-algebra-2/2-quadratic-functions-and-equations/2.4-complex-numbers-and-operations.md)
 - [2.5 Completing the Square](./envision-algebra-2/2-quadratic-functions-and-equations/2.5-completing-the-square.md)
 - 2.6 The Quadratic Formula
-- 2.7 Linear-Quadratic Formula
+- 2.7 Linear-Quadratic Systems
 
 ## Probability and Statistics
 
