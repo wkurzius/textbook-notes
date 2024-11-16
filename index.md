@@ -39,7 +39,7 @@
 - [2.2 Basic Differentiation Rules and Rates of Change](./calc-for-ap-larson/2-differentiation/2.2-basic-differentiation-rules-and-rates-of-change.md)
 - [2.3 Product and Quotient Rules and Higher-Order Derivatives](./calc-for-ap-larson/2-differentiation/2.3-product-and-quotient-rules-and-higher-order-derivatives.md)
 - [2.4 The Chain Rule](./calc-for-ap-larson/2-differentiation/2.4-the-chain-rule.md)
-- 2.5 Implicit Differentiation
+- [2.5 Implicit Differentiation](./calc-for-ap-larson/2-differentiation/2.5-implicit-differentiation.md)
 - 2.6 Derivatives of Inverse Functions
 - 2.7 Related Rates
 
