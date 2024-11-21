@@ -13,6 +13,7 @@
 - [Probability and Statistics](#probability-and-statistics)
   - [1 Displaying a single quantitative variable](#1-displaying-a-single-quantitative-variable)
   - [2 Analyzing a single quantitative variable](#2-analyzing-a-single-quantitative-variable)
+  - [3 Two-way tables](#3-two-way-tables)
 
 ## AP Calculus
 
@@ -87,3 +88,7 @@
 - [Percentiles and z-scores](./khan-academy-hs-statistics/2-analyzing-a-single-quantitative-variable/2.3-percentiles-and-z-scores.md)
 - [Normal distributions and the empirical rule](./khan-academy-hs-statistics/2-analyzing-a-single-quantitative-variable/2.4-normal-distributions-and-the-empirical-rule.md)
 - [Normal distribution calculations](./khan-academy-hs-statistics/2-analyzing-a-single-quantitative-variable/2.5-normal-distribution-calculations.md)
+
+### 3 Two-way tables
+
+  - [Two-way tables introduction](./khan-academy-hs-statistics/3-two-way-tables/3.1-two-way-tables-introduction.md)
