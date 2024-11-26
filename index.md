@@ -10,6 +10,7 @@
 - [Algebra II and Trigonometry Honors](#algebra-ii-and-trigonometry-honors)
   - [1 Linear Functions and Systems](#1-linear-functions-and-systems)
   - [2 Quadratic Functions and Equations](#2-quadratic-functions-and-equations)
+  - [3 Polynomial Functions](#3-polynomial-functions)
 - [Probability and Statistics](#probability-and-statistics)
   - [1 Displaying a single quantitative variable](#1-displaying-a-single-quantitative-variable)
   - [2 Analyzing a single quantitative variable](#2-analyzing-a-single-quantitative-variable)
@@ -71,6 +72,16 @@
 - [2.5 Completing the Square](./envision-algebra-2/2-quadratic-functions-and-equations/2.5-completing-the-square.md)
 - [2.6 The Quadratic Formula](./envision-algebra-2/2-quadratic-functions-and-equations/2.6-the-quadratic-formula.md)
 - [2.7 Linear-Quadratic Systems](./envision-algebra-2/2-quadratic-functions-and-equations/2.7-linear-quadratic-systems.md)
+
+### 3 Polynomial Functions
+
+- [3.1 Graphing Polynomial Functions](./envision-algebra-2/3-polynomial-functions/3.1-graphing-polynomial-functions.md)
+- 3.2 Adding, Subtracting, and Multiplying Polynomials
+- 3.3 Polynomial Identities
+- 3.4 Dividing Polynomials
+- 3.5 Zeros of Polynomial Functions
+- 3.6 Theorems About Roots of Polynomial Functions
+- 3.7 Transformations of Polynomial Functions
 
 ## Probability and Statistics
 
