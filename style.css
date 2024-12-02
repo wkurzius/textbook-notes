@@ -1,1 +1,12 @@
-.red { color: red; }
+.markdown-body h1 {
+    border: none;
+}
+
+.footnotes {
+    border-top: 1px #ccc solid;
+    margin-top: 1rem;
+}
+
+.red {
+    color: red;
+}

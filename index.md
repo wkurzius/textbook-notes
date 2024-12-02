@@ -104,7 +104,7 @@
 ### 3 Two-way tables
 
 - [Two-way tables introduction](./khan-academy-hs-statistics/3-two-way-tables/3.1-two-way-tables-introduction.md)
-- Distributions in two-way tables
+- [Distributions in two-way tables](./khan-academy-hs-statistics/3-two-way-tables/3.2-distributions-in-two-way-tables.md)
 
 ### 6 Probability
 
