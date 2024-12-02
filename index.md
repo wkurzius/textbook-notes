@@ -44,7 +44,7 @@
 - [2.4 The Chain Rule](./calc-for-ap-larson/2-differentiation/2.4-the-chain-rule.md)
 - [2.5 Implicit Differentiation](./calc-for-ap-larson/2-differentiation/2.5-implicit-differentiation.md)
 - [2.6 Derivatives of Inverse Functions](./calc-for-ap-larson/2-differentiation/2.6-derivatives-of-inverse-functions.md)
-- 2.7 Related Rates
+- [2.7 Related Rates](./calc-for-ap-larson/2-differentiation/2.7-related-rates.md)
 
 ### Cheat Sheets
 
