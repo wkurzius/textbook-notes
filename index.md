@@ -76,7 +76,7 @@
 ### 3 Polynomial Functions
 
 - [3.1 Graphing Polynomial Functions](./envision-algebra-2/3-polynomial-functions/3.1-graphing-polynomial-functions.md)
-- 3.2 Adding, Subtracting, and Multiplying Polynomials
+- [3.2 Adding, Subtracting, and Multiplying Polynomials](./envision-algebra-2/3-polynomial-functions/3.2-adding-subtracting-and-multiplying-polynomials.md)
 - 3.3 Polynomial Identities
 - 3.4 Dividing Polynomials
 - 3.5 Zeros of Polynomial Functions
