@@ -1,4 +1,6 @@
-# Kurzius Math Notes
+---
+title: Home
+---
 
 ## Table of Contents<!-- omit from toc -->
 
@@ -16,6 +18,8 @@
   - [2 Analyzing a single quantitative variable](#2-analyzing-a-single-quantitative-variable)
   - [3 Two-way tables](#3-two-way-tables)
   - [6 Probability](#6-probability)
+
+---
 
 ## AP Calculus
 
