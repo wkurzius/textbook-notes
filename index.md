@@ -2,23 +2,6 @@
 title: Home
 ---
 
-## Table of Contents<!-- omit from toc -->
-
-- [AP Calculus](#ap-calculus)
-  - [P Preparation for Calculus](#p-preparation-for-calculus)
-  - [1 Limits and Their Properties](#1-limits-and-their-properties)
-  - [2 Differentiation](#2-differentiation)
-  - [Cheat Sheets](#cheat-sheets)
-- [Algebra II and Trigonometry Honors](#algebra-ii-and-trigonometry-honors)
-  - [1 Linear Functions and Systems](#1-linear-functions-and-systems)
-  - [2 Quadratic Functions and Equations](#2-quadratic-functions-and-equations)
-  - [3 Polynomial Functions](#3-polynomial-functions)
-- [Probability and Statistics](#probability-and-statistics)
-  - [1 Displaying a single quantitative variable](#1-displaying-a-single-quantitative-variable)
-  - [2 Analyzing a single quantitative variable](#2-analyzing-a-single-quantitative-variable)
-  - [3 Two-way tables](#3-two-way-tables)
-  - [6 Probability](#6-probability)
-
 ---
 
 ## AP Calculus
@@ -50,10 +33,22 @@ title: Home
 - [2.6 Derivatives of Inverse Functions](./calc-for-ap-larson/2-differentiation/2.6-derivatives-of-inverse-functions.md)
 - [2.7 Related Rates](./calc-for-ap-larson/2-differentiation/2.7-related-rates.md)
 
+### 3 Applications of Differentiation
+
+- 3.1 Extrema on an Interval
+- 3.2 Rolle's Theorem and the Mean Value Theorem
+- 3.3 Increasing and Decreasing Functions and the First Derivative Test
+- 3.4 Concavity and the Second Derivative Test
+- 3.5 A Summary of Curve Sketching
+- 3.6 Optimization Problems
+- 3.7 Differentials
+
 ### Cheat Sheets
 
 - [Differentiation cheat sheet](./pdfs/differentiation-cheat-sheet.pdf)
 - [Integration cheat sheet](./pdfs/integration-cheat-sheet.pdf)
+
+---
 
 ## Algebra II and Trigonometry Honors
 
@@ -86,6 +81,8 @@ title: Home
 - 3.5 Zeros of Polynomial Functions
 - 3.6 Theorems About Roots of Polynomial Functions
 - 3.7 Transformations of Polynomial Functions
+
+---
 
 ## Probability and Statistics
 
