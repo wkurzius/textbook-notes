@@ -35,7 +35,7 @@ title: Home
 
 ### 3 Applications of Differentiation
 
-- 3.1 Extrema on an Interval
+- [3.1 Extrema on an Interval](./calc-for-ap-larson/3-applications-of-differentiation/3.1-extrema-on-an-interval.md)
 - 3.2 Rolle's Theorem and the Mean Value Theorem
 - 3.3 Increasing and Decreasing Functions and the First Derivative Test
 - 3.4 Concavity and the Second Derivative Test
@@ -76,7 +76,7 @@ title: Home
 
 - [3.1 Graphing Polynomial Functions](./envision-algebra-2/3-polynomial-functions/3.1-graphing-polynomial-functions.md)
 - [3.2 Adding, Subtracting, and Multiplying Polynomials](./envision-algebra-2/3-polynomial-functions/3.2-adding-subtracting-and-multiplying-polynomials.md)
-- 3.3 Polynomial Identities
+- [3.3 Polynomial Identities](./envision-algebra-2/3-polynomial-functions/3.3-polynomial-identities.md)
 - 3.4 Dividing Polynomials
 - 3.5 Zeros of Polynomial Functions
 - 3.6 Theorems About Roots of Polynomial Functions
