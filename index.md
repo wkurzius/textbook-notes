@@ -109,8 +109,8 @@ title: Home
 
 ### 6 Probability
 
-- Venn diagrams and the addition rule
-- Multiplication rule for probabilities
+- [Venn diagrams and the addition rule](./khan-academy-hs-statistics/6-probability/6.1-venn-diagrams-and-the-addition-rule.md)
+- [Multiplication rule for probabilities](./khan-academy-hs-statistics/6-probability/6.2-multiplication-rule-for-probabilities.md)
 - Conditional probability
 - Probability from simulations
 - Permutations
