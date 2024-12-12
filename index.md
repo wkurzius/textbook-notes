@@ -36,7 +36,7 @@ title: Home
 ### 3 Applications of Differentiation
 
 - [3.1 Extrema on an Interval](./calc-for-ap-larson/3-applications-of-differentiation/3.1-extrema-on-an-interval.md)
-- 3.2 Rolle's Theorem and the Mean Value Theorem
+- [3.2 Rolle's Theorem and the Mean Value Theorem](./calc-for-ap-larson/3-applications-of-differentiation/3.2-rolles-theorem-and-the-mean-value-theorem.md)
 - 3.3 Increasing and Decreasing Functions and the First Derivative Test
 - 3.4 Concavity and the Second Derivative Test
 - 3.5 A Summary of Curve Sketching
