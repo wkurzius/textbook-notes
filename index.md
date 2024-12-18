@@ -17,3 +17,7 @@ title: Home
 
 - [Khan Academy: High School Statistics Notes](./khan-academy-hs-statistics/)
 - [Elementary Statistics Notes](./elementary-statistics-larson/)
+
+## College Prep Math
+
+- [Khan Academy: College Algebra Notes](./khan-academy-college-algebra/)
