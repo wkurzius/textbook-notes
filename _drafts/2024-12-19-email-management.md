@@ -3,7 +3,7 @@ title: Email Management
 draft: true
 ---
 
-I've seen some of your inboxes and they are quite … full. And I'm not just talking about unread, but total messages, which is the number in the top right of Gmail.
+I've seen some of your inboxes and they are quite … full. And I'm not just talking about unread, but *total* messages, which is the number in the top right of Gmail.
 
 I happen to like email. It's one of the few universal communication protocols (i.e., not tied to a single company) and it's full of organizational features that allow you to manage the slew of things sent your way. But when left unattended, your inbox can balloon in size, rendering it near useless.
 
