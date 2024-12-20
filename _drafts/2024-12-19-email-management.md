@@ -1,6 +1,5 @@
 ---
 title: Email Management
-draft: true
 ---
 
 I've seen some of your inboxes and they are quite … full. And I'm not just talking about unread, but *total* messages, which is the number in the top right of Gmail.
