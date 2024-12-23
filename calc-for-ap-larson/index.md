@@ -34,7 +34,34 @@ title: Calculus for AP 2e Notes
 - [3.1 Extrema on an Interval](./3-applications-of-differentiation/3.1-extrema-on-an-interval.md)
 - [3.2 Rolle's Theorem and the Mean Value Theorem](./3-applications-of-differentiation/3.2-rolles-theorem-and-the-mean-value-theorem.md)
 - [3.3 Increasing and Decreasing Functions and the First Derivative Test](./3-applications-of-differentiation/3.3-the-first-derivative-test.md)
-- 3.4 Concavity and the Second Derivative Test
+- [3.4 Concavity and the Second Derivative Test](./3-applications-of-differentiation/3.4-concavity-and-the-second-derivative-test.md)
 - 3.5 A Summary of Curve Sketching
 - 3.6 Optimization Problems
 - 3.7 Differentials
+
+## 4 Integration
+
+- 4.1 Antiderivatives and Indefinite Integration
+- 4.2 Area
+- 4.3 Riemann Sums and Definite Integrals
+- 4.4 The Fundamental Theorem of Calculus
+- 4.5 The Net Change Theorem
+- 4.6 Integration by Substitution
+- 4.7 The Natural Logarithmic Function: Integration
+- 4.8 Inverse Trigonometric Functions: Integration
+
+## 5 Differential Equations
+
+- 5.1 Slope Fields and Euler's Method
+- 5.2 Growth and Decay
+- 5.3 Separation of Variables
+
+## 6 Applications of Integration
+
+- 6.1 Area of a Region Between Two Curves
+- 6.2 Volume: The Disk and Washer Methods
+
+## 7 Integration Techniques and L'Hôpital's Rule
+
+- 7.1 Basic Integration Rules
+- 7.7 Indeterminate Forms and L'Hôpital's Rule
