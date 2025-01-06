@@ -1,6 +1,8 @@
 ---
-title: Venn diagrams and the addition rule
+title: Probability Part 1
 ---
+
+## Venn diagrams and the addition rule
 
 If you picture a single coin, it has two sides, one typically called heads and the other tails. Flipping the coin in the air and letting it land at random means one of those two sides will be face up. The probability of one side or the other being face up is 50%. Two sides, even chances of either one being the winner.
 
@@ -10,7 +12,7 @@ With the ratio idea in mind, we can extend that to other situations that aren't 
 
 The trick with basic probability is determining those two numbers: your desirable outcomes and your total outcomes.
 
-## Venn Diagrams and Probability
+## Venn Diagrams and probability
 
 Here is a Venn diagram of 80 wedding guests and whether they were a friend of the bride or the groom.
 
@@ -20,7 +22,7 @@ If we picked a guest at random, what's the probability that they were a friend o
 
 The total possible outcomes is straightforward since we have 80 people to choose from. The desired outcomes requires a little more work since their is some overlap between the two groups. While we have 17 that are friends with the bride, there are also another 42 that are friends with both. They count too, so the total number of bride's friends is $17+42=59$. That means the probability that a guest picked at random was a friend of the bride is $59/80$ or about 74%.
 
-## Two-way Tables and Probability
+## Two-way tables and probability
 
 Here is a two-way table for commencement seating.
 
@@ -49,3 +51,44 @@ And sometimes it's written as
 $$ P(A \cup B) = P(A) + P(B)$$
 
 The 'or' and the cup symbol are synonymous with the word 'union'. We want to know the probability of any of those events happening, so we total them up.
+
+## Multiplication rule for probabilities
+
+What if you flipped two coins and wanted to know the probability of getting two heads? The same rules still apply: you need the number of desirable outcomes and total outcomes, but those numbers are less clear here. It might be helpful to list all the possibilities and then come up with a rule.
+
+For the first flip, you can get either heads or tails. For the second it's the same, but if we keep in mind our first flip we could have heads followed by heads, heads followed by a tails, tails followed by heads, or tails followed by another tails. That gives us four possible outcomes, and one of them is a pair of heads, so $1/4$.
+
+But the problem with coins is that both $2+2$ and $2\cdot2$ come out to four, so we can't come up with a rule just yet. Let's try one more coin. Here's all the possibilities.
+
+1. HHH
+2. HHT
+3. HTH
+4. HTT
+5. THH
+6. THT
+7. TTH
+8. TTT
+
+So, a two-sided coin flipped three times gives us 8 possibilities, or $2\cdot2\cdot2$. And it turns out this works for the desirable outcomes as well. Here it is with probability notation.
+
+$$P(A \text{ and } B) = P(A)\cdot P(B)$$
+
+Which you might also see as 
+
+$$P(A \cap B) = P(A)\cdot P(B)$$
+
+While we focused on 'or' events last time, where only one thing is happening our another, we are looking at 'and events, where multiple events are happening. This is also referred to as the intersection, where the two events in question meet.
+
+## Independent vs dependent events
+
+Flipping a coin is known as an independent event, since the results of one flip have no impact on the results of the next.
+
+A dependent event, for example, would be when you draw multiple cards from a deck. The same basic idea still applies from earlier with multiplication, but we need to determine the individual events carefully.
+
+If we wanted to know the probability of drawing two kings from a deck, back to back, we need to look at the first draw and then, keeping in mind we just removed a king from the deck, we look at the second one. The first draw is simple since we have a full deck: $4/52$. The next one though, assuming we drew the king we wanted, would be $3/51$. One less king to grab and one less card in the deck. Now you can multiply to get an overall probability of 0.45%. Pretty slim chance.
+
+The notation for this is slightly different.
+
+$$P(A \cap B) = P(A)\cdot P(B | A)$$
+
+The line is read as 'given that', so the probability of $B$ given that $A$ happened.

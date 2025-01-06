@@ -23,10 +23,5 @@ title: "Khan Academy: High School Statistics Notes"
 
 ## 6 Probability
 
-- [Venn diagrams and the addition rule](./6-probability/6.1-venn-diagrams-and-the-addition-rule.md)
-- [Multiplication rule for probabilities](./6-probability/6.2-multiplication-rule-for-probabilities.md)
-- Conditional probability
-- Probability from simulations
-- Permutations
-- Combinations
-- Probability using combinatorics
+- [Part 1: Addition and Multiplication Rules and Conditional Probability](./6-probability/part-1.md)
+- [Part 2: Permutations and Combinations](./6-probability/part-2.md)
