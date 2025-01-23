@@ -11,11 +11,11 @@ title: "1.1 Real Numbers: Algebra Essentials"
 #### Assignment
 
 - 1–3, 5–59 odd
-- *Recommended*: all **vocabulary** and copied and defined in notes
+- *Recommended*: all **vocabulary** and concept blocks copied into notes
 
 ---
 
-> ## How to Use this Book
+> ### How to Use the Textbook
 >
 > Reading each section is strongly recommended, along with taking notes. A good place to start is defining any **bolded vocabulary** and copying any asides that sum up information. The first one of those you will run into is called "Sets of Numbers".
 >
@@ -81,10 +81,10 @@ Our real numbers have some properties that are useful to keep in mind when worki
 
 Order doesnt matter, but *only* when dealing with addition or multiplication.
 
-$$\begin{align*}
+$$\begin{align}
 a + b &= b + a \\
 a\cdot b &= b \cdot a
-\end{align*}$$
+\end{align}$$
 
 Even though subtraction and division are technically just modified versions of addition and multiplication, they are different enough that this property won't work with them.
 
@@ -92,10 +92,10 @@ Even though subtraction and division are technically just modified versions of a
 
 The associative properties tell us that we can freely change the grouping of an addition or multiplication problem, like below.
 
-$$\begin{align*}
+$$\begin{align}
 a + (b + c) &= (a + b) + c \\
 a(bc)&= (ab)c
-\end{align*}$$
+\end{align}$$
 
 Again, this only applies to addition and multiplication. As soon as another operation is in play, this will not work.
 
@@ -105,10 +105,64 @@ Again, this only applies to addition and multiplication. As soon as another oper
 
 The product of a factor and a sum is the same as the sum of the factor times each term in the sum. Hard to parse in words, so here it is in symbols.
 
-$$ a(b+c) = ab + bc $$
+$$\begin{align}
+a(b+c) = ab + bc
+\end{align}$$
 
 Watch out for situations like below.
 
-$$ - (a + b) = -a - b$$
+$$\begin{align}
+- (a + b) = (-1)(a+b) = -a - b
+\end{align}$$
 
-Just because there is no number
+### Identity Properties
+
+Important concepts for later. Adding zero to an expression doesn't change its value, and the same goes for multiplying by one.
+
+$$\begin{align}
+a + 0 &= a \\
+a \cdot 1 &= a
+\end{align}$$
+
+### Inverse Properties
+
+When you take a value and add its additive inverse, you get zero.
+
+$$\begin{align}
+a + (-a) = 0
+\end{align}$$
+
+The multiplicative inverse of a number will produce a $1$ when multiplied by the original.
+
+$$\begin{align}
+a \cdot \frac{1}{a} = 1
+\end{align}$$
+
+## Evaluating Algebraic Expressions
+
+An algebraic expression is a collection of a constants and variables joined together by the algebraic operations: addition, multiplication, and rational exponents[^1]. **Constants** are your plain numbers, like $5$ or $-\frac{2}{3}$. **Variables** are typically represented by letters and their values can either change (vary) or need to be derived.
+
+When substituting in a value for a variable, make sure you apply it to each instance of the variable. It's also good practice to use parentheses so that the order of operations is preserved. For the example below, let $a=11$ and $b=-8$
+
+$$\begin{align}
+ a + ab + b &= (11) + (11)(-8) + (-8) \\
+            &= 11 - 88 - 8 \\
+            &= -85
+\end{align}$$
+
+If we didn't use parentheses, we would end up writing $11 + 11-8 +-8$ and risk interpreting the multiplication as subtraction.
+
+[^1]: Irrational exponents appear in exponential functions, which are technically not algebraic, despite falling under the umbrella of "algebra".
+
+## Formulas
+
+An equation is a statement equating two expressions. Formulas are essentially the same thing: they show the relationship between variables and constants. You work with these similar to how you work with expressions.
+
+## Simplifying Algebraic Expressions
+
+Simplifying usually implies combining like terms in an expression, with the implication that any distribution has to happen beforehand.
+
+$$\begin{align}
+ 2r−5(3−r)+4 &= 2r - 15 +5r + 4 \\
+             &= 7r - 11
+\end{align}$$
