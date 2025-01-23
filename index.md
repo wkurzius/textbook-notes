@@ -20,4 +20,4 @@ title: Home
 
 ## College Prep Math
 
-- [Khan Academy: College Algebra Notes](./khan-academy-college-algebra/)
+- [OpenStax College Algebra 2e Notes](./openstax-college-algebra-2e/)

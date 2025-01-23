@@ -29,4 +29,5 @@ title: enVision Algebra 2 Common Core 2018 Notes
 - [3.3 Polynomial Identities](./3-polynomial-functions/3.3-polynomial-identities.md)
 - [3.4 Dividing Polynomials](./3-polynomial-functions/3.4-dividing-polynomials.md)
 - [3.5 Zeros of Polynomial Functions](./3-polynomial-functions/3.5-zeros-of-polynomial-functions.md)
-- 3.7 Transformations of Polynomial Functions
+- [3.6 Theorems About Roots of Polynomial Equations](./3-polynomial-functions/3.6-theorems-about-roots-of-polynomial-equations.md)
+- [3.7 Transformations of Polynomial Functions](./3-polynomial-functions/3.7-transformations-of-polynomial-functions.md)

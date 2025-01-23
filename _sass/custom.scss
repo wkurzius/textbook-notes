@@ -31,9 +31,10 @@
 blockquote {
     letter-spacing: inherit;
     font-size: inherit;
-    font-style: inherit;
-    color: #424242;
+    // font-style: inherit;
+    color: #333;
     background-color: #fafafa;
+    border-left-color: #999;
 }
 
 .post-list-heading {
