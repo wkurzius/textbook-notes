@@ -2,7 +2,7 @@
 title: "OpenStax College Algebra 2e"
 ---
 
-[View online textbook here](https://openstax.org/details/books/college-algebra-2e)
+[View online textbook](https://openstax.org/details/books/college-algebra-2e)
 
 ## Chapter 1 Prerequisites
 
