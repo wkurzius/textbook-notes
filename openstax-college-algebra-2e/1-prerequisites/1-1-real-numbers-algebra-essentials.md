@@ -17,9 +17,9 @@ title: "1.1 Real Numbers: Algebra Essentials"
 
 > ### How to Use the Textbook
 >
-> Reading each section is strongly recommended, along with taking notes. A good place to start is defining any **bolded vocabulary** and copying any asides that sum up information. The first one of those you will run into is called "Sets of Numbers".
+> Reading each section is strongly recommended, along with taking notes. A good place to start is defining any vocabulary and copying any asides that sum up information. The first one of those you will run into is called "Sets of Numbers".
 >
-> You should also work through the examples, only looking at the solution steps if you are unsure of the next step. The "Try It" problems are there for you to test if you understood the examples, and the answers for them are found at the end of the book, along with answers to the odd exercises.
+> You should also work through the examples, only looking at the solution steps if you are unsure of how to proceed, or to check your answer. The "Try It" problems are there for you to test if you understood the examples, and the answers for them are found at the end of the book, along with answers to the odd exercises.
 
 ## Classifying a Real Number
 
