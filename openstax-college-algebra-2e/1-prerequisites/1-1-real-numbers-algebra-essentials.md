@@ -142,6 +142,8 @@ a \cdot \frac{1}{a} = 1
 
 An algebraic expression is a collection of a constants and variables joined together by the algebraic operations: addition, multiplication, and rational exponents[^1]. **Constants** are your plain numbers, like $5$ or $-\frac{2}{3}$. **Variables** are typically represented by letters and their values can either change (vary) or need to be derived.
 
+[^1]: Irrational exponents appear in exponential functions, which are technically not algebraic. Despite that, they still fall under the umbrella of "algebra" and you've likely worked with them before.
+
 When substituting in a value for a variable, make sure you apply it to each instance of the variable. It's also good practice to use parentheses so that the order of operations is preserved. For the example below, let $a=11$ and $b=-8$
 
 $$\begin{align}
@@ -152,7 +154,6 @@ $$\begin{align}
 
 If we didn't use parentheses, we would end up writing $11 + 11-8 +-8$ and risk interpreting the multiplication as subtraction.
 
-[^1]: Irrational exponents appear in exponential functions, which are technically not algebraic, despite falling under the umbrella of "algebra".
 
 ## Formulas
 
