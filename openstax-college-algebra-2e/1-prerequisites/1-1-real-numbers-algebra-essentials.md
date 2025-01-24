@@ -45,7 +45,7 @@ Together, the rational and irrational numbers make up the set of **real numbers*
 
 The rational numbers is a larger set including integers, which in turn includes whole numbers, which include the natural numbers. You can see those relationship below with $N$ being the natural numbers, $W$ whole, $I$ integer, $Q$ the rationals, and $Q'$ the irrational numbers.
 
-![](./img/real-numbers.jpg)
+![Real number relationship graphic](./img/real-numbers.jpg)
 
 ## Performing Calculations Using the Order of Operations
 
@@ -153,7 +153,6 @@ $$\begin{align}
 \end{align}$$
 
 If we didn't use parentheses, we would end up writing $11 + 11-8 +-8$ and risk interpreting the multiplication as subtraction.
-
 
 ## Formulas
 
