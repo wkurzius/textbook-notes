@@ -31,3 +31,45 @@ title: enVision Algebra 2 Common Core 2018 Notes
 - [3.5 Zeros of Polynomial Functions](./3-polynomial-functions/3.5-zeros-of-polynomial-functions.md)
 - [3.6 Theorems About Roots of Polynomial Equations](./3-polynomial-functions/3.6-theorems-about-roots-of-polynomial-equations.md)
 - [3.7 Transformations of Polynomial Functions](./3-polynomial-functions/3.7-transformations-of-polynomial-functions.md)
+
+## 4 Rational Functions
+
+- [4.1 Inverse Variation and the Reciprocal Function](./4-rational-functions/4.1-inverse-variation-and-the-reciprocal-function.md)
+- [4.2 Graphing Rational Functions](./4-rational-functions/4.2-graphing-rational-functions.md)
+- [4.3 Multiplying and Dividing Rational Expressions](./4-rational-functions/4.3-multiplying-and-dividing-rational-expressions.md)
+- [4.4 Adding and Subtracting Rational Expressions](./4-rational-functions/4.4-adding-and-subtracting-rational-expressions.md)
+- [4.5 Solving Rational Equations](./4-rational-functions/4.5-solving-rational-equations.md)
+
+## 5 Rational Exponents and Radical Functions
+
+- 5.1 $n$th Roots, Radicals, and Rational Exponents
+- 5.2 Properties of Exponents and Radicals
+- 5.3 Graphing Radical Functions
+- 5.4 Solving Radical Equations
+- 5.5 Function Operations
+- 5.6 Inverse Relations and Functions
+
+## 6 Exponential and Logarithmic Functions
+
+- 6.1 Key Features of Exponential Functions
+- 6.2 Exponential Models
+- 6.3 Logarithms
+- 6.4 Logarithmic Functions
+- 6.5 Properties of Logarithms
+- 6.6 Exponential and Logarithmic Equations
+- 6.7 Geometric Sequences and Series
+
+## 7 Trigonometric Functions
+
+- 7.1 Trigonometric Functions and Acute Angles
+- 7.2 Angles and the Unit Circle
+- 7.3 Trigonometric Functions and Real Numbers
+- 7.4 Graphing Sine and Cosine Functions
+- 7.5 Graphing Other Trigonometric Functions
+- 7.6 Translating Trigonometric Functions
+
+## 8 Trigonometric Equations and Identities
+
+- 8.1 Solving Trigonometric Equations Using Identities
+- 8.2 Law of Sines and Law of Cosines
+- 8.3 Trigonometric Identities
