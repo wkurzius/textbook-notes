@@ -38,7 +38,7 @@ title: Calculus for AP 2e Notes
 - [3.4 Concavity and the Second Derivative Test](./3-applications-of-differentiation/3.4-concavity-and-the-second-derivative-test.md)
 - [3.5 A Summary of Curve Sketching](./3-applications-of-differentiation/3.5-a-summary-of-curve-sketching.md)
 - [3.6 Optimization Problems](./3-applications-of-differentiation/3.6-optimization-problems.md)
-- 3.7 Linear Approximation and Differentials
+- [3.7 Linear Approximation and Differentials](./3-applications-of-differentiation/3.7-linear-approximation-and-differentials.md)
 
 ## 4 Integration
 
