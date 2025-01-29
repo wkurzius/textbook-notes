@@ -28,7 +28,7 @@ title: Calculus for AP 2e Notes
 - [2.5 Implicit Differentiation](./2-differentiation/2.5-implicit-differentiation.md)
 - [2.6 Derivatives of Inverse Functions](./2-differentiation/2.6-derivatives-of-inverse-functions.md)
 - [2.7 Related Rates](./2-differentiation/2.7-related-rates.md)
-- [Differentiation Cheat Sheet](../pdfs/differentiation-cheat-sheet.pdf)
+- [Differentiation Cheat Sheet](../misc/differentiation-cheat-sheet.pdf)
 
 ## 3 Applications of Differentiation
 
@@ -50,7 +50,7 @@ title: Calculus for AP 2e Notes
 - 4.6 Integration by Substitution
 - 4.7 The Natural Logarithmic Function: Integration
 - 4.8 Inverse Trigonometric Functions: Integration
-- [Integration Cheat Sheet](../pdfs/integration-cheat-sheet.pdf)
+- [Integration Cheat Sheet](../misc/integration-cheat-sheet.pdf)
 
 ## 5 Differential Equations
 
