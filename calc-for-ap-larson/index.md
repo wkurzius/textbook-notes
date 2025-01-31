@@ -42,7 +42,7 @@ title: Calculus for AP 2e Notes
 
 ## 4 Integration
 
-- 4.1 Antiderivatives and Indefinite Integration
+- [4.1 Antiderivatives and Indefinite Integration](./4-integration/4.1-antiderivatives.md)
 - 4.2 Area
 - 4.3 Riemann Sums and Definite Integrals
 - 4.4 The Fundamental Theorem of Calculus
