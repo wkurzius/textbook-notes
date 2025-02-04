@@ -48,22 +48,22 @@ title: Calculus for AP 2e Notes
 - [4.4 The Fundamental Theorem of Calculus](./4-integration/4.4-the-fundamental-theorem-of-calculus.md)
 - [4.5 The Net Change Theorem](./4-integration/4.5-the-net-change-theorem.md)
 - [4.6 Integration by Substitution](./4-integration/4.6-integration-by-substitution.md)
-- 4.7 The Natural Logarithmic Function: Integration
-- 4.8 Inverse Trigonometric Functions: Integration
+- [4.7 The Natural Logarithmic Function: Integration](./4-integration/4.7-the-natural-logarithmic-function-integration.md)
+- [4.8 Inverse Trigonometric Functions: Integration](./4-integration/4.8-inverse-trigonometric-function-integration.md)
 - [Integration Cheat Sheet]({{site.baseurl}}/misc/integration-cheat-sheet.pdf)
 
 ## 5 Differential Equations
 
-- 5.1 Slope Fields and Euler's Method
-- 5.2 Growth and Decay
-- 5.3 Separation of Variables
+- [5.1 Slope Fields and Euler's Method](./5-differential-equations/5.1-slope-fields-and-eulers-method.md)
+- [5.2 Growth and Decay](./5-differential-equations/5.2-growth-and-decay.md)
+- [5.3 Separation of Variables](./5-differential-equations/5.3-separation-of-variables.md)
 
 ## 6 Applications of Integration
 
-- 6.1 Area of a Region Between Two Curves
-- 6.2 Volume: The Disk and Washer Methods
+- [6.1 Area of a Region Between Two Curves](./6-applications-of-integration/6.1-area-of-a-region-between-two-curves.md)
+- [6.2 Volume: The Disk and Washer Methods](./6-applications-of-integration/6.2-volume-the-disk-and-washer-methods.md)
 
 ## 7 Integration Techniques and L'Hôpital's Rule
 
-- 7.1 Basic Integration Rules
-- 7.7 Indeterminate Forms and L'Hôpital's Rule
+- [7.1 Basic Integration Rules](./7-integration-techniques-and-lhopitals-rule/7.1-basic-integration-rules.md)
+- [7.7 Indeterminate Forms and L'Hôpital's Rule](./7-integration-techniques-and-lhopitals-rule/7.7-indeterminate-forms-and-lhopitals-rule.md)
