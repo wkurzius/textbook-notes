@@ -44,10 +44,10 @@ title: Calculus for AP 2e Notes
 
 - [4.1 Antiderivatives and Indefinite Integration](./4-integration/4.1-antiderivatives.md)
 - [4.2 Area](./4-integration/4.2-area.md)
-- 4.3 Riemann Sums and Definite Integrals
-- 4.4 The Fundamental Theorem of Calculus
-- 4.5 The Net Change Theorem
-- 4.6 Integration by Substitution
+- [4.3 Riemann Sums and Definite Integrals](./4-integration/4.3-reimann-sums-and-definite-integrals.md)
+- [4.4 The Fundamental Theorem of Calculus](./4-integration/4.4-the-fundamental-theorem-of-calculus.md)
+- [4.5 The Net Change Theorem](./4-integration/4.5-the-net-change-theorem.md)
+- [4.6 Integration by Substitution](./4-integration/4.6-integration-by-substitution.md)
 - 4.7 The Natural Logarithmic Function: Integration
 - 4.8 Inverse Trigonometric Functions: Integration
 - [Integration Cheat Sheet]({{site.baseurl}}/misc/integration-cheat-sheet.pdf)
