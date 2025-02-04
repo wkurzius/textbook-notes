@@ -98,3 +98,24 @@ Note the negative in the first one. With an odd exponent, we can work with negat
 
 ## Rational Exponents
 
+I mentioned earlier that roots are just exponents. We typically don't write them that way, but $\sqrt 2 = (2)^{1/2}$. One way to prove that to yourself is $\sqrt{2^2} = 2$ and $(2^{1/2})^2=2^{2/2}=2^1=1$.
+
+$$\begin{align}
+\sqrt[n]{a}=a^{\frac{1}{n}}
+\end{align}$$
+
+This means you can now tackle problems with fractional exponents. Your numerator can be translated as your "regular" power, and the denominator as your root. You can also do them in either order: either root first or power first.
+
+$$\begin{align}
+4^\frac{3}{2} &= \sqrt{4^3} \\
+              &= \sqrt{64}        &&\text{Power first} \\
+              &= 8
+\end{align}$$
+
+Or
+
+$$\begin{align}
+4^\frac{3}{2} &= \sqrt{4^3} \\
+              &= 2^3        &&\text{Square root first} \\
+              &= 8
+\end{align}$$
