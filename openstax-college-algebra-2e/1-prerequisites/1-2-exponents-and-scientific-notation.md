@@ -1,5 +1,5 @@
 ---
-title: 
+title: 1.2 Exponents and Scientific Notation
 ---
 
 - Use the product rule of exponents.
