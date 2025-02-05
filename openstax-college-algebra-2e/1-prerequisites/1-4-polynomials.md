@@ -2,6 +2,9 @@
 title: 1.4 Polynomials
 ---
 
+{: .lesson-dates}
+Lesson: February 10, 2025. Quiz: February 13, 2025.
+
 - Identify the degree and leading coefficient of polynomials.
 - Add and subtract polynomials.
 - Multiply polynomials.

@@ -2,6 +2,9 @@
 title: 1.2 Exponents and Scientific Notation
 ---
 
+{: .lesson-dates}
+Lesson: February 4, 2025. Quiz: February 13, 2025.
+
 - Use the product rule of exponents.
 - Use the quotient rule of exponents.
 - Use the power rule of exponents.

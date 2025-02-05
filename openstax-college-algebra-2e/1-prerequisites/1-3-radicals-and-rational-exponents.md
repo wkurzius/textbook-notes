@@ -2,6 +2,9 @@
 title: 1.3 Radicals and Rational Exponents
 ---
 
+{: .lesson-dates}
+Lesson: February 6, 2025. Quiz: February 13, 2025.
+
 - Evaluate square roots.
 - Use the product rule to simplify square roots.
 - Use the quotient rule to simplify square roots.

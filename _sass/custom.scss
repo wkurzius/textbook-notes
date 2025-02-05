@@ -49,3 +49,17 @@ blockquote {
 .footnotes {
 	border-top: 1px solid #111;
 }
+
+.lesson-dates {
+    // font-style: italic;
+    // font-size: 0.9rem;
+    border-bottom: 2px solid #555;
+    padding-bottom: 1rem;
+    margin-top: -0.5rem;
+}
+
+// .lesson-dates::before {
+//     font-style: normal;
+//     content: "📅";
+//     padding-right: 0.25rem;
+// }
