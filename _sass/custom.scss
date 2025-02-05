@@ -47,7 +47,7 @@ blockquote {
 }
 
 .footnotes {
-	border-top: 1px solid #111;
+	border-top: 1px solid #555;
 }
 
 .lesson-dates {
@@ -63,3 +63,7 @@ blockquote {
 //     content: "📅";
 //     padding-right: 0.25rem;
 // }
+
+hr {
+    border: 1px solid #555
+}
