@@ -19,6 +19,7 @@ title: Home
 
 ## General
 
-- [Useful Math Links](./misc/math-links.md)
 - [Archives]({{site.baseurl}}/archives/)
+- [Useful Math Links](./misc/math-links.md)
 - [Bell Schedule](./misc/bell-schedule.md)
+- [Kita Notes](https://wkurzius.github.io/kita-notes/)
