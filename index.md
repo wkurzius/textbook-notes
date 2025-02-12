@@ -12,6 +12,9 @@ title: Home
 ## Algebra II and Trigonometry Honors
 
 - [enVision Algebra 2 Common Core 2018 Notes]({{site.baseurl}}/envision-algebra-2/)
+- Homework answers
+  - [Odd questions]({{site.baseurl}}/misc/alg2-odd-answers.pdf)
+  - [Even questions]({{site.baseurl}}/misc/alg2-even-answers.pdf)
 
 ## College Prep Math
 
