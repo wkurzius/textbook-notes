@@ -2,6 +2,9 @@
 title: Calculus for AP 2e Notes
 ---
 
+{: .next-quiz}
+**Next scheduled quiz**: March 6, 2025 on 4.4–4.7
+
 ## P Preparation for Calculus
 
 - [P.1 Graphs and Models](./0-preperation-for-calculus/0.1-graphs-and-models.md)
