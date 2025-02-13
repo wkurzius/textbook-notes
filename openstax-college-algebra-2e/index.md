@@ -18,7 +18,7 @@ title: "OpenStax College Algebra 2e"
 
 ## 2 Equations and Inequalities
 
-- 2.1 The Rectangular Coordinate Systems and Graphs
+- [2.1 The Rectangular Coordinate Systems and Graphs](./2-introduction-to-equations-and-inequalities/2-1-the-rectangular-coordinate-systems-and-graphs.md)
 - 2.2 Linear Equations in One Variable
 - 2.3 Models and Applications
 - 2.4 Complex Numbers
