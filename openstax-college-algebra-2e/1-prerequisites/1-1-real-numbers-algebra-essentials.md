@@ -3,7 +3,7 @@ title: "1.1 Real Numbers: Algebra Essentials"
 ---
 
 {: .lesson-dates}
-Lesson: January 29, 2025. Quiz: ~~February 13, 2025~~ February 14, 2025.
+Lesson date: January 29, 2025
 
 - Classify a real number as a natural, whole, integer, rational, or irrational number.
 - Perform calculations using order of operations.

@@ -64,3 +64,10 @@ hr {
 .bell-schedules-table td:nth-child(2n+1), .bell-schedules-table th:nth-child(2n+1) {
 	border-right-width: 5px;
 }
+
+.next-quiz::before {
+    content: "!";
+    font-weight: bold;
+    color: red;
+    padding-right: 0.25rem;
+}

@@ -2,6 +2,9 @@
 title: 1.5 Factoring Polynomials
 ---
 
+{: .lesson-dates}
+Lesson date: February 24, 2025.
+
 - Factor the greatest common factor of a polynomial.
 - Factor a trinomial.
 - Factor by grouping.

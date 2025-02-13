@@ -4,6 +4,9 @@ title: "OpenStax College Algebra 2e"
 
 [View online textbook](https://openstax.org/books/college-algebra-2e/pages/1-introduction-to-prerequisites)
 
+{: .next-quiz}
+**Next scheduled quiz**: March 6, 2025 on 1.4–2.1
+
 ## Chapter 1 Prerequisites
 
 - [1.1 Real Numbers: Algebra Essentials](./1-prerequisites/1-1-real-numbers-algebra-essentials.md)

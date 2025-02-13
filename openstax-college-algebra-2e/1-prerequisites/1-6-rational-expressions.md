@@ -2,6 +2,9 @@
 title: 1.6 Rational Expressions
 ---
 
+{: .lesson-dates}
+Lesson date: February 27, 2025.
+
 - Simplify rational expressions.
 - Multiply rational expressions.
 - Divide rational expressions.
