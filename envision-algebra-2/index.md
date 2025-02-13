@@ -2,6 +2,9 @@
 title: enVision Algebra 2 Common Core 2018 Notes
 ---
 
+{: .next-quiz}
+**Next scheduled quiz**: March 6, 2025 on 5.1–5.4
+
 ## 1 Linear Functions and Systems
 
 - [1.1 Key Features of Functions](./1-linear-functions-and-systems/1.1-key-features-of-functions.md)
@@ -42,12 +45,12 @@ title: enVision Algebra 2 Common Core 2018 Notes
 
 ## 5 Rational Exponents and Radical Functions
 
-- 5.1 $n$th Roots, Radicals, and Rational Exponents
-- 5.2 Properties of Exponents and Radicals
-- 5.3 Graphing Radical Functions
-- 5.4 Solving Radical Equations
-- 5.5 Function Operations
-- 5.6 Inverse Relations and Functions
+- [5.1 $n$th Roots, Radicals, and Rational Exponents](./5-rational-exponents-and-radical-functions/5-1-nth-roots-radicals-and-rational-exponents.md)
+- [5.2 Properties of Exponents and Radicals](./5-rational-exponents-and-radical-functions/5-2-properties-of-exponents-and-radicals.md)
+- [5.3 Graphing Radical Functions](./5-rational-exponents-and-radical-functions/5-3-graphing-radical-functions.md)
+- [5.4 Solving Radical Equations](./5-rational-exponents-and-radical-functions/5-4-solving-radical-equations.md)
+- [5.5 Function Operations](./5-rational-exponents-and-radical-functions/5-5-function-operations.md)
+- [5.6 Inverse Relations and Functions](./5-rational-exponents-and-radical-functions/5-6-inverse-relations-and-functions.md)
 
 ## 6 Exponential and Logarithmic Functions
 
