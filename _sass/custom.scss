@@ -71,3 +71,16 @@ hr {
     color: red;
     padding-right: 0.25rem;
 }
+
+blockquote.highlight {
+    border: none;
+    background-color: rgb(222, 255, 255);
+    font-style: normal;
+    padding: 1rem;
+}
+
+blockquote.highlight h5 {
+    font-size: 1rem;
+    font-weight: bold;
+    font-variant: small-caps;
+}
