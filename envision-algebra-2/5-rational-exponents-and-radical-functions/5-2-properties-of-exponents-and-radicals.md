@@ -1,6 +1,5 @@
 ---
 title: 5.2 Properties of Exponents and Radicals
-
 ---
 
 {: .lesson-dates}
