@@ -79,8 +79,13 @@ blockquote.highlight {
     padding: 1rem;
 }
 
-blockquote.highlight h5 {
+blockquote.highlight h3, blockquote.highlight h4, blockquote.highlight h5 {
     font-size: 1rem;
     font-weight: bold;
-    font-variant: small-caps;
+    border-bottom: 1px solid gray;
+}
+
+h2#assignment, h2#additional-resources {
+    font-size: 20px;
+    font-weight: normal;
 }
