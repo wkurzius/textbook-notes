@@ -42,3 +42,33 @@ x^4 - 16 &= 0  \\
 (x-2)(x+2)(x^2+4) &= 0 \\[0.5em]
 x&=\pm2
 \end{align}$$
+
+## Rational Exponents
+
+Subtraction can be rewritten as addition, division as multiplication, and the same with roots as exponents.
+
+$$\begin{align}
+\sqrt[n]{a}=a^{\frac{1}{n}}
+\end{align}$$
+
+Keep in mind that $(a^2)^3=a^6$. So, in order to undo an exponent with another exponent (rooting), it would have to multiply to 1.
+
+$$\begin{align}
+(3^2)^{\frac{1}{2}} = 3^\frac{2}{2} = 3^1 = 3
+\end{align}$$
+
+This means you can now tackle problems with fractional exponents. Your numerator can be translated as your "regular" power, and the denominator as your root. You can also do them in either order: either root first or power first.
+
+$$\begin{align}
+4^\frac{3}{2} &= \sqrt{4^3} \\
+              &= \sqrt{64}        &&\text{Power first} \\
+              &= 8
+\end{align}$$
+
+Or
+
+$$\begin{align}
+4^\frac{3}{2} &= \sqrt{4^3} \\
+              &= 2^3        &&\text{Square root first} \\
+              &= 8
+\end{align}$$
