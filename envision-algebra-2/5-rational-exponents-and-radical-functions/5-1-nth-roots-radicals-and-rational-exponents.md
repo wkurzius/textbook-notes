@@ -72,3 +72,20 @@ $$\begin{align}
               &= 2^3        &&\text{Square root first} \\
               &= 8
 \end{align}$$
+
+You can also use to tackle problems with higher exponents easily.
+
+$$\begin{align}
+\sqrt[4]{x^{20}y^8} &= \left(x^{20}y^8\right)^\frac{1}{4} \\
+                    &= x^\frac{20}{4}y^\frac{8}{4} \\
+                    &= x^5y^2
+\end{align}$$
+
+And also solve equations involving powers.
+
+$$\begin{align}
+2x^5 &= 64 \\
+ x^5 &= 32 \\
+ \left(x^5\right)^\frac{1}{5} &= 32^\frac{1}{5} \\
+ x &= 2
+\end{align}$$
