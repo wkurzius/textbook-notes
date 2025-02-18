@@ -12,7 +12,7 @@ Lesson date: March 3, 2025.
 - Use the distance formula.
 - Use the midpoint formula.
 
-#### Assignment
+## Assignment
 
 - 1–4, 5–47 odd
 - *Recommended*: all **vocabulary** and concept blocks copied into notes

@@ -11,7 +11,7 @@ Lesson date: February 27, 2025.
 - Add and subtract rational expressions.
 - Simplify complex rational expressions.
 
-#### Assignment
+## Assignment
 
 - 1–3, 5–53 odd
 - *Recommended*: all **vocabulary** and concept blocks copied into notes

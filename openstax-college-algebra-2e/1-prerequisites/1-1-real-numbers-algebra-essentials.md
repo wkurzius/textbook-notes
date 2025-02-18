@@ -11,7 +11,7 @@ Lesson date: January 29, 2025
 - Evaluate algebraic expressions.
 - Simplify algebraic expressions.
 
-#### Assignment
+## Assignment
 
 - 1–3, 5–59 odd
 - *Recommended*: all **vocabulary** and concept blocks copied into notes

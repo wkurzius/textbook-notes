@@ -9,7 +9,7 @@ Lesson date: March 3, 2025.
 - Explain how extraneous solutions may arise when solving radical equations.
 - Solve radical inequalities and apply the solution within a real-world context.
 
-#### Assignment
+## Assignment
 
 - All vocabulary copied into notes
 - p270 15–23, 26–46

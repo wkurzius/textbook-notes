@@ -14,7 +14,7 @@ Lesson date: February 4, 2025.
 - Simplify exponential expressions.
 - Use scientific notation.
 
-#### Assignment
+## Assignment
 
 - 1–4, 5–49 odd
 - *Recommended*: all **vocabulary** and concept blocks copied into notes

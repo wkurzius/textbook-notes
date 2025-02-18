@@ -13,7 +13,7 @@ Lesson date: February 24, 2025.
 - Factor the sum and difference of cubes.
 - Factor expressions using fractional or negative exponents.
 
-#### Assignment
+## Assignment
 
 - 1–3, 5–53 odd
 - *Recommended*: all **vocabulary** and concept blocks copied into notes

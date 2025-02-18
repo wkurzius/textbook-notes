@@ -8,7 +8,7 @@ Lesson date: February 27, 2025.
 - Graph radical functions, including square root and cube root functions.
 - Identify the effect of transformations on the key features of the graphs of radical functions.
 
-#### Assignment
+## Assignment
 
 - All vocabulary copied into notes
 - p261 11–17, 20–33

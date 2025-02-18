@@ -12,7 +12,7 @@ Lesson date: February 7, 2025.
 - Rationalize denominators.
 - Use rational roots.
 
-#### Assignment
+## Assignment
 
 - 1–4, 5–65 odd
 - *Recommended*: all **vocabulary** and concept blocks copied into notes

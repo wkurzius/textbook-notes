@@ -9,7 +9,7 @@ Lesson date: .
 - Write an equation for the inverse of a function by restricting the domain.
 - Verify that one function is the inverse of another, using composition.
 
-#### Assignment
+## Assignment
 
 - All vocabulary copied into notes
 - p288 9–20, 23–38

@@ -8,7 +8,7 @@ Lesson date: February 25, 2025.
 - Use the properties of exponents and radicals to identify ways to rewrite radical expressions.
 - Interpret radical expressions that represent a quantity in terms of its context.
 
-#### Assignment
+## Assignment
 
 - All vocabulary copied into notes
 - p253 13–26, 31–56

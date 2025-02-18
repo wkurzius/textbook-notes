@@ -11,7 +11,7 @@ Lesson date: February 19, 2025.
 - Use FOIL to multiply binomials.
 - Perform operations with polynomials of several variables.
 
-#### Assignment
+## Assignment
 
 - 1–4, 5–53 odd
 - *Recommended*: all **vocabulary** and concept blocks copied into notes

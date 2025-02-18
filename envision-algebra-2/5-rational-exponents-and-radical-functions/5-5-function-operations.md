@@ -8,7 +8,7 @@ Lesson date: .
 - Combine functions by addition, subtraction, multiplication, or division and identify the domain of the result.
 - Compose functions, specifying the order in which the functions are applied and describing the domain of the composite function.
 
-#### Assignment
+## Assignment
 
 - All vocabulary copied into notes
 - p279 12–19, 21–36
