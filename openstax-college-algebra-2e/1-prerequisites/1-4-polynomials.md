@@ -26,7 +26,7 @@ $$\begin{align}
 3x^2 + 4x - 7
 \end{align}$$
 
-In the polynomial above, there are three terms. The variables and powers for the three terms are $x^2$, $x^1$, and $x^0$. Though, $x^1$ is written and just $x$ and since $x^0=1$, it's not written at all. The coefficients are $3$, $4$, and $-7$, though the last term is typically referred to as a **constant** since it does not have a variable.
+In the polynomial above, there are three terms. The variables and powers for the three terms are $x^2$, $x^1$, and $x^0$. Though, $x^1$ is written and just $x$ and since $x^0=1$, it's not written at all. The coefficients are $3$, $4$, and $-7$, though that last term is typically referred to as a **constant** since it does not have a variable.
 
 The **degree** of a polynomial is determined by the term with the largest exponent. So above, the degree of that polynomial is $2$. The term that determines the degree is called the **leading term** and its coefficient the **leading coefficient**. The leading term in the example is $x^2$ and the leading coefficient is $3$.
 
