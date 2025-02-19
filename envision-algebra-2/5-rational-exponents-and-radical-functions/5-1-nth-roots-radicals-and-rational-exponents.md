@@ -47,9 +47,14 @@ x&=\pm2
 
 Subtraction can be rewritten as addition, division as multiplication, and the same with roots as exponents.
 
-$$\begin{align}
-\sqrt[n]{a}=a^{\frac{1}{n}}
-\end{align}$$
+> ### Roots as Rational Exponents
+>
+> A root can be written as an exponent with the index in the denominator of the exponent.
+>
+> $$\begin{align}
+> \sqrt[n]{a}=a^{\frac{1}{n}}
+> \end{align}$$
+{: .definition}
 
 Keep in mind that $(a^2)^3=a^6$. So, in order to undo an exponent with another exponent (rooting), it would have to multiply to 1.
 
