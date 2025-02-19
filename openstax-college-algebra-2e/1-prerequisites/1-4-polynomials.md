@@ -81,7 +81,7 @@ These are tricks to speed things up as these special forms tend to appear often.
 > $$\begin{align}
 > (a+b)^2 = a^2 + 2ab + b^2
 > \end{align}$$
-{: .highlight}
+{: .definition}
 
 Here's one worked out the long way so you can see it in action.
 
@@ -100,7 +100,7 @@ Above, the sign between the two terms doesn't matter. For the next one it does.
 > $$\begin{align}
 > (a+b)(a-b) = a^2-b^2
 > \end{align}$$
-{: .highlight}
+{: .definition}
 
 And here is one worked out.
 

@@ -29,7 +29,7 @@ The majority of the chapter deals with exponents and roots, so we'll start with 
 > \sqrt[n]c
 > \end{align}$$
 > where $n$ is the index and $c$ is the radicand.
-{: .highlight}
+{: .definition}
 
 Often, finding a particular root of a number comes down to either knowing it or using a calculator. How they are calculated is beyond what the scope of this course.
 
