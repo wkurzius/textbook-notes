@@ -1,5 +1,5 @@
 ---
-title: 5.1 $n$th Roots, Radicals, and Rational Exponents
+title: 5.1 𝑛th Roots, Radicals, and Rational Exponents
 ---
 
 {: .lesson-dates}
@@ -18,11 +18,11 @@ Lesson date: February 19, 2025.
 
 ---
 
-## The $n$th Root
+## The 𝑛th Root
 
 The majority of the chapter deals with exponents and roots, so we'll start with looking at roots beyond the square root.
 
-> ### The $n$th Root of a Number
+> ### The 𝑛th Root of a Number
 >
 > The $n$th root of a number $c$ is any $x$ such that $x^n=c$. It can be denoted by
 > $$\begin{align}
