@@ -45,7 +45,7 @@ title: enVision Algebra 2 Common Core 2018 Notes
 
 ## 5 Rational Exponents and Radical Functions
 
-- [5.1 𝑛th Roots, Radicals, and Rational Exponents](./5-rational-exponents-and-radical-functions/5-1-nth-roots-radicals-and-rational-exponents.md)
+- [5.1 𝘯th Roots, Radicals, and Rational Exponents](./5-rational-exponents-and-radical-functions/5-1-nth-roots-radicals-and-rational-exponents.md)
 - [5.2 Properties of Exponents and Radicals](./5-rational-exponents-and-radical-functions/5-2-properties-of-exponents-and-radicals.md)
 - [5.3 Graphing Radical Functions](./5-rational-exponents-and-radical-functions/5-3-graphing-radical-functions.md)
 - [5.4 Solving Radical Equations](./5-rational-exponents-and-radical-functions/5-4-solving-radical-equations.md)
