@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[Coming up](./coming-up.md)
+[This week](./this-week.md)
 
 ## AP Calculus
 

@@ -1,13 +1,7 @@
 ---
-title: Coming Up
-layout: canvas-home
+title: "This Week (Feb. 24–Feb. 28)"
+layout: this-week
 ---
-
-## Notes and Homework
-
-[AP Calc](./calc-for-ap-larson/) \| [Algebra 2](./envision-algebra-2/) \| [College Prep](./openstax-college-algebra-2e/)
-
-## This Week (Feb. 24–Feb. 28)
 
 |                  | New Material | Next Quiz |
 | ---------------- | ------------ | --------- |
@@ -19,8 +13,14 @@ layout: canvas-home
   - [Try out the tutorials and practice tests](https://nj.mypearsonsupport.com/practice-tests/){: target="_blank"}
   - Get extra practice with the [IXL skill plan for the NJGPA](https://www.ixl.com/math/skill-plans/njgpa-math){: target="_blank"}
 
-## Boilerplate
+---
 
-- Before school help with me Tuesdays through Thursdays in room 31
-- After school tutoring with Ms. Harris Mondays and Wednesdays in room 19/20
+## Notes and Homework
+
+[AP Calc](./calc-for-ap-larson/) \| [Algebra 2](./envision-algebra-2/) \| [College Prep](./openstax-college-algebra-2e/)
+
+## Extras
+
+- Before school help with me, Tuesday through Thursday in room 31
+- After school tutoring with Ms. Harris, Monday and Wednesday in room 19/20
 - [Miscellaneous math links](./misc/math-links.md)
