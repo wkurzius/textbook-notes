@@ -2,8 +2,7 @@
 title: enVision Algebra 2 Common Core 2018 Notes
 ---
 
-{: .next-quiz}
-**Next scheduled quiz**: March 6, 2025 on 5.1–5.4
+[Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="_blank"}
 
 ## 1 Linear Functions and Systems
 

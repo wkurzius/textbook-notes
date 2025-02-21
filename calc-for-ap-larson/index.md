@@ -2,8 +2,7 @@
 title: Calculus for AP 2e Notes
 ---
 
-{: .next-quiz}
-**Next scheduled quiz**: March 6, 2025 on 4.4–4.7
+[Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="_blank"}
 
 ## P Preparation for Calculus
 

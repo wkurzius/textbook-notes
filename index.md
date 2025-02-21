@@ -2,6 +2,8 @@
 title: Home
 ---
 
+[Coming up](./coming-up.md)
+
 ## AP Calculus
 
 - [Calculus for AP 2e Notes]({{site.baseurl}}/calc-for-ap-larson/)
