@@ -53,7 +53,19 @@ Our last operation is exponents on top of exponents. So, $(x^2)^3 = (x \cdot x)\
 > \end{align}$$
 {: .definition}
 
-The next couple are rules for rewriting, and the first might be counterintuitive at first.
+A variation of this rule exists for products and quotients.
+
+> ### Powers of Products and Quotients
+>
+> A product or quotient raised to a power is equivalent to each factor being raised to the same power.
+>
+> $$\begin{align}
+> (ab)^n &= a^nb^n \\[1em]
+> \left(\frac{a}{b}\right)^n &= \frac{a^n}{b^n}
+> \end{align}$$
+{: .definition}
+
+The last couple of are rules are for rewriting, and the first might be counterintuitive at first.
 
 > ### The Zero Rule
 >
@@ -72,9 +84,7 @@ $$\begin{align}
 a^0 &= 1
 \end{align}$$
 
-### The Negative Rule
-
-What happens if we use the quotient rule and we end up with negative numbers?
+Our last rule requires a bit of set up to see why it works. Let's use the quotient rule, but on an expression that would yield a negative exponent.
 
 $$\begin{align}
 \frac{h^3}{h^5} &= h^{-2}\\[1em]
@@ -82,18 +92,55 @@ $$\begin{align}
 h^{-2} &= \frac{1}{h^2}
 \end{align}$$
 
-A factor with a negative exponent becomes the same factor with a positive exponent if it is moved across the fraction bar.
+> ### The Negative Rule
+>
+> The reciprocal of a power has an exponent with the opposite sign.
+>
+> $$\begin{align}
+> a^{-n} &= \frac{1}{a^n} \\[1em]
+> a^n    &= \frac{1}{a^{-n}}
+> \end{align}$$
+{: .definition}
+
+## Rewriting Powers and Roots
+
+You'll be asked to use the rules above to rewrite powers and roots. There are two things to keep in mind.
+
+1. Roots are just fractional exponents, so all of the above applies to them as well.
+2. "Simplified" is in the eye of the beholder.
+
+The latter is worth mentioning because of problems like the one below.
 
 $$\begin{align}
-a^{-n} &= \frac{1}{a^n} \\[1em]
-a^n    &= \frac{1}{a^{-n}}
+\sqrt[3]{\frac{18n^2}{24n}}
 \end{align}$$
 
-### Powers of Product and Quotient Rules
-
-These are straightforward if you remember that raising something to a power means repeated multiplication. So, $(xy)^2=(xy)(xy) = x^2y^2$.
+One could reasonably assume that the simplified version would be
 
 $$\begin{align}
-(ab)^n &= a^nb^n \\[1em]
-\left(\frac{a}{b}\right)^n &= \frac{a^n}{b^n}
+\sqrt[3]{\frac{3n}{4}}
+\end{align}$$
+
+This is number 30 from the book. And the solution is listed as
+
+$$\begin{align}
+\frac{\sqrt[3]{6n}}{2}
+\end{align}$$
+
+They assume you would recognize that a factor of $24$ is $8$, which is a perfect cube. I suggest just making sure you can transform the original into the given answer, and don't sweat it if you didn't guess which form they wanted.
+
+I do recommend looking through all the examples in the book. There are a lot and it's not worth repeating all of them here. You should be doing this anyway, but doubly so for this section.
+
+## Rationalize a Denominator
+
+Sometimes you will be asked to rationalize a denominator, which means write an equivalent expression that doesn't have a radical in the denominator. An example of one is $\frac{1}{\sqrt5}$. These just require multiplying by the radical.
+
+$$\begin{align}
+\frac{1}{\sqrt5} \cdot \frac{\sqrt5}{\sqrt5} = \frac{\sqrt5}{5}
+\end{align}$$
+
+If the denominator instead has a binomial with a radical, then you need to multiply by its conjugate. Your difference of squares rule can speed up the multiplication.
+
+$$\begin{align}
+\frac{1}{2+\sqrt5} \cdot \frac{2-\sqrt5}{2-\sqrt5} = \frac{2-\sqrt5}{-1} = -2 + \sqrt5
 \end{align}$$
