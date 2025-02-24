@@ -18,7 +18,7 @@ layout: this-week
 
 ## Notes and Homework
 
-[AP Calc](./calc-for-ap-larson/) \| [Algebra 2](./envision-algebra-2/) \| College Prep [notes/HW](./openstax-college-algebra-2e/) and [book](https://openstax.org/books/college-algebra-2e/pages/1-introduction-to-prerequisites)
+[AP Calc](./calc-for-ap-larson/) \| [Algebra 2](./envision-algebra-2/) \| College Prep [notes/HW](./openstax-college-algebra-2e/) and [book](https://openstax.org/books/college-algebra-2e/pages/1-introduction-to-prerequisites) \| [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="_blank"}
 
 ## Extras
 
