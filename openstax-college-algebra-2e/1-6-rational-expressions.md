@@ -1,6 +1,6 @@
 ---
 title: 1.6 Rational Expressions
-published: false
+published: true
 ---
 
 {: .lesson-dates}
@@ -74,3 +74,46 @@ $$\begin{align}
 \end{align}$$
 
 ## Adding and Subtracting Rational Expressions
+
+Adding or subtracting fractions requires a common denominator, and that holds true here. Luckily, a factored denominator makes it easy to generate. Let's a try a simple one first.
+
+$$\begin{align}
+\frac{5}{x} + \frac{6}{y}
+\end{align}$$
+
+The left one has only an $x$ as a factor in the denominator, while the right one only has a $y$. That means the common denominator would have to be $xy$. So, we'll multiply each term by what it's missing, then add them once they share a denominator.
+
+$$\begin{align}
+\frac{5}{x} \cdot \frac{y}{y} + \frac{6}{y} \cdot \frac{x}{x} &= \frac{5y}{xy} + \frac{6x}{xy} \\[1em]
+&= \frac{6x+5y}{xy}
+\end{align}$$
+
+Here's one where they already have something in common. The left fraction already has the $x$ covered, but needs a $y$. The right one is short an $x$ to match the $x^2$ in the other one.
+
+$$\begin{align}
+\frac{2}{x^2} - \frac{7}{xy} &= \frac{2}{x^2} \cdot \frac{y}{y}- \frac{7}{xy} \cdot \frac{x}{x} \\[1em]
+&= \frac{2y}{x^2y} - \frac{7x}{x^2y} \\[1em]
+&= \frac{-7x + 2y}{x^2y}
+\end{align}$$
+
+Now let's tacked one with longer polynomials. The first step, like before, is factoring.
+
+$$\begin{align}
+\frac{x+3}{x^2-1} + \frac{2}{x^2-3x+2} &= \frac{x+3}{(x-1)(x+1)} + \frac{2}{(x-2)(x-1)} \\[1em]
+&= \frac{x+3}{(x-1)(x+1)} \cdot \frac{x-2}{x-2} +
+   \frac{2}{(x-2)(x-1)} \cdot \frac{x+1}{x+1} \\[1em]
+\end{align}$$
+
+From here, leave your denominator factored and only simplify your numerator. Then you can refactor and divide out what you can.
+
+$$\begin{align}
+\frac{x+3}{(x-1)(x+1)} \cdot {\frac{x-2}{x-2}} +
+   \frac{2}{(x-2)(x-1)} \cdot {\frac{x+1}{x+1}}
+   &= \frac{(x^2+x-6)+(2x+2)}{(x-1)(x+1)(x-2)} \\[1em]
+   &= \frac{x^2+3x-4}{(x-1)(x+1)(x-2)} \\[1em]
+   &= \frac{(x+4)(x-1)}{(x-1)(x+1)(x-2)} \\[1em]
+   &= \frac{x+4}{(x+1)(x-2)}
+\end{align}$$
+
+## Simplifying Complex Rational Expressions
+
