@@ -2,6 +2,10 @@
 title: TODO
 ---
 
+## General
+
+- Merge with main github.io repository? Possibly also use mr.kurzius.net as main address.
+
 ## Calc
 
 - 4.2 and 4.3 is an overcomplicated mess. Find a way to streamline it and cut out what is not needed on the exam.

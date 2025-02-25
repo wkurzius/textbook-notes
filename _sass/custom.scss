@@ -93,3 +93,10 @@ h2#assignment, h2#additional-resources {
 .v {
     color: hsl(330, 50%, 35%);
 }
+
+.f47 {
+    text-align: center;
+}
+.f47::before {
+    content: "🇺🇦";
+}
