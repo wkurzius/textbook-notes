@@ -47,7 +47,7 @@ blockquote {
 }
 
 .footnotes {
-	border-top: 1px solid #555;
+    border-top: 1px solid #555;
 }
 
 .lesson-dates {
@@ -61,8 +61,9 @@ hr {
     margin-bottom: 1rem;
 }
 
-.bell-schedules-table td:nth-child(2n+1), .bell-schedules-table th:nth-child(2n+1) {
-	border-right-width: 5px;
+.bell-schedules-table td:nth-child(2n+1),
+.bell-schedules-table th:nth-child(2n+1) {
+    border-right-width: 5px;
 }
 
 .next-quiz::before {
@@ -79,13 +80,16 @@ blockquote.definition {
     padding: 1rem;
 }
 
-blockquote.definition h3, blockquote.definition h4, blockquote.definition h5 {
+blockquote.definition h3,
+blockquote.definition h4,
+blockquote.definition h5 {
     font-size: 1rem;
     font-weight: bold;
     border-bottom: 1px solid gray;
 }
 
-h2#assignment, h2#additional-resources {
+h2#assignment,
+h2#additional-resources {
     font-size: 20px;
     font-weight: normal;
 }
@@ -97,6 +101,12 @@ h2#assignment, h2#additional-resources {
 .f47 {
     text-align: center;
 }
+
 .f47::before {
     content: "🇺🇦";
+}
+
+.site-title a,
+.site-title a:visited {
+    color: #424242;
 }

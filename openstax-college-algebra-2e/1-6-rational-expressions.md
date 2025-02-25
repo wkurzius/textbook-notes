@@ -132,7 +132,7 @@ $$\begin{align}
 With everything simplified, we can move on to this just being a division problem in disguise.
 
 $$\begin{align}
-\frac{a}{\frac{1+bc}{b}} &= a \div \frac{1+bc}{b} \\[1em] 
+\frac{a}{\frac{1+bc}{b}} &= a \div \frac{1+bc}{b} \\[1em]
 &= a \cdot \frac{b}{1+bc} \\[1em]
 &= \frac{ab}{1+bc}
 \end{align}$$
