@@ -7,16 +7,16 @@ title: "OpenStax College Algebra 2e"
 
 ## Chapter 1 Prerequisites
 
-- [1.1 Real Numbers: Algebra Essentials](./1-prerequisites/1-1-real-numbers-algebra-essentials.md)
-- [1.2 Exponents and Scientific Notation](./1-prerequisites/1-2-exponents-and-scientific-notation.md)
-- [1.3 Radicals and Rational Exponents](./1-prerequisites/1-3-radicals-and-rational-exponents.md)
-- [1.4 Polynomials](./1-prerequisites/1-4-polynomials.md)
-- [1.5 Factoring Polynomials](./1-prerequisites/1-5-factoring-polynomials.md)
-- [1.6 Rational Expressions](./1-prerequisites/1-6-rational-expressions.md)
+- [1.1 Real Numbers: Algebra Essentials](./1-1-real-numbers-algebra-essentials.md)
+- [1.2 Exponents and Scientific Notation](./1-2-exponents-and-scientific-notation.md)
+- [1.3 Radicals and Rational Exponents](./1-3-radicals-and-rational-exponents.md)
+- [1.4 Polynomials](./1-4-polynomials.md)
+- [1.5 Factoring Polynomials](./1-5-factoring-polynomials.md)
+- [1.6 Rational Expressions](./1-6-rational-expressions.md)
 
 ## 2 Equations and Inequalities
 
-- [2.1 The Rectangular Coordinate Systems and Graphs](./2-introduction-to-equations-and-inequalities/2-1-the-rectangular-coordinate-systems-and-graphs.md)
+- [2.1 The Rectangular Coordinate Systems and Graphs](./2-1-the-rectangular-coordinate-systems-and-graphs.md)
 - 2.2 Linear Equations in One Variable
 - 2.3 Models and Applications
 - 2.4 Complex Numbers
