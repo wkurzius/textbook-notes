@@ -13,6 +13,6 @@ Lesson date: .
 
 - All vocabulary copied into notes
 - p288 9–20, 23–38
-  - Answers to [odd questions]({{site.baseurl}}/misc/alg2-odd-answers.pdf) / [even questions]({{site.baseurl}}/misc/alg2-even-answers.pdf)
+  - Answers to [odd questions](../misc/alg2-odd-answers.pdf) / [even questions](../misc/alg2-even-answers.pdf)
 
 ---

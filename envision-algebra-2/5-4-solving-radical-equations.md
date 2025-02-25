@@ -13,6 +13,6 @@ Lesson date: March 3, 2025.
 
 - All vocabulary copied into notes
 - p270 15–23, 26–46
-  - Answers to [odd questions]({{site.baseurl}}/misc/alg2-odd-answers.pdf) / [even questions]({{site.baseurl}}/misc/alg2-even-answers.pdf)
+  - Answers to [odd questions](../misc/alg2-odd-answers.pdf) / [even questions](../misc/alg2-even-answers.pdf)
 
 ---

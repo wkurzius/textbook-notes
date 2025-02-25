@@ -14,7 +14,7 @@ Lesson date: February 19, 2025.
 
 - All vocabulary copied into notes
 - p245 18–26, 31–50
-  - Answers to [odd questions]({{site.baseurl}}/misc/alg2-odd-answers.pdf) / [even questions]({{site.baseurl}}/misc/alg2-even-answers.pdf)
+  - Answers to [odd questions](../misc/alg2-odd-answers.pdf) / [even questions](../misc/alg2-even-answers.pdf)
 
 ---
 
