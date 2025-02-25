@@ -117,3 +117,22 @@ $$\begin{align}
 
 ## Simplifying Complex Rational Expressions
 
+More complex rational expressions can look like this.
+
+$$\begin{align}
+\frac{a}{\frac{1}{b}+c}
+\end{align}$$
+
+Each problem might benefit from different strategies, but the recommended first step is to simplify the numerator and denominator separately. This means adding or subtracting any expressions, then dividing out any common factors.
+
+$$\begin{align}
+\frac{a}{\frac{1}{b}+c} = \frac{a}{\frac{1+bc}{b}}
+\end{align}$$
+
+With everything simplified, we can move on to this just being a division problem in disguise.
+
+$$\begin{align}
+\frac{a}{\frac{1+bc}{b}} &= a \div \frac{1+bc}{b} \\[1em] 
+&= a \cdot \frac{b}{1+bc} \\[1em]
+&= \frac{ab}{1+bc}
+\end{align}$$
