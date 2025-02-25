@@ -1,6 +1,6 @@
 ---
 title: 1.6 Rational Expressions
-draft: true
+published: false
 ---
 
 {: .lesson-dates}
