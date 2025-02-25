@@ -1,5 +1,6 @@
 ---
 title: 1.6 Rational Expressions
+draft: true
 ---
 
 {: .lesson-dates}
@@ -17,3 +18,9 @@ Lesson date: February 27, 2025.
 - *Recommended*: all **vocabulary** and concept blocks copied into notes
 
 ---
+
+The theme of this section is factoring. For every problem, first look if you factor any part of it. That will make most of the later work easier to manage.
+
+## Simplifying Rational Expressions
+
+A rational expressions is the quotient of two polynomials.
