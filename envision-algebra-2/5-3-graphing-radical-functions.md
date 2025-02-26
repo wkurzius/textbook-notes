@@ -1,5 +1,7 @@
 ---
 title: 5.3 Graphing Radical Functions
+layout: notes
+course: Algebra 2 and Trig
 ---
 
 {: .lesson-dates}

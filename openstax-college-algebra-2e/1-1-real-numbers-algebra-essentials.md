@@ -1,5 +1,7 @@
 ---
 title: "1.1 Real Numbers: Algebra Essentials"
+layout: notes
+course: College Prep Math
 ---
 
 {: .lesson-dates}

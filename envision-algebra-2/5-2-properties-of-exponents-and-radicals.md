@@ -1,5 +1,7 @@
 ---
 title: 5.2 Properties of Exponents and Radicals
+layout: notes
+course: Algebra 2 and Trig
 ---
 
 {: .lesson-dates}

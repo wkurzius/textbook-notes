@@ -1,5 +1,7 @@
 ---
 title: 5.6 Inverse Relations and Functions
+layout: notes
+course: Algebra 2 and Trig
 ---
 
 {: .lesson-dates}

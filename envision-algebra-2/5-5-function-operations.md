@@ -1,5 +1,7 @@
 ---
 title: 5.5 Function Operations
+layout: notes
+course: Algebra 2 and Trig
 ---
 
 {: .lesson-dates}

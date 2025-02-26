@@ -1,5 +1,7 @@
 ---
 title: 1.3 Radicals and Rational Exponents
+layout: notes
+course: College Prep Math
 ---
 
 {: .lesson-dates}

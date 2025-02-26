@@ -1,6 +1,7 @@
 ---
 title: 1.6 Rational Expressions
-published: true
+layout: notes
+course: College Prep Math
 ---
 
 {: .lesson-dates}

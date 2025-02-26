@@ -1,5 +1,7 @@
 ---
 title: 
+layout: notes
+course: College Prep Math
 ---
 
 {: .lesson-dates}

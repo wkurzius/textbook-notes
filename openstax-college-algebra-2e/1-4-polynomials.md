@@ -1,5 +1,7 @@
 ---
 title: 1.4 Polynomials
+layout: notes
+course: College Prep Math
 ---
 
 {: .lesson-dates}

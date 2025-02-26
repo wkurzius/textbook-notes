@@ -1,5 +1,7 @@
 ---
 title: 5.4 Solving Radical Equations
+layout: notes
+course: Algebra 2 and Trig
 ---
 
 {: .lesson-dates}

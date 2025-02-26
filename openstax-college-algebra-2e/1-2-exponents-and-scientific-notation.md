@@ -1,5 +1,7 @@
 ---
 title: 1.2 Exponents and Scientific Notation
+layout: notes
+course: College Prep Math
 ---
 
 {: .lesson-dates}

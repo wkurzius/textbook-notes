@@ -1,5 +1,7 @@
 ---
 title: 
+layout: notes
+course: Algebra 2 and Trig
 ---
 
 {: .lesson-dates}
@@ -11,6 +13,6 @@ Lesson date: .
 
 - All vocabulary copied into notes
 - 
-  - Answers to [odd questions]({{site.baseurl}}/misc/alg2-odd-answers.pdf) / [even questions]({{site.baseurl}}/misc/alg2-even-answers.pdf)
+  - Answers to [odd questions](../misc/alg2-odd-answers.pdf) / [even questions](../misc/alg2-even-answers.pdf)
 
 ---

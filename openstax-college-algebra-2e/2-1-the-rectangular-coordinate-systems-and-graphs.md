@@ -1,5 +1,7 @@
 ---
 title: 2.1 The Rectangular Coordinate Systems and Graphs
+layout: notes
+course: College Prep Math
 ---
 
 {: .lesson-dates}

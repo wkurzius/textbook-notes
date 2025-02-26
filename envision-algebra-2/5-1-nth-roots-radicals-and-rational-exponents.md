@@ -1,5 +1,7 @@
 ---
 title: 5.1 𝘯th Roots, Radicals, and Rational Exponents
+layout: notes
+course: Algebra 2 and Trig
 ---
 
 {: .lesson-dates}

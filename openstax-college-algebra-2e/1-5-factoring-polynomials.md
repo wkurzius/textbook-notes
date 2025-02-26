@@ -1,5 +1,7 @@
 ---
 title: 1.5 Factoring Polynomials
+layout: notes
+course: College Prep Math
 ---
 
 {: .lesson-dates}
