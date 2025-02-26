@@ -11,7 +11,7 @@ Lesson date: February 27, 2025.
 ## Assignment
 
 - All vocabulary copied into notes
-- p261 11–17, 20–33
+- p261 11–17, 20–33 ([pdf](./pdf/alg2-practice-0503.pdf))
   - Answers to [odd questions](../misc/alg2-odd-answers.pdf) / [even questions](../misc/alg2-even-answers.pdf)
 
 ---

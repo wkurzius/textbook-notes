@@ -12,7 +12,7 @@ Lesson date: .
 ## Assignment
 
 - All vocabulary copied into notes
-- p288 9–20, 23–38
+- p288 9–20, 23–38 ([pdf](./pdf/alg2-practice-0506.pdf))
   - Answers to [odd questions](../misc/alg2-odd-answers.pdf) / [even questions](../misc/alg2-even-answers.pdf)
 
 ---
