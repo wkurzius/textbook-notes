@@ -9,7 +9,8 @@ layout: this-week
 | **Algebra 2**    | [5.2](./envision-algebra-2/5-2-properties-of-exponents-and-radicals.md) and [5.3](./envision-algebra-2/5-3-graphing-radical-functions.md) | March 6   |
 | **College Prep** | [1.5](./openstax-college-algebra-2e/1-5-factoring-polynomials.md) and [1.6](./openstax-college-algebra-2e/1-6-rational-expressions.md)    | March 6   |
 
-- College Prep, we are in room 8 on Thursday 2/27
+- ~~College Prep, we are in room 8 on Thursday 2/27~~
+- College Prep, we are in room 8 again on Monday, March 3
 - NJGPA is March 10–14 for all juniors
   - [Try out the tutorials and practice tests](https://nj.mypearsonsupport.com/practice-tests/){: target="_blank"}
   - Get extra practice with the [IXL skill plan for the NJGPA](https://www.ixl.com/math/skill-plans/njgpa-math){: target="_blank"}
