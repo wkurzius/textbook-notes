@@ -3,6 +3,8 @@ title: "This Week (Feb. 24–Feb. 28)"
 layout: this-week
 ---
 
+[Site home](./)
+
 |                  | New Material                                                                                                                              | Next Quiz     |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | **AP Calc**      | [4.5](./calc-for-ap-larson/4.5-the-net-change-theorem.md) and [4.6](./calc-for-ap-larson/4.6-integration-by-substitution.md)              | March 6       |
@@ -19,7 +21,7 @@ layout: this-week
 
 ## Notes and Homework
 
-[AP Calc](./calc-for-ap-larson/) \| [Algebra 2](./envision-algebra-2/) \| College Prep [notes/HW](./openstax-college-algebra-2e/) and [book](https://openstax.org/books/college-algebra-2e/pages/1-introduction-to-prerequisites) \| [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="_blank"}
+[AP Calc](./calc-for-ap-larson/) \| [Algebra 2](./envision-algebra-2/) \| College Prep [notes/HW](./openstax-college-algebra-2e/) and [book](https://openstax.org/books/college-algebra-2e/pages/1-introduction-to-prerequisites){: target="_blank"} \| [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="_blank"}
 
 ## Extras
 
