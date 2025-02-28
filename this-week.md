@@ -1,17 +1,16 @@
 ---
-title: "This Week (Feb. 24–Feb. 28)"
+title: "This Week (March 3–7)"
 layout: this-week
 ---
 
 [Site home](./)
 
-|                  | New Material                                                                                                                              | Next Quiz     |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| **AP Calc**      | [4.5](./calc-for-ap-larson/4.5-the-net-change-theorem.md) and [4.6](./calc-for-ap-larson/4.6-integration-by-substitution.md)              | March 6       |
-| **Algebra 2**    | [5.2](./envision-algebra-2/5-2-properties-of-exponents-and-radicals.md) and [5.3](./envision-algebra-2/5-3-graphing-radical-functions.md) | March 6       |
-| **College Prep** | [1.5](./openstax-college-algebra-2e/1-5-factoring-polynomials.md) and [1.6](./openstax-college-algebra-2e/1-6-rational-expressions.md)    | March ~~6~~ 5 |
+|                  | New Material                                                                    | Next Quiz |
+| ---------------- | ------------------------------------------------------------------------------- | --------- |
+| **AP Calc**      | [4.7](./calc-for-ap-larson/4.7-the-natural-logarithmic-function-integration.md) | March 6   |
+| **Algebra 2**    | [5.4](./envision-algebra-2/5-4-solving-radical-equations.md)                    | March 6   |
+| **College Prep** | --                                                                              | March 5   |
 
-- ~~College Prep, we are in room 8 on Thursday 2/27~~
 - College Prep, we are in room 8 again on Monday, March 3
 - NJGPA is March 10–14 for all juniors
   - [Try out the tutorials and practice tests](https://nj.mypearsonsupport.com/practice-tests/)
