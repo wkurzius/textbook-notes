@@ -53,7 +53,7 @@ So, despite appearances at the end, there is only one solution. You can see the 
 
 ## Radicals on Both Sides
 
-With two radicals, you can choose to split them up or keep them together. Ultimately, you'll end having to square twice to get rid of each. Here's one equation solved with two different approaches.
+With two radicals, you can choose to split them up or keep them together. Regardless, you'll end having to square twice to get rid of each. Here's one equation solved with two different approaches.
 
 $$\begin{align}
           \sqrt{x+9} - \sqrt{2x} &=3               &\qquad \sqrt{x+9} - \sqrt{2x} &=3 \\
