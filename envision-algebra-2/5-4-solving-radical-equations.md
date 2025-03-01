@@ -64,4 +64,4 @@ $$\begin{align}
                        x^2 - 72x &= 0              &\qquad              x^2 - 72x &= 0
 \end{align}$$
 
-Again, since we are squaring we need to check for extraneous solutions. Here, it's a little more clear cut as plugging $72$ yields $-3=3$, so only $0$ works as a solution.
+Again, since we are squaring we need to check for extraneous solutions. Here, it's a little more clear cut as $x=72$ gives us $-3=3$, so only $x=0$ works as a solution.
