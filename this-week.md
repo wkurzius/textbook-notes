@@ -5,14 +5,14 @@ layout: this-week
 
 [Site home](./)
 
-|                  | New Material                                                                    | Next Quiz |
-| ---------------- | ------------------------------------------------------------------------------- | --------- |
-| **AP Calc**      | [4.7](./calc-for-ap-larson/4.7-the-natural-logarithmic-function-integration.md) | March 6   |
-| **Algebra 2**    | [5.4](./envision-algebra-2/5-4-solving-radical-equations.md)                    | March 6   |
-| **College Prep** | --                                                                              | March 5   |
+|                  | New Material                                                                    | Next Quiz                                 |
+| ---------------- | ------------------------------------------------------------------------------- | ----------------------------------------- |
+| **AP Calc**      | [4.7](./calc-for-ap-larson/4.7-the-natural-logarithmic-function-integration.md) | March 6                                   |
+| **Algebra 2**    | [5.4](./envision-algebra-2/5-4-solving-radical-equations.md)                    | [March 6](./envision-algebra-2/review.md) |
+| **College Prep** | --                                                                              | March 5                                   |
 
 - College Prep, we are in room 8 again on Monday, March 3
-- NJGPA is March 10–14 for all juniors
+- NJGPA is next week
   - [Try out the tutorials and practice tests](https://nj.mypearsonsupport.com/practice-tests/)
   - Get extra practice with the [IXL skill plan for the NJGPA](https://www.ixl.com/math/skill-plans/njgpa-math)
 
