@@ -5,11 +5,11 @@ layout: this-week
 
 [Site home](./)
 
-|                  | New Material                                                                    | Next Quiz                                 |
-| ---------------- | ------------------------------------------------------------------------------- | ----------------------------------------- |
-| **AP Calc**      | [4.7](./calc-for-ap-larson/4.7-the-natural-logarithmic-function-integration.md) | March 6                                   |
-| **Algebra 2**    | [5.4](./envision-algebra-2/5-4-solving-radical-equations.md)                    | [March 6](./envision-algebra-2/review.md) |
-| **College Prep** | --                                                                              | March 5                                   |
+|                  | New Material                                                                    | Next Quiz                                          |
+| ---------------- | ------------------------------------------------------------------------------- | -------------------------------------------------- |
+| **AP Calc**      | [4.7](./calc-for-ap-larson/4.7-the-natural-logarithmic-function-integration.md) | March 6 on 4.4–4.7                                   |
+| **Algebra 2**    | [5.4](./envision-algebra-2/5-4-solving-radical-equations.md)                    | March 6 on [5.1–5.4](./envision-algebra-2/review.md) |
+| **College Prep** | --                                                                              | March 5 on 1.4–1.6                                   |
 
 - College Prep, we are in room 8 again on Monday, March 3
 - NJGPA is next week
