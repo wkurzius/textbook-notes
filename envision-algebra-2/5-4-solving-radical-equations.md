@@ -47,7 +47,7 @@ $$\begin{align}
 \sqrt{4} &= -2
 \end{align}$$
 
-OK, so that is technically true, but unfortunately not how the square root function is *defined*. It might seem pedantic, but to make the square root function actually behave like a function, we limit it to one output per input. This is also why it an even root issue. Odd roots already behave like properly functions without any extra restrictions.
+OK, so that is technically true, but unfortunately not how the square root function is *defined*. It might seem pedantic, but to make the square root function actually behave like a function, we limit it to one output per input. This is also why it an issue with just the even roots. Odd roots already behave like proper functions without any extra restrictions.
 
 So, despite appearances at the end, there is only one solution. You can see the actual solution compared to the extraneous one [here in Desmos](https://www.desmos.com/calculator/zqxgtbkhfr).
 
