@@ -15,6 +15,7 @@ layout: this-week
 - NJGPA is next week
   - [Try out the tutorials and practice tests](https://nj.mypearsonsupport.com/practice-tests/)
   - Get extra practice with the [IXL skill plan for the NJGPA](https://www.ixl.com/math/skill-plans/njgpa-math)
+- Daylight Savings Time starts this Sunday
 
 ---
 
