@@ -21,7 +21,7 @@ Lesson date: March 3, 2025.
 
 ## Solving an Equation With One Radical
 
-A radical should be treated like any other exponent, so isolate it and then perform whatever operation needed to undo the radical.
+A radical should be treated like any other exponent, so isolate it and then perform whatever operation needed to undo it.
 
 $$\begin{align}
 \sqrt{x+5} - 1 &= 3 \\
@@ -47,7 +47,7 @@ $$\begin{align}
 \sqrt{4} &= -2
 \end{align}$$
 
-OK, so that is technically true, but unfortunately not how the square root function is *defined*. It might seem pedantic, but to make the square root function actually behave like a function, we limit it to one output per input. This is also why it an issue with just the even roots. Odd roots already behave like proper functions without any extra restrictions.
+OK, so that is technically true, but unfortunately not how the square root function is defined. It might seem pedantic, but to make the square root function actually behave like a function, we limit it to one output per input. This is also why it's an issue with just the even roots. Odd roots already behave like proper functions, without any extra restrictions.
 
 So, despite appearances at the end, there is only one solution. You can see the actual solution compared to the extraneous one [here in Desmos](https://www.desmos.com/calculator/zqxgtbkhfr).
 
@@ -64,4 +64,4 @@ $$\begin{align}
                        x^2 - 72x &= 0              &\qquad              x^2 - 72x &= 0
 \end{align}$$
 
-Again, since we are squaring we need to check for extraneous solutions. Here, it's a little more clear cut as $x=72$ gives us $-3=3$, so only $x=0$ works as a solution.
+And since we are dealing with square roots, we need to check for extraneous solutions. Here, it's a little more clear cut as $x=72$ gives us $-3=3$, so only $x=0$ works as a solution.
