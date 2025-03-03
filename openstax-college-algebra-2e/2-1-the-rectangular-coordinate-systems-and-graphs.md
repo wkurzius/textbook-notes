@@ -5,7 +5,7 @@ course: College Prep Math
 ---
 
 {: .lesson-dates}
-Lesson date: March 3, 2025.
+Lesson date: March 10, 2025
 
 - Plot ordered pairs in a Cartesian coordinate system.
 - Graph equations by plotting points.
