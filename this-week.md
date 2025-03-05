@@ -11,7 +11,7 @@ layout: this-week
 | **Algebra 2**    | [5.4](./envision-algebra-2/5-4-solving-radical-equations.md)                    | March 6 on [5.1–5.4](./envision-algebra-2/review.md) |
 | **College Prep** | --                                                                              | March 5 on 1.4–1.6                                   |
 
-- College Prep, we are in room 8 again on Monday
+- ~~College Prep, we are in room 8 again on Monday~~
 - Pops Concert is Thursday at 7 p.m.
 - No school Friday
 - Daylight Savings Time starts Sunday

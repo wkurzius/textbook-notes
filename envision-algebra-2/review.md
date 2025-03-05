@@ -2,7 +2,8 @@
 title: Algebra 2 Extra Practice and Review
 ---
 
-Answers for Topic Reviews are in the [odd](../misc/alg2-odd-answers.pdf) and [even](../misc/alg2-even-answers.pdf) answer documents.
+{: .info-block}
+This page contains PDFs of the extra practice problems for each of the sections, along with the answers. Answers for Topic Reviews are in the [odd](../misc/alg2-odd-answers.pdf) and [even](../misc/alg2-even-answers.pdf) answer documents.
 
 ## 1 Linear Functions and Systems
 
