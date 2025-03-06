@@ -4,10 +4,11 @@ layout: notes
 course: College Prep Math
 ---
 
-{: .lesson-dates}
-Lesson date: .
-
-- 
+- Solve equations involving rational exponents.
+- Solve equations using factoring.
+- Solve radical equations.
+- Solve absolute value equations.
+- Solve other types of equations.
 
 ## Assignment
 

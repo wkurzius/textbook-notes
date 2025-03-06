@@ -4,10 +4,10 @@ layout: notes
 course: College Prep Math
 ---
 
-{: .lesson-dates}
-Lesson date: .
-
-- 
+- Solve quadratic equations by factoring.
+- Solve quadratic equations by the square root property.
+- Solve quadratic equations by completing the square.
+- Solve quadratic equations by using the quadratic formula.
 
 ## Assignment
 

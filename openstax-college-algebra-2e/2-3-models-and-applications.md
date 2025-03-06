@@ -4,10 +4,8 @@ layout: notes
 course: College Prep Math
 ---
 
-{: .lesson-dates}
-Lesson date: .
-
-- 
+- Set up a linear equation to solve a real-world application.
+- Use a formula to solve a real-world application.
 
 ## Assignment
 

@@ -4,10 +4,10 @@ layout: notes
 course: College Prep Math
 ---
 
-{: .lesson-dates}
-Lesson date: .
-
-- 
+- Use interval notation
+- Use properties of inequalities.
+- Solve inequalities in one variable algebraically.
+- Solve absolute value inequalities.
 
 ## Assignment
 

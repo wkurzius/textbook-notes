@@ -4,9 +4,6 @@ layout: notes
 course: College Prep Math
 ---
 
-{: .lesson-dates}
-Lesson date: March 10, 2025
-
 - Plot ordered pairs in a Cartesian coordinate system.
 - Graph equations by plotting points.
 - Graph equations with a graphing utility.
@@ -16,7 +13,7 @@ Lesson date: March 10, 2025
 
 ## Assignment
 
-- 1–4, 5–47 odd
+- 1–4, 5–47 odd ([link](https://openstax.org/books/college-algebra-2e/pages/2-1-the-rectangular-coordinate-systems-and-graphs#fs-id1553580))
 - *Recommended*: all **vocabulary** and concept blocks copied into notes
 
 ---
