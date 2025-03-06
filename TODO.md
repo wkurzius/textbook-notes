@@ -16,3 +16,4 @@ title: TODO
 ## Algebra 2
 
 - In 4.4, address that complex fractions should be simplified so that only one rational expression exists in both the numerator and denominator before doing the final division.
+- 5.5 and 5.6 have modified HW due to NJGPA
