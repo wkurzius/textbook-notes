@@ -36,18 +36,29 @@ For the example above, $f$ and $g$ don't have any restrictions on their domain, 
 
 ## Function Composition
 
-Your basic operations work with functions, but there is an other operation that is made available to us because of how functions work. Sticking with the same $f$ and $g$ as before, here is function composition.
+Your basic operations work with functions, but there is an other operation that is made available to us because of how functions work. Let's set it up by reviewing function notation.
+
+$$\begin{align}
+f(x) &= 3x+4 \\
+f(2) &= 3(2)+4 \\
+f(-8) &= 3(-8)+4 \\
+f(a) &= 3a + 4
+\end{align}$$
+
+Whatever value $x$ is assigned, even if another variable, that will be substituted in for $x$ in the function. We can extend that idea to substitute in other functions.
 
 $$\begin{align}
 f(g(x)) &= 3(x^2-3x+2)+4 \\
 g(f(x)) &= (3x+4)^2-3(3x+4)+2
 \end{align}$$
 
-Or alternatively
+Or with the alternative notation.
 
 $$\begin{align}
 (f\circ g)(x) &= 3(x^2-3x+2)+4 \\
 (g\circ f)(x) &= (3x+4)^2-3(3x+4)+2
 \end{align}$$
 
-What's happening here is that one function is being plugged into the other.
+Determining the domain is slightly different with composition. The inner function's domain needs to be accounted for, along with the final composition. What does not need to be accounted for the outer function alone.
+
+To put it another way, if we have $f(g(x))$, we care about the domain of $g(x)$ and $f(g(x))$. We don't need to worry about the domain of $f(x)$.
