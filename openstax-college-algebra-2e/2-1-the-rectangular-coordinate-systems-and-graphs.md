@@ -17,3 +17,16 @@ course: College Prep Math
 - *Recommended*: all **vocabulary** and concept blocks copied into notes
 
 ---
+
+## Plotting Ordered Pairs in the Cartesian Coordinate System
+
+Cartesian Coordinate System is the fancy name for this:
+
+![Cartesian coordinate system](./img/2-1-ccs.jpg)
+
+It consists of an **$x$-axis** (horizontal) and a **$y$-axis** (vertical), and the point where they meet is the **origin**. The four areas that are created by the intersecting axes are **quadrants** and are numbered I through IV starting with the top-right and moving counter-clockwise.
+
+An **ordered pair** is used to identify the location of a point on the plane, for example $(3,-1)$. The first number is the **$x$-coordinate** and the second is the **$y$-coordinate**. Starting from the origin, you use these numbers to locate your point. In this case, you move along the $x$-axis $3$ in and the $y$-axis $-1$.
+
+![The point (3,-1) plotted](./img/2-1-plot-point.jpg)
+
