@@ -13,6 +13,7 @@ layout: this-week
 
 - NJGPA is this week
 - College Prep, we are in room 30 Monday through Thursday this week due to testing
+  - [Practice questions](https://nj.mypearsonsupport.com/practice-tests/)
 
 ---
 
