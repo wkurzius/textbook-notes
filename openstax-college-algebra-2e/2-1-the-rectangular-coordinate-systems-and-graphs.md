@@ -65,3 +65,37 @@ y &= 2x - 1 \\
 \frac{1}{2} &= x \\
 &\left(\frac{1}{2},0\right) &&\text{The $x$-intercept} \\[1.5em]
 \end{align}$$
+
+## The Distance Formula
+
+The Pythagorean Theorem relates the length of the three sides of a right triangle.
+
+$$\begin{align}
+a^2 + b^2 = c^2
+\end{align}$$
+
+We can use this to find the distance between any two points by simply making that distance part of a right triangle. If you connect the two points with one horizontal and one vertical line, you'll have a right triangle with your distance as the long side. The lengths of the two lines you added will be $a$ and $b$.
+
+![Right triangle and distance between two points](./img/2-1-distance.jpg)
+
+If drawing a picture isn't your thing, there is the formula itself.
+
+$$\begin{align}
+d = \sqrt{(x_1-x_2)^2+(y_1-y_2)^2}
+\end{align}$$
+
+- $(x_1-x_2)$ gives you the horizontal distance
+- $(y_1-y_2)$ gives you the vertical distance
+- Squaring and then adding those two is dicated by the Pythagorean Theorem
+- Find the square root is needed since the sum would produce $d^2$, while we need just $d$
+
+In the picture above, we have the points $(1,1)$ and $(5,6)$. Let's find the distance. I'll use $(5,6)$ as the first point and $(1,1)$ as the second just to make the subtraction easier, but the other way would work just as well.
+
+$$\begin{align}
+d &= \sqrt{(5-1)^2+(6-1)^2} \\
+  &= \sqrt{(4)^2+(5)^2} \\
+  &= \sqrt{16+25} \\
+d &= \sqrt{41}
+\end{align}$$
+
+Expect to get irrational answers like we just did above. Whole number results are rare.
