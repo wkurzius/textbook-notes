@@ -99,3 +99,15 @@ d &= \sqrt{41}
 \end{align}$$
 
 Expect to get irrational answers like we just did above. Whole number results are rare.
+
+## The Midpoint Formula
+
+To find the midpoint between two points, simply average their $x$ and $y$-coordinates. This works because the midpoint is both horizontally and vertically in the middle of the two original points.
+
+![Midpoint](./img/2-1-midpoint.jpg)
+
+Given the points $(1,1)$ and $(3,5)$, the midpoint would be
+
+$$\begin{align}
+\left(\frac{x_1+x_2}{2}, \frac{y_1+y_2}{2}\right) = \left(\frac{1+3}{2}, \frac{1+5}{2}\right) = (2,3)
+\end{align}$$
