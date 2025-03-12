@@ -30,13 +30,17 @@ f^{-1}(x) &= \frac{x-3}{2}
 
 And you can verify that the two are inverses of each other by using function composition. If they are inverses, then $f(g(x)) = x$ and also $g(f(x)) = x$. Checking one is enough to prove inversality (not a real word).
 
-$$\begin{align*}
-f(g(x)) &= 2\left(\frac{1}{2}x - \frac{3}{2}\right) + 3 \\
+$$\begin{align}
+f(g(x)) &= 2\left(\frac{x-3}{2}\right) + 3 \\
         &= x - 3 + 3 \\
-        &= x
-\end{align*}$$
+f(g(x)) &= x
+\end{align}$$
 
-You can think of inverse functions as undoing the original, so you are left with the just $x$. Related to this, when graphed you'll notice that the inverse function is the original reflected over the line $y=x$. You can see our pair graphed on Desmos [here](https://www.desmos.com/calculator/fv9rgwo6fa).
+You can think of inverse functions as undoing the original, which is why you are left with just $x$ after the composition.
+
+Also worth noting is that when graphed, the inverse is a reflection of the original over the line $y=x$, which is where the ordered pairs equal each other.
+
+You can see our pair graphed on Desmos [here](https://www.desmos.com/calculator/fv9rgwo6fa).
 
 ## Domain and Range
 
