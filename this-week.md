@@ -9,7 +9,7 @@ layout: this-week
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------- |
 | **AP Calc**      | --                                                                                                                            | April 3   |
 | **Algebra 2**    | [5.5](./envision-algebra-2/5-5-function-operations.md) and [5.6](./envision-algebra-2/5-6-inverse-relations-and-functions.md) | March 27  |
-| **College Prep** | ~~[2.1](./openstax-college-algebra-2e/2-1-the-rectangular-coordinate-systems-and-graphs.md)~~ [2.1 and 2.2 in Elementary Algebra](./openstax-elementary-algebra-2e/2-1-2-2-solving-equations-using-the-addition-and-multiplication.md)                                                                                                                           | March 27  |
+| **College Prep** | ~~[2.1](./openstax-college-algebra-2e/2-1-the-rectangular-coordinate-systems-and-graphs.md)~~ [2.1 and 2.2 in Elementary Algebra](./openstax-elementary-algebra-2e/2-1-2-2-solving-equations-using-the-properties-of-equality.md)                                                                                                                           | March 27  |
 
 - ⚠ College Prep, we are moving to a different online book. The Links below have been updated.
 - NJGPA is this week
