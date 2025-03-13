@@ -7,4 +7,4 @@ title: "OpenStax Elementary Algebra 2e"
 
 ## 2 Solving Linear Equations and Inequalities
 
-- 2.1–2.2 Solving Equations using the Addition and Multiplication Properties of Equality
+- [2.1 and 2.2 Solving Equations using the Properties of Equality](./2-1-2-2-solving-equations-using-the-properties-of-equality.md)
