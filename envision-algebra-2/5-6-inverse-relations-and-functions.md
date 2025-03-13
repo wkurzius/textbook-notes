@@ -44,6 +44,10 @@ You can see our pair graphed on Desmos [here](https://www.desmos.com/calculator/
 
 ## Domain and Range
 
-Everything above is the simple version, whereas reality is more complicated. When you invert a function, it's domain and range are swapped and any restrictions go along with it. The function $x^2$ does not have an inverse function, as its [actual inverse is not a function](https://www.desmos.com/calculator/tiygqoykan).
+Everything above is the simple version, whereas reality is more complicated. When you invert a function, it's domain and range are swapped and the result isn't always a function. In those cases, extra restrictions have to be made, typically on the range. The function $f(x)=x^2$ is one we've discussed already. It's inverse is $f^{-1}(x)=\sqrt{x}$, but the range has to be redefined as $y\ge 0$.
 
-So, a function has to be one-to-one in order for it to have an inverse, meaning each $x$ value maps to exactly one $y$ value (which is the definition of a function), but also each $y$ value matches to exactly one $x$ value. You can use the Horizontal Line Test to see if a function has an inverse. It works exactly like the Vertical Line Test, except horizontal.
+Functions that do invert nicely are referred to as **one-to-one**, meaning not only does each $x$-value map to only one $y$-value (which is the definition of a function), but each $y$-value also matches to exactly one $x$-value. You can use the Horizontal Line Test to see if a function has an inverse. It works exactly like the Vertical Line Test, except ... well ... horizontal.
+
+{: .figure}
+![x^3-x+1](./img/5-6-horizontal-failure.png)
+*The graph of $x^3-x+1$, which is a function, but fails the Horizontal Line Test, meaning it's not one-to-one and doesn't have an inverse.*
