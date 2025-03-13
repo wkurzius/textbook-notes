@@ -118,7 +118,27 @@ h2#additional-resources {
     padding: 0.5rem 1rem;
 }
 
-img + em {
-    display: block;
+.figure {
+    border: none;
+    background: none;
+    padding: 0;
     font-size: small;
+    font-style: normal;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    
+}
+
+.figure p {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.figure img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

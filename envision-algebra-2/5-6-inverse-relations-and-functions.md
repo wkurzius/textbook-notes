@@ -48,5 +48,7 @@ Everything above is the simple version, whereas reality is more complicated. Whe
 
 Functions that do invert nicely are referred to as **one-to-one**, meaning not only does each $x$-value map to only one $y$-value (which is the definition of a function), but each $y$-value also matches to exactly one $x$-value. You can use the Horizontal Line Test to see if a function has an inverse. It works exactly like the Vertical Line Test, except ... well ... horizontal.
 
-![x^3-x+1](./img/5-6-horizontal-failure.png)
-*The graph of $x^3-x+1$, which is a function, but fails the Horizontal Line Test, meaning it's not one-to-one and doesn't have an inverse.*
+> ![x^3-x+1](./img/5-6-horizontal-failure.png)
+>
+> The graph of $x^3-x+1$, which is a function, but fails the Horizontal Line Test, meaning it's not one-to-one and doesn't have an inverse.
+{: .figure}
