@@ -26,4 +26,5 @@ layout: this-week
 
 - Before school help with me, Tuesday through Thursday in room 31
 - After school tutoring with Ms. Harris, Monday and Wednesday in room 19/20
+- [Sub Study sheet](https://docs.google.com/spreadsheets/d/1cOCYZAF-hvZ42TtM_6EWiE3OjpTO7w4Vou7y87UMICU/edit?pli=1&gid=0#gid=0)
 - [Miscellaneous math links](./misc/math-links.md)
