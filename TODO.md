@@ -5,6 +5,7 @@ title: TODO
 ## General
 
 - Merge with main github.io repository? Possibly also use mr.kurzius.net as main address.
+- Figures. See Algebra 2 5.6
 
 ## Calc
 
