@@ -118,17 +118,7 @@ h2#additional-resources {
     padding: 0.5rem 1rem;
 }
 
-.figure {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.figure img {
-    text-align: center;
-}
-
-.figure em {
+img + em {
     display: block;
-    font-style: normal;
+    font-size: small;
 }
