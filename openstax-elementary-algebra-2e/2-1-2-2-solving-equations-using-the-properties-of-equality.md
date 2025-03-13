@@ -4,7 +4,11 @@ layout: notes
 course: College Prep Math
 ---
 
-- objectives
+- Verify a solution of an equation
+- Solve equations using the properties of equality
+- Solve equations that require simplification
+- Translate to an equation and solve
+- Translate and solve applications
 
 ## Assignment
 
