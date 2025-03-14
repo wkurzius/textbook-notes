@@ -96,7 +96,7 @@ We have our inverse function, but the resulting rule is a parabola and doesn't m
 {: .figure}
 >![Inverted $\sqrt{x-2}-1$](./img/5-6-root-to-squared.png)
 >
-> **Figure 5.6.2** Inverting the function $\sqrt{x-2}-1$ requires a close look at the domains.
+> **Figure 5.6.2** Inverting the function $\sqrt{x-2}-1$ without setting the domain to the original's range won't result in a true inverse function.
 
 ## Verifying Inverses
 
