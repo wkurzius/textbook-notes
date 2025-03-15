@@ -59,15 +59,20 @@ x &= y^2 \\
 \pm\sqrt{x} &= y
 \end{align}$$
 
-Since we are interested in writing a function involving the square root, we will drop the $\pm$ before it. Our new function will use the notation ${f^{-1}}$ to indicate it is an inverse.
+Since we are interested in writing a function with just the positive domain of $x^2$, we will make the range of $\sqrt{x}$ only positive by dropping the $\pm$ before it. Our new function will use the notation ${f^{-1}}$ to indicate it is an inverse.
 
 $$\begin{align}
 f^{-1}(x)=\sqrt{x}
 \end{align}$$
 
-> There is a difference between using square root to solve something, and the square root function. If we need to solve ${x^2 = 9}$, square roots are required and we get two answers with $x=\pm3$. This is in contrast to the square root function, where if ${f(x)=\sqrt{x}}$ then ${f(9)=3}$ **and only** $3$.
+> Some notes on what happened above.
 >
-> Similarly, we don't deal with complex numbers with the square root function. When solving, they can appear and should be accounted for, but the function does not have negative numbers as part of its domain.
+> 1. There is no rule about which part of the domain to omit when creating an inverse. We could have chosen to work with the negative part of the domain and ended up creating ${f^{-1}(x)=-\sqrt{x}}$.
+>
+> 2. There is a difference between using square root to solve something, and the square root function. If we need to solve ${x^2 = 9}$, square roots are required and we get two answers with $x=\pm3$. This is in contrast to the square root function, where if ${f(x)=\sqrt{x}}$ then ${f(9)=3}$ **and only** $3$.
+>
+>    Similarly, we don't deal with complex numbers with the square root function. When solving, they can appear and should be accounted for, but the function does not have negative numbers as part of its domain.
+>
 
 ## Domain and Range
 
