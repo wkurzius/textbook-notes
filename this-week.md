@@ -1,20 +1,17 @@
 ---
-title: "This Week (March 10–14)"
+title: "This Week (March 17–21)"
 layout: this-week
 ---
 
 [Site home](./)
 
-|                  | New Material                                                                                                                  | Next Quiz |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **AP Calc**      | --                                                                                                                            | April 3   |
-| **Algebra 2**    | [5.5](./envision-algebra-2/5-5-function-operations.md) and [5.6](./envision-algebra-2/5-6-inverse-relations-and-functions.md) | March 27  |
-| **College Prep** | ~~[2.1](./openstax-college-algebra-2e/2-1-the-rectangular-coordinate-systems-and-graphs.md)~~ [2.1 and 2.2 in Elementary Algebra](./openstax-elementary-algebra-2e/2-1-2-2-solving-equations-using-the-properties-of-equality.md)                                                                                                                           | March 27  |
+|                  | New Material                                                                                                                                                                                                                                                              | Next Quiz                  |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| **AP Calc**      | [4.8](./calc-for-ap-larson/4.8-inverse-trigonometric-function-integration.md) and [5.1](./calc-for-ap-larson/5.1-slope-fields-and-eulers-method.md)                                                                                                                       | April 4                    |
+| **Algebra 2**    | [6.1](./envision-algebra-2/6-1-key-features-of-exponential-functions.md) and [6.3](./envision-algebra-2/6-3-logarithms.md)                                                                                                                                                | March 27 (MP Exam April 3) |
+| **College Prep** | [2.3](./openstax-elementary-algebra-2e/2-3-equations-with-variables-on-both-sides.md), [2.4](./openstax-elementary-algebra-2e/2-4-general-strategy-to-solve-linear-equations.md) and [2.5](./openstax-elementary-algebra-2e/2-5-equations-with-fractions-and-decimals.md) | April 2                    |
 
-- ⚠ College Prep, we are moving to a different online book. The Links below have been updated.
-- NJGPA is this week
-- College Prep, we are in room 30 Monday through Thursday this week due to testing
-  - [Practice questions](https://nj.mypearsonsupport.com/practice-tests/)
+- We are down to the last three weeks in the marking period.
 
 ---
 

@@ -53,10 +53,10 @@ title: enVision Algebra 2 Common Core 2018 Notes
 
 ## 6 Exponential and Logarithmic Functions
 
-- 6.1 Key Features of Exponential Functions
-- 6.2 Exponential Models
-- 6.3 Logarithms
-- 6.4 Logarithmic Functions
+- [6.1 Key Features of Exponential Functions](./6-1-key-features-of-exponential-functions.md)
+- ~~6.2 Exponential Models~~
+- [6.3 Logarithms](./6-3-logarithms.md)
+- [6.4 Logarithmic Functions](./6-4-logarithmic-functions.md)
 - 6.5 Properties of Logarithms
 - 6.6 Exponential and Logarithmic Equations
 - 6.7 Geometric Sequences and Series

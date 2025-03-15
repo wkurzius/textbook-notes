@@ -9,6 +9,5 @@ course: College Prep Math
 ## Assignment
 
 - assignment
-- *Recommended*: all **vocabulary** and concept blocks copied into notes
 
 ---
