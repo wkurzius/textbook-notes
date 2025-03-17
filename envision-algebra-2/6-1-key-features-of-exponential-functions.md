@@ -40,9 +40,9 @@ But their base is the unique feature of exponentials, and it's because of this b
 1. If $b>1$, the graph increases with the end behavior mentioned above only applying to the negative side of the $x$-axis.
 2. If $0<b<1$ then the graph decreases and the end behavior applies only to the positive side of the $x$-axis.
 
-All other cases you should check out on your own. You will likely end up having more questions about how this all works (like how the hell does $2^\pi$ work?), and I'll the do the best I can to answer them in person, but those questions are beyond what I want to do here.
+All other cases you should check out on your own. You will likely end up having more questions about how this all works (like how the hell does $2^\sqrt2$ work?), and I'll the do the best I can to answer them in person, but those questions are beyond what I want to do here.
 
-So, bases greater than $1$ are an increase, or **exponential growth** and between $0$ and $1$ is decreasing, or **exponential decay**. After the base is settled, transformations can be applied and they work like they always have. Of particular note is your vertical transformation, or $a$ in ${f(x)=a\cdot b^x}$. This is typically your initial value as that gets all the multplication from the exponential part of the function. Absent any translations, this will also be your $y$-intercept.
+So, bases greater than $1$ produce an increasing function and referred to as **exponential growth**. Between $0$ and $1$ is a decreasing function, or **exponential decay**. After the base is settled, transformations can be applied and they work like they always have. Of particular note is your vertical transformation, or $a$ in ${f(x)=a\cdot b^x}$. This is typically your initial value as that gets all the multplication from the exponential part of the function. Absent any translations, this will also be your $y$-intercept.
 
 > ![Graphs of exponentials](./img/6-1-abx.png)
 >
@@ -55,9 +55,9 @@ Let's look at some examples of modeling with exponentials to see how they transl
 
 Over a four-year period, the population of an area grew at a rate of $1.3\%$ each year. The population in the initial year was $4.6$ million.
 
-Rather than write all those zeros, we'll keep things in the millions. This means our initial value is $4.6$, so that's our $a$. Easy enough.
+Rather than write all those zeros, we'll keep things in the millions. This means our initial value $a$ is $4.6$, which will increase by $1.3\%$ every year.
 
-The trickier part is the base. The increase was $1.3\%$ or $0.013$, but that is *not* our base. What you have to keep in mind when multiplying is that ${100\%=1}$, and multiplying by $1$ does nothing. Multiplying by more than $1$ leads to an increase, and less than $1$ is a decrease. That's why the base has the effect it does on the shape of the graph.
+The trickier part is the base. The increase is $1.3\%$ or $0.013$, but that is *not* our base. What you have to keep in mind when multiplying is that ${100\%=1}$, and multiplying by $1$ does nothing. Multiplying by more than $1$ leads to an increase, and less than $1$ is a decrease. That's why the base has the effect it does on the shape of the graph.
 
 So, most problems will have you adjust from $100\%$. Our population increased by $1.3\%$ each year, meaning our base is $100\%+1.3\%$, or what was there to begin with plus $1.3\%$ more.
 
