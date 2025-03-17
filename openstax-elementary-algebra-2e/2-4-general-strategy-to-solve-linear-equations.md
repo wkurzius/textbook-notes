@@ -17,12 +17,12 @@ course: College Prep Math
 
 We now have everything we need solve linear equations and can form a list of steps to follow.
 
-> ### General strategy for solving linear equations.
+> ### General strategy for solving linear equations
 >
 > 1. **Simplify** Use the Distributive Property to remove any parentheses and combine like terms on both sides of the equation.
 > 2. **Collect** Use the Addition and Subtraction Properties of Equality to collect all the variable terms on one side, and constants on the other.
-> 4. **Solve** Make the coefficient of the variable term to equal to 1 by using the Multiplication or Division Property of Equality.
-> 5. **Check** Substitute the solution into the original equation to make sure the result is a true statement.
+> 3. **Solve** Make the coefficient of the variable term to equal to 1 by using the Multiplication or Division Property of Equality.
+> 4. **Check** Substitute the solution into the original equation to make sure the result is a true statement.
 {: .definition}
 
 $$\begin{align}

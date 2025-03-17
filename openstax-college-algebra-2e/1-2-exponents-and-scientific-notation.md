@@ -101,7 +101,7 @@ $$\begin{align}
 
 ## Using Scientific Notation
 
-Our number system is known as the decimal system, meaning that each place value in a number is worth ten times more than the one before it. If you mutliplied a number by 10, then you only need to move the decimal place out one and fill in a zero. So, $23\times 10=230$. Likewise, dividing by 10 moves the decimal to the left. $23 \div 10 = 2.3$.
+Our number system is known as the decimal system, meaning that each place value in a number is worth ten times more than the one before it. If you multiplied a number by 10, then you only need to move the decimal place out one and fill in a zero. So, $23\times 10=230$. Likewise, dividing by 10 moves the decimal to the left. $23 \div 10 = 2.3$.
 
 We use this idea to write really large or small numbers more concisely in our mathematical expressions. Rather than writing the number of bits of information in a digital image as $13\, 000\, 000\, 000\, 000$, we put $1.3\times10^{13}$. The number $1.3$ with the decimal place moved to the right thirteen times.
 

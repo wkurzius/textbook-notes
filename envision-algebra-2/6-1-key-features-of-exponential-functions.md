@@ -16,7 +16,7 @@ course: Algebra 2 and Trig
 
 ---
 
-## Expotential Functions
+## Exponential Functions
 
 Exponential functions are used to model situations with repeated multiplication. Here's their general form.
 
@@ -33,25 +33,25 @@ Each exponential function—without any transformations aside from a base change
 
 1. Domain of all real numbers, and a range of $y>0$.
 2. A $y$-intercept of $(0,1)$.
-3. A horizntal asymptote at $y=0$, but only for one side.
+3. A horizontal asymptote at $y=0$, but only for one side.
 
-But their base is the unique feature of exponentials, and it's because of this base that they don't really have a default state. We can talk about them in general, but each one is unique. So given a base of $b$
+But their base is the unique feature of exponential functions, and it's because of this base that they don't really have a default state. We can talk about them in general, but each one is unique. So given a base of $b$
 
 1. If $b>1$, the graph increases with the end behavior mentioned above only applying to the negative side of the $x$-axis.
 2. If $0<b<1$ then the graph decreases and the end behavior applies only to the positive side of the $x$-axis.
 
 All other cases you should check out on your own. You will likely end up having more questions about how this all works (like how the hell does $2^\sqrt2$ work?), and I'll the do the best I can to answer them in person, but those questions are beyond what I want to do here.
 
-So, bases greater than $1$ produce an increasing function and referred to as **exponential growth**. Between $0$ and $1$ is a decreasing function, or **exponential decay**. After the base is settled, transformations can be applied and they work like they always have. Of particular note is your vertical transformation, or $a$ in ${f(x)=a\cdot b^x}$. This is typically your initial value as that gets all the multplication from the exponential part of the function. Absent any translations, this will also be your $y$-intercept.
+So, bases greater than $1$ produce an increasing function and referred to as **exponential growth**. Between $0$ and $1$ is a decreasing function, or **exponential decay**. After the base is settled, transformations can be applied and they work like they always have. Of particular note is your vertical transformation, or $a$ in ${f(x)=a\cdot b^x}$. This is typically your initial value as that gets all the multiplication from the exponential part of the function. Absent any translations, this will also be your $y$-intercept.
 
-> ![Graphs of exponentials](./img/6-1-abx.png)
+> ![Graphs of exponential functions](./img/6-1-abx.png)
 >
 > **Figure 6.1.2** Graphs of the $2^x$ in red and $2 \cdot 2^x$ in blue.
 {: .figure}
 
-## Modeling With Exponentials
+## Modeling With Exponential Functions
 
-Let's look at some examples of modeling with exponentials to see how they translate from words to math-speak.
+Let's look at some examples of modeling with exponential functions to see how they translate from words to math-speak.
 
 Over a four-year period, the population of an area grew at a rate of $1.3\%$ each year. The population in the initial year was $4.6$ million.
 
@@ -71,4 +71,4 @@ $$\begin{align}
 V(t) = 24(0.8)^t
 \end{align}$$
 
-We're working in thousands of dollars, so $24$ means an initial value of \\$24,000. The base of $0.8$ has to be interpretted like before, in terms of the original $100\%$. Subtracting $0.8$ from $1$ gives us $0.2$, meaning the car sees a $20\%$ decrease in value each year.
+We're working in thousands of dollars, so $24$ means an initial value of \\$24,000. The base of $0.8$ has to be interpreted like before, in terms of the original $100\%$. Subtracting $0.8$ from $1$ gives us $0.2$, meaning the car sees a $20\%$ decrease in value each year.

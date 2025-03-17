@@ -86,7 +86,7 @@ d = \sqrt{(x_1-x_2)^2+(y_1-y_2)^2}
 
 - $(x_1-x_2)$ gives you the horizontal distance
 - $(y_1-y_2)$ gives you the vertical distance
-- Squaring and then adding those two is dicated by the Pythagorean Theorem
+- Squaring and then adding those two is dictated by the Pythagorean Theorem
 - Find the square root is needed since the sum would produce $d^2$, while we need just $d$
 
 In the picture above, we have the points $(1,1)$ and $(5,6)$. Let's find the distance. I'll use $(5,6)$ as the first point and $(1,1)$ as the second just to make the subtraction easier, but the other way would work just as well.
