@@ -71,4 +71,4 @@ $$\begin{align}
 V(t) = 24(0.8)^t
 \end{align}$$
 
-We're working in thousands of dollars, so $24$ means an initial value of $24,000. The base of $0.8$ has to be interpretted like before, in terms of the original $100\%$. Subtracting $0.8$ from $1$ gives us $0.2$, meaning the car sees a $20\%$ decrease in value each year.
+We're working in thousands of dollars, so $24$ means an initial value of \\$24,000. The base of $0.8$ has to be interpretted like before, in terms of the original $100\%$. Subtracting $0.8$ from $1$ gives us $0.2$, meaning the car sees a $20\%$ decrease in value each year.
