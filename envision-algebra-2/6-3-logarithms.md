@@ -11,7 +11,7 @@ course: Algebra 2 and Trig
 ## Assignment
 
 - All vocabulary copied into notes
-- p319 13–20, 25–57
+- p319 13–20, 25–57 ([pdf](./pdf/alg2-practice-0603.pdf))
   - Answers to [odd questions](../misc/alg2-odd-answers.pdf) / [even questions](../misc/alg2-even-answers.pdf)
 
 ---
