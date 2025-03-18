@@ -69,9 +69,10 @@ That function is the result of asking what would happen, if instead of doubling 
 
 ## Solving With Logarithms
 
-Logorithms have a lot of unique properties that we'll get into in a few sections, but for now there is one important one we'll use to solve equations involving exponents or logarithms.
+Logarithms have a lot of unique properties that we'll get into in a few sections, but for now there is one important one we'll use to solve equations involving exponents or logarithms.
 
 $$\begin{align}
 \log_bb^x = x \\
 b^{\log_b{x}} = x
 \end{align}$$
+
