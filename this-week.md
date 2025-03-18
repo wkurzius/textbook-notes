@@ -11,7 +11,7 @@ layout: this-week
 | **Algebra 2**    | [6.1](./envision-algebra-2/6-1-key-features-of-exponential-functions.md) and [6.3](./envision-algebra-2/6-3-logarithms.md)                                                                                                                                                | March 27 (MP Exam April 3) |
 | **College Prep** | [2.3](./openstax-elementary-algebra-2e/2-3-equations-with-variables-on-both-sides.md), [2.4](./openstax-elementary-algebra-2e/2-4-general-strategy-to-solve-linear-equations.md) and [2.5](./openstax-elementary-algebra-2e/2-5-equations-with-fractions-and-decimals.md) | April 2                    |
 
-- We are down to the last three weeks in the marking period.
+- We are down to the last three weeks in the marking period. Last day is April 4.
 
 ---
 
