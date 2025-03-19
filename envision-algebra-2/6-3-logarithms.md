@@ -69,10 +69,25 @@ That function is the result of asking what would happen, if instead of doubling 
 
 ## Solving With Logarithms
 
-Logarithms have a lot of unique properties that we'll get into in a few sections, but for now there is one important one we'll use to solve equations involving exponents or logarithms.
+Logarithms have a lot of unique properties, most of which we'll cover in later sections, but for now there is one important one we'll use to solve equations involving exponents or logarithms.
 
 $$\begin{align}
 \log_bb^x = x \\
 b^{\log_b{x}} = x
 \end{align}$$
 
+Matching the bases of exponents and logarithms allows you to solve for the power. We can use these to solve equations like the ones below.
+
+$$\begin{align}
+25 &= 10^{x-1} \\
+\log{25} &= \log{10^{x-1}} &&\text{Find $\log_{10}$ of both sides} \\
+\log{25} &= x-1 \\
+\log{25} + 1 &= x \\
+1 + \log{25} &= x &&\text{Reorder for clarity.} \\[2em]
+\ln{(2x+3)} &= 4 \\
+e^{\ln{(2x+3)}} &= e^4 && \text{Set both sides as powers of $e$} \\
+2x+3 &= e^4 \\
+x &= \frac{e^4 - 3}{2}
+\end{align}$$
+
+The *exact* value of $x$ was found for both of the equations above, but often an *approximate* answer is what the problem is looking for, so have a calculator nearby when working on the assignment.
