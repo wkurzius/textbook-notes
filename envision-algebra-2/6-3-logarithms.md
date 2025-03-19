@@ -37,7 +37,7 @@ $$\begin{align}
 \log_4{16} = 2 \quad\leftrightarrow \quad 4^2=16
 \end{align}$$
 
-Moving between the two forms allows you to evaluate simple logarithms. If asked to evaluate $\log_3{9}$, you can rewrite it to better see what is being asked.
+Moving between the two forms allows you to evaluate simple logarithms. If asked to evaluate $\log_3{9}$, you can rewrite it so it's easier to see what is being asked.
 
 $$\begin{align}
 \log_3{9} \quad\rightarrow\quad 3^? = 9
@@ -47,7 +47,9 @@ $$\begin{align}
 
 Outside of carefully constructed problems, logarithms typically evaluate to irrational numbers, much like square roots, so calculators are required to get an estimate. Desmos can evaluate logarithms by typing `log` followed by an underscore (`_`) to enter the base.
 
-If you omit the base, the default or **common logarithm** is base $10$, and this also holds true for when logarithms are written.
+In order to get a base on a TI-84, hit `MATH` and scroll down until you see `logBASE(`.
+
+The TI-84s do have a `log` button right on the front, but no base is listed if you use it. If you omit the base, the default or **common logarithm** is base $10$, and this also holds true for when logarithms are written.
 
 $$\begin{align}
 \log5 = \log_{10}{5}
@@ -59,13 +61,15 @@ $$\begin{align}
 \ln6 = \log_e{6}
 \end{align}$$
 
-The number $e$ is similar to $\pi$ in that they are both irrational, so they are expressed using symbols rather than their actual value. $e$ is approximately $2.718$ and is called the **natural base**. Why $e$ gets it own logarithm and symbol is tough to explain without going way off-topic. The short version is $e$ is the result of plugging large numbers into the function below.
+OK, what the heck is $e$? The number $e$ is similar to $\pi$ in that they are both irrational, so they are expressed using symbols rather than their actual value. $e$ is approximately $2.718$ and is called the **natural base**. Why $e$ gets it own logarithm and symbol is tough to explain without going way off-topic. The short(est) version is that $e$ is the result of plugging large numbers into the function below.
 
 $$\begin{align}
 \lim_{x\to\infty}\left(1+\frac{1}{x}\right)^x = e
 \end{align}$$
 
-That function is the result of asking what would happen, if instead of doubling something, we increased by it by $50\%$ twice over the same time period. Or what about $25\%$ four times? Or $10\%$ ten times? By breaking the $100\%$ increase into an infinite number of smaller increases, applied an infinite number of times over the same period, instead of a doubling you $e$ it. This is the idea behind [compound interest](https://en.wikipedia.org/wiki/E_(mathematical_constant)#Compound_interest).
+That function is the result of asking what would happen, if instead of doubling something, we increased by it by $50\%$ twice over the same time period. Or what about $25\%$ four times? Or $10\%$ ten times? By breaking the $100\%$ increase into an infinite number of smaller increases, applied an infinite number of times over the same period, instead of a doubling it, you "$e$ it". This is the idea behind [compound interest](https://en.wikipedia.org/wiki/E_(mathematical_constant)#Compound_interest).
+
+Just being aware of $e$ and it's approximate value is enough for now, so don't sweat the function or the compound interest.
 
 ## Solving With Logarithms
 
