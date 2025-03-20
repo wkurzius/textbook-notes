@@ -49,7 +49,7 @@ x &= 9
 There are only two terms in equation \ref{two-terms}; what's inside the parentheses doesn't count. If you choose to distribute, then it would be a different story.
 
 $$\begin{align}
-\frac{1}{2}(x - 5) &= \frac{1}{4}(x - 1) \label{two-terms}\\
+\frac{1}{2}(x - 5) &= \frac{1}{4}(x - 1)\\
 \frac{1}{2}x - \frac{5}{2} &= \frac{1}{4}x - \frac{1}{4} \\
 4 \cdot \left(\frac{1}{2}x - \frac{5}{2}\right) &= \left(\frac{1}{4}x - \frac{1}{4}\right) \cdot 4 \\
 2x - 10 &= x - 1 \\
