@@ -13,8 +13,13 @@ Lesson date: February 25, 2025.
 ## Assignment
 
 - All vocabulary copied into notes
+  - like radicals, reduced radical form
 - p253 13–26, 31–56 ([pdf](./pdf/alg2-practice-0502.pdf))
   - Answers to [odd questions](../misc/alg2-odd-answers.pdf) / [even questions](../misc/alg2-even-answers.pdf)
+
+## Additional Resources
+
+- [Additional practice worksheet](./pdf/alg2-add-practice-0502.pdf)
 
 ---
 

@@ -4,17 +4,19 @@ layout: notes
 course: Algebra 2 and Trig
 ---
 
-{: .lesson-dates}
-Lesson date: February 27, 2025.
-
 - Graph radical functions, including square root and cube root functions.
 - Identify the effect of transformations on the key features of the graphs of radical functions.
 
 ## Assignment
 
-- All vocabulary copied into notes
+- All **vocabulary** copied into notes
+  - radical function
 - p261 11–17, 20–33 ([pdf](./pdf/alg2-practice-0503.pdf))
   - Answers to [odd questions](../misc/alg2-odd-answers.pdf) / [even questions](../misc/alg2-even-answers.pdf)
+
+## Additional Resources
+
+- [Additional practice worksheet](./pdf/alg2-add-practice-0503.pdf)
 
 ---
 

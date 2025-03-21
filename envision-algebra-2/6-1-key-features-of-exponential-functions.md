@@ -10,9 +10,14 @@ course: Algebra 2 and Trig
 
 ## Assignment
 
-- All vocabulary copied into notes
+- All **vocabulary** copied into notes
+  - decay factor, exponential decay function, exponential function, exponential growth function, growth factor
 - p303 9–13, 15–30 ([pdf](./pdf/alg2-practice-0601.pdf))
   - Answers to [odd questions](../misc/alg2-odd-answers.pdf) / [even questions](../misc/alg2-even-answers.pdf)
+
+## Additional Resources
+
+- [Additional practice worksheet](./pdf/alg2-add-practice-0601.pdf)
 
 ---
 

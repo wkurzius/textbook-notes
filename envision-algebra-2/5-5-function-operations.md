@@ -9,9 +9,14 @@ course: Algebra 2 and Trig
 
 ## Assignment
 
-- All vocabulary copied into notes
+- All **vocabulary** copied into notes
+  - composite function, composition of functions
 - p279 ~~12–19,~~ 21–36 ([pdf](./pdf/alg2-practice-0505.pdf))
   - Answers to [odd questions](../misc/alg2-odd-answers.pdf) / [even questions](../misc/alg2-even-answers.pdf)
+
+## Additional Resources
+
+- [Additional practice worksheet](./pdf/alg2-add-practice-0505.pdf)
 
 ---
 

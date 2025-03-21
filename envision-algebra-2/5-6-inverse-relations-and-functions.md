@@ -10,9 +10,15 @@ course: Algebra 2 and Trig
 
 ## Assignment
 
-- All vocabulary copied into notes
+- All **vocabulary** copied into notes
+  - inverse function
+  - inverse relation
 - p288 ~~9–20,~~ 23–38 ([pdf](./pdf/alg2-practice-0506.pdf))
   - Answers to [odd questions](../misc/alg2-odd-answers.pdf) / [even questions](../misc/alg2-even-answers.pdf)
+
+## Additional Resources
+
+- [Additional practice worksheet](./pdf/alg2-add-practice-0506.pdf)
 
 ---
 

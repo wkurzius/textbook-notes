@@ -10,9 +10,14 @@ course: Algebra 2 and Trig
 
 ## Assignment
 
-- All vocabulary copied into notes
+- All **vocabulary** copied into notes
+  - common logarithm, logarithm, logarithmic function, natural logarithm
 - p319 13–20, 25–57 ([pdf](./pdf/alg2-practice-0603.pdf))
   - Answers to [odd questions](../misc/alg2-odd-answers.pdf) / [even questions](../misc/alg2-even-answers.pdf)
+
+## Additional Resources
+
+- [Additional practice worksheet](./pdf/alg2-add-practice-0603.pdf)
 
 ---
 

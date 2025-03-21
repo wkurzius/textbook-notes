@@ -13,6 +13,7 @@ title: enVision Algebra 2 Common Core 2018 Notes
 - [1.5 Solving Equations and Inequalities By Graphing](./1.5-solving-equations-and-inequalities-by-graphing.md)
 - [1.6 Linear Systems](./1.6-linear-systems.md)
 - [1.7 Solving Linear Systems Using Matrices](./1.7-solving-linear-systems-using-matrices.md)
+- [Topic Review](./pdf/aga_a2_01_tr.pdf)
 
 ## 2 Quadratic Functions and Equations
 
@@ -23,6 +24,7 @@ title: enVision Algebra 2 Common Core 2018 Notes
 - [2.5 Completing the Square](./2.5-completing-the-square.md)
 - [2.6 The Quadratic Formula](./2.6-the-quadratic-formula.md)
 - [2.7 Linear-Quadratic Systems](./2.7-linear-quadratic-systems.md)
+- [Topic Review](./pdf/aga_a2_02_tr.pdf)
 
 ## 3 Polynomial Functions
 
@@ -33,6 +35,7 @@ title: enVision Algebra 2 Common Core 2018 Notes
 - [3.5 Zeros of Polynomial Functions](./3.5-zeros-of-polynomial-functions.md)
 - [3.6 Theorems About Roots of Polynomial Equations](./3.6-theorems-about-roots-of-polynomial-equations.md)
 - [3.7 Transformations of Polynomial Functions](./3.7-transformations-of-polynomial-functions.md)
+- [Topic Review](./pdf/aga_a2_03_tr.pdf)
 
 ## 4 Rational Functions
 
@@ -41,6 +44,7 @@ title: enVision Algebra 2 Common Core 2018 Notes
 - [4.3 Multiplying and Dividing Rational Expressions](./4.3-multiplying-and-dividing-rational-expressions.md)
 - [4.4 Adding and Subtracting Rational Expressions](./4.4-adding-and-subtracting-rational-expressions.md)
 - [4.5 Solving Rational Equations](./4.5-solving-rational-equations.md)
+- [Topic Review](./pdf/aga_a2_04_tr.pdf)
 
 ## 5 Rational Exponents and Radical Functions
 
@@ -50,6 +54,7 @@ title: enVision Algebra 2 Common Core 2018 Notes
 - [5.4 Solving Radical Equations](./5-4-solving-radical-equations.md)
 - [5.5 Function Operations](./5-5-function-operations.md)
 - [5.6 Inverse Relations and Functions](./5-6-inverse-relations-and-functions.md)
+- [Topic Review](./pdf/aga_a2_05_tr.pdf)
 
 ## 6 Exponential and Logarithmic Functions
 
@@ -60,6 +65,7 @@ title: enVision Algebra 2 Common Core 2018 Notes
 - 6.5 Properties of Logarithms
 - 6.6 Exponential and Logarithmic Equations
 - 6.7 Geometric Sequences and Series
+- [Topic Review](./pdf/aga_a2_06_tr.pdf)
 
 ## 7 Trigonometric Functions
 
@@ -69,9 +75,11 @@ title: enVision Algebra 2 Common Core 2018 Notes
 - 7.4 Graphing Sine and Cosine Functions
 - 7.5 Graphing Other Trigonometric Functions
 - 7.6 Translating Trigonometric Functions
+- [Topic Review](./pdf/aga_a2_07_tr.pdf)
 
 ## 8 Trigonometric Equations and Identities
 
 - 8.1 Solving Trigonometric Equations Using Identities
 - 8.2 Law of Sines and Law of Cosines
 - 8.3 Trigonometric Identities
+- [Topic Review](./pdf/aga_a2_08_tr.pdf)

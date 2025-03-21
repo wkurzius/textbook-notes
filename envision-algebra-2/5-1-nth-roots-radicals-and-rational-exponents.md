@@ -4,9 +4,6 @@ layout: notes
 course: Algebra 2 and Trig
 ---
 
-{: .lesson-dates}
-Lesson date: February 19, 2025.
-
 - Use properties of exponents to rewrite expressions involving radicals in terms of rational exponents.
 - Find all real $n$th roots of a number.
 - Evaluate expressions with rational exponents.
@@ -14,9 +11,14 @@ Lesson date: February 19, 2025.
 
 ## Assignment
 
-- All vocabulary copied into notes
+- All **vocabulary** copied into notes
+  - index, $n$th root, radical symbol, radicand
 - p245 18–26, 31–50 ([pdf](./pdf/alg2-practice-0501.pdf))
   - Answers to [odd questions](../misc/alg2-odd-answers.pdf) / [even questions](../misc/alg2-even-answers.pdf)
+
+## Additional Resources
+
+- [Additional practice worksheet](./pdf/alg2-add-practice-0501.pdf)
 
 ---
 
@@ -30,7 +32,7 @@ The majority of the chapter deals with exponents and roots, so we'll start with 
 > $$\begin{align}
 > \sqrt[n]c
 > \end{align}$$
-> where $n$ is the index and $c$ is the radicand.
+> where $n$ is the **index** and $c$ is the **radicand**.
 {: .definition}
 
 Often, finding a particular root of a number comes down to either knowing it or using a calculator. How they are calculated is beyond what the scope of this course.
