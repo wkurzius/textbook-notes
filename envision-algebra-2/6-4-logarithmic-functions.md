@@ -45,4 +45,10 @@ It will likely come with little shock that logarithmic functions are the inverse
 
 - If you need to invert a logarithm, there's no need to restrict the domain since it's one-to-one, meaning there's no repeat $y$-values. Just solve for $x$, then adjust your variables accordingly.
 
+  $$\begin{align}
+  y & = 10^{x+1} \\
+  \log y &= x + 1 \\
+  -1 + \log y &= x \\[1em]
+  \end{align}$$
+
 - Average rate of a change comes up again. That is just slope by another name, so find $\frac{\Delta y}{\Delta x}$, or the change in $y$ over the change in $x$.
