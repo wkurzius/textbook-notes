@@ -15,3 +15,7 @@ course: College Prep Math
 - [#431–509 1-5-9s](https://openstax.org/books/elementary-algebra-2e/pages/2-7-solve-linear-inequalities#fs-id1168345256702)
 
 ---
+
+## Graph Inequalities on the Number Line
+
+A solution to an equation is a value that would make the equation true. 
