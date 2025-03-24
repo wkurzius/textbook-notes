@@ -41,8 +41,8 @@ It will likely come with little shock that logarithmic functions are the inverse
 
 ## The Rest of the Section
 
-Transformations can be applied and follow the same rules as with other functions: adding results in translations, multiplying is scaling, and where you add or multiply will determine if it's horizontal or vertical.
+- Transformations can be applied and follow the same rules as with other functions: adding results in translations, multiplying is scaling, and where you add or multiply will determine if it's horizontal or vertical. Here is a Desmos graph that will allow you to [try out all the different transformations](https://www.desmos.com/calculator/mm7dcky9ie).
 
-If you need to invert a logarithm, there's no need to restrict the domain since it's one-to-one, meaning there's no repeat $y$-values. Just solve for $x$, then adjust your variables accordingly.
+- If you need to invert a logarithm, there's no need to restrict the domain since it's one-to-one, meaning there's no repeat $y$-values. Just solve for $x$, then adjust your variables accordingly.
 
-Average rate of a change comes up again. That is just slope by another name, so find $\frac{\Delta y}{\Delta x}$, or the change in $y$ over the change in $x$.
+- Average rate of a change comes up again. That is just slope by another name, so find $\frac{\Delta y}{\Delta x}$, or the change in $y$ over the change in $x$.
