@@ -1,17 +1,18 @@
 ---
-title: "This Week (March 17–21)"
+title: "This Week (March 24–28)"
 layout: this-week
 ---
 
 [Site home](./)
 
-|                  | New Material                                                                                                                                                                                                                                                              | Next Quiz                  |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| **AP Calc**      | [4.8](./calc-for-ap-larson/4.8-inverse-trigonometric-function-integration.md) and [5.1](./calc-for-ap-larson/5.1-slope-fields-and-eulers-method.md)                                                                                                                       | April 4                    |
-| **Algebra 2**    | [6.1](./envision-algebra-2/6-1-key-features-of-exponential-functions.md) and [6.3](./envision-algebra-2/6-3-logarithms.md)                                                                                                                                                | March 27 (MP Exam April 3) |
-| **College Prep** | [2.3](./openstax-elementary-algebra-2e/2-3-equations-with-variables-on-both-sides.md), [2.4](./openstax-elementary-algebra-2e/2-4-general-strategy-to-solve-linear-equations.md) and [2.5](./openstax-elementary-algebra-2e/2-5-equations-with-fractions-and-decimals.md) | April 2                    |
+|                  | New Material                                                                                                                                                        | Next Quiz                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| **AP Calc**      | [5.2](./calc-for-ap-larson/5.2-growth-and-decay.md) and [5.3](./calc-for-ap-larson/5.3-separation-of-variables.md)                                                  | April 4                             |
+| **Algebra 2**    | [6.4](./envision-algebra-2/6-4-logarithmic-functions.md)                                                                                                            | March 27 on 5.5–6.4 (excluding 6.2) |
+| **College Prep** | [2.6](./openstax-elementary-algebra-2e/2-6-solve-a-formula-for-a-specific-variable.md) and [2.7](./openstax-elementary-algebra-2e/2-7-solve-linear-inequalities.md) | April 2                             |
 
-- We are down to the last three weeks in the marking period. Last day is April 4.
+- We are down to the last **two** weeks in the marking period. Last day is April 4.
+- Alg2: Additional Practice worksheets moved to the lesson pages
 
 ---
 
