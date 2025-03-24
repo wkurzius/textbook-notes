@@ -13,6 +13,7 @@ layout: this-week
 
 - We are down to the last **two** weeks in the marking period. Last day is April 4.
 - Alg2: Additional Practice worksheets moved to the lesson pages
+- College Prep: We are in room 8 on Friday
 
 ---
 
