@@ -12,3 +12,5 @@ title: "OpenStax Elementary Algebra 2e"
 - [2.3 Solve Equations with Variables and Constants on Both Sides](./2-3-equations-with-variables-on-both-sides.md)
 - [2.4 Use a General Strategy to Solve Linear Equations](./2-4-general-strategy-to-solve-linear-equations.md)
 - [2.5 Solve Equations with Fractions or Decimals](./2-5-equations-with-fractions-and-decimals.md)
+- [2.6 Solve a Formula for a Specific Variable](./2-6-solve-a-formula-for-a-specific-variable.md)
+- [2.7 Solve Linear Inequalities](./2-7-solve-linear-inequalities.md
