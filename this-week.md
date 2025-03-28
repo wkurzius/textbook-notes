@@ -1,19 +1,17 @@
 ---
-title: "This Week (March 24–28)"
+title: "This Week (March 31–April 4)"
 layout: this-week
 ---
 
 [Site home](./)
 
-|                  | New Material                                                                                                                                                        | Next Quiz                           |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| **AP Calc**      | [5.2](./calc-for-ap-larson/5.2-growth-and-decay.md) and [5.3](./calc-for-ap-larson/5.3-separation-of-variables.md)                                                  | April 4                             |
-| **Algebra 2**    | [6.4](./envision-algebra-2/6-4-logarithmic-functions.md)                                                                                                            | March 27 on 5.5–6.4 (excluding 6.2) |
-| **College Prep** | [2.6](./openstax-elementary-algebra-2e/2-6-solve-a-formula-for-a-specific-variable.md) and [2.7](./openstax-elementary-algebra-2e/2-7-solve-linear-inequalities.md) | April 2                             |
+|                  | New Material                                                           | Next Exam                    |
+| ---------------- | ---------------------------------------------------------------------- | ---------------------------- |
+| **AP Calc**      | [6.1](./calc-for-ap-larson/6.1-area-of-a-region-between-two-curves.md) | April 4 on 4.8–6.1           |
+| **Algebra 2**    | —                                                                      | April 3 on 4.1–6.4 (MP Exam) |
+| **College Prep** | —                                                                      | April 2 on 2.1–2.17          |
 
-- We are down to the last **two** weeks in the marking period. Last day is April 4.
-- Alg2: Additional Practice worksheets moved to the lesson pages
-- College Prep: We are in room 8 on Friday
+- This is the **last week** in the marking period.
 
 ---
 
