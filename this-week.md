@@ -9,7 +9,7 @@ layout: this-week
 | ---------------- | ---------------------------------------------------------------------- | ---------------------------- |
 | **AP Calc**      | [6.1](./calc-for-ap-larson/6.1-area-of-a-region-between-two-curves.md) | April 4 on 4.8–6.1           |
 | **Algebra 2**    | –                                                                      | April 3 on 4.1–6.4 (MP Exam) |
-| **College Prep** | –                                                                      | April 2 on 2.1–2.17          |
+| **College Prep** | –                                                                      | April 2 on 2.1–2.7           |
 
 - This is the **last week** in the marking period.
 
