@@ -12,6 +12,8 @@ layout: this-week
 | **College Prep** | –                                                                      | April 2 on 2.1–2.7           |
 
 - This is the **last week** in the marking period.
+- College Prep: Room 8 for the week
+- Calc and College Prep, I am out Thursday morning for professional development.
 
 ---
 
