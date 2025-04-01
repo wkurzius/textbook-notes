@@ -14,3 +14,22 @@ title: "OpenStax Elementary Algebra 2e"
 - [2.5 Solve Equations with Fractions or Decimals](./2-5-equations-with-fractions-and-decimals.md)
 - [2.6 Solve a Formula for a Specific Variable](./2-6-solve-a-formula-for-a-specific-variable.md)
 - [2.7 Solve Linear Inequalities](./2-7-solve-linear-inequalities.md)
+
+## 3 Math Models
+
+- 3.1 Use a Problem-Solving Strategy
+- 3.2 Solve Percent Applications
+- ~~3.3 Solve Mixture Applications~~
+- 3.4 Solve Geometry Applications: Triangles, Rectangles, and the Pythagorean Theorem
+- 3.5 Solve Uniform Motion Applications
+- 3.6 Solve Applications with Linear Inequalities
+
+## 4 Graphs
+
+- 4.1 Use the Rectangular Coordinate System
+- 4.2 Graph Linear Equations in Two Variables
+- 4.3 Graph with Intercepts
+- 4.4 Understand Slope of a Line
+- 4.5 Use the Slope-Intercept Form of an Equation of a Line
+- 4.6 Find the Equation of a Line
+- 4.7 Graphs of Linear Inequalities
