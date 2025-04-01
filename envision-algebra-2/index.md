@@ -64,7 +64,7 @@ title: enVision Algebra 2 Common Core 2018 Notes
 - [6.4 Logarithmic Functions](./6-4-logarithmic-functions.md)
 - 6.5 Properties of Logarithms
 - 6.6 Exponential and Logarithmic Equations
-- 6.7 Geometric Sequences and Series
+- ~~6.7 Geometric Sequences and Series~~
 - [Topic Review](./pdf/aga_a2_06_tr.pdf)
 
 ## 7 Trigonometric Functions
