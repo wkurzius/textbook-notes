@@ -8,6 +8,6 @@ course: College Prep Math
 
 ## Assignment
 
-- [assignment](link)
+- [assignment](https://openstax.org/books/elementary-algebra-2e/pages/)
 
 ---
