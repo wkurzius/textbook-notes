@@ -62,14 +62,14 @@ title: enVision Algebra 2 Common Core 2018 Notes
 - ~~6.2 Exponential Models~~
 - [6.3 Logarithms](./6-3-logarithms.md)
 - [6.4 Logarithmic Functions](./6-4-logarithmic-functions.md)
-- 6.5 Properties of Logarithms
-- 6.6 Exponential and Logarithmic Equations
+- [6.5 Properties of Logarithms](./6-5-properties-of-logarithms.md)
+- [6.6 Exponential and Logarithmic Equations](./6-6-exponential-and-logarithmic-equations.md)
 - ~~6.7 Geometric Sequences and Series~~
 - [Topic Review](./pdf/aga_a2_06_tr.pdf)
 
 ## 7 Trigonometric Functions
 
-- 7.1 Trigonometric Functions and Acute Angles
+- [7.1 Trigonometric Functions and Acute Angles](./7-1-trigonometric-functions-and-acute-angles.md)
 - 7.2 Angles and the Unit Circle
 - 7.3 Trigonometric Functions and Real Numbers
 - 7.4 Graphing Sine and Cosine Functions

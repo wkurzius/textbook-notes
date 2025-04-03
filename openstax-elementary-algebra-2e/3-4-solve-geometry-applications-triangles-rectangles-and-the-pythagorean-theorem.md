@@ -1,5 +1,5 @@
 ---
-title: 3.4 Solve Geometry Applications: Triangles, Rectangles, and the Pythagorean Theorem
+title: "3.4 Solve Geometry Applications: Triangles, Rectangles, and the Pythagorean Theorem"
 layout: notes
 course: College Prep Math
 ---
