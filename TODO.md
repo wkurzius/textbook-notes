@@ -20,3 +20,4 @@ title: TODO
 - In 4.4, address that complex fractions should be simplified so that only one rational expression exists in both the numerator and denominator before doing the final division.
 - 5.5 and 5.6 have modified HW due to NJGPA
 - inverse functions suck. See Larson book for better concept progression
+- Add Additional Practice links to pre-4
