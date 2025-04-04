@@ -1,19 +1,17 @@
 ---
-title: "This Week (March 31–April 4)"
+title: "This Week (April 7–11)"
 layout: this-week
 ---
 
 [Site home](./)
 
-|                  | New Material                                                           | Next Exam                    |
-| ---------------- | ---------------------------------------------------------------------- | ---------------------------- |
-| **AP Calc**      | [6.1](./calc-for-ap-larson/6.1-area-of-a-region-between-two-curves.md) | April 4 on 4.8–6.1           |
-| **Algebra 2**    | –                                                                      | April 3 on 4.1–6.4 (MP Exam) |
-| **College Prep** | –                                                                      | April 2 on 2.1–2.7           |
+|                  | New Material                                                                                                                                                | Next Exam |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| **AP Calc**      | [6.2](./calc-for-ap-larson/6.2-volume-the-disk-and-washer-methods.md)                                                                                       | May 1     |
+| **Algebra 2**    | [6.5](./envision-algebra-2/6-5-properties-of-logarithms.md) and [6.6](./envision-algebra-2/6-6-exponential-and-logarithmic-equations.md)                    | April 16  |
+| **College Prep** | [3.1](./openstax-elementary-algebra-2e/3-1-use-a-problem-solving-strategy.md) and [3.2](./openstax-elementary-algebra-2e/3-2-solve-percent-applications.md) | April 16  |
 
-- This is the **last week** in the marking period.
-- College Prep: Room 8 for the week
-- Calc and College Prep, I am out Thursday morning for professional development.
+- College Prep: Room 8 for the week ... again
 
 ---
 
