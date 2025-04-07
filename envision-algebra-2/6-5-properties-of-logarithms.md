@@ -24,16 +24,23 @@ course: Algebra 2 and Trig
 
 This section is really just a list of identities and rules, and then practicing with those rules. I'll try to show you where each comes from, but as long you remember the identity, you'll be in good shape.
 
-> ### The Product Property
+> ### The Product Property of Logarithms
 >
 > $$\begin{align}
 > \log_b mn = \log_b m + \log_b n
 > \end{align}$$
 {: .definition}
 
-To see where this comes from, let's start with just $mn$. Remember that ${b^{\log_b x}=x}$
+To see where this comes from, let's start with just $mn$. Remember that logarithms are the inverse of exponents, so ${b^{\log_b x}=x}$
 
 $$\begin{align}
 mn &= b^{\log_b m} b^{\log_b n} = b^{\log_b m + \log_b n} \\
 \log_b{mn} &= \log_b b^{\log_b m + \log_b n} = \log_b m + \log_b n
 \end{align}$$
+
+> ### The Power Property of Logarithms
+>
+> $$\begin{align}
+> \log_b m^n=n\log_b m
+> \end{align}$$
+{: .definition}
