@@ -21,7 +21,6 @@ title: Home
 ## College Prep Math
 
 - [OpenStax Elementary Algebra 2e Notes](./openstax-elementary-algebra-2e/)
-- [(old book) OpenStax College Algebra 2e Notes](./openstax-college-algebra-2e/)
 
 ## General
 
