@@ -12,6 +12,7 @@ layout: this-week
 | **College Prep** | [3.1](./openstax-elementary-algebra-2e/3-1-use-a-problem-solving-strategy.md) and [3.2](./openstax-elementary-algebra-2e/3-2-solve-percent-applications.md) | April 16  |
 
 - College Prep: Room 8 for the week ... again
+- Alg2: IXL Benchmark is due April 16
 
 ---
 
