@@ -44,7 +44,7 @@ $$\begin{align}
 3^{x+1} &= 5^x
 \end{align}$$
 
-If you can't get the bases to match up, for whatever reason, you can always use logarithms instead. This allows you to use logarithm properties to get your variable out of the power.
+If you can't get the bases to match up, for whatever reason, you can always use logarithms instead. This allows you to use logarithm properties to get your variable out of the exponent.
 
 The base of the logarithm doesn't matter much, just be consistent. The book's version of this example uses the common logarithm, so I'll use the natural one here.
 
