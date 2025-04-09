@@ -20,7 +20,7 @@ course: Algebra 2 and Trig
 
 ---
 
-I strongly recommend you work through all the examples in the text. This section is heavy on using things you've already learned in new ways.
+I strongly recommend you work through all the examples in the text. This section is heavy on using things you've already learned in new ways. I'll go over only a few hear in order to point out the main gist of each version.
 
 ## Solving Exponential Equations Using a Common Base
 
