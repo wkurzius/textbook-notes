@@ -18,11 +18,135 @@ course: College Prep Math
 
 ## Translate and Solve Basic Percent Equations
 
-Remember that to find part of something, you use multiplication. Half of a number is $\frac{1}{2}x$, twice something is $2x$, and 35% of something is $0.35x$. And since percentages are a way of describing part of a whole, we can set up a simple formula.
+Remember that to find part of something, you use multiplication. Half of a number is $\frac{1}{2}x$, twice something is $2x$, and 35% of something is $0.35x$. Percentage problems are generally multiplication problems, so you will be keying into the word "of" a lot.
+
+The only catch is remembering to convert percentages to decimals when doing the math. The word percent literally means "per 100", so if you see the symbol, remember to divide by $100$ or move the decimal two places.
+
+### Example 1
+
+> What number is $35\%$ of $90$?
+{: .example}
+
+"What number" is our variable, then we have "is" for equals, then our multiplication.
 
 $$\begin{align}
-\text{Part} = \text{Percent}\cdot\text{Whole}
+x = 0.35 \cdot 90
 \end{align}$$
 
-The only catch is remembering to convert percentages to decimals when doing the math.
+After the set-up, this is calculator work to find the exact value.
 
+$$\begin{align}
+x &= 0.35 \cdot 90\\
+x &= 31.5
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
+
+### Example 2
+
+> $6.5\%$ of what number is $\\$1.17$?
+{: .example}
+
+This one is the reverse order, and now "of" is attached to our unknown number.
+
+$$\begin{align}
+0.065x &= \$1.17 \\
+x &= \$18
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
+
+## Example 3
+
+> $144$ is what percent of $96$?
+{: .example}
+
+Now we are looking for the percentage. Don't be distracted that the part is larger than the whole. Percents over $100\%$ are perfectly acceptable.
+
+$$\begin{align}
+144 &= x\cdot96 \\
+1.5 &= x &\text{Or $150\%$}
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
+
+## Solve Applications of Percent
+
+Finding percent is one thing, but often that amount has to be applied to some other value. Think tips and taxes.
+
+### Example 4
+
+> Dezohn and his girlfriend enjoyed a nice dinner at a restaurant and his bill was $\\$68.50$. He wants to leave an $18\%$ tip. If the tip will be $18\%$ of the total bill, how much tip should he leave?
+{: .example}
+
+Let's pare this down to a more manageable problem by cutting out some of the fluff.
+
+> The bill was $\\$68.50$. He wants to leave an $18\%$ tip. How much is the tip?
+
+The problem, both versions, doesn't say it outright, but it wants to know how much is $18\%$ of $\\$68.50$?
+
+$$\begin{align}
+x &= 0.18\cdot \$68.50 \\
+x &= \$12.33
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
+
+## Example 5
+
+> The label on Masao’s breakfast cereal said that one serving of cereal provides $85$ milligrams (mg) of potassium, which is $2\%$ of the recommended daily amount. What is the total recommended daily amount of potassium?
+{: .example}
+
+Again, try to cut out the uncessecary parts.
+
+> $85$ milligrams is $2\%$ of what amount?
+
+$$\begin{align}
+85 &= 0.02x \\
+4250 &= x
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
+
+## Find Percent Increase and Percent Decrease
+
+Percent increases and decreases require finding the difference between the new and original amounts of something, then finding out what percent that is of the original.
+
+## Example 6
+
+> In 2011, the California governor proposed raising community college fees from $\\$26$ a unit to $\\$36$ a unit. Find the percent change.
+{: .example}
+
+First, the change, which is $\\$36-\\$26 = \\$10$. Now we see what percentage that is of the original.
+
+$$\begin{align}
+\$10 &= x\cdot \$26 \\
+0.385 &= x
+\end{align}$$
+
+Since the price went up, we can say it was a $38.5\%$ increase.
+
+$\blacksquare$
+{: .qed}
+
+## Example 7
+
+> The average price of a gallon of gas in one city in June 2014 was $\\$3.71$. The average price in that city in July was $\\$3.64$. Find the percent change.
+{: .example}
+
+The difference between the prices is $\\$0.07$.
+
+$$\begin{align}
+\$0.07 &= x \cdot \$3.71 \\
+0.019 &= x
+\end{align}$$
+
+The price dropped, so it was a $1.9\%$ decrease.
+
+$\blacksquare$
+{: .qed}
