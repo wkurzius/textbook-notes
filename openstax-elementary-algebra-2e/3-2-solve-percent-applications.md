@@ -73,25 +73,35 @@ $$\begin{align}
 $\blacksquare$
 {: .qed}
 
-## Solve Applications of Percent
+## Solve Applications with Discount or Markup
 
-Finding percent is one thing, but often that amount has to be applied to some other value. Think tips and taxes.
+Finding percent is one thing, but often that amount has to be applied to some other value. Sale discounts are a common example of decreases, and increases can range from markups to taxes and tips.
 
 ### Example 4
 
-> Dezohn and his girlfriend enjoyed a nice dinner at a restaurant and his bill was $\\$68.50$. He wants to leave an $18\%$ tip. If the tip will be $18\%$ of the total bill, how much tip should he leave?
+> Dezohn and his girlfriend enjoyed a nice dinner at a restaurant and his bill was $\\$68.50$. He wants to leave an $18\%$ tip. If the tip will be $18\%$ of the total bill, what is the new total?
 {: .example}
 
 Let's pare this down to a more manageable problem by cutting out some of the fluff.
 
-> The bill was $\\$68.50$. He wants to leave an $18\%$ tip. How much is the tip?
+> The bill was $\\$68.50$. He wants to leave an $18\%$ tip. How much is does he have to pay?
 
-The problem, both versions, doesn't say it outright, but it wants to know how much is $18\%$ of $\\$68.50$?
+Both versions of the problem don't say it outright, but it wants to know how much is $18\%$ of $\\$68.50$?
 
 $$\begin{align}
 x &= 0.18\cdot \$68.50 \\
 x &= \$12.33
 \end{align}$$
+
+Then we need to add that to the original bill.
+
+$$\begin{align}
+\$68.50+\$12.33 = \$80.83
+\end{align}$$
+
+> Some unsolicited advice on tips: if you're at a place that requires you to come up with amount yourself, it's easier to just move the decimal over one, round to a dollar, and double it. That will give you a tip of about $20\%$.
+>
+> In the problem above that would mean $\\$68.50$ becomes $\\$6.85$, which then rounds to $\\$7.00$, and then doubles to $\\$14.00$.
 
 $\blacksquare$
 {: .qed}
@@ -201,6 +211,3 @@ The interest rate his brother gave him on the loan was $5.5\%$.
 
 $\blacksquare$
 {: .qed}
-
-## Solve Applications with Discount or Mark-up
-
