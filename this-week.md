@@ -1,17 +1,16 @@
 ---
-title: "This Week (April 7–11)"
+title: "This Week (April 14–17)"
 layout: this-week
 ---
 
 [Site home](./)
 
-|                  | New Material                                                                                                                                                | Next Exam |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **AP Calc**      | [6.2](./calc-for-ap-larson/6.2-volume-the-disk-and-washer-methods.md)                                                                                       | May 1     |
-| **Algebra 2**    | [6.5](./envision-algebra-2/6-5-properties-of-logarithms.md) and [6.6](./envision-algebra-2/6-6-exponential-and-logarithmic-equations.md)                    | April 16  |
-| **College Prep** | [3.1](./openstax-elementary-algebra-2e/3-1-use-a-problem-solving-strategy.md) and [3.2](./openstax-elementary-algebra-2e/3-2-solve-percent-applications.md) | April 16  |
+|                  | New Material                                               | Next Exam          |
+| ---------------- | ---------------------------------------------------------- | ------------------ |
+| **AP Calc**      | [7.1](./calc-for-ap-larson/7.1-basic-integration-rules.md) | May 1              |
+| **Algebra 2**    | –                                                          | April 16 (6.5–6.6) |
+| **College Prep** | –                                                          | April 16 (3.1–3.2) |
 
-- College Prep: Room 8 for the week ... again
 - Alg2: IXL Benchmark is due April 16
 
 ---
