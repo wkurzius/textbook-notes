@@ -5,11 +5,11 @@ layout: this-week
 
 [Site home](./)
 
-|                  | New Material                                               | Next Exam          |
-| ---------------- | ---------------------------------------------------------- | ------------------ |
-| **AP Calc**      | [7.1](./calc-for-ap-larson/7.1-basic-integration-rules.md) | May 1              |
-| **Algebra 2**    | –                                                          | April 16 (6.5–6.6) |
-| **College Prep** | –                                                          | April 16 (3.1–3.2) |
+|                  | New Material                                               | Next Exam                                               |
+| ---------------- | ---------------------------------------------------------- | ------------------------------------------------------- |
+| **AP Calc**      | [7.1](./calc-for-ap-larson/7.1-basic-integration-rules.md) | May 1                                                   |
+| **Algebra 2**    | –                                                          | April 16 ([6.5–6.6](./envision-algebra-2/))             |
+| **College Prep** | –                                                          | April 16 ([3.1–3.2](./openstax-elementary-algebra-2e/)) |
 
 - Alg2: IXL Benchmark is due April 16
 
