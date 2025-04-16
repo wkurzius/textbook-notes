@@ -28,3 +28,4 @@ title: Home
 - [Useful Math Links](./misc/math-links.md)
 - [Bell Schedule](./misc/bell-schedule.md)
 - [Kita Notes](https://wkurzius.github.io/kita-notes/)
+- [Summer Work 2025](./misc/summer-work.md)
