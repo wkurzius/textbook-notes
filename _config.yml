@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Kurzius Math Notes
+title: Kurzius Class Notes
 author: William Kurzius
 # email: wkurzius@manvillesd.org
 # description: >- # this means to ignore newlines until "baseurl:"
