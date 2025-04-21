@@ -20,3 +20,36 @@ course: Algebra 2 and Trig
 - [Additional practice worksheet](./pdf/alg2-add-practice-0701.pdf)
 
 ---
+
+## Trigonometric Ratios
+
+You might remember that similar triangles, or any polygon for that matter, have side lengths that are in proportion to each other. So, if ${\triangle ABC \sim \triangle XYZ}$, then ...
+
+$$\begin{align}
+\frac{\overline{AB}}{\overline{XY}} = \frac{\overline{BC}}{\overline{YZ}}
+\end{align}$$
+
+With some algebra, we can rearrange that proportion.
+
+$$\begin{align}
+\frac{\overline{AB}}{\overline{BC}} = \frac{\overline{XY}}{\overline{YZ}}
+\end{align}$$
+
+This means that the ratios between the sides are equal to each other, as long as the triangles themselves are similar. This relationship between the sides of a triangle are codified with trigonometric ratios and right triangles.
+
+> Right triangles are used because they are, in a sense, the basic building block of geometry. The fact that two of its sides are perpendicular, or orthogonal, to each other, gives them almost universal application.
+
+So, given a right triangle, from the perspective of one of the angles $\theta$ that is *not* the right angle, we can start by defining the three basic trigonometric functions.
+
+$$\begin{align}
+\sin \theta = \frac{\text{opposite}}{\text{hypotenuse}} \qquad
+\cos \theta = \frac{\text{adjacent}}{\text{hypotenuse}} \qquad
+\tan \theta = \frac{\text{opposite}}{\text{adjacent}}
+\end{align}$$
+
+> ![](./img/7-1-triangle-sides.png)
+>
+> **Figure 7.1.1** The sides of a right triangle relative to angle $\theta$.
+{: .figure}
+
+Where these names come from won't make much sense at the moment, but to help you remember them there is the acronym **SohCahToa**
