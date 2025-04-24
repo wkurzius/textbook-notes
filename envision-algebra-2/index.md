@@ -70,16 +70,16 @@ title: enVision Algebra 2 Common Core 2018 Notes
 ## 7 Trigonometric Functions
 
 - [7.1 Trigonometric Functions and Acute Angles](./7-1-trigonometric-functions-and-acute-angles.md)
-- 7.2 Angles and the Unit Circle
-- 7.3 Trigonometric Functions and Real Numbers
-- 7.4 Graphing Sine and Cosine Functions
-- 7.5 Graphing Other Trigonometric Functions
-- 7.6 Translating Trigonometric Functions
+- [7.2 Angles and the Unit Circle](./7-2-angles-and-the-unit-circle.md)
+- [7.3 Trigonometric Functions and Real Numbers](./7-3-trigonometric-functions-and-real-numbers.md)
+- [7.4 Graphing Sine and Cosine Functions](7-4-graphing-sine-and-cosine-functions.md)
+- [7.5 Graphing Other Trigonometric Functions](./7-5-graphing-other-trigonometric-functions.md)
+- [7.6 Translating Trigonometric Functions](./7-6-translating-trigonometric-functions.md)
 - [Topic Review](./pdf/aga_a2_07_tr.pdf)
 
 ## 8 Trigonometric Equations and Identities
 
-- 8.1 Solving Trigonometric Equations Using Identities
-- 8.2 Law of Sines and Law of Cosines
-- 8.3 Trigonometric Identities
+- [8.1 Solving Trigonometric Equations Using Identities](./8-1-solving-trigonometric-equations-using-identities.md)
+- [8.2 Law of Sines and Law of Cosines](./8-2-law-of-sines-and-law-of-cosines.md)
+- [8.3 Trigonometric Identities](./8-3-trigonometric-identities.md)
 - [Topic Review](./pdf/aga_a2_08_tr.pdf)
