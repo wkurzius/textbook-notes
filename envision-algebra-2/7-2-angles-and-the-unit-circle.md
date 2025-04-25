@@ -36,7 +36,7 @@ We need to place the angles somewhere on the plane, and we should be consistent.
 
 Now, that terminal side can spin around in a circle, but there's no reason it has to stop. A circle might only have $360^\circ$, but angles aren't limited to that. There's also no reason they need to be positive. The terminal side can swing around the other way.
 
-But, the angles end up repeating themselves. A $45^\circ$, $405^\circ$, and $-315^\circ$ angle all look exactly the same because they are seperated by a complete revolution, or $360^\circ$. These angles are called **coterminal angles** because they share a terminal side.
+But, the angles end up repeating themselves. A $45^\circ$, $405^\circ$, and $-315^\circ$ angle all look exactly the same because they are separated by a complete revolution, or $360^\circ$. These angles are called **coterminal angles** because they share a terminal side.
 
 > ![Coterminal angles](./img/7-2-coterminal.png)
 >
@@ -55,7 +55,7 @@ It turns out, that each angle on the coordinate plane has an acute angle built-i
 The book has a procedure for finding a reference angle that involves determining which quadrant the terminal side falls, then doing something based on that. Look that over and use it if you want. I like this method:
 
 1. Drop any negatives.
-2. If larger than $180^\circ$, then divide by $180^\circ$ and keep the remainder[^1].
+2. If larger than $180^\circ$, then divide by $180^\circ$ and keep the remainder. This operation of dividing and keeping the remainder is called [modulo](https://en.wikipedia.org/wiki/Modulo).
 3. If the remainder is an obtuse angle, subtract it from $180^\circ$ (this is finding the supplementary angle).
 
 ### Example 1
@@ -99,7 +99,7 @@ This thing is amazing, for a bunch of reasons. First, pick a point on the circle
 
 We need sine and cosine values to get that coordinate. A $60^\circ$ angle is part an equilateral triangle, and since the other angle is $30^\circ$, we can just mirror it to get the whole thing.
 
-So, with the unit circle in mind, the hypotenuse is $1$, that means the adjacent side will be $\frac{1}{2}$. Some Pythagorean work gives us a since of $\frac{\sqrt3}{2}$.
+So, with the unit circle in mind, the hypotenuse is $1$, that means the adjacent side will be $\frac{1}{2}$. Some Pythagorean work gives us a sine of $\frac{\sqrt3}{2}$.
 
 If the cosine of the angle is $\frac{1}{2}$ and the sine is $\frac{\sqrt3}{2}$, then the coordinate on the unit circle is $(\frac{1}{2},\frac{\sqrt{3}}{2})$.
 
@@ -108,13 +108,39 @@ $\blacksquare$
 
 ### Radians
 
-One of the other reasons why the unit circle is friggin' awesome is that we get a whole new unit to measure angles with. I say unit, but technically it's unit-less. I'm getting a ahead of myself.
+One of the other reasons why the unit circle is friggin' awesome is that we get a whole new way to measure angles. If the radius of the unit circle is $1$, then the circumference of the unit circle is $2\pi$. That means a full $360^\circ$ is $2\pi$ units. $180^\circ$ is $\pi$. $90^\circ$ is $\frac{\pi}{2}$. You get the idea.
 
-If the radius of the unit circle is $1$, then the circumference of the unit circle is $2\pi$. That means a full $360^\circ$ is $2\pi$ units. $180^\circ$ is $\pi$. $90^\circ$ is $\frac{\pi}{2}$. You get the idea.
+OK, so why another measurement? Well, radians are unit-less. This makes computations a lot easier. When you eventually have to deal with arc lengths, or distance traveled around a circle, you'll appreciate the lack of dimensional analysis.
 
-OK, so what's the big deal? Well, radians are unit-less. This makes computations a lot easier. Also, radians are a distance. So, when you eventually have to deal with arc lengths, or distance traveled around a circle, you'll appreciate the lack of dimensional analysis.
+But the biggest pro for radians is that it's universal and the natural way to measure angles. $360^\circ$ in a circle? Someone just made that up. Radians are expressed in terms of the radius of the circle, so no matter what measurement you use, everything works out. Degrees are similar to mixed numbers, in that they are more useful in everyday terms (people tend to not like fractions), but you hit a certain point in maths where their convenience is actually a hindrance.
 
-But the biggest pro for radians is that it's universal and the natural way to measure angles. $360^\circ$ in a circle? Someone just made that up. Radians are expressed in terms of the radius of the circle, so no matter what measurement you use, everything works out.
+My advice to you is that when you sit down to do any work or take an exam, draw a unit circle and label the radians so you start to get a feel of the system.
 
+> ![Unit circle with some radian measurements](./img/7-2-unit-circle-radians.png)
+>
+> **Figure 7.2.4** The unit circle with a few radian measures labeled.
+{: .figure}
 
-[^1]: This operation of dividing and keeping the remainder is called modulo
+To move back and forth between the two, since we $360^\circ = 2\pi \text{ radians}$, we can use this conversion ratio.
+
+$$\begin{align}
+180^\circ = \pi \text{ radians}
+\end{align}$$
+
+### Example 4
+
+> Covert $112^\circ$ to radians and $\frac{\pi}{6}$ to degrees.
+{: .example}
+
+Dimensional analysis refresher. Multiply by a conversion ratio, but make sure the unit you want is up top, and the unit you want to go away is in the denominator.
+
+$$\begin{align}
+\frac{112^\circ}{1} \cdot \frac{\pi}{180^\circ} = \frac{112}{180}\pi = \frac{28}{45}\pi
+\end{align}$$
+
+$$\begin{align}
+\frac{\pi}{6}\cdot\frac{180^\circ}{\pi} = 30^\circ
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
