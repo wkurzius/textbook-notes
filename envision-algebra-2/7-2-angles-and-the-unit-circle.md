@@ -74,5 +74,47 @@ $-270^\circ$ we'll treat as positive and get the remainder. $270^\circ \bmod 180
 $\blacksquare$
 {: .qed}
 
+### Example 2
+
+> Give a possible positive angle measure that would have a reference angle on $10^\circ$ in quadrant III and another for $15^\circ$ in quadrant IV.
+{: .example}
+
+Sketching these types of problems will make them much easier. Since reference angles are off of the $x$-axis, an angle in quadrant III means we just need to add $180^\circ$. So, $190^\circ$ in this case.
+
+For quadrant IV, I like putting a negative in front of the reference angle, then adding $360^\circ$. You can also add $270^\circ$ and the complement. Either way, we end up at $345^\circ$.
+
+$\blacksquare$
+{: .qed}
+
+## The Unit Circle
+
+If you take your angle in standard position and spin it all the way around, but make sure the terminal side is 1 unit long, you get the unit circle: a circle with radius of 1 that's centered on the origin.
+
+This thing is amazing, for a bunch of reasons. First, pick a point on the circle (not in it). The $x$-coordinate is the cosine of the angle in standard position, and the $y$-coordinate is the sine value. I suggest sticking with quadrant I for now, but that rule applies to all of them. Just don't think about the negatives too much.
+
+### Example 3
+
+> An angle has a value of $60^\circ$. At what point does it hit the unit circle?
+{: .example}
+
+We need sine and cosine values to get that coordinate. A $60^\circ$ angle is part an equilateral triangle, and since the other angle is $30^\circ$, we can just mirror it to get the whole thing.
+
+So, with the unit circle in mind, the hypotenuse is $1$, that means the adjacent side will be $\frac{1}{2}$. Some Pythagorean work gives us a since of $\frac{\sqrt3}{2}$.
+
+If the cosine of the angle is $\frac{1}{2}$ and the sine is $\frac{\sqrt3}{2}$, then the coordinate on the unit circle is $(\frac{1}{2},\frac{\sqrt{3}}{2})$.
+
+$\blacksquare$
+{: .qed}
+
+### Radians
+
+One of the other reasons why the unit circle is friggin' awesome is that we get a whole new unit to measure angles with. I say unit, but technically it's unit-less. I'm getting a ahead of myself.
+
+If the radius of the unit circle is $1$, then the circumference of the unit circle is $2\pi$. That means a full $360^\circ$ is $2\pi$ units. $180^\circ$ is $\pi$. $90^\circ$ is $\frac{\pi}{2}$. You get the idea.
+
+OK, so what's the big deal? Well, radians are unit-less. This makes computations a lot easier. Also, radians are a distance. So, when you eventually have to deal with arc lengths, or distance traveled around a circle, you'll appreciate the lack of dimensional analysis.
+
+But the biggest pro for radians is that it's universal and the natural way to measure angles. $360^\circ$ in a circle? Someone just made that up. Radians are expressed in terms of the radius of the circle, so no matter what measurement you use, everything works out.
+
 
 [^1]: This operation of dividing and keeping the remainder is called modulo
