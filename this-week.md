@@ -11,6 +11,11 @@ layout: this-week
 | **Algebra 2**    | [7.1](./envision-algebra-2/7-1-trigonometric-functions-and-acute-angles.md) and [7.2](./envision-algebra-2/7-2-angles-and-the-unit-circle.md)                                                                    | May 21    |
 | **College Prep** | [3.4](./openstax-elementary-algebra-2e/3-4-solve-geometry-applications-triangles-rectangles-and-the-pythagorean-theorem.md) and [3.5](./openstax-elementary-algebra-2e/3-5-solve-uniform-motion-applications.md) | May 8     |
 
+- NJSLA is this week. [Here's the bell schedule](https://cdn.smore.com/u/thumbs/9a0f/thumb-cfbd3771eebdecbd33ea78e8ef380ab3.jpeg).
+  - Periods 1–4 rotate, and a different one is skipped each day.
+  - No Calc on Tuesday
+  - No College Prep on Thursday
+
 ---
 
 ## Notes and Homework
