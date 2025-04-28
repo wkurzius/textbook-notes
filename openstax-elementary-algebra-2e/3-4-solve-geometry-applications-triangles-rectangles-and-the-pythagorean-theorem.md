@@ -195,3 +195,29 @@ Just like with triangles, you'll see problems that revolve around rectangles.
    \end{align}$$
 
 Also worth noting is the names of the dimensions are essentially meaningless. Width, length, height, base, depth, whatever. Just keep track of the fact that one dimension is perpendicular to the other.
+
+### Example 7
+
+> The width of a rectangle is two feet less than the length. The perimeter is 52 feet. Find the length and width.
+{: .example}
+
+Since we are given perimeter, let's start with that formula.
+
+$$\begin{align}
+P &= 2l + 2w
+\end{align}$$
+
+Now, in place of width, we can put the information the problem gives us, that it is $2$ less than the length.
+
+$$\begin{align}
+52 &= 2l + 2(l - 2) \\
+52 &= 2l + 2l -4 \\
+52 &= 4l - 4 \\
+56 &= 4l \\
+14 &= l
+\end{align}$$
+
+And if the width is $2$ less than the length of $14$, then our width is $12$.
+
+$\blacksquare$
+{: .qed}
