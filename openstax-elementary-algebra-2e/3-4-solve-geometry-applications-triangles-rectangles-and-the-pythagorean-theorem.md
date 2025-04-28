@@ -18,7 +18,7 @@ course: College Prep Math
 
 Triangles are three sided shapes, and each has the following properties we're interested in at the moment.
 
-> ![](./img/3-4-triangle.jpg)
+> ![A fully labeled triangle.](./img/3-4-triangle.jpg)
 >
 > **Figure 3.4.1**
 {: .figure}
@@ -109,3 +109,89 @@ Our two angles are $35^\circ$ and $55^\circ$.
 
 $\blacksquare$
 {: .qed}
+
+## Use the Pythagorean Theorem
+
+The Pythagorean theorem relates the three sides of a right triangle. So, given the length of any two, you can find the third.
+
+> ### The Pythagorean Theorem
+>
+> > ![](./img/3-4-right-triangle.jpg)
+> >
+> > **Figure 3.4.2** A right triangle with legs $a$ and $b$, and hypotenuse $c$.
+> {: .figure}
+>
+> For any right triangle, let $a$ and $b$ be legs, which are adjacent to the right angle, and $c$ the hypotenuse, which is across from the right angle, then
+> $$\begin{align}
+> a^2 + b^2 = c^2
+> \end{align}$$
+{: .definition}
+
+### Example 5
+
+> Use the Pythagorean Theorem to find the length of the hypotenuse shown below.
+>
+> > ![A right triangle](./img/3-4-example-5.jpg)
+> >
+> >**Figure 3.4.3**
+> {: .figure}
+{: .example}
+
+The two sides given to us are right next to the right angle, so they are the legs $a$ and $b$.
+
+$$\begin{align}
+a^2 + b^2 &= c^2 \\
+(3)^2 + (4)^2 &= c^2 \\
+25 &= c^2 \\
+\sqrt{25} &= \sqrt{c^2} \\
+5 &= c
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
+
+## Example 6
+
+> Use the Pythagorean Theorem to find the length of the leg shown below.
+>
+> > ![A right triangle.](./img/3-4-example-6.jpg)
+> >
+> > **Figure 3.4.4**
+> {: .figure}
+{: .example}
+
+Now we have one leg and the hypotenuse. Plug in for either $a$ or $b$.
+
+$$\begin{align}
+a^2 + b^2 &= c^2 \\
+(5)^2 + b^2 &= (13)^2 \\
+25 + b^2 &= 169 \\
+b^2 &= 144 \\
+\sqrt{b^2} &= \sqrt{144} \\
+b &= 12
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
+
+## Solve Applications Using Rectangle Properties
+
+> ![A rectangle.](./img/3-4-rectangle.jpg)
+>
+> **Figure 3.4.5** A rectangle with width $W$ and length $L$.
+{: .figure}
+
+Just like with triangles, you'll see problems that revolve around rectangles.
+
+1. Rectangles have four right angles.
+2. The opposite sides are the same length.
+3. The area of a rectangle is
+   $$\begin{align}
+   A = w \cdot l
+   \end{align}$$
+4. The perimeter can be found by adding up all the sides, but since opposites are the same, there is a shorter formula.
+   $$\begin{align}
+   P = 2l + 2w
+   \end{align}$$
+
+Also worth noting is the names of the dimensions are essentially meaningless. Width, length, height, base, depth, whatever. Just keep track of the fact that one dimension is perpendicular to the other.
