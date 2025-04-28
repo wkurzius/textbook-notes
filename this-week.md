@@ -13,7 +13,7 @@ layout: this-week
 
 - NJSLA is this week. [Here's the bell schedule](https://cdn.smore.com/u/thumbs/9a0f/thumb-cfbd3771eebdecbd33ea78e8ef380ab3.jpeg).
   - Periods 1–4 rotate, and a different one is skipped each day.
-  - No Calc on Tuesday
+  - No Calc on Wednesday
   - No College Prep on Thursday
   - Also, periods 8 and 9 swap on alternating days for reasons
 
