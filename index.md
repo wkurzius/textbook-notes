@@ -10,6 +10,7 @@ title: Home
 - Cheat Sheets
   - [Differentiation cheat sheet](./misc/differentiation-cheat-sheet.pdf)
   - [Integration cheat sheet](./misc/integration-cheat-sheet.pdf)
+  - [Cram Sheet](./pdfs/ap-calc-cram-sheet.pdf)
 
 ## Algebra II and Trigonometry Honors
 
