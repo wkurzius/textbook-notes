@@ -34,7 +34,7 @@ We need to place the angles somewhere on the plane, and we should be consistent.
 > **Figure 7.2.1** An angle in standard position on the coordinate plane.
 {: .figure}
 
-Now, that terminal side can spin around in a circle, but there's no reason it has to stop. A circle might only have $360^\circ$, but angles aren't limited to that. There's also no reason they need to be positive. The terminal side can swing around the other way.
+Now, that terminal side [can spin around in a circle](https://www.geogebra.org/classic/G6EtwPhh), but there's no reason it has to stop. A circle might only have $360^\circ$, but angles aren't limited to that. There's also no reason they need to be positive. The terminal side can swing around the other way.
 
 But, the angles end up repeating themselves. A $45^\circ$, $405^\circ$, and $-315^\circ$ angle all look exactly the same because they are separated by a complete revolution, or $360^\circ$. These angles are called **coterminal angles** because they share a terminal side.
 
@@ -56,7 +56,7 @@ The book has a procedure for finding a reference angle that involves determining
 
 1. Drop any negatives.
 2. If larger than $180^\circ$, then divide by $180^\circ$ and keep the remainder. This operation of dividing and keeping the remainder is called [modulo](https://en.wikipedia.org/wiki/Modulo).
-3. If the remainder is an obtuse angle, subtract it from $180^\circ$ (this is finding the supplementary angle).
+3. If the remainder is an obtuse angle, find its supplement by subtracting it from $180^\circ$.
 
 ### Example 1
 
@@ -76,12 +76,18 @@ $\blacksquare$
 
 ### Example 2
 
-> Give a possible positive angle measure that would have a reference angle on $10^\circ$ in quadrant III and another for $15^\circ$ in quadrant IV.
+> For all four quadrants, give a possible positive angle measure that would have a reference angle on $10^\circ$.
 {: .example}
 
-Sketching these types of problems will make them much easier. Since reference angles are off of the $x$-axis, an angle in quadrant III means we just need to add $180^\circ$. So, $190^\circ$ in this case.
+Sketching these types of problems will make them much easier.
 
-For quadrant IV, I like putting a negative in front of the reference angle, then adding $360^\circ$. You can also add $270^\circ$ and the complement. Either way, we end up at $345^\circ$.
+Quadrant I is whatever the reference angle is, so no problem there.
+
+For quadrant II, coming off the $x$-axis means subtracting, so $180^\circ-10^\circ=170^\circ$.
+
+An angle in quadrant III is similar to II, but now we are increasing the angle, so add. $180^\circ+10^\circ=190^\circ$.
+
+For quadrant IV, keep in mind that $360^\circ$ and $0^\circ$ are coterminal. $360^\circ-10^\circ=350^\circ$. You can also just put a negative in front of the reference angle, and then add a revolution to make it positive.
 
 $\blacksquare$
 {: .qed}
