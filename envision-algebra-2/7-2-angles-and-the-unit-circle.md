@@ -107,7 +107,7 @@ We need sine and cosine values to get that coordinate. A $60^\circ$ angle is par
 
 So, with the unit circle in mind, the hypotenuse is $1$, that means the adjacent side will be $\frac{1}{2}$. Some Pythagorean work gives us a sine of $\frac{\sqrt3}{2}$.
 
-If the cosine of the angle is $\frac{1}{2}$ and the sine is $\frac{\sqrt3}{2}$, then the coordinate on the unit circle is $(\frac{1}{2},\frac{\sqrt{3}}{2})$.
+If the cosine of the angle is $\frac{1}{2}$ and the sine is $\frac{\sqrt3}{2}$, then the coordinate on the unit circle is $\left(\frac{1}{2},\frac{\sqrt{3}}{2}\right)$.
 
 $\blacksquare$
 {: .qed}
