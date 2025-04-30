@@ -16,6 +16,7 @@ layout: this-week
   - No Calc on Wednesday
   - No College Prep on Thursday
   - Also, periods 8 and 9 swap on alternating days for reasons
+- **AP Calc exam is May 12 at 8:00 a.m. in room 31**
 
 ---
 
