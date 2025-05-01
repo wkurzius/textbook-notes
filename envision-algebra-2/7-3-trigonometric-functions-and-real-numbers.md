@@ -114,6 +114,16 @@ $$\begin{align}
 \tan\frac{3\pi}{4} = -1
 \end{align}$$
 
-
 $\blacksquare$
 {: .qed}
+
+So, yeah. It gets easier once you get familiar with the common angles. Here are some patterns you can try to pick up on.
+
+- Radians involving halves and wholes fall right on an axis and are the $90^\circ$ angles. Either sine or cosine will be $0$, the other will be a $1$, but watch your negatives.
+- Anything with a $6$ in the denominator will typically be a $30^\circ$ angle. A $4$ means $45^\circ$ and a $3$ points to a $60^\circ$ angle. Just watch out for unsimplified fractions.
+- As you climb in angles, from $30^\circ$ to $45^\circ$ to $60^\circ$, so does your sine value from $\frac{1}{2}$ to $\frac{\sqrt2}{2}$ to $\frac{\sqrt3}{2}$. Cosine does the same, but in the reverse order.
+
+> ![The unit circle](./img/7-3-unit-circle.png)
+>
+> **Figure 7.3.4** The full unit circle.
+{: .figure}
