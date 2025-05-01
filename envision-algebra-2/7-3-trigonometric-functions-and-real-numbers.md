@@ -98,4 +98,22 @@ $$\begin{align}
 $\blacksquare$
 {: .qed}
 
-Yes, that was just one angle.
+Yes, that was just one angle, but notice that the amount of a calculations was minimal. Most of what happened up there goes away once you start getting familiar with the common angles and their ratios.
+
+For the next one, I'll do it from the perspective of someone who knows the unit circle pretty well.
+
+### Example 2
+> Find sine, cosine, and tangent of the angle $\frac{3}{4}\pi$.
+{: .example}
+
+OK, three quarters of $\pi$ puts us in quadrant II again. And since it's quarters, or $45^\circ$, sine and cosine will be the same, but only sine is positive. And I also know that value is $\frac{\sqrt2}{2}$.
+
+$$\begin{align}
+\sin\frac{3\pi}{4} = \frac{\sqrt2}{2} \qquad
+\cos\frac{3\pi}{4} = -\frac{\sqrt2}{2} \qquad
+\tan\frac{3\pi}{4} = -1
+\end{align}$$
+
+
+$\blacksquare$
+{: .qed}
