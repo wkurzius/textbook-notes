@@ -74,7 +74,7 @@ $$\begin{align}
 
 Before we get into finding values, we need to deal with negatives. We are in quadrant II, so sine will be positive, but cosine will be negative.
 
-$\frac{\pi}{3}$ is one third of $\pi$ ($60^\circ$ is one third of $180^\circ$), so we have half of an equilateral triangle. Draw it out if you can't remember, but since we half only the left half of it, $\cos\frac{\pi}{3}= \frac{1}{2}$.
+$\frac{\pi}{3}$ is one third of $\pi$ ($60^\circ$ is one third of $180^\circ$), so we have half of an equilateral triangle. Draw it out if you can't picture it, but since we have only the left half of it, $\cos\frac{\pi}{3}= \frac{1}{2}$.
 
 But wait, that's only the reference angle. The actual angle is $\frac{2}{3}\pi$, and we need to account for our negative since this is cosine.
 
@@ -87,7 +87,6 @@ The hypotenuse is always $1$ in a unit circle, so we can use the Pythagorean the
 $$\begin{align}
 \sin\frac{2\pi}{3} = \frac{\sqrt3}{2}
 \end{align}$$
-
 
 Tangent is $\frac{y}{x}$, or $\frac{\sin\theta}{\cos\theta}$.
 
