@@ -61,7 +61,7 @@ Let's make a table again. Again, distance will come from the formula. It is is *
 
 |         | Rate (mph) | Time (hr) | Distance (mi) |
 | ------- | :--------: | :-------: | :-----------: |
-| Chris   |   $r+10$   |   $1.5$   |  $1.5(r+10)   |
+| Chris   |   $r+10$   |   $1.5$   |  $1.5(r+10)$   |
 | Parents |    $r$     |    $1$    |      $r$      |
 
 Chris and parents met in the middle, driving from opposite directions. They live $115$ miles apart, so that means *combined* they drove $115$ miles.
