@@ -21,8 +21,8 @@ title: "OpenStax Elementary Algebra 2e"
 - [3.2 Solve Percent Applications](./3-2-solve-percent-applications.md)
 - ~~3.3 Solve Mixture Applications~~
 - [3.4 Solve Geometry Applications: Triangles, Rectangles, and the Pythagorean Theorem](./3-4-solve-geometry-applications-triangles-rectangles-and-the-pythagorean-theorem.md)
-- 3.5 Solve Uniform Motion Applications
-- 3.6 Solve Applications with Linear Inequalities
+- [3.5 Solve Uniform Motion Applications](./3-5-solve-uniform-motion-applications.md)
+- [3.6 Solve Applications with Linear Inequalities](./3-6-solve-applications-with-linear-inequalities.md)
 
 ## 4 Graphs
 
