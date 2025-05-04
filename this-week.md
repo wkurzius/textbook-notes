@@ -1,27 +1,19 @@
 ---
-title: "This Week (April 28–May 2)"
+title: "This Week (May 5–9)"
 layout: this-week
 ---
 
 [Site home](./)
 
-|                  | New Material                                                                                                                                  | Next Exam |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **AP Calc**      | [7.7](./calc-for-ap-larson/7.7-indeterminate-forms-and-lhopitals-rule.md)                                                                     | May 2     |
-| **Algebra 2**    | [7.1](./envision-algebra-2/7-1-trigonometric-functions-and-acute-angles.md) and [7.2](./envision-algebra-2/7-2-angles-and-the-unit-circle.md) | May 21    |
-| **College Prep** | [3.4](./openstax-elementary-algebra-2e/3-4-solve-geometry-applications-triangles-rectangles-and-the-pythagorean-theorem.md)                   | May 13    |
-
-- NJSLA is this week. [Here's the bell schedule](https://cdn.smore.com/u/thumbs/9a0f/thumb-cfbd3771eebdecbd33ea78e8ef380ab3.jpeg).
-  - Periods 1–4 rotate, and a different one is skipped each day.
-  - No Calc on Wednesday
-  - No College Prep on Thursday
-  - Also, periods 8 and 9 swap on alternating days for reasons
-- **AP Calc exam is May 12 at 8:00 a.m. in room 31**
-
-### Next Week
+|                  | New Material                                                                                                                                                                    | Next Exam |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| **AP Calc**      | –                                                                                                                                                                               | May 1     |
+| **Algebra 2**    | [7.3](./envision-algebra-2/7-3-trigonometric-functions-and-real-numbers.md) and [7.4](./envision-algebra-2/7-4-graphing-sine-and-cosine-functions.md)                           | May 21    |
+| **College Prep** | [3.5](./openstax-elementary-algebra-2e/3-5-solve-uniform-motion-applications.md) and [3.6](./openstax-elementary-algebra-2e/3-6-solve-applications-with-linear-inequalities.md) | May 13    |
 
 - Early dismissal on Tuesday
 - College Prep: Room 8 on Wed. and Fri.
+- **AP Calc exam is May 12 at 8:00 a.m. in room 31**
 
 ---
 
