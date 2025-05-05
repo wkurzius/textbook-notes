@@ -124,5 +124,5 @@ So, yeah. It gets easier once you get familiar with the common angles. Here are 
 
 > ![The unit circle](./img/7-3-unit-circle.png)
 >
-> **Figure 7.3.4** The full unit circle.
+> **Figure 7.3.4** The full unit circle. Here's a [printable version](../pdfs/unit-circle.pdf).
 {: .figure}
