@@ -20,3 +20,6 @@ course: Algebra 2 and Trig
 - [Additional practice worksheet](./pdf/alg2-add-practice-0704.pdf)
 
 ---
+
+## Graphs of a Trig Functions and Their Features
+
