@@ -157,3 +157,10 @@ Now we can finish our function.
 $$\begin{align}
 5\cos\left(\frac{\pi}{6}x\right)
 \end{align}$$
+
+And don't forget to graph and check that it makes sense with the situation. You should see it repeat every 12, and reach of a peak of 5, both positive and negative.
+
+> ![Graph of the 5cos(pi/6 x)](./img/7-4-clock-graph.png)
+>
+> **Figure 7.4.5** The graph of $5\cos\left(\frac{\pi}{6}x\right)$.
+{: .figure}
