@@ -11,8 +11,8 @@ layout: this-week
 | **Algebra 2**    | [7.3](./envision-algebra-2/7-3-trigonometric-functions-and-real-numbers.md) and [7.4](./envision-algebra-2/7-4-graphing-sine-and-cosine-functions.md)                           | May 21    |
 | **College Prep** | [3.5](./openstax-elementary-algebra-2e/3-5-solve-uniform-motion-applications.md) and [3.6](./openstax-elementary-algebra-2e/3-6-solve-applications-with-linear-inequalities.md) | May 13    |
 
-- Early dismissal on Tuesday
-- College Prep: Room 8 on Wed. and Fri.
+- ~~Early dismissal on Tuesday~~
+- College Prep: Room 8 the rest of the week
 - **AP Calc exam is May 12 at 8:00 a.m. in room 31**
 
 ---
