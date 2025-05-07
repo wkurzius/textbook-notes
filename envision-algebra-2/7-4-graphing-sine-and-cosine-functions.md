@@ -85,7 +85,7 @@ Our period is $\pi$, also we can say the frequency is $\frac{1}{\pi}$.
 $\blacksquare$
 {: .qed}
 
-## Example 3
+### Example 3: What about cosine?
 
 > What is the amplitude, period, and frequency of $f(x)=\frac{3}{2}\cos 3\pi x$?
 {: .example}
@@ -126,3 +126,34 @@ Before drawing anything, it might be helpful to figure out the features. So, amp
 Amplitude is the farthest away the tip can be from the axis, and that would be pointing straight up (or down), and since the hand is 5 inches long, our amplitude is 5.
 
 Using either period or frequency will depend on your brain and the problem. For this one, it repeats every 12 hours, so that's our period.
+
+There's one more thing to figure out: sine or cosine? Although they are essentially the same graph, just shifted slightly (which we are not dealing with today), the important distinction is what happens when $x=0$. With sine, we get $\sin0=0$ and cosine $\cos0=1$. So, if the model starts at $0$, sine is ideal, but if it starts at a peak, then cosine is the better fit.
+
+With our clock, we are starting at a peak with the minute hand pointed straight up, so we'll use cosine in our model.
+
+### Building the Function
+
+Let's start with placeholders.
+
+$$\begin{align}
+a\cos bx
+\end{align}$$
+
+$a$ is our amplitude, which is an easy substitution. $b$ is *not* the period, but instead used to determine the period. Remember that we find the period by dividing our regular interval by $b$.
+
+$$\begin{align}
+\text{Period} = \frac{2\pi}{b}
+\end{align}$$
+
+Which we can use to arrange and find our $b$.
+
+$$\begin{align}
+b &= \frac{2\pi}{\text{Period}} \\
+b &= \frac{2\pi}{12} = \frac{\pi}{6}
+\end{align}$$
+
+Now we can finish our function.
+
+$$\begin{align}
+5\cos\left(\frac{\pi}{6}x\right)
+\end{align}$$
