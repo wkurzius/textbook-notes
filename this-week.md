@@ -5,15 +5,13 @@ layout: this-week
 
 [Site home](./)
 
-|                  | New Material                                                                                                                                                                    | Next Exam |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **AP Calc**      | –                                                                                                                                                                               | May 1     |
-| **Algebra 2**    | [7.3](./envision-algebra-2/7-3-trigonometric-functions-and-real-numbers.md) and [7.4](./envision-algebra-2/7-4-graphing-sine-and-cosine-functions.md)                           | May 21    |
-| **College Prep** | [3.5](./openstax-elementary-algebra-2e/3-5-solve-uniform-motion-applications.md) and [3.6](./openstax-elementary-algebra-2e/3-6-solve-applications-with-linear-inequalities.md) | May 13    |
+|                  | New Material                                                                                                                                         | Next Exam |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| **AP Calc**      | –                                                                                                                                                    | May 1     |
+| **Algebra 2**    | [7.5](./envision-algebra-2/7-5-graphing-other-trigonometric-functions.md) and [7.6](./envision-algebra-2/7-6-translating-trigonometric-functions.md) | May 21    |
+| **College Prep** | [4.1](./openstax-elementary-algebra-2e/4-1-use-the-rectangular-coordinate-system.md)                                                                                                                                                     | May 13    |
 
-- ~~Early dismissal on Tuesday~~
-- College Prep: Room 8 the rest of the week
-- **AP Calc exam is May 12 at 8:00 a.m. in room 31**
+- College Prep: Room 8 through Wednesday.
 
 ---
 
