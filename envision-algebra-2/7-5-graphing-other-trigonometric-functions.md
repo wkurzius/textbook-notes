@@ -5,11 +5,11 @@ course: Algebra 2 and Trig
 ---
 
 - Describe and compare key features of the graphs of trigonometric functions.
-- Graph functions of the form $f(x) = a tan bx$ and relate the graph of a function to the graph of the parent function.
+- Graph functions of the form $f(x) = a \tan (bx)$ and relate the graph of a function to the graph of the parent function.
 
 ## Assignment
 
-- p398 6–25 **(not 22. 22 is stupid and was made by stupid people)** ([pdf](./pdf/alg2-practice-0705.pdf))
+- p398 6–25 **(Not 22. 22 is stupid and was made by stupid people.)** ([pdf](./pdf/alg2-practice-0705.pdf))
   - Answers to [odd questions](../misc/alg2-odd-answers.pdf) / [even questions](../misc/alg2-even-answers.pdf)
 
 ## Additional Resources
@@ -62,7 +62,7 @@ Like tangent and cotangent, and also sine and cosine, these are basically the sa
 > **Figure 7.5.3** The graphs of $\sec(x)$ and $\csc(x)$.
 {: .figure}
 
-Vertical tangents are back since we are dealing with reciprocals, and they appear whenever sine or cosine is $0$. But the areas where each is positive or negative are identical to the originals. You can think of secant and cosecant as heading toward infinity before switching sings, instead of heading towards $0$.
+Vertical tangents are back since we are dealing with reciprocals, and they appear whenever sine or cosine is $0$. But the areas where each is positive or negative are identical to the originals. You can think of secant and cosecant as heading toward infinity before switching signs, instead of heading towards $0$.
 
 > ![Graphs of csc(x) and sin(x)](./img/7-5-csc-sin.png)
 >
