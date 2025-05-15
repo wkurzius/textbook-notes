@@ -47,3 +47,45 @@ y = \cos2(x + \frac{\pi}{8})
 \end{align}$$
 
 Now it's a lot easier to see the phase shift, which is $\frac{\pi}{8}$.
+
+## Writing an Equation from a Graph
+
+The real challenge of this section is taking a graph and writing the equation for it.
+
+> ![A periodic graph](./img/7-6-example.png)
+>
+> **Figure 7.6.1** A periodic graph lacking an equation.
+{: .figure}
+
+The four items listed above will be our checklist. First the amplitude. Since this thing has been shifted vertically, we could find the midline first. It peaks at $1$ and $-3$, so $(-3+1)/2=-1$. That means our amplitude, the distance from midline to peak is $2$.
+
+Alternatively, amplitude is also half the distance from peak to peak. $|-3-1|/2 = 2$
+
+Period is next on the list. Make sure to use the peaks for this. Anything else can lead to weird results if you're not careful. This one peaks at $-\pi/2$ and $3\pi/2$, so the period is $2\pi$. To get $b$, divide $2\pi$ by the period, which in this case gives us $b=1$. $2\pi$ is the default period of sine and cosine, so that result makes sense.
+
+We technically did the midline above, so we have our vertical shift of $-1$. The only thing left is the phase shift, and before we do that we need to make a decision: sine or cosine. This is personal preference. To you, does it look more like a sine way that's been shifted or a cosine wave?
+
+My first thought was a shifted cosine, so we'll do that first. Cosine starts at a high peak, and our high peak is moved backward by $\pi/2$. So our phase shift, assuming it's cosine is $-\pi/2$.
+
+Putting that all together we get the equation
+
+$$\begin{align}
+2\cos\left(x+\frac{\pi}{2}\right)-1
+\end{align}$$
+
+But that's not the only answer. What if I looked at the other high peak? That one was moved off the $y$-axis to the right by $3\pi/2$.
+
+$$\begin{align}
+2\cos\left(x-\frac{3\pi}{2}\right)-1
+\end{align}$$
+
+Graph them and you'll see there's no difference.
+
+And what if you thought it was sine? Sine starts at the midline and goes up. That point is now either at $-\pi$ or $\pi$, depending on which you want to use.
+
+$$\begin{align}
+2\sin\left(x+\pi\right)-1 \\
+2\sin\left(x-\pi\right)-1
+\end{align}$$
+
+Make sure you make use of Desmos as you work through these
