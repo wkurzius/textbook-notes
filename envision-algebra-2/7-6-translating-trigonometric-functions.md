@@ -29,7 +29,7 @@ With trig functions, horizontal translations are called **phase shifts**. Vertic
 > ### Trigonometric Transformations
 >
 > For any sine or cosine function written in the form below
-> 
+>
 > $$\begin{align}
 > a\sin\left[b(x-c)\right]+d
 > \end{align}$$
