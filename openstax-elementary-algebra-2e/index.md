@@ -26,10 +26,10 @@ title: "OpenStax Elementary Algebra 2e"
 
 ## 4 Graphs
 
-- 4.1 Use the Rectangular Coordinate System
-- 4.2 Graph Linear Equations in Two Variables
-- 4.3 Graph with Intercepts
-- 4.4 Understand Slope of a Line
-- 4.5 Use the Slope-Intercept Form of an Equation of a Line
-- 4.6 Find the Equation of a Line
-- 4.7 Graphs of Linear Inequalities
+- [4.1 Use the Rectangular Coordinate System](./4-1-use-the-rectangular-coordinate-system.md)
+- [4.2 Graph Linear Equations in Two Variables](./4-2-graph-linear-equations-in-two-variables.md)
+- [4.3 Graph with Intercepts](./4-3-graph-with-intercepts.md)
+- [4.4 Understand Slope of a Line](./4-4-understand-slope-of-a-line.md)
+- [4.5 Use the Slope-Intercept Form of an Equation of a Line](./4-5-use-the-slope-intercept-form-of-an-equation-of-a-line.md)
+- [4.6 Find the Equation of a Line](./4-6-find-the-equation-of-a-line.md)
+- [4.7 Graphs of Linear Inequalities](./4-7-graphs-of-linear-inequalities.md)
