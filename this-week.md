@@ -1,17 +1,17 @@
 ---
-title: "This Week (May 12–16)"
+title: "This Week (May 19–22)"
 layout: this-week
 ---
 
 [Site home](./)
 
-|                  | New Material                                                                                                                                         | Next Exam |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **AP Calc**      | –                                                                                                                                                    | May 1     |
-| **Algebra 2**    | [7.5](./envision-algebra-2/7-5-graphing-other-trigonometric-functions.md) and [7.6](./envision-algebra-2/7-6-translating-trigonometric-functions.md) | May 21    |
-| **College Prep** | [4.1](./openstax-elementary-algebra-2e/4-1-use-the-rectangular-coordinate-system.md)                                                                                                                                                     | May 13    |
+|                  | New Material                                                                                                                                                    | Next Exam |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| **AP Calc**      | –                                                                                                                                                               | May 1     |
+| **Algebra 2**    | —                                                                                                                                                               | May 21    |
+| **College Prep** | [4.2](./openstax-elementary-algebra-2e/4-2-graph-linear-equations-in-two-variables.md) and [4.3](./openstax-elementary-algebra-2e/4-3-graph-with-intercepts.md) | TBD       |
 
-- College Prep: Room 8 through Wednesday.
+- College Prep: Room 8 on Wednesday.
 
 ---
 
