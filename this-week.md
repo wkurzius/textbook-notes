@@ -12,6 +12,7 @@ layout: this-week
 | **College Prep** | [4.2](./openstax-elementary-algebra-2e/4-2-graph-linear-equations-in-two-variables.md) and [4.3](./openstax-elementary-algebra-2e/4-3-graph-with-intercepts.md) | TBD       |
 
 - College Prep: Room 8 on Wednesday.
+- No school Friday, and no school Monday and Tuesday.
 
 ---
 
