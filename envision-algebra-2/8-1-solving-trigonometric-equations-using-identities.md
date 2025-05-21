@@ -43,7 +43,7 @@ That means the inverted version, $\arcsin x$, looks like this.
 > **Figure 8.1.3** Graph of $y=\arcsin x$.
 {: .figure}
 
-So, this is going to lead to some problems later, but for now here are the restrictions for $\arccos x$ and $\arctan x$. We won't be dealing with the other three.
+This is going to lead to some problems later, but for now here are the restrictions for $\arccos x$ and $\arctan x$. We won't be dealing with the other three.
 
 - $\arccos$ uses cosine with a restriction of $0 \le x \le \pi$
 - $\arctan$ uses tangent with a restriction of $-\frac{\pi}{2}\le x \le \frac{\pi}{2}$, which is the same as $\arcsin$
