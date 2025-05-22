@@ -1,18 +1,17 @@
 ---
-title: "This Week (May 19–22)"
+title: "This Week (May 28–30)"
 layout: this-week
 ---
 
 [Site home](./)
 
-|                  | New Material                                                                                                                                                    | Next Exam |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **AP Calc**      | –                                                                                                                                                               | May 1     |
-| **Algebra 2**    | –                                                                                                                                                               | May 21    |
-| **College Prep** | [4.2](./openstax-elementary-algebra-2e/4-2-graph-linear-equations-in-two-variables.md) and [4.3](./openstax-elementary-algebra-2e/4-3-graph-with-intercepts.md) | TBD       |
+|                  | New Material                                                                        | Next Exam |
+| ---------------- | ----------------------------------------------------------------------------------- | --------- |
+| **AP Calc**      | –                                                                                   | –         |
+| **Algebra 2**    | [8.1](./envision-algebra-2/8-1-solving-trigonometric-equations-using-identities.md) | June 9    |
+| **College Prep** | [4.4](./openstax-elementary-algebra-2e/4-4-understand-slope-of-a-line.md)           | June 9    |
 
-- College Prep: Room 8 on Wednesday.
-- No school Friday, and no school Monday and Tuesday.
+- [**! Final Exam Schedule !**](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vS6k5ncrjcOoulomqUOIVDGKzaHSih5FgKYxf7txH6RQV1CHQLQI5fnNRkvbxDqT58fq8RWuYvZ-xNq/pubhtml?pli=1)
 
 ---
 
