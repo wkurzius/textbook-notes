@@ -40,6 +40,6 @@ y &= 6\\[1em]
 x &= 3
 \end{align}$$
 
-For the equation above, uur $y$-intercept is $(0,6)$ and the $x$-intercept is at $(3,0)$.
+For the equation above, your $y$-intercept is $(0,6)$ and the $x$-intercept is at $(3,0)$.
 
 To graph, plot those two points, and then do one more. Finding a third point is still best practice for making sure you get a proper line from the equation. For this equation, plugging in $1$ yields $y=4$, so $(1,4)$ is our third point.
