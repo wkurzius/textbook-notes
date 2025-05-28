@@ -47,3 +47,28 @@ This is going to lead to some problems later, but for now here are the restricti
 
 - $\arccos$ uses cosine with a restriction of $0 \le x \le \pi$
 - $\arctan$ uses tangent with a restriction of $-\frac{\pi}{2}\le x \le \frac{\pi}{2}$, which is the same as $\arcsin$
+
+## Evaluate Inverse Trig Functions
+
+So, what is $\arcsin \frac{1}{2}$? Evaluating expressions like these boil down to either knowing the unit circle or using a calculator. Like anything else we've covered, calculator should be a last resort. In this case its $\frac{\pi}{6}$.
+
+What about $\arctan\sqrt{3}$? This is trickier without just resorting to a calculator, but you if you remember that $\tan\theta = \frac{\sin\theta}{\cos\theta}$ then you can likely find the the angle with the right pairing that divides to $\sqrt{3}$. In this case it's $\frac{\pi}{3}$ since it's coordinates are $\left(\frac{1}{2},\frac{\sqrt{3}}{2}\right)$, which divide out to $\sqrt{3}$.
+
+### The Other Solutions
+
+OK, but there are other angles besides $\frac{\pi}{6}$ that satisfy $\arcsin\frac{1}{2}$. $\frac{5\pi}{6}$ also works. So does $\frac{13\pi}{6}$, and $-\frac{7\pi}{6}$.
+
+This is the problem I referred to earlier. Inverse trig functions only produce one answer, but the reality is that there are infinitely more possible answers. This is similar to the square root problem: the function only produces one answer, the positive one, but the negative one is just as viable.
+
+With inverse trig functions, the issue is a bit more complicated. You have the angle that the function produces, and all of it's coterminal angles. Then you have the angle from the *other* quadrant that would also work, and all of it's coterminal angles.
+
+Here's the breakdown.
+
+- When $x>0$:
+  - $\arcsin x$ gives an angle in Quadrant I, but the other solution is in Quadrant II
+  - $\arccos x$ gives an angle in Quadrant I, but the other solution is in Quadrant IV
+  - $\arctan x$ gives an angle in Quadrant I, but the other solution is in Quadrant III
+- When $x<0$
+  - $\arcsin x$ gives an angle in Quadrant IV, but the other solution is in Quadrant III
+  - $\arccos x$ gives an angle in Quadrant II, but the other solution is in Quadrant III
+  - $\arctan x$ gives an angle in Quadrant IV, but the other solution is in Quadrant II
