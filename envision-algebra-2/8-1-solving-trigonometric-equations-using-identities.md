@@ -72,3 +72,49 @@ Here's the breakdown.
   - $\arcsin x$ gives an angle in Quadrant IV, but the other solution is in Quadrant III
   - $\arccos x$ gives an angle in Quadrant II, but the other solution is in Quadrant III
   - $\arctan x$ gives an angle in Quadrant IV, but the other solution is in Quadrant II
+
+Got all that? Of course not. Let's try another way.
+
+- When $x$ is positive, you will get an angle in Quadrant I. The other angle will depend on where else the trig function in question is positive.
+  - Sine is your $y$-coordinate in the unit circle, so the other quadrant where $y$ is positive, so II.
+  - Cosine is the $x$-coordinate, and it's also positive in IV.
+  - Tangent is the quotient of the other two, so Quadrant III because that's where $x$ and $y$ are both negative.
+- When $x$ is negative ... I don't have a better way to sum it up. Be mindful of where each trig function is negative, and try to remember the domains of each inverse.
+
+### Determining the Other Angles
+
+All that was about which quadrant you can find the other angle, and none of it was about how to actually find that angle. If an inverse trig function gives you an angle in quadrant I you need to find the other, what you do depends on which quadrant you are heading towards.
+
+Regardless, you are looking for angles that have the same reference angle, so drawing it out will help immensely. Assuming you have the angle in quadrant I, the reference angle $\theta$, here's a breakdown of the other quadrants.
+
+| Quadrant | Angle          |
+| -------- | -------------- |
+| I        | $\theta$       |
+| II       | $\pi - \theta$ |
+| III      | $\pi + \theta$ |
+| VI       | $-\theta$      |
+
+Once you have the angle, you can add full rotations to each if needed.
+
+### Example
+
+> What are all the angles that have a cosine value of $0.57$?
+{: .example}
+
+This is calculator work at first since this isn't a value on the unit circle.
+
+$$\begin{align}
+\arccos(0.57) \approx 0.96
+\end{align}$$
+
+We are dealing with cosine, and it's positive, so we want to look in quadrant IV for the other angle. That means $-0.96$ also works.
+
+To write *all* the angles that have a cosine of $0.57$, we use a variable to describe the number of rotations.
+
+$$\begin{align}
+0.96 + 2\pi k \quad \text{and} \quad -0.96 + 2\pi k
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
+
