@@ -73,7 +73,9 @@ c &\approx 11.4
 
 Did you actually draw that triangle? If you didn't yet, do it now. Then draw it the other way, because there's two ways to solve this problem. At $\ref{B}$, we just assumed the angle was acute because that's what the calculator gave us. But $\angle B$ could also be $138.2^{\circ}$, meaning $\angle C \approx 11.8$, and we have a whole different triangle.
 
-So, when performing $\arcsin$, make sure you check the obtuse angle. It won't always work out that there is a second valid triangle (the angles still have to add up to $180^{\circ}$), but it still needs to be checked.
+> You might recall the congruency rules for triangles: SSS, SAS, ASA, and AAS (which is really just ASA with a hat on). The situation we are dealing with here is ASS, which is appropriate since it's not actually a congruency rule.
+
+So, when performing $\arcsin$, make sure you check the obtuse angle. It won't always work out that there is a second valid triangle (the angles still have to add up to $180^{\circ}$), but it needs to be checked.
 
 $\blacksquare$
 {: .qed}

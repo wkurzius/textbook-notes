@@ -1,16 +1,17 @@
 ---
-title: "This Week (May 28–30)"
+title: "This Week (June 2—6)"
 layout: this-week
 ---
 
 [Site home](./)
 
-|                  | New Material                                                                        | Next Exam |
-| ---------------- | ----------------------------------------------------------------------------------- | --------- |
-| **AP Calc**      | –                                                                                   | –         |
-| **Algebra 2**    | [8.1](./envision-algebra-2/8-1-solving-trigonometric-equations-using-identities.md) | June 9    |
-| **College Prep** | [4.4](./openstax-elementary-algebra-2e/4-4-understand-slope-of-a-line.md)           | June 9    |
+|                  | New Material                                                                                                                                                                        | Next Exam |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| **AP Calc**      | –                                                                                                                                                                                   | –         |
+| **Algebra 2**    | [8.2](./envision-algebra-2/8-2-law-of-sines-and-law-of-cosines.md) and [8.3](./envision-algebra-2/8-3-trigonometric-identities.md)                                                  | June 9    |
+| **College Prep** | [4.5](./openstax-elementary-algebra-2e/4-5-use-the-slope-intercept-form-of-an-equation-of-a-line.md) and [4.6](./openstax-elementary-algebra-2e/4-6-find-the-equation-of-a-line.md) | June 9    |
 
+- June 2: Sub study for Calc and College Prep, I have a meeting.
 - [**! Final Exam Schedule !**](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vS6k5ncrjcOoulomqUOIVDGKzaHSih5FgKYxf7txH6RQV1CHQLQI5fnNRkvbxDqT58fq8RWuYvZ-xNq/pubhtml?pli=1)
 
 ---
