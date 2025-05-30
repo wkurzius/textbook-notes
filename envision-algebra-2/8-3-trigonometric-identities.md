@@ -41,7 +41,7 @@ And since these are all formulas and equations, I'm going to pass on writing out
 > \end{align}$$
 {: .definition}
 
-Spend some time thinking about that one. Specifically, look at a unit circle and draw a right triangle in there somewhere.
+If you want to make sense of that last one, look at a unit circle and draw a right triangle in there somewhere.
 
 > ### Odd-Even Identities
 >
@@ -70,7 +70,75 @@ You should be aware of the following identities, as in "I wonder if there's a tr
 > ### Sum Formulas
 >
 > $$\begin{align}
-> \sin ( \alpha + \beta) &= \sin\alpha\cos\beta +\cos\alpha\sin\beta \\
-> \cos ( \alpha + \beta) &= \cos\alpha\cos\beta +\sin\alpha\sin\beta \\
+> \sin ( \alpha + \beta) &= \sin\alpha\cos\beta + \cos\alpha\sin\beta \\
+> \cos ( \alpha + \beta) &= \cos\alpha\cos\beta - \sin\alpha\sin\beta \\
+> \tan ( \alpha + \beta) &= \frac{\tan\alpha+\tan\beta}{1-\tan\alpha\tan\beta}
 > \end{align}$$
 {: .definition}
+
+> ### Difference Formulas
+>
+> $$\begin{align}
+> \sin ( \alpha - \beta) &= \sin\alpha\cos\beta - \cos\alpha\sin\beta \\
+> \cos ( \alpha - \beta) &= \cos\alpha\cos\beta + \sin\alpha\sin\beta \\
+> \tan ( \alpha - \beta) &= \frac{\tan\alpha-\tan\beta}{1+\tan\alpha\tan\beta}
+> \end{align}$$
+{: .definition}
+
+## Using the Identities
+
+Depending on the problem, one or more of the identities should be useful. As for general strategies, you can try rewriting everything in terms of sine and cosine, but otherwise, keep plugging away. Sometimes the path you need to take will be obvious, but sometimes not.
+
+### Example 1
+
+> Verify that $\sec\theta\cot\theta = \csc\theta$.
+{: .example}
+
+Rewriting everything in terms of sine and cosine will be helpful here.
+
+$$\begin{align}
+\sec\theta\cot\theta &= \csc\theta \\
+\frac{1}{\cos\theta}\cdot\frac{\cos\theta}{\sin\theta}&=\frac{1}{\sin\theta} \\
+\frac{1}{\sin\theta}&=\frac{1}{\sin\theta}
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
+
+### Example 2
+
+> Write a simplified form of $\frac{\sec\theta}{\sin\theta}(1-\cos^2\theta)$
+{: .example}
+
+Again, rewriting with sine and cosine will be helpful, and that $\cos^2$ hints at the Pythagorean identity being useful.
+
+$$\begin{align}
+\frac{\sec\theta}{\sin\theta}(1-\cos^2\theta)
+  &= \frac{\sec\theta}{1}\cdot\frac{1}{\sin\theta}\cdot (\sin^2\theta) \\
+  &= \frac{1}{\sin\theta}\cdot\frac{1}{\sin\theta}\cdot (\sin^2\theta) \\
+  &= \frac{1}{\sin^2\theta}\cdot (\sin^2\theta) \\
+  &= 1
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
+
+## Example 3
+
+> Find the exact value of $\cos105^{\circ}$.
+{: .example}
+
+When they ask for the exact value, you have to keep in mind that using the calculator gives an approximate answer. Most trigonometric ratios are irrational numbers, so an exact answer would be something like $\sqrt{2}$, not the decimal approximation given by a calculator.
+
+With that in mind, the only exact values you know are from the unit circle. Use your sum and difference formulas to tackle these.
+
+$$\begin{align}
+\cos105^{\circ} &= \cos(60^{\circ}+45^{\circ}) \\
+                &= \cos60^{\circ}\cos45^{\circ} - \sin60^{\circ}\sin45^{\circ} \\
+                &= \frac{1}{2}\cdot\frac{\sqrt{2}}{2} - \frac{\sqrt{3}}{2}\cdot\frac{\sqrt{2}}{2} \\
+                &= \frac{\sqrt{2}}{4} - \frac{\sqrt{6}}{4} \\
+                &= \frac{\sqrt{2}-\sqrt{6}}{4}
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
