@@ -22,7 +22,7 @@ course: Algebra 2 and Trig
 
 ## Trig and Non-Right Triangles
 
-I am going to unceremoniously drop two rules for non-right triangles on you. Yes, you have to memorize them.
+I am going to unceremoniously drop two rules for non-right triangles on you. Yes, you should memorize them.
 
 > ### Law of Sines
 >
