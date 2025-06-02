@@ -1,9 +1,7 @@
 ---
-title: Archives
+title: All Notes
 ---
 
-## Probability and Statistics
-
-- [Khan Academy: High School Statistics Notes](./khan-academy-hs-statistics/)
-- [Elementary Statistics Notes](./elementary-statistics-larson/)
-- [OpenStax College Algebra 2e Notes](./openstax-college-algebra-2e/)
+- [Calculus for AP 2e Notes](./calc-for-ap-larson/)
+- [enVision Algebra 2 Common Core 2018 Notes](./envision-algebra-2/)
+- [OpenStax Elementary Algebra 2e Notes](./openstax-elementary-algebra-2e/)
