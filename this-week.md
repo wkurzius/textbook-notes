@@ -1,5 +1,5 @@
 ---
-title: "This Week (June 2—6)"
+title: "This Week (June 2–6)"
 layout: this-week
 ---
 
