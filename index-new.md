@@ -8,10 +8,12 @@ title: Home
 
 - [Syllabus](./syllabi/ap-calc-syllabus.md)
 - [Calculus for AP 2e Notes](./calc-for-ap-larson/)
-<!-- - Cheat Sheets
+[- Cheat Sheets
   - [Differentiation cheat sheet](./misc/differentiation-cheat-sheet.pdf)
   - [Integration cheat sheet](./misc/integration-cheat-sheet.pdf)
-  - [Cram Sheet](./pdfs/ap-calc-cram-sheet.pdf) -->
+  - [Cram Sheet](./pdfs/ap-calc-cram-sheet.pdf)]: #
+
+[a simple comment test]: #
 
 ## AP Computer Science A
 
