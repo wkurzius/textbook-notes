@@ -7,13 +7,14 @@ title: Home
 ## AP Calculus
 
 - [Syllabus](./syllabi/ap-calc-syllabus.md)
-- [Calculus for AP 2e Notes](./calc-for-ap-larson/)
-[- Cheat Sheets
+- [*Calculus for AP* 2e Notes](./calc-for-ap-larson/)
+
+<!--
+- Cheat Sheets
   - [Differentiation cheat sheet](./misc/differentiation-cheat-sheet.pdf)
   - [Integration cheat sheet](./misc/integration-cheat-sheet.pdf)
-  - [Cram Sheet](./pdfs/ap-calc-cram-sheet.pdf)]: #
-
-[a simple comment test]: #
+  - [Cram Sheet](./pdfs/ap-calc-cram-sheet.pdf)
+-->
 
 ## AP Computer Science A
 
@@ -22,7 +23,8 @@ title: Home
 ## Probability & Statistics
 
 - [Syllabus](./syllabi/prob-and-stats-syllabus.md)
-- [*Statistics* at OpenStax](https://openstax.org/details/books/statistics)
+- [OpenStax *Statistics* notes](./statistics-open-stax/index.md)
+- [OpenStax *Statistics* online book](https://openstax.org/details/books/statistics)
 
 ## General
 

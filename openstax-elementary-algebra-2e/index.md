@@ -32,4 +32,4 @@ title: "OpenStax Elementary Algebra 2e"
 - [4.4 Understand Slope of a Line](./4-4-understand-slope-of-a-line.md)
 - [4.5 Use the Slope-Intercept Form of an Equation of a Line](./4-5-use-the-slope-intercept-form-of-an-equation-of-a-line.md)
 - [4.6 Find the Equation of a Line](./4-6-find-the-equation-of-a-line.md)
-- [4.7 Graphs of Linear Inequalities](./4-7-graphs-of-linear-inequalities.md)
+- ~~4.7 Graphs of Linear Inequalities~~
