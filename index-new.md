@@ -20,7 +20,7 @@ title: Home
 ## Probability & Statistics
 
 - [Syllabus](./syllabi/prob-and-stats-syllabus.md)
-- [Introductory Statistics 2e at OpenStax](https://openstax.org/details/books/introductory-statistics-2e)
+- [*Statistics* at OpenStax](https://openstax.org/details/books/statistics)
 
 ## General
 

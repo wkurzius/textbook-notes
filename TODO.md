@@ -7,6 +7,7 @@ title: TODO
 - Merge with main github.io repository? Possibly also use mr.kurzius.net as main address.
 - Figures. See Algebra 2 5.6
 - Vocabulary!
+- Run everything through a grammar checker.
 
 ## Calc
 
