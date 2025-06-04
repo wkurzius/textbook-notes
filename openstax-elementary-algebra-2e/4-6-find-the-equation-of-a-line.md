@@ -18,7 +18,7 @@ course: College Prep Math
 
 ## Find the Equation of a Line
 
-So, you have have some information about a line, but need an equation. There are various situations, but we'll boil it down to just two.
+So, you have some information about a line, but need an equation. There are various situations, but we'll boil it down to just two.
 
 ### When You Have Slope and Intercept
 
@@ -47,4 +47,12 @@ m(x - x_1) + y_1 &= y \\[1em]
 y &= m(x - x_1) + y_1 \label{point-slope}
 \end{align}$$
 
-That equation at $\ref{point-slope}$ is **point-slope** form, and is a perfectly acceptable version of a linear equation. Like slope-intercept form, it requires only two things to create: a point and a slope.
+That equation at $\ref{point-slope}$ is **point-slope** form, and is a perfectly acceptable version of a linear equation. Like slope-intercept form, it requires only two things to create: a point and a slope. So, give the point $(2,5)$ and a slope of $\frac{1}{4}$, we get an equation of ${y=\frac{1}{4}(x-2)+5}$. If you are asked to write it in slope-intercept form, then just distribute and add.
+
+$$\begin{align}
+y &= \frac{1}{4}(x - 2) + 5 \\
+y &= \frac{1}{4}x - \frac{1}{2} + 5 \\
+y &= \frac{1}{4}x + \frac{9}{2}
+\end{align}$$
+
+But what if you only have two points? Well, if you have two points you can find the slope. Then you have slope and your choice of points to use.
