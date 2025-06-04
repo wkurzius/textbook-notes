@@ -24,7 +24,7 @@ Linear equations are often written in terms of $x$, meaning they start as $y=$, 
 
 First up is our constant, $3$. No matter what, a $3$ will always be added as the last step in determining your $y$-value. This also means that when the rest of the equation is $0$, which happens when $x=0$, the result will be $3$. Well, $y$-intercepts are when $x=0$, so that means $3$ is where our graph will cross the $y$-axis.
 
-The other term is $\frac{1}{2}x$. This is a little tougher to read at first, but it we make a table of $x$-values, it's effect becomes clearer.
+The other term is $\frac{1}{2}x$. This is a little tougher to read at first, but if we make a table of $x$-values, its effect becomes clearer.
 
 |  $x$  | $\frac{1}{2}x$ |
 | :---: | :------------: |
@@ -65,7 +65,7 @@ Perpendicular lines are lines that form a right-angle when they intersect. Turns
 > ### Perpendicular Lines
 >
 > Perpendicular lines are lines in the same plane that form a right angle.
-> 
+>
 > If $m_1$ and $m_2$ are the slopes of two perpendicular lines, then
 >
 > $$\begin{align}
