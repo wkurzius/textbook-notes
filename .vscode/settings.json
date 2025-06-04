@@ -1,3 +1,4 @@
 {
-    "languageToolLinter.languageTool.disabledRules": "CURRENCY"
+    "languageToolLinter.languageTool.disabledRules": "CURRENCY",
+    "workbench.colorTheme": "Default Light+"
 }

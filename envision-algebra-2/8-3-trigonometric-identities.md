@@ -115,9 +115,10 @@ Again, rewriting with sine and cosine will be helpful, and that $\cos^2$ hints a
 $$\begin{align}
 \frac{\sec\theta}{\sin\theta}(1-\cos^2\theta)
   &= \frac{\sec\theta}{1}\cdot\frac{1}{\sin\theta}\cdot (\sin^2\theta) \\
-  &= \frac{1}{\sin\theta}\cdot\frac{1}{\sin\theta}\cdot (\sin^2\theta) \\
-  &= \frac{1}{\sin^2\theta}\cdot (\sin^2\theta) \\
-  &= 1
+  &= \frac{1}{\cos\theta}\cdot\frac{1}{\sin\theta}\cdot (\sin^2\theta) \\
+  &= \frac{\sin^2\theta}{\cos\theta\sin\theta} \\
+  &= \frac{\sin\theta}{\cos\theta} \\
+  &= \tan\theta
 \end{align}$$
 
 $\blacksquare$
