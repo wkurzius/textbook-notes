@@ -73,4 +73,4 @@ Perpendicular lines are lines that form a right-angle when they intersect. Turns
 > \end{align}$$
 {: .definition}
 
-That might sound look complicated, but just take the one slope, flip it upside down and switch the sign. If a line has a slope of $\frac{2}{3}$, then the perpendicular line has a slope of $-\frac{3}{2}$. If the slope is $-5$, the perpendicular one is $\frac{1}{5}$.
+That might look complicated, but just take the one slope, flip it upside down and switch the sign. If a line has a slope of $\frac{2}{3}$, then the perpendicular line has a slope of $-\frac{3}{2}$. If the slope is $-5$, the perpendicular one is $\frac{1}{5}$.
