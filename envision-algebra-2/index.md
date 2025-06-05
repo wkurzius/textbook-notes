@@ -4,6 +4,7 @@ title: enVision Algebra 2 Common Core 2018 Notes
 
 - [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL)
 - [Unit circle](../pdfs/unit-circle.pdf)
+- [Final Exam Topic List](./final-topic-list.md)
 
 ## 1 Linear Functions and Systems
 
