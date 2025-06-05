@@ -18,6 +18,7 @@ title: Home
 - Homework and Topic Review answers
   - [Odd questions](./misc/alg2-odd-answers.pdf)
   - [Even questions](./misc/alg2-even-answers.pdf)
+- [Final Exam Topic List](./envision-algebra-2/final-topic-list.md)
 
 ## College Prep Math
 
