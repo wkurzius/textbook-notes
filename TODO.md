@@ -15,6 +15,7 @@ title: TODO
   - Look at other sources and see how they handle to opening to area and integrals.
 - Antiderivative of $1/x$ not covered prior to 4.7? Maybe in 4.1 or 4.4?
 - Deal with 4.6 #63 and the alternative example. When to know what $u$ to choose?
+- Desmos picture as post-exam project
 
 ## Algebra 2
 
