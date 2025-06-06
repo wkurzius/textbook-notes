@@ -135,8 +135,10 @@ $$\begin{align}
 So all the angles can be written as
 
 $$\begin{align}
--1.11 + 2\pi k \quad \text{and} \quad 2.03 + 2\pi k
+-1.11 + \pi k \quad \text{and} \quad 2.03 + \pi k
 \end{align}$$
+
+Wait, why only $\pi$ this time? It has to do with the period of the tangent function. Sine and cosine repeat after a full rotation, but tangent's period is half of that.
 
 $\blacksquare$
 {: .qed}
