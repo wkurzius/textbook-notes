@@ -81,7 +81,7 @@ title: enVision Algebra 2 Common Core 2018 Notes
 
 ## 8 Trigonometric Equations and Identities
 
-- [8.1 Solving Trigonometric Equations Using Identities](./8-1-solving-trigonometric-equations-using-identities.md)
+- [8.1 Solving Trigonometric Equations Using Inverses](./8-1-solving-trigonometric-equations-using-inverses.md)
 - [8.2 Law of Sines and Law of Cosines](./8-2-law-of-sines-and-law-of-cosines.md)
 - [8.3 Trigonometric Identities](./8-3-trigonometric-identities.md)
 - [Topic Review](./pdf/aga_a2_08_tr.pdf)

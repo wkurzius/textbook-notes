@@ -26,7 +26,7 @@ Also, you get a cheat sheet and there is no calculator.
 - [7-1 Trigonometric Functions and Acute Angles](./7-1-trigonometric-functions-and-acute-angles.md)
 - [7-2 Angles and the Unit Circle](./7-2-angles-and-the-unit-circle.md)
 - [7-3 Trigonometric Functions and Real Numbers](./7-3-trigonometric-functions-and-real-numbers.md)
-- [8-1 Solving Trigonometric Equations Using Identities](./8-1-solving-trigonometric-equations-using-identities.md)
+- [8-1 Solving Trigonometric Equations Using Inverses](./8-1-solving-trigonometric-equations-using-inverses.md)
 - [8-3 Trigonometric Identities](./8-3-trigonometric-identities.md)
 {: .list-headless}
 

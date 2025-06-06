@@ -1,5 +1,5 @@
 ---
-title: 8.1 Solving Trigonometric Equations Using Identities
+title: 8.1 Solving Trigonometric Equations Using Inverses
 layout: notes
 course: Algebra 2 and Trig
 ---
