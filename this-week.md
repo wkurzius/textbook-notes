@@ -12,6 +12,7 @@ layout: this-week
 | **College Prep** | [Chapters 2, 3 and 4](./openstax-elementary-algebra-2e/index.md)  | [June 16](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vS6k5ncrjcOoulomqUOIVDGKzaHSih5FgKYxf7txH6RQV1CHQLQI5fnNRkvbxDqT58fq8RWuYvZ-xNq/pubhtml?pli=1)    |
 
 - **AP Calc** Library for the remainder of the year
+- **Seniors** Chromebook and book collection is Thursday
 - The last day I am accepting work is **June 18**
 
 ---
