@@ -5,7 +5,7 @@ layout: this-week
 
 [Site home](./)
 
-|                  | **Review** Material                                               | **Final** Exam                                                                                                                                                  |
+|                  | Review Material                                                   | Final Exam                                                                                                                                                      |
 | ---------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **AP Calc**      | –                                                                 | –                                                                                                                                                               |
 | **Algebra 2**    | [Final Exam Topic List](./envision-algebra-2/final-topic-list.md) | [June 17/18](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vS6k5ncrjcOoulomqUOIVDGKzaHSih5FgKYxf7txH6RQV1CHQLQI5fnNRkvbxDqT58fq8RWuYvZ-xNq/pubhtml?pli=1) |
