@@ -1,20 +1,18 @@
 ---
-title: "This Week (June 2–6)"
+title: "These Weeks (June 9–19)"
 layout: this-week
 ---
 
 [Site home](./)
 
-|                  | New Material                                                                                                                                                                        | Next Exam |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **AP Calc**      | –                                                                                                                                                                                   | –         |
-| **Algebra 2**    | [8.2](./envision-algebra-2/8-2-law-of-sines-and-law-of-cosines.md) and [8.3](./envision-algebra-2/8-3-trigonometric-identities.md)                                                  | June 9    |
-| **College Prep** | [4.5](./openstax-elementary-algebra-2e/4-5-use-the-slope-intercept-form-of-an-equation-of-a-line.md) and [4.6](./openstax-elementary-algebra-2e/4-6-find-the-equation-of-a-line.md) | June 9    |
+|                  | **Review** Material                                               | **Final** Exam                                                                                                                                                  |
+| ---------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AP Calc**      | –                                                                 | –                                                                                                                                                               |
+| **Algebra 2**    | [Final Exam Topic List](./envision-algebra-2/final-topic-list.md) | [June 17/18](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vS6k5ncrjcOoulomqUOIVDGKzaHSih5FgKYxf7txH6RQV1CHQLQI5fnNRkvbxDqT58fq8RWuYvZ-xNq/pubhtml?pli=1) |
+| **College Prep** | [Chapters 2, 3 and 4](./openstax-elementary-algebra-2e/index.md)  | [June 16](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vS6k5ncrjcOoulomqUOIVDGKzaHSih5FgKYxf7txH6RQV1CHQLQI5fnNRkvbxDqT58fq8RWuYvZ-xNq/pubhtml?pli=1)    |
 
-- **AP Calc** Sub study on Monday, and then we are in the library for the remainder of the year.
-- **Alg2** [Final Exam Topic List](./envision-algebra-2/final-topic-list.md)
+- **AP Calc** Library for the remainder of the year
 - The last day I am accepting work is **June 18**
-- [Final Exam Schedule](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vS6k5ncrjcOoulomqUOIVDGKzaHSih5FgKYxf7txH6RQV1CHQLQI5fnNRkvbxDqT58fq8RWuYvZ-xNq/pubhtml?pli=1)
 
 ---
 
