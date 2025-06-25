@@ -6,27 +6,29 @@ title: Home
 
 ## AP Calculus
 
-- [Calculus for AP 2e Notes](./calc-for-ap-larson/)
+- [Syllabus](./syllabi/ap-calc-syllabus.md)
+- [*Calculus for AP* 2e Notes](./calc-for-ap-larson/)
+
+<!--
 - Cheat Sheets
   - [Differentiation cheat sheet](./misc/differentiation-cheat-sheet.pdf)
   - [Integration cheat sheet](./misc/integration-cheat-sheet.pdf)
   - [Cram Sheet](./pdfs/ap-calc-cram-sheet.pdf)
+-->
 
-## Algebra II and Trigonometry Honors
+## AP Computer Science A
 
-- [enVision Algebra 2 Common Core 2018 Notes](./envision-algebra-2/)
-- Homework and Topic Review answers
-  - [Odd questions](./misc/alg2-odd-answers.pdf)
-  - [Even questions](./misc/alg2-even-answers.pdf)
-- [Final Exam Topic List](./envision-algebra-2/final-topic-list.md)
+- [Syllabus](./syllabi/ap-csa-syllabus.md)
 
-## College Prep Math
+## Probability & Statistics
 
-- [OpenStax Elementary Algebra 2e Notes](./openstax-elementary-algebra-2e/)
+- [Syllabus](./syllabi/prob-and-stats-syllabus.md)
+- [OpenStax *Statistics* notes](./statistics-open-stax/index.md)
+- [OpenStax *Statistics* online book](https://openstax.org/details/books/statistics)
 
 ## General
 
-- [Archives](./archives/)
+- [All notes](./archives/)
 - [Useful Math Links](./misc/math-links.md)
 - [Bell Schedule](./misc/bell-schedule.md)
 - [Kita Notes](https://wkurzius.github.io/kita-notes/)

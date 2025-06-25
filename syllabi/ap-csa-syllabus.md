@@ -15,7 +15,7 @@ AP Computer Science A introduces students to computer science through programmin
 
 ## AP Exam
 
-The AP CSA Exam consists of two sections, each 90 minutes long. The first section consists of 42 multiple choice questions and is worth 55% of your exam grade. The second section is worth 45% and has four free response questions where you will write code. The exam date is ~~May 8, 2024~~.
+The AP CSA Exam consists of two sections, each 90 minutes long. The first section consists of 42 multiple choice questions and is worth 55% of your exam grade. The second section is worth 45% and has four free response questions where you will write code. The exam date is Friday, May 15 at 12 p.m.
 
 ## Units of Study
 
