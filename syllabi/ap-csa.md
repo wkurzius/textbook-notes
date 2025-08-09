@@ -7,7 +7,7 @@ title: "AP Computer Science A"
 - Period A1, 2025–26
 {: .list-headless}
 
-> College Board significantly revised the AP Computer Science A course for the 2025–26 school year. Be aware of this in case you find yourself doing some extra reading on the course. If you are curious what changed, you can see that list [here](https://apcentral.collegeboard.org/courses/ap-computer-science-a/future-revisions).
+> College Board significantly revised the AP Computer Science A course for the 2025–26 school year. Be aware of this in case you find yourself doing some extra reading on the course. Here is a list of changes in case you are curious what changed: [AP Computer Science A Revisions for 2025–26](https://apcentral.collegeboard.org/courses/ap-computer-science-a/future-revisions).
 
 ## Course Description
 
@@ -15,7 +15,7 @@ AP Computer Science A introduces students to computer science through programmin
 
 ## AP Exam
 
-The AP CSA Exam consists of two sections, each 90 minutes long. The first section consists of 42 multiple choice questions and is worth 55% of your exam grade. The second section is worth 45% and has four free response questions where you will write code. The exam date is Friday, May 15 at 12 p.m.
+The AP CSA exam is Friday, May 15 at 12 p.m. and consists of two 90 minute sections. The first section consists of 42 multiple choice questions and is worth 55% of your exam grade. The second section has four free response questions where you will write code and is worth the remaining 45%. You can find more details on the [AP Computer Science A exam page](https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment).
 
 ## Units of Study
 
@@ -29,11 +29,13 @@ The AP CSA Exam consists of two sections, each 90 minutes long. The first sectio
 
 ## Grading
 
-?????
+- The official grade book will exist on Canvas, with Genesis only having the overall grade.
+- Assignments through the online book are worth 50% of your marking period grade, with the other 50% coming from the marking period exam 50%.
+- All work is due the day of a quiz or exam and late work will receive only partial credit
 
 ## Text and Resources
 
-Rather than a textbook, we will use the online platform [CSAwesome by Runestone Academy](https://runestone.academy/ns/books/published/csawesome2/csawesome2.html).
+Rather than a physical textbook we will use the online book [CSAwesome by Runestone Academy](https://runestone.academy/ns/books/published/csawesome2/csawesome2.html), along with its assignments.
 
 And here are the related College Board resources.
 

@@ -24,10 +24,10 @@ This is the most important math course that isn't required for graduation. The w
 ## Grading
 
 - The official grade book will exist on Canvas, with Genesis only having the overall grade.
+- There will be three or four quizzes each marking period
+- There is also one exam at the end of each marking period
+- All work is due the day of a quiz or exam and late work will receive only partial credit
 - Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and the marking period exam 50% of your marking period grade.
-- Quizzes will happen after every three to five sections, with major tests once a marking period.
-- Any projects will be worth about the same as a quiz.
-- Homework is due the day of its associated quiz or test. Late work will receive only partial credit.
 
 ## Text and Resources
 
