@@ -6,7 +6,7 @@ title: Home
 
 ## AP Calculus
 
-- [Syllabus](./syllabi/ap-calc-syllabus.md)
+- [Syllabus](./syllabi/ap-calc.md)
 - [*Calculus for AP* 2e Notes](./calc-for-ap-larson/)
 - [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL)
 
@@ -18,11 +18,11 @@ title: Home
 
 ## AP Computer Science A
 
-- [Syllabus](./syllabi/ap-csa-syllabus.md)
+- [Syllabus](./syllabi/ap-csa.md)
 
 ## Probability & Statistics
 
-- [Syllabus](./syllabi/prob-and-stats-syllabus.md)
+- [Syllabus](./syllabi/prob-and-stats.md)
 - [OpenStax *Statistics* notes](./statistics-open-stax/index.md)
 - [OpenStax *Statistics* online book](https://openstax.org/details/books/statistics)
 

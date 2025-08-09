@@ -2,7 +2,7 @@
 title: "*Calculus for AP* 2e Notes"
 ---
 
-- [Syllabus](../syllabi/ap-calc-syllabus.md)
+- [Syllabus](../syllabi/ap-calc.md)
 - [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL)
 - [Cram Sheet](../pdfs/ap-calc-cram-sheet.pdf)
 
