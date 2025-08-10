@@ -1,3 +1,7 @@
+ul {
+    margin-left: 50px;
+}
+
 .red {
     color: red;
 }
@@ -162,4 +166,41 @@ h2#additional-resources {
 .list-headless {
     margin-left: 0;
     list-style-type: none;
+}
+
+// Note list customization
+
+.calc-notes-list-p {
+    counter-reset: pSection;
+    list-style: none;
+}
+
+.calc-notes-list-p>li {
+    counter-increment: pSection;
+}
+
+.calc-notes-list-p>li::marker {
+    content: "P." counter(pSection) " ";
+}
+
+.notes-init {
+    counter-reset: chapter;
+}
+
+.notes-list {
+    counter-reset: section;
+    counter-increment: chapter;
+    list-style: none;
+}
+
+.notes-list>li {
+    counter-increment: section;
+}
+
+.notes-list>li::marker {
+    content: counter(chapter) "." counter(section) " ";
+}
+
+.reset-7 {
+    counter-set: section 7;
 }

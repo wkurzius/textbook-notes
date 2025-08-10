@@ -7,7 +7,7 @@ layout: this-week
 
 |                                             | New Material                                                                              | Next Exam |
 | ------------------------------------------- | ----------------------------------------------------------------------------------------- | --------- |
-| **AP Comp Sci A**                           | [Syllabus](./syllabi/ap-csa.md)                                                           |           |
+| [**AP Comp Sci A**](./csawesome2/)          | [Syllabus](./syllabi/ap-csa.md)                                                           |           |
 | **Concepts of Algebra**                     |                                                                                           |           |
 | [**Prob & Stats**](./statistics-open-stax/) | [Syllabus](./syllabi/prob-and-stats.md), 1.1 and 1.2                                      | Sep. 19   |
 | **Intro to Web Dev**                        |                                                                                           |           |

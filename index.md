@@ -4,10 +4,26 @@ title: Home
 
 [This week](./this-week.md)
 
+## AP Computer Science A
+
+- [Syllabus](./syllabi/ap-csa.md)
+- [*CSAwesome2* by Runestone online curriculum](https://runestone.academy/)
+- [*CSAwesome2* notes](./csawesome2/)
+
+## Probability & Statistics
+
+- [Syllabus](./syllabi/prob-and-stats.md)
+- [*Statistics* by OpenStax online book](https://openstax.org/details/books/statistics)
+- [*Statistics* notes](./statistics-open-stax/index.md)
+
+## Intro to Web Development
+
+- *freeCodeCamp*
+
 ## AP Calculus
 
 - [Syllabus](./syllabi/ap-calc.md)
-- [*Calculus for AP* 2e Notes](./calc-for-ap-larson/)
+- [*Calculus for AP* 2e notes](./calc-for-ap-larson/)
 - [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL)
 
 <!--
@@ -16,19 +32,9 @@ title: Home
 - [Cram Sheet](./pdfs/ap-calc-cram-sheet.pdf)
 -->
 
-## AP Computer Science A
-
-- [Syllabus](./syllabi/ap-csa.md)
-
-## Probability & Statistics
-
-- [Syllabus](./syllabi/prob-and-stats.md)
-- [OpenStax *Statistics* notes](./statistics-open-stax/index.md)
-- [OpenStax *Statistics* online book](https://openstax.org/details/books/statistics)
-
 ## General
 
-- [Useful Math Links](./misc/math-links.md)
 - [Bell Schedule](./misc/bell-schedule.md)
-- [Kita Notes](https://wkurzius.github.io/kita-notes/)
 - [Summer Work 2025](./misc/summer-work.md)
+- [Useful Math Links](./misc/math-links.md)
+- [Kita Notes](https://wkurzius.github.io/kita-notes/)

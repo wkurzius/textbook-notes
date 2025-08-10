@@ -35,7 +35,7 @@ The AP CSA exam is Friday, May 15 at 12 p.m. and consists of two 90 minute secti
 
 ## Text and Resources
 
-Rather than a physical textbook we will use the online book [CSAwesome by Runestone Academy](https://runestone.academy/ns/books/published/csawesome2/csawesome2.html), along with its assignments.
+Rather than a physical textbook we will use the online curriculum [CSAwesome by Runestone Academy](https://runestone.academy/ns/books/published/csawesome2/csawesome2.html), along with its assignments.
 
 And here are the related College Board resources.
 
