@@ -93,7 +93,9 @@ blockquote.definition h5 {
 }
 
 h2#assignment,
-h2#additional-resources {
+h2#additional-resources,
+h2#chapter-objectives,
+h2#objectives {
     font-size: 20px;
     font-weight: normal;
 }
@@ -203,4 +205,43 @@ h2#additional-resources {
 
 .reset-7 {
     counter-set: section 7;
+}
+
+// Fontawesome stuff
+
+.icon::before {
+    display: inline-block;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+// Marker for This Week link on home page
+
+.this-week-link {
+    list-style: none;
+}
+
+.this-week-link li::marker {
+    font: var(--fa-font-solid);
+    content: '\f133   ';
+}
+
+// Marker for This Week link on home page
+
+.this-week-link {
+    list-style: none;
+}
+
+.this-week-link li::marker {
+    font: var(--fa-font-solid);
+    content: '\f133   ';
+}
+
+.slides-link {
+    list-style: none;
+}
+
+.slides-link li::marker {
+    font: var(--fa-font-solid);
+    content: '\f15b   ';
 }

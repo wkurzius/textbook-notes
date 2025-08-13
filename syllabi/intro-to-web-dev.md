@@ -1,36 +1,35 @@
 ---
-title: "Probability & Statistics Syllabus"
+title: "Intro to Web Development Syllabus"
 ---
 
 - Mr. Kurzius
 - Room 31
-- Period A3 (S1) and B1 (S2), 2025–26
+- Period B1 (S1 only), 2025–26
 {: .list-headless}
 
 ## Course Description
 
-This is the most important math course that isn't required for graduation. The world is inundated with polls, charts, and claims by people trying to sell you something. Understanding how to read and understand those charts and claims is a large part of the course, along with how to take it a step further and develop your own polls, charts, and claims based on good data and science.
+Anyone who’s anyone has their own website, and this is where you can make yours. This one-semester course focuses on the front-end of web development, or the stuff that everyone sees. This includes structure with Hypertext Markup Language (HTML), style with Cascading Style Sheets (CSS) and will have students begin to build a portfolio of work for future employment.
 
 ## Units of Study
 
-1. **Exploring and Understanding Data** Learn the difference between categorical and quantitative data, and how to summarize them through various charts and averages.
+1. **HTML, CSS and Forms** Learn how to define the structure of a webpage with HTML and then style it with CSS. You'll apply this by building some online forms.
 
-2. **Exploring Relationships Between Variables** Learn how to determine if two data variables are associated, and if they are, create a model to predict behavior.
+2. **Flexbox, Typography and Accessibility** Advanced positions of page elements with text styling and learning to design for accessibility.
 
-3. **Gathering Data** Gathering data is tricker than it seems. Learn when to use simulations and how to account for bias in surveys.
+3. **Intermediate CSS and Responsive Web Design** Various advanced styling topic along with ensuring your pages look good on all devices.
 
-4. **Randomness and Probability** This last unit focuses on predicting events using probability laws. This includes events that are independent of each other and those depend on the occurrence of another event.
+4. **CSS Variables and Grid** Learn how to use variables to manage more complex and styles, along with the grid model, which is another method of positioning page elements.
+
+## Online Curriculum
+
+This course uses the Responsive Web Design curriculum provided by freeCodeCamp, which serves an online version of the lessons, assignments and resources. If a student completes the full curriculum, freeCodeCamp provides a Responsive Web Design Certificate. We will only cover the first four certification projects, but I encourage those interested to complete the final one on their own.
 
 ## Grading
 
-- The official grade book will exist on Canvas, with Genesis only having the overall grade.
-- Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and the marking period exam 50% of your marking period grade.
-- Quizzes will happen after every three to five sections, with major tests once a marking period.
-- Any projects will be worth about the same as a quiz.
-- Homework is due the day of its associated quiz or test. Late work will receive only partial credit.
-
-## Text and Resources
-
-We will use the book [*Statistics*](https://openstax.org/details/books/introductory-statistics-2e), a high school level textbook provided by OpenStax. This is an online and free-to-use textbook, with a PDF version available alongside the web version.
-
-Outside of that, I recommend Khan Academy as a first stop for any extra practice. They have their own [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) course that that's good for extra practice.
+- The official grade book exists on Canvas. Genesis will only have the overall grade listed.
+- The course is self-paced, with earlier modules being worth more.
+- In the first marking period, Module 1 is 50% and Module 2 is 20% if your grade.
+- In the second marking period, Module 1 and 2 together are 50% of your grade. The remaining three make up 20% of your grade.
+- Each Certification Project is worth half of a module's grade.
+- There is an exam each marking period worth 30% of your grade.

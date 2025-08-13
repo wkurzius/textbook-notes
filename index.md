@@ -2,7 +2,8 @@
 title: Home
 ---
 
-[This week](./this-week.md)
+- [This week](./this-week.md)
+{: .this-week-link}
 
 ## AP Computer Science A
 
