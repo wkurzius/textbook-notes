@@ -12,8 +12,8 @@ course: Probability & Statistics
 
 ## Assignment
 
-- All **vocabulary** (see [Key Terms](https://openstax.org/books/introductory-statistics-2e/pages/1-key-terms) for definitions)
-- [1 Homework](https://openstax.org/books/introductory-statistics-2e/pages/1-homework#fs-idm57628896) 42–52
+- All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/1-key-terms) for definitions)
+- [1.1 Homework](https://openstax.org/books/statistics/pages/1-homework#fs-idm57628896) 45–56
 
 ---
 
@@ -34,6 +34,13 @@ course: Probability & Statistics
 - **Inferential statistics**: drawing conclusions from “good” data and procedures
 - “Good” is essential and should also extend to communicating those conclusions
 - Bad statistics can have terrible consequences
+
+## Statistical Models
+
+- **Mathematical models** describe real world phenomena
+- Used only when values can be determined precisely
+- **Statistical models** are used when precision is not available
+- Mathematic functions still used, but instead to predict the likelihood of an event
 
 ## Probability
 

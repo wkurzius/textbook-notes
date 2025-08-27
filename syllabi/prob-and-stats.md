@@ -31,6 +31,6 @@ This is the most important math course that isn't required for graduation. The w
 
 ## Text and Resources
 
-We will use the book [*Statistics*](https://openstax.org/details/books/introductory-statistics-2e), a high school level textbook provided by OpenStax. This is an online and free-to-use textbook, with a PDF version available alongside the web version.
+We will use the book [*Statistics*](https://openstax.org/details/books/statistics), a high school level textbook provided by OpenStax. This is an online and free-to-use textbook, with a PDF version available alongside the web version.
 
 Outside of that, I recommend Khan Academy as a first stop for any extra practice. They have their own [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) course that that's good for extra practice.
