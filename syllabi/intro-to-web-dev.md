@@ -27,7 +27,7 @@ This course uses the Responsive Web Design curriculum provided by freeCodeCamp, 
 
 ## Grading
 
-- The official grade book exists on Canvas. Genesis will only have the overall grade listed.
+- The official grade book exists on Canvas, with Genesis only having an unreliable copy
 - The course is self-paced, with earlier modules being worth more.
 - In the first marking period, Module 1 is 50% and Module 2 is 20% if your grade.
 - In the second marking period, Module 1 and 2 together are 50% of your grade. The remaining three make up 20% of your grade.

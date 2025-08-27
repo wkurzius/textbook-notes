@@ -29,9 +29,11 @@ The AP CSA exam is Friday, May 15 at 12 p.m. and consists of two 90 minute secti
 
 ## Grading
 
-- The official grade book will exist on Canvas, with Genesis only having the overall grade.
-- Assignments through the online book are worth 50% of your marking period grade, with the other 50% coming from the marking period exam 50%.
+- The official grade book exists on Canvas, with Genesis only having an unreliable copy
+- There are about four quizzes each marking period
+- There is also one exam at the end of each marking period
 - All work is due the day of a quiz or exam and late work will receive only partial credit
+- Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and the marking period exam 50% of your marking period grade
 
 ## Text and Resources
 

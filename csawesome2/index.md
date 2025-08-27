@@ -7,7 +7,7 @@ title: "*CSAwesome2* Notes"
 
 ## 1 Using Objects and Methods
 
-- Introduction to Algorithms, Programming, and Compilers
+- [Introduction to Algorithms, Programming, and Compilers](./1-1-introduction-to-algorithms-programming-and-compilers.md)
 - Variables and Data Types
 - Expressions and Output
 - Assignment and Input

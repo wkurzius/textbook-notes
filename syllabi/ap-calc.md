@@ -35,8 +35,8 @@ The AP exam is scheduled for Monday, May 11 at 8 a.m. The exam is 3 hours and 15
 
 ## Grading
 
-- The official grade book will exist on Canvas, with Genesis only having the overall grade
-- There are three quizzes each marking period
+- The official grade book exists on Canvas, with Genesis only having an unreliable copy
+- There are about three quizzes each marking period
 - There is also one exam at the end of each marking period
 - All work is due the day of a quiz or exam and late work will receive only partial credit
 - Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and the marking period exam 50% of your marking period grade.

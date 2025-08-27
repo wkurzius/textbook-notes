@@ -7,7 +7,7 @@ title: "*Statistics* by OpenStax Notes"
 
 ## 1 Sampling and Data
 
-- [Definitions of Statistics, Probability, and Key Terms](./1-1-definitions-of-statistics-probability-and-key-terms.md)
+- Definitions of Statistics, Probability, and Key Terms
 - Data, Sampling, and Variation in Data and Sampling
 - Frequency, Frequency Tables, and Levels of Measurement
 - Experimental Design and Ethics

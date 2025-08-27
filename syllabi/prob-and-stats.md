@@ -23,7 +23,7 @@ This is the most important math course that isn't required for graduation. The w
 
 ## Grading
 
-- The official grade book will exist on Canvas, with Genesis only having the overall grade.
+- The official grade book exists on Canvas, with Genesis only having an unreliable copy
 - There will be three or four quizzes each marking period
 - There is also one exam at the end of each marking period
 - All work is due the day of a quiz or exam and late work will receive only partial credit
