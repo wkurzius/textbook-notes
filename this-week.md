@@ -22,3 +22,4 @@ layout: this-week
 - Before school help with me, Tuesday through Thursday in room 31
 - After school tutoring info coming soon
 - [Miscellaneous math links](./misc/math-links.md)
+- [Bell schedules](./misc/bell-schedule.md)
