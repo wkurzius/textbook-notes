@@ -13,8 +13,6 @@ layout: this-week
 | **Intro to Web Dev**                        | [Syllabus](./syllabi/intro-to-web-dev.md)                                                 |           |
 | [**AP Calc**](./calc-for-ap-larson/)        | [Syllabus](./syllabi/ap-calc.md) and [P.1](./calc-for-ap-larson/0.1-graphs-and-models.md) | Sep. 18   |
 
-- AP students need to join their respective AP Classrooms using the code from Canvas
-
 ---
 
 ## Extras

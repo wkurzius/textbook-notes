@@ -11,6 +11,10 @@ title: Home
 - [*CSAwesome2* by Runestone online curriculum](https://runestone.academy/)
 - [*CSAwesome2* notes and assignments](./csawesome2/)
 
+## Concepts of Algebra
+
+- [*Khan Academy* Algebra 1](https://www.khanacademy.org/math/algebra)
+
 ## Probability & Statistics
 
 - [Syllabus](./syllabi/prob-and-stats.md)
@@ -19,7 +23,8 @@ title: Home
 
 ## Intro to Web Development
 
-- *freeCodeCamp*
+- [Syllabus](./syllabi/intro-to-web-dev.md)
+- [*freeCodeCamp* Responsive Web Design curriculum](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 ## AP Calculus
 
