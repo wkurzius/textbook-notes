@@ -48,4 +48,4 @@ And here are the related College Board resources.
 - There are about three quizzes each marking period
 - There is also one exam at the end of each marking period
 - All work is due the day of a quiz or exam and late work will receive only partial credit
-- Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and the marking period exam 50% of your marking period grade.
+- Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and the marking period exam 50% of your grade

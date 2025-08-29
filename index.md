@@ -13,6 +13,7 @@ title: Home
 
 ## Concepts of Algebra
 
+- [Syllabus](./syllabi/concepts-of-algebra.md)
 - [*Khan Academy* Algebra 1](https://www.khanacademy.org/math/algebra)
 
 ## Probability & Statistics
