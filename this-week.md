@@ -10,7 +10,7 @@ layout: this-week
 | [**AP Comp Sci A**](./csawesome2/)          | [Syllabus](./syllabi/ap-csa.md), 1.1 and 1.2                                              | Sep. 11   |
 | **Concepts of Algebra**                     |                                                                                           |           |
 | [**Prob & Stats**](./statistics-open-stax/) | [Syllabus](./syllabi/prob-and-stats.md)                                                   |           |
-| **Intro to Web Dev**                        | [Syllabus](./syllabi/intro-to-web-dev.md)                                                 |           |
+| **Intro to Web Dev**                        | [Syllabus](./syllabi/intro-to-web-dev.md) and Cat Photo App                               |           |
 | [**AP Calc**](./calc-for-ap-larson/)        | [Syllabus](./syllabi/ap-calc.md) and [P.1](./calc-for-ap-larson/0.1-graphs-and-models.md) | Sep. 18   |
 
 ---
