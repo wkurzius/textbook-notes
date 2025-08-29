@@ -33,14 +33,6 @@ The AP exam is scheduled for Monday, May 11 at 8 a.m. The exam is 3 hours and 15
 
 8. **Applications of Integration** Make mathematical connections that will allow solving a wide range of problems involving net change over an interval of time and to find areas of regions or volumes of solids defined using functions.
 
-## Grading
-
-- The official grade book exists on Canvas, with Genesis only having an unreliable copy
-- There are about three quizzes each marking period
-- There is also one exam at the end of each marking period
-- All work is due the day of a quiz or exam and late work will receive only partial credit
-- Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and the marking period exam 50% of your marking period grade.
-
 ## Text and Resources
 
 We will use the book Calculus for AP (2nd ed.) as reference and for homework assignments, though I recommend Khan Academy as a first stop for any extra practice. They have both an [AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab) course and a [Get ready for AP Calculus](https://www.khanacademy.org/math/get-ready-for-ap-calc) course. I suggest reviewing the latter prior to any new chapter.
@@ -49,3 +41,11 @@ And here are the related College Board resources.
 
 - [College Board’s Course and Exam Description](https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf)
 - [Additional exam information](https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment)
+
+## Grading
+
+- The official grade book exists on Canvas, with Genesis only having an unreliable copy
+- There are about three quizzes each marking period
+- There is also one exam at the end of each marking period
+- All work is due the day of a quiz or exam and late work will receive only partial credit
+- Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and the marking period exam 50% of your marking period grade.

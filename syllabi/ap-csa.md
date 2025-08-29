@@ -27,14 +27,6 @@ The AP CSA exam is Friday, May 15 at 12 p.m. and consists of two 90 minute secti
 
 4. **Data Collections** The final unit is all about how to manage large amounts of data using arrays and similar data structures.
 
-## Grading
-
-- The official grade book exists on Canvas, with Genesis only having an unreliable copy
-- There are about four quizzes each marking period
-- There is also one exam at the end of each marking period
-- All work is due the day of a quiz or exam and late work will receive only partial credit
-- Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and the marking period exam 50% of your marking period grade
-
 ## Text and Resources
 
 Rather than a physical textbook we will use the online curriculum [CSAwesome by Runestone Academy](https://runestone.academy/ns/books/published/csawesome2/csawesome2.html), along with its assignments.
@@ -42,3 +34,11 @@ Rather than a physical textbook we will use the online curriculum [CSAwesome by 
 And here are the related College Board resources.
 
 - [AP Computer Science A Course and Exam Description](https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-and-exam-description-effective-fall-2025.pdf)
+
+## Grading
+
+- The official grade book exists on Canvas, with Genesis only having an unreliable copy
+- There are about four quizzes each marking period
+- There is also one exam at the end of each marking period
+- All work is due the day of a quiz or exam and late work will receive only partial credit
+- Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and the marking period exam 50% of your marking period grade
