@@ -5,13 +5,13 @@ layout: this-week
 
 [Site home](./)
 
-|                                             | New Material                                                                              | Next Exam |
-| ------------------------------------------- | ----------------------------------------------------------------------------------------- | --------- |
-| [**AP Comp Sci A**](./csawesome2/)          | [Syllabus](./syllabi/ap-csa.md), 1.1 and 1.2                                              | Sep. 11   |
-| **Concepts of Algebra**                     |                                                                                           |           |
-| [**Prob & Stats**](./statistics-open-stax/) | [Syllabus](./syllabi/prob-and-stats.md)                                                   |           |
-| **Intro to Web Dev**                        | [Syllabus](./syllabi/intro-to-web-dev.md) and Cat Photo App                               |           |
-| [**AP Calc**](./calc-for-ap-larson/)        | [Syllabus](./syllabi/ap-calc.md) and [P.1](./calc-for-ap-larson/0.1-graphs-and-models.md) | Sep. 18   |
+|                                                | New Material                                                                              | Next Exam |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------- | --------- |
+| A1 [**AP Comp Sci A**](./csawesome2/)          | [Syllabus](./syllabi/ap-csa.md), 1.1 and 1.2                                              | Sep. 11   |
+| A2 **Concepts of Algebra**                     |                                                                                           |           |
+| A3 [**Prob & Stats**](./statistics-open-stax/) | [Syllabus](./syllabi/prob-and-stats.md)                                                   |           |
+| B1 **Intro to Web Dev**                        | [Syllabus](./syllabi/intro-to-web-dev.md) and Cat Photo App                               |           |
+| B3 [**AP Calc**](./calc-for-ap-larson/)        | [Syllabus](./syllabi/ap-calc.md) and [P.1](./calc-for-ap-larson/0.1-graphs-and-models.md) | Sep. 18   |
 
 ---
 
