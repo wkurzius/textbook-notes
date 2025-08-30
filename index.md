@@ -31,7 +31,6 @@ title: Home
 
 - [Syllabus](./syllabi/ap-calc.md)
 - [*Calculus for AP* 2e notes](./calc-for-ap-larson/)
-- [Whiteboard notes and assignments](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL)
 
 <!--
 - [Differentiation cheat sheet](./misc/differentiation-cheat-sheet.pdf)
