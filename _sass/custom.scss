@@ -50,6 +50,12 @@ blockquote {
     font-size: revert;
 }
 
+h1 code {
+    font-size: unset;
+    border: unset;
+    background-color: unset;
+}
+
 .footnotes {
     border-top: 1px solid #555;
 }

@@ -8,20 +8,20 @@ title: "*CSAwesome2* Notes"
 ## 1 Using Objects and Methods
 
 - [Introduction to Algorithms, Programming, and Compilers](./1-1-introduction-to-algorithms-programming-and-compilers.md)
-- Variables and Data Types
-- Expressions and Output
-- Assignment and Input
-- Casting and Ranges of Values
-- Compound Assignment Operators
-- APIs and Libraries
-- Documentation with Comments and Preconditions
-- Method Signatures
-- Calling Class Methods
-- Using the Math Class
-- Objects - Instances of Classes
-- Creating and Initializing Objects: Constructors
-- Calling Instance Methods
-- Strings
+- [Variables and Data Types](./1-2-variables-and-data-types.md)
+- [Expressions and Output](./1-3-expressions-and-output.md)
+- [Assignment and Input](./1-4-assignment-and-input.md)
+- [Casting and Ranges of Values](./1-5-casting-and-ranges-of-values.md)
+- [Compound Assignment Operators](./1-6-compound-assignment-operators.md)
+- [APIs and Libraries](./1-7-apis-and-libraries.md)
+- [Documentation with Comments and Preconditions](./1-8-documentation-with-comments-and-preconditions.md)
+- [Method Signatures](./1-9-method-signatures.md)
+- [Calling Class Methods](./1-10-calling-class-methods.md)
+- [Using the `Math` Class](./1-11-using-the-math-class.md)
+- [Objects - Instances of Classes](./1-12-objects-instances-of-classes.md)
+- [Creating and Initializing Objects: Constructors](./1-13-creating-and-initializing-objects.md)
+- [Calling Instance Methods](./1-14-calling-instance-methods.md)
+- [Strings](./1-15-strings.md)
 {: .notes-list}
 
 ## 2 Selection and Iteration
