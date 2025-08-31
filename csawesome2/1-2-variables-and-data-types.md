@@ -46,9 +46,13 @@ There are two major types of variables, primitives and reference. Primitives hav
 
 `double` is a bit more complicated. The short version is that it's used for decimals, since naturally `int` only deals with integers. The original type for decimal numbers was `float` (because computers use floating point numbers to represent decimals), but more precision was needed so they doubled the memory allocated and called it `double`.
 
-> If you want to know more about floating point numbers, here's a short and introduction to the topic that I refer to frequently: [Floating Point Visually Explained by Fabien Sanglard](https://fabiensanglard.net/floating_point_visually_explained/)
+> Just a couple of quick sides notes about `double` variables.
+> 
+> 1. If you want to know more about floating point numbers, here's a short and introduction to the topic that I refer to frequently: [Floating Point Visually Explained by Fabien Sanglard](https://fabiensanglard.net/floating_point_visually_explained/)
+>
+> 2. A word of caution: floating-point variables can be inaccurate for the same reason that working with one-third in decimal is a pain. This is a topic for another day, but if you can use `int` for an implementation, do it.
 
-A word of caution about `double`: they can be inaccurate for the same reason that working with one-third in decimal is a pain. This is a topic for another day, but if you can use `int` for an implementation, do it.
+So, the above are all primitive variables. The other major class are a reference variables, and rather than carve out a piece of memory for some data, they instead point to an more complex object. One you will deal with immediately is `String`, which is what text is referred to as in computer speak. Strings are always wrapped in double-quotations `"`.
 
 ## On Your Own
 
