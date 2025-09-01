@@ -41,6 +41,8 @@ title: "*Calculus for AP* 2e Notes"
 - [Related Rates](./2.7-related-rates.md)
 {: .notes-list}
 
+We will cover 3.7 and 7.7 at this point, before moving to 3.1.
+
 ## 3 Applications of Differentiation
 
 - [Extrema on an Interval](./3.1-extrema-on-an-interval.md)
@@ -63,6 +65,8 @@ title: "*Calculus for AP* 2e Notes"
 - [The Natural Logarithmic Function: Integration](./4.7-the-natural-logarithmic-function-integration.md)
 - [Inverse Trigonometric Functions: Integration](./4.8-inverse-trigonometric-function-integration.md)
 {: .notes-list}
+
+We will cover 7.1 at this point, before moving to 5.1.
 
 ## 5 Differential Equations
 
