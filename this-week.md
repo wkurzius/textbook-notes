@@ -7,9 +7,9 @@ layout: this-week
 
 |                                                | New Material                                                                              | Next Exam |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------- | --------- |
-| A1 [**AP Comp Sci A**](./csawesome2/)          | [Syllabus](./syllabi/ap-csa.md), [1.1–1.4](./csawesome2/)                                 | Sep. 11   |
-| A2 **Concepts of Algebra**                     | [Syllabus](./syllabi/concepts-of-algebra.md)                                              |           |
-| A3 [**Prob & Stats**](./statistics-open-stax/) | [Syllabus](./syllabi/prob-and-stats.md)                                                   |           |
+| A1 [**AP Comp Sci A**](./csawesome2/)          | [Syllabus](./syllabi/ap-csa.md) and [1.1–1.4](./csawesome2/)                              | Sep. 11   |
+| A2 **Concepts of Algebra**                     | [Syllabus](./syllabi/concepts-of-algebra.md) and Unit 1                                   |           |
+| A3 [**Prob & Stats**](./statistics-open-stax/) | [Syllabus](./syllabi/prob-and-stats.md), 1.1 and 1.2                                      | Sep. 19   |
 | B1 **Intro to Web Dev**                        | [Syllabus](./syllabi/intro-to-web-dev.md) and Cat Photo App                               |           |
 | B3 [**AP Calc**](./calc-for-ap-larson/)        | [Syllabus](./syllabi/ap-calc.md) and [P.1](./calc-for-ap-larson/0.1-graphs-and-models.md) | Sep. 18   |
 
