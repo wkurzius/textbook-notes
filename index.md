@@ -14,13 +14,13 @@ title: Home
 ## Concepts of Algebra
 
 - [Syllabus](./syllabi/concepts-of-algebra.md)
-- [*Khan Academy* Algebra 1](https://www.khanacademy.org/math/algebra)
+- [*Algebra 1* notes](./algebra-1-envision/)
 
 ## Probability & Statistics
 
 - [Syllabus](./syllabi/prob-and-stats.md)
 - [*Statistics* by OpenStax online book](https://openstax.org/details/books/statistics)
-- [*Statistics* notes and assignments](./statistics-open-stax/index.md)
+- [*Statistics* notes and assignments](./statistics-open-stax/)
 
 ## Intro to Web Development
 
