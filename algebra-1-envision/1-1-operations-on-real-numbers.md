@@ -9,7 +9,7 @@ course: Concepts of Algebra
 
 ## Assignment
 
-- p9 11–23, 25-31 odds, 32–39
+- p9 1–10, 15–23, 25–31 odds, 32–39
 
 ## Extra Practice
 
