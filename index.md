@@ -14,7 +14,8 @@ title: Home
 ## Concepts of Algebra
 
 - [Syllabus](./syllabi/concepts-of-algebra.md)
-- [*Algebra 1* notes](./algebra-1-envision/)
+- [*Algebra 1* on Khan Academy](https://www.khanacademy.org/math/algebra)
+- [*Algebra 1* notes and assignments](./algebra-1-khan-academy/)
 
 ## Probability & Statistics
 

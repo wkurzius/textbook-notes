@@ -1,0 +1,13 @@
+---
+title: "*Algebra 1* by Khan Academy Notes"
+---
+
+- [Syllabus](../syllabi/concepts-of-algebra.md)
+
+## Unit 1: Algebra foundations
+
+- {: .reset-2}[Introduction to variables](./1-2-introduction-to-variables.md)
+- Substitution and evaluating expressions
+- Combining like terms
+- Introduction to equivalent expressions
+{: .notes-list}
