@@ -18,7 +18,7 @@ course: Probability & Statistics
 
 ---
 
-- [PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/ETUJXzvEKKNIiMnAlXpCAYYB62yrsYTfHhxBPa_bywXqjw?e=m1TZrO)
+- [PowerPoint version](./ppt/1-1-definitions-of-statistics-probability-and-key-terms.pptx)
 {: .slides-link}
 
 ## Some advice
