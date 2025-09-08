@@ -1,5 +1,5 @@
 ---
-title: title
+title: 1.3 Frequency, Frequency Tables, and Levels of Measurement
 layout: notes
 course: Probability & Statistics
 ---
