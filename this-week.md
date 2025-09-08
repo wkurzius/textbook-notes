@@ -5,13 +5,13 @@ layout: this-week
 
 [Site home](./)
 
-|                                                                                                                                                               | New Material                | Next Exam |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------- |
-| **AP Comp Sci A**<br>[Notes and HW](./csawesome2/) \| [Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html) |                             | Sep. 11   |
-| **Concepts of Algebra**<br>[Notes and HW](./algebra-1-khan-academy/) \| [Khan Academy](https://www.khanacademy.org/math/algebra)                              |                             |           |
-| **Prob & Stats**<br>[Notes and HW](./statistics-open-stax/) \| [Book](https://openstax.org/books/statistics/pages/1-introduction)                             |                             | Sep. 19   |
-| **Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)                                                        | Cat Photo App and Cafe Menu | –         |
-| **AP Calc**<br>[Notes and HW](./calc-for-ap-larson/)                                                                                                          |                             | Sep. 18   |
+| Course                                                                                                                                                        | New Material                     | Next Exam |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------- |
+| **AP Comp Sci A**<br>[Notes and HW](./csawesome2/) \| [Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html) | Progress Check 1A and Quiz       | Sep. 11   |
+| **Concepts of Algebra**<br>[Notes and HW](./algebra-1-khan-academy/) \| [Khan Academy](https://www.khanacademy.org/math/algebra)                              |                                  |           |
+| **Prob & Stats**<br>[Notes and HW](./statistics-open-stax/) \| [Book](https://openstax.org/books/statistics/pages/1-introduction)                             |                                  | Sep. 19   |
+| **Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)                                                        | Cat Photo App and Cafe Menu      | –         |
+| **AP Calc**<br>[Notes and HW](./calc-for-ap-larson/)                                                                                                          | [P.2–P.4](./calc-for-ap-larson/) | Sep. 18   |
 
 ---
 
