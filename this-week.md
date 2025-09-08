@@ -13,6 +13,8 @@ layout: this-week
 | **Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)                                                        | Cat Photo App and Cafe Menu | –         |
 | **AP Calc**<br>[Notes and HW](./calc-for-ap-larson/)                                                                                                          |                             | Sep. 18   |
 
+- 9/20 Dia de Ciencias hosted by Rutgers Society of Hispanic Engineers ([Flyer](./misc/tmp/dia-de-ciencias-2025-09-20.png) | [Registration](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bQKa2zxiq7d5vrU))
+
 ---
 
 ## Extras
