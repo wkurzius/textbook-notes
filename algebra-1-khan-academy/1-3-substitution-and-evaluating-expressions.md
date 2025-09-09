@@ -10,13 +10,13 @@ course: Concepts of Algebra
 
 - Read lesson and answer questions
 - Reach **Familiar**{: .ka-familiar} in
-  - [Evaluating expressions with multiple variables](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:substitute-evaluate-expression/e/evaluating_expressions_2)
-  - [Evaluating expressions with multiple variables: fractions & decimals](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:substitute-evaluate-expression/e/evaluating-expressions-in-two-variables-2)
+  - [Evaluating expressions with multiple variables](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:substitute-evaluate-expression/e/evaluating_expressions_2){:target="_blank"}
+  - [Evaluating expressions with multiple variables: fractions & decimals](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:substitute-evaluate-expression/e/evaluating-expressions-in-two-variables-2){:target="_blank"}
 
 ## Extra Practice
 
-- [Multiply fractions and whole numbers](https://www.khanacademy.org/math/cc-fourth-grade-math/4th-multiply-fractions/multiplying-whole-numbers-and-fractions/e/multiplying_fractions_by_integers)
-- [Multiplying fractions](https://www.khanacademy.org/math/cc-fifth-grade-math/5th-multiply-fractions/imp-multiplying-fractions/e/multiplying_fractions_0.5)
+- [Multiply fractions and whole numbers](https://www.khanacademy.org/math/cc-fourth-grade-math/4th-multiply-fractions/multiplying-whole-numbers-and-fractions/e/multiplying_fractions_by_integers){:target="_blank"}
+- [Multiplying fractions](https://www.khanacademy.org/math/cc-fifth-grade-math/5th-multiply-fractions/imp-multiplying-fractions/e/multiplying_fractions_0.5){:target="_blank"}
 
 ---
 

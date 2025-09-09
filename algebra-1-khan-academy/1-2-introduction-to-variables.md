@@ -10,11 +10,11 @@ course: Concepts of Algebra
 
 ## Assignment
 
-- Reach **Familiar**{: .ka-familiar} in [Evaluating expressions with one variable](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:intro-variables/e/evaluating_expressions_1)
+- Reach **Familiar**{: .ka-familiar} in [Evaluating expressions with one variable](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:intro-variables/e/evaluating_expressions_1){:target="_blank"}
 
 ## Extra Practice
 
-- [Testing solutions to equations](https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:algebraic-equations-basics/e/testing-solutions-of-equations-inequalities)
+- [Testing solutions to equations](https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:algebraic-equations-basics/e/testing-solutions-of-equations-inequalities){:target="_blank"}
 
 ---
 
