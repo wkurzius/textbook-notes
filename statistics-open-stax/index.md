@@ -9,7 +9,7 @@ title: "*Statistics* by OpenStax Notes"
 
 - [Definitions of Statistics, Probability, and Key Terms](./1-1-definitions-of-statistics-probability-and-key-terms.md)
 - [Data, Sampling, and Variation in Data and Sampling](./1-2-data-sampling-and-variation-in-data-and-sampling.md)
-- Frequency, Frequency Tables, and Levels of Measurement
+- [Frequency, Frequency Tables, and Levels of Measurement](./1-3-frequency-tables.md)
 - Experimental Design and Ethics
 - Data Collection Experiment
 - Sampling Experiment

@@ -7,7 +7,7 @@ title: "*Algebra 1* by Khan Academy Notes"
 ## Unit 1: Algebra foundations
 
 - {: .reset-2}[Introduction to variables](./1-2-introduction-to-variables.md)
-- Substitution and evaluating expressions
+- [Substitution and evaluating expressions](./1-3-substitution-and-evaluating-expressions.md)
 - Combining like terms
 - Introduction to equivalent expressions
 {: .notes-list}
