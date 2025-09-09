@@ -15,8 +15,8 @@ course: Concepts of Algebra
 
 ## Extra Practice
 
-- [Multiply fractions and whole numbers]([link](https://www.khanacademy.org/math/cc-fourth-grade-math/4th-multiply-fractions/multiplying-whole-numbers-and-fractions/e/multiplying_fractions_by_integers))
-- [Multiplying fractions]([link](https://www.khanacademy.org/math/cc-fifth-grade-math/5th-multiply-fractions/imp-multiplying-fractions/e/multiplying_fractions_0.5))
+- [Multiply fractions and whole numbers](https://www.khanacademy.org/math/cc-fourth-grade-math/4th-multiply-fractions/multiplying-whole-numbers-and-fractions/e/multiplying_fractions_by_integers)
+- [Multiplying fractions](https://www.khanacademy.org/math/cc-fifth-grade-math/5th-multiply-fractions/imp-multiplying-fractions/e/multiplying_fractions_0.5)
 
 ---
 
