@@ -18,7 +18,7 @@ course: Probability & Statistics
 
 ---
 
-- [PowerPoint version](./ppt/1-2-data-sampling-and-variation-in-data-and-sampling.pptx)
+- [PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/ER72JSzD9yVDiMuNKnzjyVsBdlqBVdMzuxyojYYnfszs7w?e=L1e7tJ)
 {: .slides-link}
 
 ## Qualitative Data

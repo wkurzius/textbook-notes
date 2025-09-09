@@ -18,7 +18,7 @@ course: Probability & Statistics
 
 ---
 
-- [PowerPoint version](./ppt/1-3-frequency-tables.pptx)
+- [PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/EYaMcytRmPtMql5OuSTTozABQJWoLQ_XzY0PlMpfHYTkWQ?e=TsYBS6)
 {: .slides-link}
 
 ## Answers and Rounding Off
