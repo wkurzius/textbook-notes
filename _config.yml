@@ -50,3 +50,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true

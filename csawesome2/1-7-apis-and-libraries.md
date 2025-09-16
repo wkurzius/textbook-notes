@@ -2,6 +2,10 @@
 title:  1.7 APIs and Libraries
 layout: notes
 course: AP CSA
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 ---
 
 - Identify the attributes and behaviors of a class found in the libraries contained in an API
@@ -26,4 +30,31 @@ Specifically, `System.out.println()` is how you access Java's code that outputs 
 > I linked to documentation for version 8 of Java, which is essentially what CollegeBoard expects (though they annoyingly don't come right out and say it). Java is currently at version 25.
 >
 > Also, the linked documentation is for Oracle's version of Java. Other organizations produce their own versions of Java, so combined with the version number this gets complicated quickly. [WhichJDK.com](https://whichjdk.com/) summarizes things nicely.
+
+## Classes, Attributes, and Behaviors
+
+The book has a Turtle program for you to play with that I won't go into much detail here. Instead, I'll focus on what's going on behind the scenes. Here's the initial code from the first activity.
+
+```java
+import java.awt.*;
+import java.util.*;
+
+public class TurtleTest
+{
+    public static void main(String[] args)
+    {
+        // Do not change the next 2 lines
+        World habitat = new World(300, 300);
+        Turtle yertle = new Turtle(habitat);
+
+        // Code to make yertle move forward and turn right
+        yertle.forward();
+        yertle.turnRight();
+        
+        habitat.show(true);
+    }
+}
+```
+
+First off, lines 1 and 2 don't do anything at the moment. If you delete them the program runs without issue, and the same is true for the remaining activities in this section. So, we're going to ignore them for the moment to make our lives easier.
 

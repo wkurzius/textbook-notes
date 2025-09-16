@@ -270,3 +270,19 @@ h2#extra-practice {
     display: inline-block;
     width: 1rem;
 }
+
+table.rouge-table,
+table.rouge-table td,
+table.rouge-table pre {
+    border: none;
+}
+
+table.rouge-table,
+table.rouge-table * {
+    margin: 0;
+    padding: 0;
+}
+
+table.rouge-table .gutter {
+    padding-right: 1em;
+}
