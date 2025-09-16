@@ -283,6 +283,13 @@ table.rouge-table * {
     padding: 0;
 }
 
-table.rouge-table .gutter {
+table.rouge-table .rouge-gutter {
+    width: 0;
     padding-right: 1em;
+    border-right: 1px solid oklab(0.8 0 0);
+    text-align: right;
+}
+
+table.rouge-table .rouge-code {
+    padding-left: 1em;
 }

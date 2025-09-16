@@ -21,7 +21,7 @@ We're going to dive right in. The code below will print (or output) the text "He
 
 ```java
 public class helloWorld {
-    public static void pain(String[] args) {
+    public static void main(String[] args) {
         System.out.println("Hello, world!");
     }
 }
