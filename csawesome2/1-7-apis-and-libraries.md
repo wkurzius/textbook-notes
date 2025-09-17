@@ -59,8 +59,6 @@ Line 10 is our main focus. As a reminder, you've been writing class files, hence
 
 The `Turtle.java` file that CSAwesome2 uses is pretty complicated, so here's [a simpler version to look at courtesy of someone at Princeton](https://introcs.cs.princeton.edu/java/32class/Turtle.java.html). This one has what looks like variables up at the top: `x`, `y` and `angle`. Because they exist outside any method, they are called **fields**, but you can think of them as the objects **attributes**. They are the data related to the object. After that are a number of methods. These are **behaviors** and define what the object can do. Like our Turtle, the Princeton version has `turnRight()` behavior, but they have `goForward()` instead of our `forward()`.
 
-> The variables in a class that appear outside any method are 
-
 With the object created, we can now access its methods. On lines 13 and 14 the `Turtle` object named `yertle` is told to execute its `forward()` method followed by its `turnRight()` one. Unsurprisingly, they do exactly what their names imply. A **dot operator** is used in both to indicate which object is running those methods because—in case you haven't guessed yet—you can have multiple copies of the same object.
 
 ## Packages
