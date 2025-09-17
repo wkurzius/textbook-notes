@@ -22,7 +22,7 @@ Specifically, `System.out.println()` is how you access Java's code that outputs 
 
 > If you are curious, [this write-up on Medium](https://medium.com/@khairulrucse26/behind-system-out-println-hello-world-in-java-a5fc80ce3d99) does a good job of explaining how `System.out.println()` works while leaving out the messy bits. In short, it involves three different classes and four methods.
 
-**Documentation** is the human-readable directions for how to use the API. Here's [the documentation for `println()`](https://docs.oracle.com/javase/8/docs/api/java/io/PrintStream.html#println--). It includes a short description of what it does and what information it requires. There is also one listing for each data type. This is because a) different code might execute depending on the data, and b) to be clear which data types work with `println()`. If a data type wasn't listed, that would mean it wouldn't work.
+**Documentation** is the human-readable directions for how to use the API. Here's [the documentation for `println()`](https://docs.oracle.com/javase/8/docs/api/java/io/PrintStream.html#println--). It includes a short description of what it does and what information it requires. There is also one listing for each data type. This is because a) different code might execute depending on the data, and b) so it's clear which data types work with `println()`. If a data type wasn't listed, that would mean it wouldn't work.
 
 > I linked to documentation for version 8 of Java, which is essentially what CollegeBoard expects (though they annoyingly don't come right out and say it). Java is currently at version 25.
 >
