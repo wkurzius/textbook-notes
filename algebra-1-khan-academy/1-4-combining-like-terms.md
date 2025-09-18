@@ -40,4 +40,15 @@ Here's an expression with some like terms.
 
 $$2x - 3y + 7x + 5y $$
 
-The terms are $2x$, $-3y$, $7x$, and $5y$. Two of those terms have $x$ as a variable, so they can be added together. 
+The terms are $2x$, $-3y$, $7x$, and $5y$. Two of those terms have $x$ as a variable, so they can be added together. The two have $y$ as a variable, so they can be added together as well.
+
+$$
+2x - 3y + 7x + 5y \\
+9x + 2y
+$$
+
+If you see a variable without a **coefficient**, or number in front, it's actual coefficient is $1$. Most of the time it's not written.
+
+$$ (x - 6y + 5) + (-2x - 3) \\
+x - 2x - 6y + 5 - 3 \\
+-x - 6y + 2$$
