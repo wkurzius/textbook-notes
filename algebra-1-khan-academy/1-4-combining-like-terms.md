@@ -18,7 +18,11 @@ course: Concepts of Algebra
 
 ## 📖 Lesson Questions
 
-1. 
+1. What is a term?
+2. How is an expression different than a equation?
+3. What part of a term do you look at to see if it's similar to another?
+4. What is a coefficient?
+5. Which coefficient isn't typically written out?
 
 ---
 
