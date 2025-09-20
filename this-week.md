@@ -1,20 +1,49 @@
 ---
-title: "This Week (Sep. 15–19)"
+title: "This Week (Sep. 22–26)"
 layout: this-week
+
+csa-1: "[Progress Check 1b](https://apclassroom.collegeboard.org/8/assessments/assignments/70035356)"
+csa-2: "Quiz"
+csa-3: ""
+
+con-1: "[Combining like terms](./algebra-1-khan-academy/1-4-combining-like-terms.html)"
+con-2: "Quiz"
+con-3: ""
+
+sta-1: "2.1 and 2.2"
+sta-2: "2.3"
+sta-3: ""
+
+dev-1: "Cafe Menu and begin Colored Markers"
+dev-2: ""
+dev-3: ""
+
+cal-1: "[1.1](./calc-for-ap-larson/1.1-a-preview-of-calculus.html) and [1.2](./calc-for-ap-larson/1.2-finding-limits-graphically-and-numerically.html)"
+cal-2: "[1.3](./calc-for-ap-larson/1.3-evaluating-limit-analytically.html)"
+cal-3: "Begin [1.4](./calc-for-ap-larson/1.4-continuity-and-one-sided-limits.html)"
 ---
 
 [Site home](./)
 
-| Course                               | New Material                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Next Exam |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| {%- include tw-table/apcsa.md -%}    | **M**{: .day} [1.5 Casting](./csawesome2/1-5-casting-and-ranges-of-values.md) and [1.6 Compound Operators](./csawesome2/1-6-compound-assignment-operators.md) <br> **W**{: .day} [1.7 APIs and Libraries](./csawesome2/1-7-apis-and-libraries.md) and [1.8 Documentation](./csawesome2/1-8-documentation-with-comments-and-preconditions.md) <br>  **F**{: .day} [1.9 Method Signatures](./csawesome2/1-9-method-signatures.md) and [1.10 Class Methods](./csawesome2/1-10-calling-class-methods.md) | Sep. 25   |
-| {%- include tw-table/concepts.md -%} | **M**{: .day} ~~Benchmark~~ <br>                                                                                                                                   **W**{: .day} Benchmark, take 2 <br>                                                                                                                                            **F**{: .day} [Combining Like Terms](./algebra-1-khan-academy/1-4-combining-like-terms.md)                                                        | Sep. 25   |
-| {%- include tw-table/prob.md -%}     | **M**{: .day} Data Collection Experiment <br>                                                                                                                      **W**{: .day} Sampling Experiment <br>                                                                                                                                          **F**{: .day} [Chapter 1 Quiz](https://manville.instructure.com/courses/5660/modules/items/274302)                                                | Sep. 19   |
-| {%- include tw-table/web-dev.md -%}  | Cafe Menu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | –         |
-| {%- include tw-table/calc.md -%}     | **T**{: .day} [P.5 Exponential and Logarithmic Functions](./calc-for-ap-larson/0.5-exponential-and-logarithmic-functions.md) <br>                                  **R**{: .day} Quiz                                                                                                                                                                                                                                                                                                                | Sep. 18   |
+<!--  
+| Course                               | New Material                                                                                     | Next Exam |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------ | --------- |
+| {%- include tw-table/apcsa.md -%}    | **M**{: .day} {{page.csa-1}} <br> **W**{: .day} {{page.csa-2}} <br> **F**{: .day} {{page.csa-3}} | Sep. 25   |
+| {%- include tw-table/concepts.md -%} | **M**{: .day} {{page.con-1}} <br> **W**{: .day} {{page.con-2}} <br> **F**{: .day} {{page.con-3}} | Sep. 25   |
+| {%- include tw-table/prob.md -%}     | **M**{: .day} {{page.sta-1}} <br> **W**{: .day} {{page.sta-2}} <br> **F**{: .day} {{page.sta-3}} | Sep. 19   |
+| {%- include tw-table/web-dev.md -%}  | {{page.dev-1}}                                                                                   | –         |
+| {%- include tw-table/calc.md -%}     | **T**{: .day} {{page.cal-1}} <br> **R**{: .day} {{page.cal-2}}                                   | Sep. 18   |
 {: .this-week-table}
+-->
 
-- 9/20 Dia de Ciencias hosted by Rutgers Society of Hispanic Engineers ([Flyer](./misc/tmp/dia-de-ciencias-2025-09-20.png) \| [Registration](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bQKa2zxiq7d5vrU))
+| Course                               | New Material                                                                                     | Next Exam |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------ | --------- |
+| {%- include tw-table/apcsa.md -%}    | **T**{: .day} {{page.csa-1}} <br> **R**{: .day} {{page.csa-2}}                                   | Sep. 25   |
+| {%- include tw-table/concepts.md -%} | **T**{: .day} {{page.con-1}} <br> **R**{: .day} {{page.con-2}}                                   | Sep. 25   |
+| {%- include tw-table/prob.md -%}     | **T**{: .day} {{page.sta-1}} <br> **R**{: .day} {{page.sta-2}}                                   | Oct. 9    |
+| {%- include tw-table/web-dev.md -%}  | {{page.dev-1}}                                                                                   | –         |
+| {%- include tw-table/calc.md -%}     | **M**{: .day} {{page.cal-1}} <br> **W**{: .day} {{page.cal-2}} <br> **F**{: .day} {{page.cal-3}} | Oct. 2    |
+{: .this-week-table}
 
 ---
 

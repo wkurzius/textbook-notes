@@ -13,6 +13,7 @@ course: Concepts of Algebra
   - [Combining like terms with negative coefficients](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:combine-like-terms/e/combining_like_terms_1){:target="_blank"}
   - [Combining like terms with negative coefficients & distribution](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:combine-like-terms/e/combining_like_terms_2){:target="_blank"}
   - [Combining like terms with rational coefficients](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:combine-like-terms/e/manipulating-linear-expressions-with-rational-coefficients){:target="_blank"}
+  - [Equivalent expressions](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:equivalent-expressions-intro/e/equivalent-forms-of-expressions-1){:target="_blank"}
 
 ---
 
