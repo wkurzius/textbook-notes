@@ -19,8 +19,8 @@ dev-2: ""
 dev-3: ""
 
 cal-1: "[1.1](./calc-for-ap-larson/1.1-a-preview-of-calculus.html) and [1.2](./calc-for-ap-larson/1.2-finding-limits-graphically-and-numerically.html)"
-cal-2: "[1.3](./calc-for-ap-larson/1.3-evaluating-limit-analytically.html)"
-cal-3: "Begin [1.4](./calc-for-ap-larson/1.4-continuity-and-one-sided-limits.html)"
+cal-2: "Begin [1.3](./calc-for-ap-larson/1.3-evaluating-limit-analytically.html)"
+cal-3: "Finish [1.3](./calc-for-ap-larson/1.3-evaluating-limit-analytically.html) and begin [1.4](./calc-for-ap-larson/1.4-continuity-and-one-sided-limits.html)"
 ---
 
 [Site home](./)
