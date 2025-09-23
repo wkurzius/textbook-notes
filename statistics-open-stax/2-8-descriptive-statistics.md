@@ -6,7 +6,9 @@ course: Probability & Statistics
 
 ## Chapter Objectives
 
-- 
+- Recognize and differentiate between key terms.
+- Apply various types of sampling methods to data collection.
+- Create and interpret frequency tables.
 
 ## Assignment
 

@@ -10,8 +10,8 @@ con-1: "[Combining like terms](./algebra-1-khan-academy/1-4-combining-like-terms
 con-2: "Quiz"
 con-3: ""
 
-sta-1: "2.1 and 2.2"
-sta-2: "2.3"
+sta-1: "[2.1](./statistics-open-stax/2-1-stem-and-leaf-graphs-stemplots-line-graphs-and-bar-graphs.html) and [2.2](./statistics-open-stax/2-2-histograms-frequency-polygons-and-time-series-graphs.html)"
+sta-2: "[2.3](./statistics-open-stax/2-3-measures-of-the-location-of-the-data.html)"
 sta-3: ""
 
 dev-1: "Cafe Menu and begin Colored Markers"

@@ -3,7 +3,7 @@ title: "*Statistics* by OpenStax Notes"
 ---
 
 - [Online textbook](https://openstax.org/books/statistics/pages/1-introduction)
-- [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL)
+<!-- - [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL) -->
 
 ## 1 Sampling and Data
 
@@ -17,13 +17,13 @@ title: "*Statistics* by OpenStax Notes"
 
 ## 2 Descriptive Statistics
 
-- Stem-and-Leaf Graphs (Stemplots), Line Graphs, and Bar Graphs
-- Histograms, Frequency Polygons, and Time Series Graphs
-- Measures of the Location of the Data
-- Box Plots
-- Measures of the Center of the Data
-- Skewness and the Mean, Median, and Mode
-- Measures of the Spread of the Data
+- [Stem-and-Leaf Graphs (Stemplots), Line Graphs, and Bar Graphs](./2-1-stem-and-leaf-graphs-stemplots-line-graphs-and-bar-graphs.md)
+- [Histograms, Frequency Polygons, and Time Series Graphs](./2-2-histograms-frequency-polygons-and-time-series-graphs.md)
+- [Measures of the Location of the Data](./2-3-measures-of-the-location-of-the-data.md)
+- [Box Plots](./2-4-box-plots.md)
+- [Measures of the Center of the Data](./2-5-measures-of-the-center-of-the-data.md)
+- [Skewness and the Mean, Median, and Mode](./2-6-skewness-and-the-mean-median-and-mode.md)
+- [Measures of the Spread of the Data](./2-7-measures-of-the-spread-of-the-data.md)
 - Descriptive Statistics
 {: .notes-list}
 
