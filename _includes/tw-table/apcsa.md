@@ -1,1 +1,0 @@
-**AP Comp Sci A**<br>[Notes and HW](./csawesome2/) \| [Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html)

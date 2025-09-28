@@ -19,6 +19,5 @@ course: Probability & Statistics
 
 ---
 
-- [PowerPoint version]()
+- [PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/ERwZD5B5NupGriTdMvcsPksBQwHe6V2X9kkGukHDLoR7RQ?e=MajMwc)
 {: .slides-link}
-

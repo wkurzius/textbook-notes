@@ -1,1 +1,0 @@
-**AP Calc**<br>[Notes and HW](./calc-for-ap-larson/) 
