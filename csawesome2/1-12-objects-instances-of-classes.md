@@ -14,3 +14,4 @@ course: AP CSA
 
 ---
 
+This section will be unique because a) we've covered most of this in [1.7](./1-7-apis-and-libraries.md#classes-attributes-and-behaviors), b) any new material isn't on the AP exam, and c) I'm out today. So in the interest of resting and getting healthy, go read the old notes and see you Wednesday.
