@@ -21,10 +21,10 @@ sta-3: "2.7"
 sta-x: "Oct. 9"
 
 dev-h: "**Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)"
-dev-1: ""
+dev-1: "Colored Markers (≤ B) or Survey Form (> B)"
 dev-2: ""
 dev-3: ""
-dev-x: "Oct. 14"
+dev-x: "–"
 
 cal-h: "**AP Calc**<br>[Notes and HW](./calc-for-ap-larson/)"
 cal-1: "[1.4](./calc-for-ap-larson/1.4-continuity-and-one-sided-limits.md)"
@@ -40,7 +40,7 @@ cal-x: "Oct. 2"
 | {{page.csc-h}} | **M**{: .day} {{page.csc-1}} <br> **W**{: .day} {{page.csc-2}} <br> **F**{: .day} {{page.csc-3}} | {{page.csc-x}} |
 | {{page.con-h}} | **M**{: .day} {{page.con-1}} <br> **W**{: .day} {{page.con-2}} <br> **F**{: .day} {{page.con-3}} | {{page.con-x}} |
 | {{page.sta-h}} | **M**{: .day} {{page.sta-1}} <br> **W**{: .day} {{page.sta-2}} <br> **F**{: .day} {{page.sta-3}} | {{page.sta-x}} |
-| {{page.dev-h}} | {{page.dev-1}}                                                                                   | –              |
+| {{page.dev-h}} | {{page.dev-1}}                                                                                   | {{page.dev-x}} |
 | {{page.cal-h}} | **T**{: .day} {{page.cal-1}} <br> **R**{: .day} {{page.cal-2}}                                   | {{page.cal-x}} |
 {: .this-week-table}
 
