@@ -4,8 +4,8 @@ layout: this-week
 
 csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/) \\| [Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html)"
 csc-1: "[1.11](./csawesome2/1-11-using-the-math-class.html) and [1.12](./csawesome2/1-12-objects-instances-of-classes.html)"
-csc-2: "[1.13](./csawesome2/1-13-creating-and-initializing-objects.md)"
-csc-3: "[1.14](./csawesome2/1-14-calling-instance-methods.md)"
+csc-2: "[1.13](./csawesome2/1-13-creating-and-initializing-objects.html)"
+csc-3: "[1.14](./csawesome2/1-14-calling-instance-methods.html)"
 csc-x: "Oct. 14"
 
 con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/math/algebra)"
@@ -27,7 +27,7 @@ dev-3: ""
 dev-x: "–"
 
 cal-h: "**AP Calc**<br>[Notes and HW](./calc-for-ap-larson/)"
-cal-1: "[1.4](./calc-for-ap-larson/1.4-continuity-and-one-sided-limits.md)"
+cal-1: "[1.4](./calc-for-ap-larson/1.4-continuity-and-one-sided-limits.html)"
 cal-2: "Quiz"
 cal-3: ""
 cal-x: "Oct. 2"
