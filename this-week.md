@@ -16,8 +16,8 @@ con-x: "Oct. 7"
 
 sta-h: "**Prob & Stats**<br>[Notes and HW](./statistics-open-stax/) \\| [Book](https://openstax.org/books/statistics/pages/1-introduction)"
 sta-1: "[2.4](./statistics-open-stax/2-4-box-plots.html)"
-sta-2: "2.5 and 2.5"
-sta-3: "2.7"
+sta-2: "[2.5](./statistics-open-stax/2-5-measures-of-the-center-of-the-data.html) and [2.6](./statistics-open-stax/2-6-skewness-and-the-mean-median-and-mode.html)"
+sta-3: "[2.7](./statistics-open-stax/2-7-measures-of-the-spread-of-the-data.html)"
 sta-x: "Oct. 9"
 
 dev-h: "**Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)"
