@@ -24,9 +24,11 @@ World habitat = new World();    // create a new World object
 Turtle t = new Turtle(habitat); // create a new Turtle object
 ```
 
-Line 1 above can be read "use the `World()` constructor to create a new `World` object, which can be referenced by `habitat`".
+Line 1 above can be read "use the `World()` constructor to create a new `World` object, which can be referenced by `habitat`". Much like methods, the constructor needs to finish its own code before the rest of the program can continue.
 
 We'll get into writing constructors later. For now, we're focusing on using them.
+
+> It's been mentioned before, but a reference variable needs to point to an object, and in the event it doesn't, then it points to the `null` object. There is typically something wrong if you have a reference pointing to `null`, which can lead to runtime errors like `java.lang.NullPointerException`.
 
 ### Overloaded Constructors
 
@@ -41,4 +43,18 @@ Line 1 has calls a constructor with no arguments, then Line 2 makes another call
 
 The signature of a constructor, much the signature of a method 
 
-## Object Variables and References
+## Arguments, Parameters, and Call by Value
+
+**Parameters** are the data that a method requires in order for it to run. `Math.sqrt(double a)` has a single double as a parameter. When you call/run the method, the value(s) passed to it are **arguments**.
+
+**"Call by value"** is a concept that means that value of a variable is passed to the method or constructor being called. This is best explained with an example.
+
+```java
+int i = -4;
+Math.abs(i);
+System.out.println(i);
+```
+
+Line three outputs `-4` because `i` is unchanged. Only the value was passed to the `abs()` (and the work done on line 2 was essentially wasted).
+
+If the output was `4`, meaning `i` was changed, then it would be "call by reference". **Java arguments are always passed usung call by value.** If it's an argument, you safely assume the original is left untouched. This goes for primitives and objects.
