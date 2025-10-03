@@ -17,7 +17,7 @@ course: Probability & Statistics
 
 ---
 
-- [PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/EdYCA9obTLtGspaxL_LwhAABdXhCK-rqB6xWPhE8y8nOZw)
+- [PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/EdYCA9obTLtGspaxL_LwhAABdXhCK-rqB6xWPhE8y8nOZw){:target="_blank"}
 {: .slides-link}
 
 ## Variables
