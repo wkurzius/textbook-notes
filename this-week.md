@@ -9,8 +9,8 @@ csc-3: ""
 csc-x: "Oct. 14"
 
 con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/math/algebra){:target=\"_blank\"}"
-con-1: "~~[Linear equations with variables on both sides](https://www.khanacademy.org/)~~"
-con-2: "[Linear equations with variables on both sides](https://www.khanacademy.org/){:target=\"_blank\"}"
+con-1: "[Linear equations with variables on both sides](https://www.khanacademy.org/){:target=\"_blank\"}"
+con-2: "Quiz"
 con-3: ""
 con-x: "Oct. 7"
 
