@@ -1,23 +1,23 @@
 ---
-title: "This Week (Sep. 29–Oct. 3)"
+title: "This Week (Oct. 6–10)"
 layout: this-week
 
 csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/) \\| [Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html)"
-csc-1: "[1.11](./csawesome2/1-11-using-the-math-class.html) and [1.12](./csawesome2/1-12-objects-instances-of-classes.html)"
-csc-2: "[1.13](./csawesome2/1-13-creating-and-initializing-objects.html)"
-csc-3: "[1.14](./csawesome2/1-14-calling-instance-methods.html)"
+csc-1: "[1.15 Strings](./csawesome2/1-15-strings.html)"
+csc-2: "AP Progress Check"
+csc-3: ""
 csc-x: "Oct. 14"
 
 con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/math/algebra)"
 con-1: "~~[Linear equations with variables on both sides](https://www.khanacademy.org/)~~"
 con-2: "[Linear equations with variables on both sides](https://www.khanacademy.org/)"
-con-3: "[Linear equations with parentheses](https://www.khanacademy.org/)"
+con-3: ""
 con-x: "Oct. 7"
 
 sta-h: "**Prob & Stats**<br>[Notes and HW](./statistics-open-stax/) \\| [Book](https://openstax.org/books/statistics/pages/1-introduction)"
-sta-1: "[2.4](./statistics-open-stax/2-4-box-plots.html)"
-sta-2: "[2.5](./statistics-open-stax/2-5-measures-of-the-center-of-the-data.html) and [2.6](./statistics-open-stax/2-6-skewness-and-the-mean-median-and-mode.html)"
-sta-3: "[2.7](./statistics-open-stax/2-7-measures-of-the-spread-of-the-data.html)"
+sta-1: "Descriptive Statistics Lab"
+sta-2: "Chapter 2 Quiz"
+sta-3: ""
 sta-x: "Oct. 9"
 
 dev-h: "**Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)"
@@ -27,14 +27,15 @@ dev-3: ""
 dev-x: "–"
 
 cal-h: "**AP Calc**<br>[Notes and HW](./calc-for-ap-larson/)"
-cal-1: "[1.4](./calc-for-ap-larson/1.4-continuity-and-one-sided-limits.html)"
-cal-2: "Quiz"
-cal-3: ""
-cal-x: "Oct. 2"
+cal-1: "[1.5 Infinite Limits](./calc-for-ap-larson/1.5-infinite-limits.html)"
+cal-2: "[1.6 Limits at Infinity](./calc-for-ap-larson/1.6-limits-at-infinity.html)"
+cal-3: "AP Progress Check"
+cal-x: "Oct. 15"
 ---
 
 [Site home](./)
 
+<!-- 
 | Course         | New Material                                                                                     | Next Exam      |
 | -------------- | ------------------------------------------------------------------------------------------------ | -------------- |
 | {{page.csc-h}} | **M**{: .day} {{page.csc-1}} <br> **W**{: .day} {{page.csc-2}} <br> **F**{: .day} {{page.csc-3}} | {{page.csc-x}} |
@@ -43,8 +44,8 @@ cal-x: "Oct. 2"
 | {{page.dev-h}} | {{page.dev-1}}                                                                                   | {{page.dev-x}} |
 | {{page.cal-h}} | **T**{: .day} {{page.cal-1}} <br> **R**{: .day} {{page.cal-2}}                                   | {{page.cal-x}} |
 {: .this-week-table}
+-->
 
-<!-- 
 | Course         | New Material                                                                                     | Next Exam      |
 | -------------- | ------------------------------------------------------------------------------------------------ | -------------- |
 | {{page.csc-h}} | **T**{: .day} {{page.csc-1}} <br> **R**{: .day} {{page.csc-2}}                                   | {{page.csc-x}} |
@@ -53,7 +54,6 @@ cal-x: "Oct. 2"
 | {{page.dev-h}} | {{page.dev-1}}                                                                                   | –              |
 | {{page.cal-h}} | **M**{: .day} {{page.cal-1}} <br> **W**{: .day} {{page.cal-2}} <br> **F**{: .day} {{page.cal-3}} | {{page.cal-x}} |
 {: .this-week-table}
--->
 
 <!-- 
 | {{page.dev-h}}  | {{page.dev-1}} | – |
