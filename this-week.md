@@ -2,25 +2,25 @@
 title: "This Week (Oct. 6–10)"
 layout: this-week
 
-csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/) \\| [Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html)"
+csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/) \\| [Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){:target=\"_blank\"}"
 csc-1: "[1.15 Strings](./csawesome2/1-15-strings.html)"
 csc-2: "AP Progress Check"
 csc-3: ""
 csc-x: "Oct. 14"
 
-con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/math/algebra)"
+con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/math/algebra){:target=\"_blank\"}"
 con-1: "~~[Linear equations with variables on both sides](https://www.khanacademy.org/)~~"
-con-2: "[Linear equations with variables on both sides](https://www.khanacademy.org/)"
+con-2: "[Linear equations with variables on both sides](https://www.khanacademy.org/){:target=\"_blank\"}"
 con-3: ""
 con-x: "Oct. 7"
 
-sta-h: "**Prob & Stats**<br>[Notes and HW](./statistics-open-stax/) \\| [Book](https://openstax.org/books/statistics/pages/1-introduction)"
+sta-h: "**Prob & Stats**<br>[Notes and HW](./statistics-open-stax/) \\| [Book](https://openstax.org/books/statistics/pages/1-introduction){:target=\"_blank\"}"
 sta-1: "Descriptive Statistics Lab"
 sta-2: "Chapter 2 Quiz"
 sta-3: ""
 sta-x: "Oct. 9"
 
-dev-h: "**Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)"
+dev-h: "**Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){:target=\"_blank\"}"
 dev-1: "Colored Markers (≤ B) or Survey Form (> B)"
 dev-2: ""
 dev-3: ""
@@ -54,10 +54,6 @@ cal-x: "Oct. 15"
 | {{page.dev-h}} | {{page.dev-1}}                                                                                   | –              |
 | {{page.cal-h}} | **M**{: .day} {{page.cal-1}} <br> **W**{: .day} {{page.cal-2}} <br> **F**{: .day} {{page.cal-3}} | {{page.cal-x}} |
 {: .this-week-table}
-
-<!-- 
-| {{page.dev-h}}  | {{page.dev-1}} | – |
--->
 
 ---
 
