@@ -59,14 +59,7 @@ int l = s.length();
 System.out.println(l);      // outputs 11
 ```
 
-Each character in a `String` can be referenced by its index, but the counting starts at 0 (which happens a lot in programming). So, the character as position 0 is `s` and the one at position 3 is `e`. Although not one of the "accessible" methods on the exam, `charAt(int n)` will return the character at the given index.
-
-```java
-String s = "some string";
-System.out.println(s.charAt(0));    // outputs 's'
-```
-
-Going the other way, the method `indexOf(String str)` returns the index of where the given string can be found. 
+Each character in a `String` can be referenced by its index, but the counting starts at 0 (which happens a lot in programming). So, the character as position 0 is `s` and the one at position 3 is `e`. The method `indexOf(String str)` returns the index of where a given string can be found in a larger one.
 
 ```java
 String s = "some string";
