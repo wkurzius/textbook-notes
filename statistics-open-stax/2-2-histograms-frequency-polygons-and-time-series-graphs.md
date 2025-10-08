@@ -14,7 +14,7 @@ course: Probability & Statistics
 ## Assignment
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/1-key-terms) for definitions)
-- [2.2 Homework](https://openstax.org/books/statistics/pages/2-homework#fs-idp52790224) 80–85
+- [2.2 Homework](https://openstax.org/books/statistics/pages/2-homework#fs-idp52790224){:target="_blank"} 80–85
 - Read the next section in the book
 
 ---
