@@ -13,12 +13,12 @@ course: Probability & Statistics
 ## Assignment
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/1-key-terms) for definitions)
-- [1.4 Homework](https://openstax.org/books/statistics/pages/1-homework#fs-idm36883600){:target="_blank"} 91–94
+- [1.4 Homework](https://openstax.org/books/statistics/pages/1-homework#fs-idm36883600){: target="_blank"} 91–94
   - [Solutions](https://manville.instructure.com/courses/5660/files?preview=780645){: target="_blank"}
 
 ---
 
-- [PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/EdYCA9obTLtGspaxL_LwhAABdXhCK-rqB6xWPhE8y8nOZw){:target="_blank"}
+- [PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/EdYCA9obTLtGspaxL_LwhAABdXhCK-rqB6xWPhE8y8nOZw){: target="_blank"}
 {: .slides-link}
 
 ## Variables
