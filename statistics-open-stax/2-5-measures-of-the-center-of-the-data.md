@@ -16,6 +16,7 @@ course: Probability & Statistics
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/1-key-terms) for definitions)
 - [2.5 Homework](https://openstax.org/books/statistics/pages/2-homework#fs-idm59277808) 95–96
   - [Solutions](https://manville.instructure.com/courses/5660/files?preview=780645){: target="_blank"}
+- [2.5 Homework](https://openstax.org/books/statistics/pages/2-homework#fs-idm59277808){:target="_blank"} 95–96
 - Read the next section in the book
 
 ---
