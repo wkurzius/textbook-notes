@@ -3,7 +3,7 @@ title: "*CSAwesome2* Notes"
 ---
 
 - [Syllabus](../syllabi/ap-csa.md)
-- [*CSAwesome2* online curriculum](https://runestone.academy/)
+- [*CSAwesome2* online curriculum](https://runestone.academy/){: target="_blank"}
 
 ## 1 Using Objects and Methods
 

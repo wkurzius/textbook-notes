@@ -11,7 +11,7 @@ course: AP CSA
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.1 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-1-intro-algorithms.html)
+- All [1.1 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-1-intro-algorithms.html){: target="_blank"}
 
 ---
 

@@ -10,7 +10,7 @@ course: AP CSA
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.2 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-2-variables.html)
+- All [1.2 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-2-variables.html){: target="_blank"}
 
 ---
 
@@ -48,7 +48,7 @@ There are two major types of variables, primitives and reference. Primitives hav
 
 > Just a couple of quick sides notes about `double` variables.
 > 
-> 1. If you want to know more about floating point numbers, here's a short and introduction to the topic that I refer to frequently: [Floating Point Visually Explained by Fabien Sanglard](https://fabiensanglard.net/floating_point_visually_explained/)
+> 1. If you want to know more about floating point numbers, here's a short and introduction to the topic that I refer to frequently: [Floating Point Visually Explained by Fabien Sanglard](https://fabiensanglard.net/floating_point_visually_explained/){: target="_blank"}
 >
 > 2. A word of caution: floating-point variables can be inaccurate for the same reason that working with one-third in decimal is a pain. This is a topic for another day, but if you can use `int` for an implementation, do it.
 

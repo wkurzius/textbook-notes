@@ -9,13 +9,13 @@ course: AP CSA
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.11 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-11-Math.html)
+- All [1.11 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-11-Math.html){: target="_blank"}
 
 ---
 
 ## Mathematical Functions
 
-The `Math` class is a collection of static methods that pretty much do what you would expect each would do. `Math.abs()` returns the absolute value, `Math.pow()` raises a base to a power, and so on. On the exam, CollegeBoard will provide you with a [Java Quick Reference](https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-java-quick-reference.pdf) which will tell you what methods are available to you. Others will be available for specific questions, so make sure you are good with reading documentation.
+The `Math` class is a collection of static methods that pretty much do what you would expect each would do. `Math.abs()` returns the absolute value, `Math.pow()` raises a base to a power, and so on. On the exam, CollegeBoard will provide you with a [Java Quick Reference](https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-java-quick-reference.pdf){: target="_blank"} which will tell you what methods are available to you. Others will be available for specific questions, so make sure you are good with reading documentation.
 
 Since all of these return a value, make sure you do something with them. I recommend putting it in a variable.
 

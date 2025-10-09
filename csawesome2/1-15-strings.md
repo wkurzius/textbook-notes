@@ -10,7 +10,7 @@ course: AP CSA
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.15 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-15-strings.html)
+- All [1.15 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-15-strings.html){: target="_blank"}
 
 ---
 

@@ -11,7 +11,7 @@ course: AP CSA
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.3 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-3-expressions.html)
+- All [1.3 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-3-expressions.html){: target="_blank"}
 
 ---
 
@@ -42,4 +42,4 @@ So, if you need decimals, you have to use them. Make just one of the numbers a d
 
 A new operator you've likely not seen before is the remainder operator, which uses the percent sign `%`. This clever tool outputs the remainder after dividing the two numbers. `5 % 2` results in a `1`. This is very useful for cyclical things, like determining if a number is even or odd, or determining the day of the week based on the date.
 
-> The remainder operator is the official Java name, but it's often called modulus or mod, and while they are technically different it's [way worse than the book describes](https://en.wikipedia.org/wiki/Modulo#Variants_of_the_definition).
+> The remainder operator is the official Java name, but it's often called modulus or mod, and while they are technically different it's [way worse than the book describes](https://en.wikipedia.org/wiki/Modulo#Variants_of_the_definition){: target="_blank"}.

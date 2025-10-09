@@ -9,7 +9,7 @@ course: AP CSA
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.10 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-10-calling-class-methods.html)
+- All [1.10 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-10-calling-class-methods.html){: target="_blank"}
 
 ---
 

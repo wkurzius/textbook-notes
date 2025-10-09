@@ -12,7 +12,7 @@ course: Probability & Statistics
 
 ## Assignment
 
-- All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/1-key-terms) for definitions)
+- All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/1-key-terms){: target="_blank"} for definitions)
 - [1.4 Homework](https://openstax.org/books/statistics/pages/1-homework#fs-idm36883600){: target="_blank"} 91–94
   - [Solutions](https://manville.instructure.com/courses/5660/files?preview=780645){: target="_blank"}
 

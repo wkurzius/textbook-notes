@@ -10,7 +10,7 @@ course: AP CSA
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.4 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-4-assignment.html)
+- All [1.4 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-4-assignment.html){: target="_blank"}
 
 ---
 

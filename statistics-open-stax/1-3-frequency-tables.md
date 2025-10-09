@@ -12,7 +12,7 @@ course: Probability & Statistics
 
 ## Assignment
 
-- All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/1-key-terms) for definitions)
+- All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/1-key-terms){: target="_blank"} for definitions)
 - [1.3 Homework](https://openstax.org/books/statistics/pages/1-homework#fs-idm8238960){: target="_blank"} 84–90
   - [Solutions](https://manville.instructure.com/courses/5660/files?preview=780645){: target="_blank"}
 - Read the next section in the book
@@ -93,4 +93,4 @@ course: Probability & Statistics
 |    73.95–75.95    |      1      |       1/100 = 0.01 |              .99 + .01 = 1.00 |
 |                   | Total = 100 |       Total = 1.00 |                               |
 
-\* *Data had one decimal place, so ranges have two to prevent overlap*
+\* _Data had one decimal place, so ranges have two to prevent overlap_

@@ -10,7 +10,7 @@ course: AP CSA
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.5 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-5-casting.html)
+- All [1.5 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-5-casting.html){: target="_blank"}
 
 ---
 
@@ -60,7 +60,7 @@ System.out.println(Integer.MAX_VALUE);  //  2,147,483,647
 System.out.println(Integer.MIN_VALUE);  // -2,147,483,648
 ```
 
-> If you're curious about some of the inner workings, [this post on Stack Overflow](https://stackoverflow.com/a/6853536) is a good place to start.
+> If you're curious about some of the inner workings, [this post on Stack Overflow](https://stackoverflow.com/a/6853536){: target="_blank"} is a good place to start.
 
 Now, you can add to these values without error, or at least an error in the traditional sense. Instead, you'll get a **logic error**, where the program behaves unexpectedly. What really happened is that the computer did exactly what you told it to do, you just told it to do something wrong. Adding beyond the max value of integer results in an overflow, and you end up in the negatives.
 
