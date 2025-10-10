@@ -26,18 +26,18 @@ title: "*CSAwesome2* Notes"
 
 ## 2 Selection and Iteration
 
-- Algorithms with Selection and Repetition
-- Boolean Expressions
-- `if` Statements
-- Nested `if` Statements
-- Compound Boolean Expressions
-- Comparing Boolean Expressions (De Morgan’s Laws)
-- While Loops
-- For Loops
-- Implementing Selection and Iteration Algorithms
-- Implementing String Algorithms
-- Nested Iteration
-- Informal Runtime Analysis of Loops
+- [Algorithms with Selection and Repetition](./2-1-algorithms-with-selection-and-repetition.md
+- [Boolean Expressions](./2-2-boolean-expressions.md)
+- [`if` Statements](./2-3-if-statements.md)
+- [Nested `if` Statements](./2-4-nested-if-statements.md)
+- [Compound Boolean Expressions](./2-5-compound-boolean-expressions.md)
+- [Comparing Boolean Expressions (De Morgan’s Laws)](./2-6-comparing-boolean-expressions.md)
+- [While Loops](./2-7-while-loops.md)
+- [For Loops](./2-8-for-loops.md)
+- [Implementing Selection and Iteration Algorithms](./2-9-implementing-selection-and-iteration-algorithms.md)
+- [Implementing String Algorithms](./2-10-implementing-string-algorithms.md)
+- [Nested Iteration](./2-11-nested-iteration.md)
+- [Informal Runtime Analysis of Loops](./2-12-informal-runtime-analysis-of-loops.md)
 {: .notes-list}
 
 ## 3 Class Creation

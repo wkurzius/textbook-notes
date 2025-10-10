@@ -1,5 +1,5 @@
 ---
-title:  
+title: 
 layout: notes
 course: AP CSA
 ---
@@ -9,6 +9,7 @@ course: AP CSA
 
 - All **vocabulary**{: .apcsa-vocab}
 - All [xxx activities](){: target="_blank"}
+- [CodingPractice](){: target="_blank"}
 
 ---
 
