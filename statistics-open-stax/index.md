@@ -29,11 +29,11 @@ title: "*Statistics* by OpenStax Notes"
 
 ## 3 Probability Topics
 
-- Terminology
-- Independent and Mutually Exclusive Events
-- Two Basic Rules of Probability
-- Contingency Tables
-- Tree and Venn Diagrams
+- [Terminology](./3-1-terminology.md)
+- [Independent and Mutually Exclusive Events](./3-2-independent-and-mutually-exclusive-events.md)
+- [Two Basic Rules of Probability](./3-3-two-basic-rules-of-probability.md)
+- [Contingency Tables](./3-4-contingency-tables.md)
+- [Tree and Venn Diagrams](./3-5-tree-and-venn-diagrams.md)
 - Probability Topics
 {: .notes-list}
 
