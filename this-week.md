@@ -16,7 +16,7 @@ con-x: "Oct. 14"
 
 sta-h: "**Prob & Stats**<br>[Notes and HW](./statistics-open-stax/) \\| [Book](https://openstax.org/books/statistics/pages/1-introduction){:target=\"_blank\"}"
 sta-1: "**T**{: .day}Quiz"
-sta-2: "**R**{: .day}[3.1 Probability Terminology](./statistics-open-stax/3-1-terminology.html) and [3.2 Independent and Mutually Exclusive Events](./statistics-open-stax/3-2-independent-and-mutually-exclusive-events.html)"
+sta-2: "**R**{: .day}[3.1 Probability Terminology](./statistics-open-stax/3-1-terminology.html)"
 sta-3: ""
 sta-x: "Oct. 14"
 
