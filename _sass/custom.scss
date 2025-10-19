@@ -294,7 +294,8 @@ table.rouge-table .rouge-code {
     padding-left: 1em;
 }
 
-.header-tt {
+.header-tt, .tt-head {
     font-style: normal;
+    font-weight: inherit;
     font-family: monospace;
 }
