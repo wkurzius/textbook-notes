@@ -26,7 +26,7 @@ title: "*CSAwesome2* Notes"
 
 ## 2 Selection and Iteration
 
-- [Algorithms with Selection and Repetition](./2-1-algorithms-with-selection-and-repetition.md
+- [Algorithms with Selection and Repetition](./2-1-algorithms-with-selection-and-repetition.md)
 - [Boolean Expressions](./2-2-boolean-expressions.md)
 - [`if` Statements](./2-3-if-statements.md)
 - [Nested `if` Statements](./2-4-nested-if-statements.md)

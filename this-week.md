@@ -3,59 +3,47 @@ title: "This Week (Oct. 14–17)"
 layout: this-week
 
 csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/) \\| [Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){:target=\"_blank\"}"
-csc-1: "**T**{: .day}Quiz"
-csc-2: "**R**{: .day}[2.1 Algorithms with Selection and Repetition](./csawesome2/2-1-algorithms-with-selection-and-repetition.html) and [2.2 Boolean Expressions](./csawesome2/2-2-boolean-expressions.html)"
-csc-3: ""
-csc-x: "Oct. 14"
+csc-1: "**M**{: .day}[2.3 `if` Statements](./csawesome2/2-3-if-statements.html)"
+csc-2: "**W**{: .day}[2.4 Nested `if` Statements](./csawesome2/2-4-nested-if-statements.html)"
+csc-3: "**F**{: .day}[2.5 Compound Boolean Expressions](./csawesome2/2-5-compound-boolean-expressions.html)"
+csc-x: "Nov. 5"
 
 con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/math/algebra){:target=\"_blank\"}"
-con-1: "**T**{: .day}Quiz"
-con-2: "**R**{: .day}[Number of solutions to equations](https://www.khanacademy.org/){:target=\"_blank\"}"
+con-1: "Negative number review"
+con-2: ""
 con-3: ""
-con-x: "Oct. 14"
+con-x: "–"
 
 sta-h: "**Prob & Stats**<br>[Notes and HW](./statistics-open-stax/) \\| [Book](https://openstax.org/books/statistics/pages/1-introduction){:target=\"_blank\"}"
-sta-1: "**T**{: .day}Quiz"
-sta-2: "**R**{: .day}[3.1 Probability Terminology](./statistics-open-stax/3-1-terminology.html)"
-sta-3: ""
-sta-x: "Oct. 14"
+sta-1: "**M**{: .day}[3.2 Independent and Mutually Exclusive Events](./statistics-open-stax/3-2-independent-and-mutually-exclusive-events.html) and<br>**&nbsp;**{: .day}[3.3 Two Basic Rules of Probability](./statistics-open-stax/3-3-two-basic-rules-of-probability.html)"
+sta-2: "**W**{: .day}[3.4 Contingency Tables](./statistics-open-stax/3-4-contingency-tables.html)"
+sta-3: "**F**{: .day}[3.5 Tree and Venn Diagrams](./statistics-open-stax/3-5-tree-and-venn-diagrams.html)"
+sta-x: "Oct. 30"
 
 dev-h: "**Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){:target=\"_blank\"}"
-dev-1: "Colored Markers (≤ B) or Photo Gallery (> B)"
+dev-1: "Registration Form (≤ B) or Nutrition Label (> B)"
 dev-2: ""
 dev-3: ""
-dev-x: "–"
+dev-x: "Nov. 4"
 
 cal-h: "**AP Calc**<br>[Notes and HW](./calc-for-ap-larson/)"
-cal-1: "**W**{: .day}Quiz"
-cal-2: "**F**{: .day}[2.1 The Derivative and the Tangent Line Problem](./calc-for-ap-larson/2.1-the-derivative-and-the-tangent-line-problem.html)"
-cal-3: "AP Progress Check"
-cal-x: "Oct. 15"
+cal-1: "**T**{: .day}[2.1 The Derivative and the Tangent Line Problem](./calc-for-ap-larson/2.1-the-derivative-and-the-tangent-line-problem.html)"
+cal-2: "**R**{: .day}[2.2 Basic Differentiation Rules and Rates of Change](./calc-for-ap-larson/2.2-basic-differentiation-rules-and-rates-of-change.html)"
+cal-3: ""
+cal-x: "Nov. 4"
 ---
 
 [Site home](./)
 
-<!-- 
 | Course         | New Material                                       | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
 | {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}}<br>{{page.csc-3}} | {{page.csc-x}} |
-| {{page.con-h}} | {{page.con-1}}<br>{{page.con-2}}<br>{{page.con-3}} | {{page.con-x}} |
+| {{page.con-h}} | {{page.con-1}}                                     | {{page.con-x}} |
 | {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-3}} | {{page.sta-x}} |
 | {{page.dev-h}} | {{page.dev-1}}                                     | {{page.dev-x}} |
-| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}                   | {{page.cal-x}} |
-{: .this-week-table}
--->
-
-| Course         | New Material                     | Next Exam      |
-| -------------- | -------------------------------- | -------------- |
-| {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}} | {{page.csc-x}} |
-| {{page.con-h}} | {{page.con-1}}<br>{{page.con-2}} | {{page.con-x}} |
-| {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}} | {{page.sta-x}} |
-| {{page.dev-h}} | {{page.dev-1}}                   | –              |
-| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}} | {{page.cal-x}} |
+| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |
 {: .this-week-table}
 
-<!--| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |-->
 ---
 
 ## Extras
