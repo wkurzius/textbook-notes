@@ -44,3 +44,16 @@ if (isDivisible5) {
 }
 ```
 
+## *else if*{: .tt-head} structures
+
+You can also chain multiple `if` statements using `else if`, which comes in handy when it's not just a "one or the other" situation.
+
+```java
+if (x < 0) {
+    System.out.println("x is negative");
+} else if (x == 0) {
+    System.out.println("x is zero");
+} else {
+    System.out.println("x is positive");
+}
+```
