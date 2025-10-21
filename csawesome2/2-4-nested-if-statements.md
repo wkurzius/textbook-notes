@@ -14,3 +14,33 @@ course: AP CSA
 
 ---
 
+## More *if*{: .tt-head} structures
+
+Now that we have `if` statements to play with, we can expand our basic if-else structure to cover more areas.
+
+First off is nesting, where you put `if` statements inside `if` statements.
+
+```java
+if (boolean expression)
+{   // This nested if is executed if outer if is true
+    if (boolean expression)
+    {
+        statement;
+    }
+}
+```
+
+This is helpful if you have multiple conditions that need to be satisfied. It doesn't always lead to the cleanest code—and we'll work on ways to avoid this next section—but the option is there.
+
+Of course, you can throw `else` statements into the mix.
+
+```java
+if (isDivisible5) {
+    if (isDivisible2) {
+        System.out.println("Divisible by 10.");
+    } else {
+        System.out.println("Divisible by 5.");
+    }
+}
+```
+
