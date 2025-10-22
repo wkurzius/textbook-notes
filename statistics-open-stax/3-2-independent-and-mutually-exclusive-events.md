@@ -1,6 +1,5 @@
 ---
 title: 3.2 Independent and Mutually Exclusive Events
-3-2-independent-and-mutually-exclusive-events
 layout: notes
 course: Probability & Statistics
 ---
