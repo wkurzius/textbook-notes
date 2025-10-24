@@ -3,9 +3,9 @@ title: "This Week (Oct. 14–17)"
 layout: this-week
 
 csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/) \\| [Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){:target=\"_blank\"}"
-csc-1: "**M**{: .day}[2.3 `if` Statements](./csawesome2/2-3-if-statements.html)"
-csc-2: "**W**{: .day}[2.4 Nested `if` Statements](./csawesome2/2-4-nested-if-statements.html)"
-csc-3: "**F**{: .day}[2.5 Compound Boolean Expressions](./csawesome2/2-5-compound-boolean-expressions.html)"
+csc-1: "**T**{: .day}"
+csc-2: "**R**{: .day}"
+csc-3: ""
 csc-x: "Nov. 5"
 
 con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/math/algebra){:target=\"_blank\"}"
@@ -15,10 +15,10 @@ con-3: ""
 con-x: "–"
 
 sta-h: "**Prob & Stats**<br>[Notes and HW](./statistics-open-stax/) \\| [Book](https://openstax.org/books/statistics/pages/1-introduction){:target=\"_blank\"}"
-sta-1: "**M**{: .day}[3.2 Independent and Mutually Exclusive Events](./statistics-open-stax/3-2-independent-and-mutually-exclusive-events.html) and<br>[3.3 Two Basic Rules of Probability](./statistics-open-stax/3-3-two-basic-rules-of-probability.html)"
-sta-2: "**W**{: .day}Mid-chapter review"
-sta-3: "**F**{: .day}[3.4 Contingency Tables](./statistics-open-stax/3-4-contingency-tables.html)"
-sta-x: "Nov. 3"
+sta-1: "**T**{: .day}"
+sta-2: "**R**{: .day}"
+sta-3: ""
+sta-x: "Oct. 30"
 
 dev-h: "**Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){:target=\"_blank\"}"
 dev-1: "Registration Form (≤ B) or Nutrition Label (> B)"
@@ -27,9 +27,9 @@ dev-3: ""
 dev-x: "Nov. 4"
 
 cal-h: "**AP Calc**<br>[Notes and HW](./calc-for-ap-larson/)"
-cal-1: "**T**{: .day}[2.1 The Derivative and the Tangent Line Problem](./calc-for-ap-larson/2.1-the-derivative-and-the-tangent-line-problem.html)"
-cal-2: "**R**{: .day}[2.2 Basic Differentiation Rules and Rates of Change](./calc-for-ap-larson/2.2-basic-differentiation-rules-and-rates-of-change.html)"
-cal-3: ""
+cal-1: "**M**{: .day}[2.2 Basic Differentiation Rules and Rates of Change](./calc-for-ap-larson/2.2-basic-differentiation-rules-and-rates-of-change.html)"
+cal-2: "**W**{: .day}[2.3 Product and Quotient Rules and Higher-Order Derivatives](./calc-for-ap-larson/2.3-product-and-quotient-rules-and-higher-order-derivatives.html)"
+cal-3: "**F**{: .day}[2.3 Product and Quotient Rules and Higher-Order Derivatives](./calc-for-ap-larson/2.3-product-and-quotient-rules-and-higher-order-derivatives.html)"
 cal-x: "Nov. 4"
 ---
 
