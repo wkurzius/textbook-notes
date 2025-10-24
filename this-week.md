@@ -33,7 +33,8 @@ cal-3: ""
 cal-x: "Nov. 4"
 ---
 
-[Site home](./)
+- [Site home](./)
+- [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="_blank"}
 
 | Course         | New Material                                       | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
