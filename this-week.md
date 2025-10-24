@@ -18,7 +18,7 @@ sta-h: "**Prob & Stats**<br>[Notes and HW](./statistics-open-stax/) \\| [Book](h
 sta-1: "**M**{: .day}[3.2 Independent and Mutually Exclusive Events](./statistics-open-stax/3-2-independent-and-mutually-exclusive-events.html) and<br>[3.3 Two Basic Rules of Probability](./statistics-open-stax/3-3-two-basic-rules-of-probability.html)"
 sta-2: "**W**{: .day}Mid-chapter review"
 sta-3: "**F**{: .day}[3.4 Contingency Tables](./statistics-open-stax/3-4-contingency-tables.html)"
-sta-x: "Oct. 30"
+sta-x: "Nov. 3"
 
 dev-h: "**Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){:target=\"_blank\"}"
 dev-1: "Registration Form (≤ B) or Nutrition Label (> B)"
