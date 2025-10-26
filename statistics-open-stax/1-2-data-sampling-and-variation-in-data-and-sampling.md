@@ -19,8 +19,8 @@ course: Probability & Statistics
 
 ---
 
-- [PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/ER72JSzD9yVDiMuNKnzjyVsBdlqBVdMzuxyojYYnfszs7w?e=L1e7tJ){: target="_blank"}
-{: .slides-link}
+- {: .document}[PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/ER72JSzD9yVDiMuNKnzjyVsBdlqBVdMzuxyojYYnfszs7w?e=L1e7tJ){: target="_blank"}
+{: .icon-list}
 
 ## Qualitative Data
 

@@ -1,27 +1,27 @@
 ---
-title: "This Week (Oct. 14–17)"
+title: "This Week (Oct. 27–31)"
 layout: this-week
 
-csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/) \\| [Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){:target=\"_blank\"}"
-csc-1: "**T**{: .day}"
-csc-2: "**R**{: .day}"
+csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/){: .table-head-link}<br>[Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\" .table-head-link}"
+csc-1: "**T**{: .day}[2.6 Comparing Boolean Expressions (De Morgan’s Laws)](./csawesome2/2-6-comparing-boolean-expressions.html)"
+csc-2: "**R**{: .day}Progress Check/Exam Review"
 csc-3: ""
-csc-x: "Nov. 5"
+csc-x: "Nov. 3/5"
 
-con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/math/algebra){:target=\"_blank\"}"
-con-1: "Negative number review"
+con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/math/algebra-basics){: target=\"_blank\"}"
+con-1: "Wrap up Unit 1"
 con-2: ""
 con-3: ""
-con-x: "–"
+con-x: "Nov. 3/5"
 
-sta-h: "**Prob & Stats**<br>[Notes and HW](./statistics-open-stax/) \\| [Book](https://openstax.org/books/statistics/pages/1-introduction){:target=\"_blank\"}"
-sta-1: "**T**{: .day}"
-sta-2: "**R**{: .day}"
+sta-h: "**Prob & Stats**<br>[Notes and HW](./statistics-open-stax/){: .table-head-link}<br>[Book](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" .table-head-link}"
+sta-1: "**T**{: .day}[3.5 Tree and Venn Diagrams](./statistics-open-stax/3-5-tree-and-venn-diagrams.html)"
+sta-2: "**R**{: .day}3.6 Probability Topics (Lab)"
 sta-3: ""
 sta-x: "Oct. 30"
 
-dev-h: "**Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){:target=\"_blank\"}"
-dev-1: "Registration Form (≤ B) or Nutrition Label (> B)"
+dev-h: "**Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target=\"_blank\"}"
+dev-1: "Survey Form (≤ B) or Tribute Page (> B)"
 dev-2: ""
 dev-3: ""
 dev-x: "Nov. 4"
@@ -33,8 +33,9 @@ cal-3: "**F**{: .day}[2.3 Product and Quotient Rules and Higher-Order Derivative
 cal-x: "Nov. 4"
 ---
 
-- [Site home](./)
-- [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="_blank"}
+- {: .home}[Site home](./)
+- {: .pen-square}[Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="_blank"}
+{: .icon-list}
 
 | Course         | New Material                                       | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |

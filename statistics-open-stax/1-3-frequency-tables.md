@@ -19,8 +19,8 @@ course: Probability & Statistics
 
 ---
 
-- [PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/EYaMcytRmPtMql5OuSTTozABQJWoLQ_XzY0PlMpfHYTkWQ?e=TsYBS6){: target="_blank"}
-{: .slides-link}
+- {: .document}[PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/EYaMcytRmPtMql5OuSTTozABQJWoLQ_XzY0PlMpfHYTkWQ?e=TsYBS6){: target="_blank"}
+{: .icon-list}
 
 ## Answers and Rounding Off
 

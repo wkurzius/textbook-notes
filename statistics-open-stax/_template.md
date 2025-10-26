@@ -17,5 +17,5 @@ course: Probability & Statistics
 
 ---
 
-- [PowerPoint slides](){: target="_blank"}
-{: .slides-link}
+- {: .document}[PowerPoint slides](){: target="_blank"}
+{: .icon-list}

@@ -243,20 +243,26 @@ h2#extra-practice {
 
 // Marker for This Week link on home page
 
-.this-week-link {
+.icon-list {
     list-style: none;
 }
 
-.this-week-link li::marker {
+.icon-list li.calendar::marker {
     font: var(--fa-font-solid);
     content: '\f133   ';
 }
 
-.slides-link {
-    list-style: none;
+.icon-list li.home::marker {
+    font: var(--fa-font-solid);
+    content: '\f015   ';
 }
 
-.slides-link li::marker {
+.icon-list li.pen-square::marker {
+    font: var(--fa-font-solid);
+    content: '\f044   ';
+}
+
+.icon-list li.document::marker {
     font: var(--fa-font-solid);
     content: '\f15b   ';
 }
@@ -298,4 +304,12 @@ table.rouge-table .rouge-code {
     font-style: normal;
     font-weight: inherit;
     font-family: monospace;
+}
+
+.table-head-link {
+    margin-left: 0.5rem;
+}
+
+.table-head-link::before {
+    content: "- ";
 }
