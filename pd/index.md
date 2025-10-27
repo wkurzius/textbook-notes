@@ -1,2 +1,2 @@
-- [Gradebook Sync](./Gradebook-Sync.pdf)
-- [Differentiation Tags](./Differentiation-Tags.pdf)
+- [Gradebook Sync](./gradebook-sync.md)
+- [Differentiation Tags](./differentiation-tags.md)
