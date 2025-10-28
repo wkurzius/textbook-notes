@@ -327,7 +327,7 @@ img.icon {
     width: 1.5rem;
 }
 
-.gradebook-sync-icons {
+.grade-sync-icons {
     @include no-block;
 
     p {
@@ -343,7 +343,7 @@ img.icon {
     }
 }
 
-.gradebook-sync-warnings {
+.grade-sync-warnings {
     @include no-block;
     background-color: #c00000;
     color: white;

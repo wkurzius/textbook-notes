@@ -1,7 +1,6 @@
 ---
-title: Gradebook Sync
+title: Grade Sync
 ---
-
 
 [Link to Canvas’s guide on the topic](https://community.canvaslms.com/t5/Data-Sync-and-Canvas/How-do-I-sync-my-Canvas-assignment-groups-with-SIS-grading/ta-p/636603)
 
@@ -14,13 +13,13 @@ You can now automatically sync the Canvas grade book with Genesis. But before yo
 > ⚠️ Expect this to be a lot of work up front
 >
 > ⚠️ Other issues will likely appear as the year progresses
-{: .gradebook-sync-warnings}
+{: .grade-sync-warnings}
 
 If you are not prepared to deal with all of that, _**do not use this**_.
 
 ## The Merge Issue
 
-Gradebook Sync will work regardless of whether your grade books are merged or not, but there are issues you need to be aware of.
+Grade Sync will work regardless of whether your grade books are merged or not, but there are issues you need to be aware of.
 
 1. **A Genesis grade book with two merged grade books will have two copies of every assignment**. Three merges mean three copies, and so on. Grade calculation-wise, this is fine. One copy is for students in one section, and the other for the other section.
 
@@ -28,7 +27,7 @@ Gradebook Sync will work regardless of whether your grade books are merged or no
 
 2. **Unmerged is better for the parents, but worse for you**. At the very least, Genesis attendance will be more difficult, and you’ll have to do your seating charts somewhere else.
 
-If you’ve already merged your gradebooks and want to use this, you will have to trash every assignment you’ve created and break those merges. Or be prepared to explain to your parents why there are multiple copies of every assignment.
+If you’ve already merged your grade books and want to use this, you will have to trash every assignment you’ve created and break those merges. Or be prepared to explain to your parents why there are multiple copies of every assignment.
 
 ## Other Things To Be Aware Of
 
@@ -52,12 +51,12 @@ For the four of you that made it this far, here’s how to actually use this.
 
 1. **Set up categories in both grade books**. They should be identical. Same names are helpful, and weighting should be the same if you want calculations to make sense.
 
-2. **Sync categories in Canvas**. Head over to _Assignments_ and open the ellipses menu (the three vertical dots) in the top-right corner and select _Sync SIS Categories_. For each Canvas category, select the appropriate Gensis category, the confirm by hitting _Sync Categories_.
+2. **Sync categories in Canvas**. Head over to _Assignments_ and open the ellipses menu (the three vertical dots) in the top-right corner and select _Sync SIS Categories_. For each Canvas category, select the appropriate Genesis category, the confirm by hitting _Sync Categories_.
 
 3. **Select assignments to sync**. In Canvas, all your published assignments should have one of these two icons:
 
     > ![Sync yes](./img/sync-yes.svg)![Sync no](./img/sync-no.svg)
-    {: .gradebook-sync-icons}
+    {: .grade-sync-icons}
 
     For any assignment you want to appear in Genesis, click the black icons to turn them green.
 
