@@ -22,5 +22,4 @@ course: Probability & Statistics
 
 ---
 
-- {: .document}[PowerPoint slides](){: target="_blank"}
-{: .icon-list}
+Like [last section](./3-4-contingency-tables.md), there really isn't new material, just working with a different view of probability. This time, using tree diagrams to visualize a situation. We'll go through [Example 3.24](https://openstax.org/books/statistics/pages/3-5-tree-and-venn-diagrams#element-192){: target="_blank"} in class, so if you are out that day, then read that on your own and come back with any questions you might have.
