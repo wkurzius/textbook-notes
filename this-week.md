@@ -51,11 +51,11 @@ cal-x: "Nov. 4"
   - Nov. 12 Blocks 3 & 4: Reading
   - Nov. 13 Blocks 1–3: Writing
 
-[^1]: Seniors are exempt from both the Reading and Writing tests. Non-freshman who didn't take _Algebra I or II_, or _Geometry_ last year are exempt from Math. Exempt students will be in the gym and/or auditorium for the duration.
-
 ## Extras
 
 - Before school help with me, Tuesday through Thursday in room 31
 - After school tutoring info coming soon
 - [Miscellaneous math links](./misc/math-links.md)
 - [Bell schedules](./misc/bell-schedule.md)
+
+[^1]: Seniors are exempt from both the Reading and Writing tests. Non-freshman who didn't take _Algebra I or II_, or _Geometry_ last year are exempt from Math. Exempt students will be in the gym and/or auditorium for the duration.
