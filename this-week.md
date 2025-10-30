@@ -6,7 +6,7 @@ csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/){: .table-head-link}<b
 csc-1: "**T**{: .day}[2.6 Comparing Boolean Expressions (De Morgan’s Laws)](./csawesome2/2-6-comparing-boolean-expressions.html)"
 csc-2: "**R**{: .day}Progress Check/Exam Review"
 csc-3: ""
-csc-x: "Nov. 3/5"
+csc-x: "Nov. 3"
 
 con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/math/algebra-basics){: target=\"_blank\"}"
 con-1: "Wrap up Unit 1"
@@ -58,4 +58,4 @@ cal-x: "Nov. 4"
 - [Miscellaneous math links](./misc/math-links.md)
 - [Bell schedules](./misc/bell-schedule.md)
 
-[^1]: Seniors are exempt from both the Reading and Writing tests. Non-freshman who didn't take _Algebra I or II_, or _Geometry_ last year are exempt from Math. Exempt students will be in the gym and/or auditorium for the duration.
+[^1]: Seniors are exempt from both the Reading and Writing tests, and non-freshman who didn't take _Algebra I or II_, or _Geometry_ last year are exempt from Math. Exempt students will be in the gym and/or auditorium for the duration of testing.
