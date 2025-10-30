@@ -4,6 +4,7 @@ title: "*CSAwesome2* Notes"
 
 - [Syllabus](../syllabi/ap-csa.md)
 - [*CSAwesome2* online curriculum](https://runestone.academy/){: target="_blank"}
+- [Java Quick Reference](../pdfs/ap-csa-java-quick-reference.pdf)
 
 ## 1 Using Objects and Methods
 
