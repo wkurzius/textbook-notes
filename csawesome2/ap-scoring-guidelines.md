@@ -38,6 +38,6 @@ question.
 - Missing `;` where structure clearly conveys intent
 - Missing `{ }` where indentation clearly conveys intent
 - Missing `( )` on parameter-less method or constructor invocations
-- Missing `( )` around if or while conditions
+- Missing `( )` around `if` or `while` conditions
 
 [^1]: Spelling and case discrepancies for identifiers fall under the “No Penalty” category only if the correction can be **unambiguously** inferred from context, for example, `ArayList` instead of `ArrayList`. As a counterexample, note that if the code declares `int G=99, g=0;`, then uses `while (G < 10)` instead of `while (g < 10)`, the context does **not** allow for the reader to assume the use of the lower-case variable.
