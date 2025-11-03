@@ -14,7 +14,7 @@ question.
 
 ### 1-Point Penalty
 
-- Array/collection access confusion ([] get)
+- Array/collection access confusion (`[] get`)
 - Extraneous code that causes side-effect (e.g., printing to output, incorrect precondition check)
 - Local variables used but none declared
 - Destruction of persistent data (e.g., changing value referenced by parameter)
