@@ -58,4 +58,4 @@ cal-x: "Nov. 4"
 - [Miscellaneous math links](./misc/math-links.md)
 - [Bell schedules](./misc/bell-schedule.md)
 
-[^1]: Seniors are exempt from both the Reading and Writing tests, and non-freshman who didn't take _Algebra I or II_, or _Geometry_ last year are exempt from Math. Exempt students will be in the gym and/or auditorium for the duration of testing.
+[^1]: Seniors are exempt from both the Reading and Writing tests, and non-freshman who didn't take _Algebra I_ or _II_, or _Geometry_ last year are exempt from Math. Exempt students will be in the gym and/or auditorium for the duration of testing.
