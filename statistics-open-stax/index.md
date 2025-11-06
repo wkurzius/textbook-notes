@@ -39,13 +39,13 @@ title: "*Statistics* by OpenStax Notes"
 
 ## 4 Discrete Random Variables
 
-- Probability Distribution Function (PDF) for a Discrete Random Variable
-- Mean or Expected Value and Standard Deviation
-- Binomial Distribution (Optional)
-- Geometric Distribution (Optional)
-- Hypergeometric Distribution (Optional)
-- Poisson Distribution (Optional)
-- Discrete Distribution (Playing Card Experiment)
+- [Probability Distribution Function (PDF) for a Discrete Random Variable](./4-1-probability-distribution-function-for-a-discrete-random-variable.md)
+- [Mean or Expected Value and Standard Deviation](./4-2-mean-or-expected-value-and-standard-deviation.md)
+- ~~Binomial Distribution (Optional)~~
+- ~~Geometric Distribution (Optional)~~
+- ~~Hypergeometric Distribution (Optional)~~
+- ~~Poisson Distribution (Optional)~~
+- ~~Discrete Distribution (Playing Card Experiment)~~
 - Discrete Distribution (Lucky Dice Experiment)
 {: .notes-list}
 
