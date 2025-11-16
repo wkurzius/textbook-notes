@@ -1,5 +1,5 @@
 ---
-title: title
+title: 6.2 Using the Normal Distribution
 layout: notes
 course: Probability & Statistics
 ---

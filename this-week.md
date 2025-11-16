@@ -27,7 +27,7 @@ dev-3: ""
 dev-x: "–"
 
 cal-h: "**AP Calc**<br>[Notes and HW](./calc-for-ap-larson/)"
-cal-1: "**T**{: .day}[2.6 Derivatives of Inverse Functions](./calc-for-ap-larson/2.6-derivatives-of-inverse-functions.html)"
+cal-1: "**T**{: .day}[2.6 Derivatives of Inverse Functions](./calc-for-ap-larson/2-6-derivatives-of-inverse-functions.html)"
 cal-2: "**R**{: .day}Review"
 cal-3: ""
 cal-x: "Nov. 24"

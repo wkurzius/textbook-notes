@@ -2,7 +2,7 @@
 title: 2.5 Implicit Differentiation
 layout: notes
 course: AP Calc
-last-reviewed: 2025-11-14 10:24:03
+last-updated: 2025-11-14 10:24:03
 ---
 
 - Distinguish between functions written in implicit form and explicit form.
