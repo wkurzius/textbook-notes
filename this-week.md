@@ -9,9 +9,9 @@ csc-3: "**F**{: .day}[2.11 Nested Iteration](./csawesome2/2-11-nested-iteration.
 csc-x: "Dec. 3"
 
 con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/math/algebra-basics){: target=\"_blank\"}"
-con-1: "**M**{: .day}"
-con-2: "**W**{: .day}"
-con-3: "**F**{: .day}"
+con-1: "Percents and Area"
+con-2: ""
+con-3: ""
 con-x: "–"
 
 sta-h: "**Prob & Stats**<br>[Notes and HW](./statistics-open-stax/){: .table-head-link}<br>[Book](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" .table-head-link}"
@@ -21,7 +21,7 @@ sta-3: "**F**{: .day}[5.1 Continuous Probability Functions]()"
 sta-x: "Dec. 3"
 
 dev-h: "**Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target=\"_blank\"}"
-dev-1: "Rothko Painting(<B) or Balance Sheet (>B)"
+dev-1: "Rothko Painting(<B) or Cat Painting (>B)"
 dev-2: ""
 dev-3: ""
 dev-x: "–"
@@ -40,7 +40,7 @@ cal-x: "Nov. 24"
 | Course         | New Material                                       | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
 | {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}}<br>{{page.csc-3}} | {{page.csc-x}} |
-| {{page.con-h}} | {{page.con-1}}<br>{{page.con-2}}<br>{{page.con-3}} | {{page.con-x}} |
+| {{page.con-h}} | {{page.con-1}} | {{page.con-x}} |
 | {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-3}} | {{page.sta-x}} |
 | {{page.dev-h}} | {{page.dev-1}}                                     | {{page.dev-x}} |
 | {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |
