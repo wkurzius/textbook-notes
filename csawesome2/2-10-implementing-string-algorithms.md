@@ -14,3 +14,9 @@ course: AP CSA
 
 ---
 
+Much like last section, there are a few standard algorithms you need to be able to recreate.
+
+- find if one or more substrings have a particular property
+- determine the number of substrings that meet specific criteria
+- create a new string with the characters reversed
+
