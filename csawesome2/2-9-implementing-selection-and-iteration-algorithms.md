@@ -31,7 +31,7 @@ I'll modify these directions as needed, but I am writing them from home and they
 1. Get [VS Code](https://code.visualstudio.com/download) (already installed). Use winget if you want to feel like a hacker. In a terminal window `winget install Microsoft.VisualStudioCode`.
 2. Get [JDK provided by Adoptium](https://adoptium.net/ ) (also installed). Don't sweat the version. In winget use `winget install EclipseAdoptium.Temurin.21.JDK`
 
-That's really enough to get you started. VS Code will recommend extensions, which I advise against. They save some time, but might end up replacing muscle memory you might need. Strictly a judgement call on your part.
+That's really enough to get you started. VS Code will recommend extensions, but I advise against doing that. They save some typing, but muscle memory is important so skipping things might hurt you in the long run. Strictly a judgement call on your part.
 
 ## Environment
 
