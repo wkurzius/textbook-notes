@@ -17,9 +17,6 @@ course: Probability & Statistics
 
 ---
 
-- {: .document}[PowerPoint slides](){: target="_blank"}
-{: .icon-list}
-
 ## Expected value
 
 Suppose you do some gambling (not advised) and the game is simple: flip a coin and you lose a dollar if the result is tails, but you win a dollar if it's heads. Would you make money over time? Or would you lose money, or maybe even break even?
