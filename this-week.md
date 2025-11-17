@@ -12,7 +12,7 @@ con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/ma
 con-1: "Percents and Area"
 con-2: ""
 con-3: ""
-con-x: "–"
+con-x: "Nov. 25"
 
 sta-h: "**Prob & Stats**<br>[Notes and HW](./statistics-open-stax/){: .table-head-link}<br>[Book](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" .table-head-link}"
 sta-1: "**M**{: .day}[4.2 Mean or Expected Value and Standard Deviation](./statistics-open-stax/4-2-mean-or-expected-value-and-standard-deviation.html)"
