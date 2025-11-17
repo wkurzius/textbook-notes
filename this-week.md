@@ -17,7 +17,7 @@ con-x: "–"
 sta-h: "**Prob & Stats**<br>[Notes and HW](./statistics-open-stax/){: .table-head-link}<br>[Book](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" .table-head-link}"
 sta-1: "**M**{: .day}[4.2 Mean or Expected Value and Standard Deviation](./statistics-open-stax/4-2-mean-or-expected-value-and-standard-deviation.html)"
 sta-2: "**W**{: .day}Lucky Dice Lab"
-sta-3: "**F**{: .day}[5.1 Continuous Probability Functions]()"
+sta-3: "**F**{: .day}[5.1 Continuous Probability Functions](./statistics-open-stax/5-1-continuous-probability-functions.html)"
 sta-x: "Dec. 3"
 
 dev-h: "**Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target=\"_blank\"}"
