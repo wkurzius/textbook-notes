@@ -14,13 +14,13 @@ con-2: ""
 con-3: ""
 con-x: "Nov. 25"
 
-sta-h: "**Prob & Stats**<br>[Notes and HW](./statistics-open-stax/){: .table-head-link}<br>[Book](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" .table-head-link}"
+sta-h: "**Prob. & Stats**<br>[Notes and HW](./statistics-open-stax/){: .table-head-link}<br>[Book](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" .table-head-link}"
 sta-1: "**M**{: .day}[4.2 Mean or Expected Value and Standard Deviation](./statistics-open-stax/4-2-mean-or-expected-value-and-standard-deviation.html)"
 sta-2: "**W**{: .day}Lucky Dice Lab"
 sta-3: "**F**{: .day}[5.1 Continuous Probability Functions](./statistics-open-stax/5-1-continuous-probability-functions.html)"
 sta-x: "Dec. 3"
 
-dev-h: "**Intro to Web Dev**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target=\"_blank\"}"
+dev-h: "**Intro to Web Dev.**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target=\"_blank\"}"
 dev-1: "Rothko Painting(<B) or Cat Painting (>B)"
 dev-2: ""
 dev-3: ""
@@ -40,7 +40,7 @@ cal-x: "Nov. 24"
 | Course         | New Material                                       | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
 | {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}}<br>{{page.csc-3}} | {{page.csc-x}} |
-| {{page.con-h}} | {{page.con-1}} | {{page.con-x}} |
+| {{page.con-h}} | {{page.con-1}}                                     | {{page.con-x}} |
 | {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-3}} | {{page.sta-x}} |
 | {{page.dev-h}} | {{page.dev-1}}                                     | {{page.dev-x}} |
 | {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |
@@ -48,9 +48,17 @@ cal-x: "Nov. 24"
 
 - Nov. 18–20: Early dismissals
 
-## Extras
+## Schedule and Office Hours
 
-- Before school help with me, Tuesday through Thursday in room 31
-- After school tutoring info coming soon
-- [Miscellaneous math links](./misc/math-links.md)
-- [Bell schedules](./misc/bell-schedule.md)
+Office hours are when I am available in room 31 for extra help or other course-related questions and discussions.
+
+| Block | A Days                  | B Days                   |
+| :---: | ----------------------- | ------------------------ |
+|   1   | AP CS A                 | Intro to Web Dev.        |
+|   2   | Concepts of Algebra     | **Office Hours**         |
+|  L1   | Lunch                   | **Office Hours** (Lunch) |
+|  L2   | **Office Hours** (Flex) | **Office Hours** (Flex)  |
+|   3   | Prob. & Stats           | AP Calc AB               |
+|   4   | **Office Hours**/Duty   | Duty                     |
+
+I'm also available before school Tuesday through Thursday at 7:30 until the beginning of the day.
