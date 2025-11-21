@@ -13,8 +13,9 @@ course: Probability & Statistics
 ## Assignment
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/1-key-terms) for definitions)
-- [1.1 Homework](){: target="_blank"} ##–##
+- [5.1 Homework](https://openstax.org/books/statistics/pages/5-homework){: target="_blank"} 72–73
   - [Solutions](https://manville.instructure.com/courses/5660/files?preview=780645){: target="_blank"}
+- [Khan Academy: Probability in density curves](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-continuous/e/probability-density-curves){: target="blank"}
 - Read the next section in the book
 
 ---
