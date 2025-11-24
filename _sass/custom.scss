@@ -354,3 +354,11 @@ img.icon {
     margin-left: auto;
     margin-right: auto;
 }
+
+.headless-table thead {
+    display: none;
+}
+
+.right-aligned-table {
+    text-align: right;
+}
