@@ -3,7 +3,7 @@ title: "🦃 This Week (Nov. 24–26)"
 layout: this-week
 
 csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/){: .table-head-link}<br>[Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\" .table-head-link}"
-csc-1: "**T**{: .day}[2.12 Informal Runtime Analysis of Loops](./csawesome2/2-12-informal-runtime-analysis-of-loops.md)"
+csc-1: "**T**{: .day}[2.12 Informal Runtime Analysis of Loops](./csawesome2/2-12-informal-runtime-analysis-of-loops.html)"
 csc-2: ""
 csc-3: ""
 csc-x: "Dec. 3"
@@ -15,7 +15,7 @@ con-3: ""
 con-x: "Nov. 25"
 
 sta-h: "**Prob. & Stats**<br>[Notes and HW](./statistics-open-stax/){: .table-head-link}<br>[Book](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" .table-head-link}"
-sta-1: "**T**{: .day}[5.2 The Uniform Distribution](./statistics-open-stax/5-2-the-uniform-distribution.md)"
+sta-1: "**T**{: .day}[5.2 The Uniform Distribution](./statistics-open-stax/5-2-the-uniform-distribution.html)"
 sta-2: ""
 sta-3: ""
 sta-x: "Dec. 3"
