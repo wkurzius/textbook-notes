@@ -51,25 +51,25 @@ title: "*Statistics* by OpenStax Notes"
 
 ## 5 Continuous Random Variables
 
-- Continuous Probability Functions
-- The Uniform Distribution
+- [Continuous Probability Functions](./5-1-continuous-probability-functions.md)
+- [The Uniform Distribution](./5-2-the-uniform-distribution.md)
 - The Exponential Distribution (Optional)
 - Continuous Distribution
 {: .notes-list}
 
 ## 6 The Normal Distribution
 
-- The Standard Normal Distribution
-- Using the Normal Distribution
+- [The Standard Normal Distribution](./6-1-the-standard-normal-distribution.md)
+- [Using the Normal Distribution](./6-2-using-the-normal-distribution.md)
 - Normal Distribution—Lap Times
 - Normal Distribution—Pinkie Length
 {: .notes-list}
 
 ## 7 The Central Limit Theorem
 
-- The Central Limit Theorem for Sample Means (Averages)
+- [The Central Limit Theorem for Sample Means (Averages)](./7-1-the-central-limit-theorem-for-sample-means.md)
 - The Central Limit Theorem for Sums (Optional)
-- Using the Central Limit Theorem
+- [Using the Central Limit Theorem](./7-3-using-the-central-limit-theorem.md)
 - Central Limit Theorem (Pocket Change)
 - Central Limit Theorem (Cookie Recipes)
 {: .notes-list}
