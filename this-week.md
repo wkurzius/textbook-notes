@@ -1,5 +1,5 @@
 ---
-title: "This Week (Nov. 17–21)"
+title: "🦃 This Week (Nov. 24–26)"
 layout: this-week
 
 csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/){: .table-head-link}<br>[Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\" .table-head-link}"
