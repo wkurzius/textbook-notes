@@ -19,20 +19,17 @@ course: Probability & Statistics
 
 ---
 
-A uniform distribution means each event is equally likely to occur. Graphed, this looks like a rectangle since each event is just as high as every other one. In this section, we'll look an example of uniform distributions and do some analysis for each. I suggest you look through the others in the book as well.
+A uniform distribution means each event is equally likely to occur. Graphed, this looks like a rectangle since each event is just as high as every other one. We'll look an example of uniform distribution, but I suggest you look through the others in the book as well.
 
-## Example
+## Smiling Babies
 
-> The smiling times of babies follow a uniform distribution between zero and 23 seconds, inclusive. This means that any smiling time from zero to and including 23 seconds is equally likely.
->
-> Graph the distribution, find $f(x)$, and then the mean and standard deviation of the distribution.
->
-> Finally, determine the probability that a baby will smile for longer than 10 seconds $f(x > 10)$, and also the probability that a baby will smile for _exactly_ 6.7 seconds $f(6.7)$.
-{: .example}
+The smiling times of babies follow a uniform distribution between zero and 23 seconds, inclusive. This means that any smiling time from zero to and including 23 seconds is equally likely.
 
-Graphing I won't draw here, but since it's uniform the height will be the same across the board, giving you a rectangle. The end-points are $0$ and $23$, and the height itself should be $1/23$. A good way to check if you are correct is to see if the total area is $1$.
+First off, the notation to describe this distribution is $X \sim U(0,23)$
 
+The graph of this distribution is uniform, meaning the height will be the same across the board, and the end result will be a rectangle. The end-points are $0$ and $23$, and the height itself should be $1/23$. A good way to check if you are correct is to see if the total area is $1$.
 
+Next is $f(x)$, which represents the probability of $x$. For uniform distributions, this is straightforward and can be calculated $\frac{1}{b-a}$ where $b$ and $a$ are your endpoints.
 
 $\blacksquare$
 {: .qed}
