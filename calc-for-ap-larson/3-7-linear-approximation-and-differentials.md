@@ -29,40 +29,52 @@ Lesson: January 28, 2025. Quiz: ~~February 13, 2025~~ February 14, 2025.
 
 Zoom in a part of a function's graph enough and it will begin to look like a line. We can use that fact to estimate the value of a function. Instead of getting the function's actual value, we can calculate the tangent line at a nearby convenient point and use that to estimate the function's value at the point in question.
 
-![Tangent line approximation](./img/3.7-tan-approx.png)
+> ![Tangent line approximation](./img/3.7-tan-approx.png)
+>
+> **Figure 3.7.1** Zoom in close enough and curves will start to look like lines. We can use these lines to estimate values of a function.
+{: .figure}
 
 If we use the point $(0,1)$ on the function $f(x)=1+\sin x$ we get a line with the equation
 
 $$\begin{align}
-y &= f'(0)(x - 0) + f(0) \\
+y &= f'(0)(x - 0) + f(0) \label{eq:1}\\
   &= (\cos0)(x) + 1 \\
   &= x + 1
 \end{align}$$
 
-Now, rather than having to evaluate $f(x)$, we can use our line to get values that will be very close to the true value of $f(x)$. Keep in mind that this will only be effective for values close to the $x$ we chose, which was $x=0$ in this case. Go to far and the estimates will be poor.
+Now, rather than having to evaluate $f(x)$ for any values close to $x=0$, we can use our line instead. Keep in mind that the closer to $0$, the better the estimate.
 
 ## Differentials
 
-The equation in $(1)$ can be generalized as
+Equation $\ref{eq:1}$ can be generalized as
 
 $$\begin{align}
 y = f(c) + f'(c)(x-c)
 \end{align}$$
 
-where $c$ is value to be used for the estimate and $x$ the value you want to estimate. We're going to change the way we look at this equation in two ways.
+where $c$ is the value used to generate the line and $x$ the value in question. We're going to change the way we look at this equation in two ways.
 
-1. $f(c)$ is our original $y$, so that means $f'(c)(x-c)$ is the change in $y$, which we'll refer to as $dy$
-2. $x-c$ is the change in our $x$-value, which we can refer to as $dx$
+1. Our line's $y$-value is represented by $f(c)$, and $f'(c)(x-c)$ is the change from that $y$-value to the new estimate. This is a literally a change in $y$, so let's call it $\Delta y$.
 
-This means we can write
+    $$\begin{align}
+    \Delta y = f'(c)(x-c)
+    \end{align}$$
+
+2. By a similar logic, $x-c$ represents how the $x$-value changed, so we can refer to that as $\Delta x$.
+
+    $$\begin{align}
+    \Delta y = f'(c)\Delta x
+    \end{align}$$
+
+With a little clean-up, we arrive at
 
 $$\begin{align}
-dy = f'(x)dx
+dy = f'(x)dx \label{eq:diff}
 \end{align}$$
 
 meaning if we want to determine a small change in $y$, we need to multiply the small change in $x$ by the derivative of $f(x)$. This is our definition of a differential.
 
-Equation $(5)$ will seem a bit strange since we know from derivative notation that $f'(x) = \frac{dy}{dx}$, but we unfortunately can't make that leap in logic since $dy/dx$ isn't technically a fraction. It often behaves like it, but it is not.
+Equation $\ref{eq:diff}$ will seem a bit strange since we know from derivative notation that $f'(x) = \frac{dy}{dx}$, but we unfortunately can't make that leap in logic since $dy/dx$ isn't technically a fraction. It often behaves like it, but it is not.
 
 OK, let's find a differential. Let $y=x^2$, $x=1$, and $dx=0.01$.
 

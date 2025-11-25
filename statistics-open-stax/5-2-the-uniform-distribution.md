@@ -69,7 +69,7 @@ P(x>10) &= \frac{23-10}{23} \\
 How about a smile between $3$ and $7$ seconds? Same idea: height is still $\frac{1}{23}$, but now the rectangle ranges from $3$ to $7$.
 
 $$\begin{align}
-P(3<x<10) &= \frac{7-3}{23} \\
+P(3<x<7) &= \frac{7-3}{23} \\
         &\approx 0.17
 \end{align}$$
 
