@@ -27,7 +27,7 @@ The smiling times of babies follow a uniform distribution between zero and 23 se
 
 ### Notation and Graph
 
-The notation to describe this distribution is $X \sim U(0,23)$. Our variable $X$ (which is for the length of a baby's smile) can be represented by a uniform distribution $U$ from values $(0,23)$. 
+The notation to describe this distribution is $X \sim U(0,23)$. Our variable $X$ (which is for the length of a baby's smile) can be represented by a uniform distribution $U$ from values $(0,23)$.
 
 Graphed, this will look like a rectangle because of its uniformity. The height (and likelihood) of each event is consistent, but we need to determine that height. Remember that the total area of the distribution must be equal to $1$, so since our values range from $0$ to $23$, our height is $\frac{1}{23-0}$.
 
@@ -69,23 +69,23 @@ P(x>10) &= \frac{23-10}{23} \\
 How about a smile between $3$ and $7$ seconds? Same idea: height is still $\frac{1}{23}$, but now the rectangle ranges from $3$ to $7$.
 
 $$\begin{align}
-P(x>10) &= \frac{7-3}{23} \\
+P(3<x<10) &= \frac{7-3}{23} \\
         &\approx 0.17
 \end{align}$$
 
 #### Probabilities of Exact Values on a Continuous Distribution
 
-What about a smile of exactly $13$ seconds?
+What about a smile of _exactly_ $13$ seconds?
 
 $$\begin{align}
-P(x>10) &= \frac{13-13}{23} \\
+P(13) &= \frac{13-13}{23} \\
         &= 0
 \end{align}$$
 
-That answer will be strange, but keep in mind that this is a continuous distribution, meaning an uncountable number of numbers ranging from $0$ to $23$. It's infinity
+That answer will likely sound strange, but keep in mind that this is a continuous distribution and there are an uncountable number of numbers ranging from $0$ to $23$. We are dealing with infinity.
 
 Now try to picture your graph sliced into an infinite number of smaller rectangles, one for each exact value. How wide are those rectangles?
 
-This is why we get a probability of $0$ for exact numbers. There are an infinite number of exact numbers on a continuous distribution, so guessing the correct one is just not going to happen.
+This is why we get a probability of $0$ for exact numbers. There are an infinite number of exact numbers on a continuous distribution, so guessing the correct one is just not going to happen. In order to get something we can work with, probabilities in continuous distributions always look at a range of values.
 
 (Also, congratulations on learning a little calculus.)
