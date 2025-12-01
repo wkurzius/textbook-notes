@@ -46,15 +46,15 @@ title: "*Statistics* by OpenStax Notes"
 - ~~Hypergeometric Distribution (Optional)~~
 - ~~Poisson Distribution (Optional)~~
 - ~~Discrete Distribution (Playing Card Experiment)~~
-- Discrete Distribution (Lucky Dice Experiment)
+- ~~Discrete Distribution (Lucky Dice Experiment)~~
 {: .notes-list}
 
 ## 5 Continuous Random Variables
 
 - [Continuous Probability Functions](./5-1-continuous-probability-functions.md)
 - [The Uniform Distribution](./5-2-the-uniform-distribution.md)
-- The Exponential Distribution (Optional)
-- Continuous Distribution
+- ~~The Exponential Distribution (Optional)~~
+- ~~Continuous Distribution~~
 {: .notes-list}
 
 ## 6 The Normal Distribution
