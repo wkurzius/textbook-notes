@@ -20,7 +20,7 @@ sta-2: "**W**{: .day}Chapter 4 and 5 Quiz"
 sta-3: "**F**{: .day}[6.1 The Standard Normal Distribution](./statistics-open-stax/6-1-the-standard-normal-distribution.html)"
 sta-x: "Dec. 3"
 
-dev-h: "**Intro to Web Dev.**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target=\"_blank\"}"
+dev-h: "**Intro to Web Dev.**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target=\"_blank\"}{: .table-head-link}<br>[Certification Projects](./intro-to-web-dev/certification-projects/){: .table-head-link}"
 dev-1: "Photo Gallery(<B) or Technical Documentation Page (>B)"
 dev-2: ""
 dev-3: ""

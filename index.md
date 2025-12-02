@@ -26,6 +26,7 @@ title: Home
 
 - [Syllabus](./syllabi/intro-to-web-dev.md)
 - [*freeCodeCamp* Responsive Web Design curriculum](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target="_blank"}
+- [Certification Projects](./intro-to-web-dev/certification-projects/)
 
 ## AP Calculus
 
