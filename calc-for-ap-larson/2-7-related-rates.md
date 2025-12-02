@@ -43,8 +43,8 @@ We can use our area of a circle model from above for this.
 
 $$\begin{align}
 \frac{dA}{dt} &= 2\pi r \frac{dr}{dt} \\
-&= 2\pi (4\text { ft})(1 \text{ft/sec}) \\
-& = 8\pi \text{ ft}^2\text{/sec}
+&= 2\pi (\units[4]{ft})(\units[1]{ft/sec}) \\
+& = \units[8\pi]{ft^2/sec}
 \end{align}$$
 
 $\blacksquare$
@@ -54,7 +54,7 @@ Note the use of units. Dimensional analysis is highly recommended so that you ca
 
 ## Example 2
 
-> An airplane flying at an altitude of $6$ miles is on a path that will take it directly over a radar tracking station. The direct distance from the plane to the station $s$ is decreasing at a rate of $400$ miles per hour when $s = 10$ miles. What is the horizontal speed of the plane?
+> An airplane flying at an altitude of 6 miles is on a path that will take it directly over a radar tracking station. The direct distance from the plane to the station $s$ is decreasing at a rate of 400 miles per hour when $s$ is 10 miles. What is the horizontal speed of the plane?
 >
 >> ![](./img/2-7-plane.png){: width="300"}
 >>
@@ -62,7 +62,7 @@ Note the use of units. Dimensional analysis is highly recommended so that you ca
 > {: .figure}
 {: .example}
 
-Although the image above helps paint the picture, we are dealing with change over time. The right triangle is actually getting a narrower as the plane approaches the station.
+Although the image above helps paint the picture, we are dealing with change over time. The right triangle is actually getting narrower as the plane approaches the station.
 
 > <video width="300" controls><source src="./img/2-7-plane-shrink.mp4" type="video/mp4"></video>
 >
@@ -83,10 +83,12 @@ Well, we can use the Pythagorean equation to find $x$, and $y'$ is how the altit
 
 $$\begin{align}
 2ss' &= 2xx' + 2yy' \\
-2(\units[10]{mi})(\units[400]{mi/hr}) &= 2(\units[8]{mi})x' + 2(\units[6]{mi}))(0) \\
-\units[8000]{mi^2/hr} &= \units[16]{mi}\cdot x' \\
-\units[500]{mi/hr} &= x'
+2(\units[10]{mi})(\units[-400]{mi/hr}) &= 2(\units[8]{mi})x' + 2(\units[6]{mi}))(0) \\
+\units[-8000]{mi^2/hr} &= \units[16]{mi}\cdot x' \\
+\units[-500]{mi/hr} &= x'
 \end{align}$$
+
+Note the negative for the changing distance of $s$. Remember that velocity has a sign, but speed doesn't. The speed of the plane is 500 mph, but has a velocity of -500 mph, meaning it's moving to the left.
 
 $\blacksquare$
 {: .qed}
