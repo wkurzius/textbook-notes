@@ -62,7 +62,31 @@ Note the use of units. Dimensional analysis is highly recommended so that you ca
 > {: .figure}
 {: .example}
 
+Although the image above helps paint the picture, we are dealing with change over time. The right triangle is actually getting a narrower as the plane approaches the station.
 
+> <video width="300" controls><source src="./img/2-7-plane-shrink.mp4" type="video/mp4"></video>
+>
+> **Figure 2.7.2** A narrowing triangle.
+{: .figure}
+
+Since we have a right triangle changing over time, we can start by differentiating the Pythagorean equation. I'll use the variables from the problem, with $y$ as the altitude, and prime notation to denote the derivatives. Keep in mind that they are with respect to time.
+
+$$\begin{align}
+s^2 &= x^2 + y^2 \\
+\frac{d}{dt}\left[s^2\right] &= \frac{d}{dt}\left[x^2 + y^2\right] \\
+2ss' &= 2xx' + 2yy'
+\end{align}$$
+
+Six variables means we need five in order to find the horizontal speed of the plane $x'$. We get $s$ and $s'$ from the problem, along with $y$, but $x$ and $y'$ are missing.
+
+Well, we can use the Pythagorean equation to find $x$, and $y'$ is how the altitude is changing, which it isn't.
+
+$$\begin{align}
+2ss' &= 2xx' + 2yy' \\
+2(\units[10]{mi})(\units[400]{mi/hr}) &= 2(\units[8]{mi})x' + 2(\units[6]{mi}))(0) \\
+\units[8000]{mi^2/hr} &= \units[16]{mi}\cdot x' \\
+\units[500]{mi/hr} &= x'
+\end{align}$$
 
 $\blacksquare$
 {: .qed}
