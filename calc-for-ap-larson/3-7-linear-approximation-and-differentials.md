@@ -2,6 +2,7 @@
 title: 3.7 Linear Approximation and Differentials
 layout: notes
 course: AP Calc
+last-updated: 2025-12-04 09:40:40
 ---
 
 {: .lesson-dates}
@@ -34,7 +35,7 @@ Zoom in a part of a function's graph enough and it will begin to look like a lin
 > **Figure 3.7.1** Zoom in close enough and curves will start to look like lines. We can use these lines to estimate values of a function.
 {: .figure}
 
-## Tangent Line Example
+### Tangent Line Example
 
 > Find the line tangent to $f(x)=1 + \sin x$ at $(0,1)$ and use to estimate $f(0.01)$.
 {: .example}
@@ -60,37 +61,28 @@ The AP exam will refer to this concept as local linear approximation, and the lo
 
 ## Differentials
 
-Equation $\ref{eq:1}$ can be generalized as
+Linear approximations are useful for estimating the value of a function, but there is another approach if you want to know the effect of a small change to the input. To put it another way, we're looking for how the function's value changes with respect to that small change in the input, and we do this with differentials
 
-$$\begin{align}
-y = f(c) + f'(c)(x-c)
-\end{align}$$
+> ### Differentials
+>
+> Let $f$ be differentiable on an interval containing $x$. A small change in $x$ is denoted by the differential $dx$. The corresponding change in $f$ is approximated by the differential $dy=f'(x)dx$.
+{: .definition}
 
-where $c$ is the value used to generate the line and $x$ the value in question. We're going to change the way we look at this equation in two ways.
+Note the word "approximated". Like linear approximation, what we find with $dy$ is just an estimate. The true change is denoted with $\Delta y$, and you'll be asked to compare the two in exercises.
 
-1. Our line's $y$-value is represented by $f(c)$, and $f'(c)(x-c)$ is the change from that $y$-value to the new estimate. This is a literally a change in $y$, so let's call it $\Delta y$.
+> ![dy vs delta y](./img/3-7-dy-deltay.png){: width="300"}
+>
+> **Figure 3.7.2** The differential $dx$ is equal to $\Delta x$, but $dy$ will be an estimation of $\Delta y$.
+{: .figure}
 
-    $$\begin{align}
-    \Delta y = f'(c)(x-c)
-    \end{align}$$
+Also worth noting is that $dy=f'(x)dx$ looks a lot like a definition for a derivative $\frac{dy}{dx}=f'(x)$. The proof for making this jump is more complicated than performing a simple algebra step, but this is an easy way to remember the definition of a differential.
 
-2. By a similar logic, $x-c$ represents how the $x$-value changed, so we can refer to that as $\Delta x$.
+### Differential Example
 
-    $$\begin{align}
-    \Delta y = f'(c)\Delta x
-    \end{align}$$
+> Let $y=x^2$, $x=1$, and $dx=0.01$. Find $dy$ and compare it $\Delta y$.
+{: .example}
 
-With a little clean-up, we arrive at
-
-$$\begin{align}
-dy = f'(x)dx \label{eq:diff}
-\end{align}$$
-
-meaning if we want to determine a small change in $y$, we need to multiply the small change in $x$ by the derivative of $f(x)$. This is our definition of a differential.
-
-Equation $\ref{eq:diff}$ will seem a bit strange since we know from derivative notation that $f'(x) = \frac{dy}{dx}$, but we unfortunately can't make that leap in logic since $dy/dx$ isn't technically a fraction. It often behaves like it, but it is not.
-
-OK, let's find a differential. Let $y=x^2$, $x=1$, and $dx=0.01$.
+We are given $x$ and $dx$, so we need only the derivative.
 
 $$\begin{align}
 dy &= f'(x)dx \\
@@ -98,7 +90,7 @@ dy &= f'(x)dx \\
    &= 2(1) \cdot 0.01 = 0.02
 \end{align}$$
 
-Keep in mind these are still estimates. You can compute the actual difference and compare them. In our book, $\Delta y$ and $\Delta x$ are used to represent actual change, while $dy$ and $dx$ are for differentials or estimates.
+Now for the true value, which we can get by subtracting the original from the altered.
 
 $$\begin{align}
 \Delta y &= f(x + \Delta x) - f(x) \\
@@ -107,15 +99,38 @@ $$\begin{align}
          &= 1.0201 - 1 = 0.0201
 \end{align}$$
 
-## Calculating Differentials
+So, our estimate is $dy=0.02$ while the true value is $\Delta y=0.0201$.
 
-The book spends some time rewriting derivative rules in differential form and it's worth a look through. Here though, I want to focus on approximating function values. The example in the book asks you to estimate $\sqrt{16.5}$. If we let $y=\sqrt{x}$, $x=16$, and $dx=0.5$ we should be able to get a decent approximation.
+$\blacksquare$
+{: .qed}
+
+### Error Propagation Example
+
+> The radius of a ball bearing is measured at $\units[0.7]{in}$, but with an accuracy $\units[0.01]{in}$. Estimate the propagated error in the volume of the ball bearing.
+{: .example}
+
+Physical measurements are never perfectly accurate, and those inaccuracies have an impact on calculations. Differentials are helpful in determining the accuracy of those calculations, also known as the propagated error.
+
+The formula for the volume of a sphere is $V(r)=\frac{4}{3}\pi r^3$, so the derivative is $V'(r)=4\pi r^2$.
 
 $$\begin{align}
-dy &= f'(x)dx \\
-   &= \frac{1}{2\sqrt{x}}dx \\
-   &= \frac{1}{2\sqrt{16}}\cdot\frac{1}{2} && \text{Fractions > decimals} \\
-   &= \frac{1}{16}
+dV &= V'(r)dx \\
+   &= \left(4\pi r^2\right) dx \\
+   &= \left(4\pi (\units[0.7]{in})^2\right) (\units[0.01]{in}) \\
+   &\approx \units[0.061575]{in^3}
 \end{align}$$
 
-If our $dy$ is $1/16$, then the approximation of $\sqrt{16.5}$ must be $(\sqrt{16}+dy)$ or $(4 + \frac{1}{16})$. If you know your decimals, this is $4.0625$, which is pretty close to the actual value of approximately $4.0620$.
+Our radius is accurate to $\pm \units[0.01]{in}$, which leads to a propagation error of about $\pm\units[0.06]{in^3}$ in the volume.
+
+We can also take this one step further and get the percent error with $\frac{dv}{V}$.
+
+$$\begin{align}
+\frac{dV}{V}&\approx\frac{0.061575}{\frac{4}{3}\pi (0.7)^3} \\
+            &\approx \frac{0.0616}{1.4368} \\
+            &\approx 0.0429
+\end{align}$$
+
+Our percent error for the volume is about 4.29%.
+
+$\blacksquare$
+{: .qed}

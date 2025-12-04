@@ -2,6 +2,7 @@
 title: 2.7 Related Rates
 layout: notes
 course: AP Calc
+last-updated: 2025-12-01
 ---
 
 - Find a related rate.
