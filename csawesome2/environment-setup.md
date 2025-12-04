@@ -34,7 +34,7 @@ In that network drive ...
 
 > <video controls><source src="./img/new-file.mp4" type="video/mp4"></video>
 >
-> Windows built-in screen recording tool has a frame rate in the single digits, but it's enough to show you how to make a new file in VS Code.
+> The built-in screen recording tool in Windows has a frame rate in the single digits, but it's enough to show you how to make a new file in VS Code.
 {: .figure}
 
 ## Running
