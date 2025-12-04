@@ -5,7 +5,7 @@ layout: this-week
 csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/){: .table-head-link}<br>[Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\" .table-head-link}"
 csc-1: "**M**{: .day}Unit 2 Review"
 csc-2: "**W**{: .day}MP2 Quiz 1"
-csc-3: "**F**{: .day}Magpie Lab"
+csc-3: "**F**{: .day}[Magpie Lab](./csawesome2/environment-setup.html)"
 csc-x: "Dec. 3"
 
 con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/math/algebra-basics){: target=\"_blank\"}"
