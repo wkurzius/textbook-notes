@@ -34,15 +34,29 @@ Zoom in a part of a function's graph enough and it will begin to look like a lin
 > **Figure 3.7.1** Zoom in close enough and curves will start to look like lines. We can use these lines to estimate values of a function.
 {: .figure}
 
-If we use the point $(0,1)$ on the function $f(x)=1+\sin x$ we get a line with the equation
+## Tangent Line Example
+
+> Find the line tangent to $f(x)=1 + \sin x$ at $(0,1)$ and use to estimate $f(0.01)$.
+{: .example}
+
+We are given a point, so we just need a slope, which we can get from the derivative of $f$.
 
 $$\begin{align}
-y &= f'(0)(x - 0) + f(0) \label{eq:1}\\
+y &= f'(0)(x - 0) + 1 \label{eq:1}\\
   &= (\cos0)(x) + 1 \\
-  &= x + 1
+  &= x + 1 \\[1em]
+f(0.01) &\approx 0.01 + 1 \\
+        &\approx 1.01
 \end{align}$$
 
-Now, rather than having to evaluate $f(x)$ for any values close to $x=0$, we can use our line instead. Keep in mind that the closer to $0$, the better the estimate.
+The true value is about $1.0099998333$, so a pretty good estimate. Keep in mind that the further away from the point, the worse the estimates.
+
+$\blacksquare$
+{: .qed}
+
+The AP exam will refer to this concept as local linear approximation, and the local aspect is important. Also important is whether your estimate will be over or under the actual value. In figure 3.7.1, you can see that the line is above the curve when it's concave down, meaning it will be an overestimate. Conversely, when the graph is concave up the line will produce an underestimate.
+
+> Concave up versus down means which way the curve cups, or curves. The more technical definition has to do with increasing and decreasing slopes. That will be covered later (earlier?) in 3.4.
 
 ## Differentials
 
