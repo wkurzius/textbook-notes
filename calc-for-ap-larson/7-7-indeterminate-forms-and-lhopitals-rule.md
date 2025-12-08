@@ -45,9 +45,11 @@ Now that we've recontexulized why limit problems were problems to be begin with,
 > $$\begin{align}
 > \lim_{x\to c} \frac{f(x)}{g(x)} = \lim_{x\to c} \frac{f'(x)}{g'(x)}
 > \end{align}$$
+>
+> provided that the limit exists or is infinity.
 {: .definition}
 
-If direct substitution yields an indeterminate form, you can now skip the algebraic manipulation and jump to differentiating each function. 
+Make you aware of the caveats of this rule: indeterminate form only and the limits must exist. If you have non-indeterminate (determinate?) form, you shouldn't need it anyway. For a limit not existing, see the last example.
 
 A word of warning: do _not_ use the quotient rule. You are not differentiating the entire function, just the numerator and denominator separately.
 
@@ -100,6 +102,32 @@ $$\begin{align}
 \lim_{x\to-\infty}\frac{2x}{-e^{-x}} &= \lim_{x\to-\infty}\frac{2}{e^{-x}} \\
 &= 0
 \end{align}$$
+
+$\blacksquare$
+{: .qed}
+
+## Example 4
+
+> Find the limit.
+>
+> $$\begin{align}
+> \lim_{x\to\infty}\frac{x+\cos x}{x}
+> \end{align}$$
+{: .example}
+
+Direct substitution yields $\frac{\infty}{\infty}$, but using rule gets us to this point.
+
+$$\begin{align}
+\lim_{x\to\infty}\frac{x+\cos x}{x} &= \lim_{x\to\infty}\frac{1-\sin x}{1}
+\end{align}$$
+
+The limit does not exist according to this work, but a rewrite might be warranted. See if splitting the original quotient reveals something new.
+
+$$\begin{align}
+\lim_{x\to\infty}\frac{x+\cos x}{x} &= \lim_{x\to\infty}\frac{x}{x} + \lim_{x\to\infty}\frac{\cos x}{x}
+\end{align}$$
+
+$\frac{x}{x}$ is just $1$, and $\frac{\cos x}{x}$ is $0$. So, we really didn't need the rule and could've arrived at $1$ from the beginning.
 
 $\blacksquare$
 {: .qed}
