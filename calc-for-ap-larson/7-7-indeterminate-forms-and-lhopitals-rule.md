@@ -2,6 +2,7 @@
 title: 7.7 Indeterminate Forms and L'Hôpital's Rule
 layout: notes
 course: AP Calc
+last-reviewed: 2025-12-08 10:09:00
 ---
 
 - Recognize limits that produce indeterminate forms.
@@ -21,31 +22,21 @@ course: AP Calc
 
 ---
 
+We're going to head back to limits for a little since we have some new tools to play with.
+
 ## Indeterminate Forms
 
-When trying to find a limit through direct substitution (yes, we're going all the way back to limits), you sometimes get strange results.
+Many of the limit problems you've seen involved dividing by $0$. A limit that involved dividing by $0$ would force to you to find another way to evaluate it besides direct substitution. Typically this was algebraic manipulation, but there were also tables and graphing calculators.
 
-$$\begin{align}
-\lim_{x\to 0} \frac{x}{x} \qquad
-\lim_{x\to 0} \frac{x^2}{x} \qquad
-\lim_{x\to 0} \frac{x}{x^3}
-\end{align}$$
+Something we glossed over was the fact that direct substitution in most limit problems actually led to $\frac{0}{0}$. Limits that led to this form were leaned on as exercises since they are unpredictable and always require extra work.
 
-Each limit, if using direct substitution, evaluates to $\frac{0}{0}$, but their actual limits are
+In contrast, something like $\lim_{x\to 0} \frac{x+1}{x}$ would yield $\frac{1}{0}$ with direct substitution. Some constant over $0$ means the limit is infinity and you have a vertical asymptote. Yes, dividing by $0$ is present, but the results are consistent and predictable.
 
-$$\begin{align}
-\lim_{x\to 0} \frac{x}{x} &= 1 \\
-\lim_{x\to 0} \frac{x^2}{x} &= 0 \\
-\lim_{x\to 0} \frac{x}{x^3} &= \infty 
-\end{align}$$
-
-$\frac{0}{0}$ is an example of an **indeterminate form**. Conflicting rules make it difficult to determine the actual limit. Does it reduce to 1? Is it 0? Does it go to infinity? Keep in mind that limits are about the *approach* to a number, not the number itself. With the limits above, you have two competing functions, your numerator and denominator, both trying to approach 0. Who gets there first, and what the other one is doing in the meantime, will determine the actual limit.
-
-The two indeterminate forms you need to be aware of are $\frac{0}{0}$ and $\frac{\infty}{\infty}$. There are others, but they do not appear on the AP exam.
+So, $\frac{0}{0}$ is an example of an **indeterminate form**, meaning extra steps must be taken to determine the limit. Along with that, $\frac{\infty}{\infty}$ is also an indeterminate form. There are others, but those are the only two you need to be aware of for the AP exam.
 
 ## L'Hôpital's Rule
 
-Luckily, dealing with these two indeterminate forms is easy. When finding a limit, if direct substitution yields $\frac{0}{0}$ or $\frac{\infty}{\infty}$, then you can use L'Hôpital's rule.
+Now that we've recontexulized why limit problems were problems to be begin with, we can look at a new way to evaluate them. Also helpful is that we know how to differentiate a function.
 
 > ### L'Hôpital's Rule (abbreviated)
 >
@@ -56,7 +47,9 @@ Luckily, dealing with these two indeterminate forms is easy. When finding a limi
 > \end{align}$$
 {: .definition}
 
-Find the derivative of both the numerator and denominator, and try direct substitution again. Was the result another indeterminate form? L'Hôpital's rule again.
+If direct substitution yields an indeterminate form, you can now skip the algebraic manipulation and jump to differentiating each function. 
+
+A word of warning: do _not_ use the quotient rule. You are not differentiating the entire function, just the numerator and denominator separately.
 
 ## Example 1
 
@@ -101,7 +94,7 @@ $$\begin{align}
 \lim_{x\to-\infty}\frac{x^2}{e^{-x}} &= \lim_{x\to-\infty}\frac{2x}{-e^{-x}}
 \end{align}$$
 
-Oh, now it's $\frac{-\infty}{-\infty}$. Negatives don't matter. It's still indeterminate and therefore a candidate for the rule. Run it through again.
+The result is an indeterminate form again, $\frac{-\infty}{-\infty}$. The good news is that you can just apply the rule again.
 
 $$\begin{align}
 \lim_{x\to-\infty}\frac{2x}{-e^{-x}} &= \lim_{x\to-\infty}\frac{2}{e^{-x}} \\

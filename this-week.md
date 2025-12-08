@@ -4,7 +4,7 @@ layout: this-week
 
 csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/){: .table-head-link}<br>[Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\" .table-head-link}"
 csc-1: "**T**{: .day}Magpie Lab"
-csc-2: "**R**{: .day}[3.1 Abstraction and Program Design](./csawesome2/3-1-abstraction-and-program-design.md) and [3.2 Impact of Program Design](./csawesome2/3-2-impact-of-program-design.md)"
+csc-2: "**R**{: .day}[3.1 Abstraction and Program Design](./csawesome2/3-1-abstraction-and-program-design.md) and [3.2 Impact of Program Design](./csawesome2/3-2-impact-of-program-design.html)"
 csc-3: ""
 csc-x: "Dec. 23"
 
@@ -15,8 +15,8 @@ con-3: ""
 con-x: "–"
 
 sta-h: "**Prob. & Stats**<br>[Notes and HW](./statistics-open-stax/){: .table-head-link}<br>[Book](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" .table-head-link}"
-sta-1: "**T**{: .day}[6.1 The Standard Normal Distribution](./statistics-open-stax/6-1-the-standard-normal-distribution.md)"
-sta-2: "**R**{: .day}[6.2 Using the Normal Distribution](./statistics-open-stax/6-2-using-the-normal-distribution.md)"
+sta-1: "**T**{: .day}[6.1 The Standard Normal Distribution](./statistics-open-stax/6-1-the-standard-normal-distribution.html)"
+sta-2: "**R**{: .day}[6.2 Using the Normal Distribution](./statistics-open-stax/6-2-using-the-normal-distribution.html)"
 sta-3: ""
 sta-x: "Dec. 19"
 
@@ -27,7 +27,7 @@ dev-3: ""
 dev-x: "–"
 
 cal-h: "**AP Calc**<br>[Notes and HW](./calc-for-ap-larson/)"
-cal-1: "**M**{: .day}[7.7 Indeterminate Forms and L'Hôpital's Rule](./calc-for-ap-larson/7-7-indeterminate-forms-and-lhopitals-rule.md)"
+cal-1: "**M**{: .day}[7.7 Indeterminate Forms and L'Hôpital's Rule](./calc-for-ap-larson/7-7-indeterminate-forms-and-lhopitals-rule.html)"
 cal-2: "**W**{: .day}MP1 Quiz 2"
 cal-3: "**F**{: .day}[3.1 Extrema on an Interval](./calc-for-ap-larson/3-1-extrema-on-an-interval.md)"
 cal-x: "Dec. 10"

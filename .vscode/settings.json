@@ -1,3 +1,6 @@
 {
-    "languageToolLinter.languageTool.disabledRules": "CURRENCY,WHITESPACE_RULE"
+    "languageToolLinter.languageTool.disabledRules": "CURRENCY,WHITESPACE_RULE",
+    "cSpell.words": [
+        "recontexulized"
+    ]
 }
