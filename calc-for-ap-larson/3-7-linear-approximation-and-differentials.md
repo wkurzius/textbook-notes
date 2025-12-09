@@ -5,9 +5,6 @@ course: AP Calc
 last-reviewed: 2025-12-04 09:40:40
 ---
 
-{: .lesson-dates}
-Lesson: January 28, 2025. Quiz: ~~February 13, 2025~~ February 14, 2025.
-
 - Understand the concept of a tangent line approximation.
 - Compare the value of the differential, dy, with the actual change in y, Δy.
 - Estimate a propagated error using a differential.
@@ -35,8 +32,8 @@ Zoom in a part of a function's graph enough and it will begin to look like a lin
 > **Figure 3.7.1** Zoom in close enough and curves will start to look like lines. We can use these lines to estimate values of a function.
 {: .figure}
 
-### Tangent Line Example
-
+> ### Tangent Line Example
+>
 > Find the line tangent to $f(x)=1 + \sin x$ at $(0,1)$ and use to estimate $f(0.01)$.
 {: .example}
 
@@ -77,8 +74,8 @@ Note the word "approximated". Like linear approximation, what we find with $dy$ 
 
 Also worth noting is that $dy=f'(x)dx$ looks a lot like a definition for a derivative $\frac{dy}{dx}=f'(x)$. The proof for making this jump is more complicated than performing a simple algebra step, but this is an easy way to remember the definition of a differential.
 
-### Differential Example
-
+> ### Differential Example
+>
 > Let $y=x^2$, $x=1$, and $dx=0.01$. Find $dy$ and compare it $\Delta y$.
 {: .example}
 
@@ -104,8 +101,8 @@ So, our estimate is $dy=0.02$ while the true value is $\Delta y=0.0201$.
 $\blacksquare$
 {: .qed}
 
-### Error Propagation Example
-
+> ### Error Propagation Example
+>
 > The radius of a ball bearing is measured at $\units[0.7]{in}$, but with an accuracy $\units[0.01]{in}$. Estimate the propagated error in the volume of the ball bearing.
 {: .example}
 
