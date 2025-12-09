@@ -2,7 +2,7 @@
 title: 3.1 Extrema on an Interval
 layout: notes
 course: AP Calc
-last-reviewed:
+last-reviewed: 2025-12-09 08:54:27
 ---
 
 - Understand the definition of extrema of a function on an interval.
@@ -89,8 +89,6 @@ Our absolute minimum is at $(1,-1)$ and the absolute maximum is at $(2,16)$. Don
 $\blacksquare$
 {: .qed}
 
-Did you look at the graph for the example? You should, because there's something strange about the point $(0,0)$: despite it being a critical point, it is neither a relative maximum or minimum.
+Did you look at the graph for the example? You should, because there's something strange about the point $(0,0)$: despite it being a critical point, it is neither a relative maximum nor a minimum. Finding relative maxima and minima is something for later, but this is worth pointing out now so you are aware of a possible pitfall.
 
-Finding relative maxima and minima is something for later.
-
-[^1]: there are also referred to as local and globals
+[^1]: They are also referred to as local and global.
