@@ -2,7 +2,7 @@
 title: 2.6 Derivatives of Inverse Functions
 layout: notes
 course: AP Calc
-last-updated: 2025-11-15 10:35:52
+last-reviewed: 2025-11-15 10:35:52
 ---
 
 - Find the derivative of an inverse function.

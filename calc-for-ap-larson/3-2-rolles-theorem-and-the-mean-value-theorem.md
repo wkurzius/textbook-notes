@@ -2,6 +2,7 @@
 title: 3.2 Rolle's Theorem and the Mean Value Theorem
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Understand and use Rolle’s Theorem.

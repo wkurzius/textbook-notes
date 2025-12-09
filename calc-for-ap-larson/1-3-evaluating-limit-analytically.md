@@ -2,6 +2,7 @@
 title: 1.3 Evaluating Limits Analytically
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Evaluate a limit using properties of limits.

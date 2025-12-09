@@ -2,6 +2,7 @@
 title: 5.3 Separation of Variables
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Recognize and solve differential equations that can be solved by separation of variables.

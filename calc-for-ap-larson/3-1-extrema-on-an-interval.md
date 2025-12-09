@@ -2,6 +2,7 @@
 title: 3.1 Extrema on an Interval
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Understand the definition of extrema of a function on an interval.

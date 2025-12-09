@@ -2,6 +2,7 @@
 title: 2.1 The Derivative and the Tangent Line Problem
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Find the slope of the tangent line to a curve at a point.

@@ -2,6 +2,7 @@
 title: 3.6 Optimization Problems
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Solve applied minimum and maximum problems.

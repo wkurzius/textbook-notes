@@ -2,6 +2,7 @@
 title: "4.7 The Natural Logarithmic Function: Integration"
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Use the Log Rule for Integration to integrate a rational function.

@@ -2,6 +2,7 @@
 title: 1.5 Infinite Limits
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Determine infinite limits from the left and from the right.

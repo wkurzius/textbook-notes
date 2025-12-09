@@ -2,6 +2,7 @@
 title: 4.2 Area
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Use sigma notation to write and evaluate a sum

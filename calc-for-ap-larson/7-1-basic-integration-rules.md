@@ -2,6 +2,7 @@
 title: 7.1 Basic Integration Rules
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Review procedures for fitting an integrand to one of the basic integration rules.

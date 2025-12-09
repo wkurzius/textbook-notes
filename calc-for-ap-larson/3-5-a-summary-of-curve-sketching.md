@@ -2,6 +2,7 @@
 title: 3.5 A Summary of Curve Sketching
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Analyze and sketch the graph of a function.

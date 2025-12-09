@@ -2,6 +2,7 @@
 title: 4.4 The Fundamental Theorem of Calculus
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Evaluate a definite integral using the Fundamental Theorem of Calculus.

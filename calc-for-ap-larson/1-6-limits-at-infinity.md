@@ -2,6 +2,7 @@
 title: 1.6 Limits at Infinity
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Determine (finite) limits at infinity.

@@ -2,6 +2,7 @@
 title: "6.2 Volume: The Disk and Washer Methods"
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Find the volume of a solid of revolution using the disk method.

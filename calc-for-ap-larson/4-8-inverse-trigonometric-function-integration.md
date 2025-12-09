@@ -2,6 +2,7 @@
 title: "4.8 Inverse Trigonometric Functions: Integration"
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Integrate functions whose antiderivatives involve inverse trigonometric functions.

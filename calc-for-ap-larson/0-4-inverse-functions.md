@@ -2,6 +2,7 @@
 title: P.4 Inverse Functions
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Verify that one function is the inverse function of another function.

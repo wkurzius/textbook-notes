@@ -2,6 +2,7 @@
 title: P.1 Graphs and Models
 layout: notes
 course: AP Calc
+last-reviewed:
 ---
 
 - Sketch the graph of an equation.
