@@ -53,8 +53,8 @@ Make you aware of the caveats of this rule: indeterminate form only and the limi
 
 A word of warning: do _not_ use the quotient rule. You are not differentiating the entire function, just the numerator and denominator separately.
 
-## Example 1
-
+> ## Example 1
+>
 > Evaluate $\displaystyle \lim_{x\to0}\frac{e^{2x}-1}{x}$.
 {: .example}
 
@@ -69,8 +69,8 @@ $$\begin{align}
 $\blacksquare$
 {: .qed}
 
-## Example 2
-
+> ## Example 2
+>
 > Evaluate $\displaystyle \lim_{x\to\infty}\frac{\ln x}{x}$.
 {: .example}
 
@@ -85,8 +85,8 @@ $$\begin{align}
 $\blacksquare$
 {: .qed}
 
-## Example 3
-
+> ## Example 3
+>
 > Evaluate $\displaystyle \lim_{x\to-\infty}\frac{x^2}{e^{-x}}$.
 {: .example}
 
@@ -106,8 +106,8 @@ $$\begin{align}
 $\blacksquare$
 {: .qed}
 
-## Example 4
-
+> ## Example 4
+>
 > Find the limit.
 >
 > $$\begin{align}

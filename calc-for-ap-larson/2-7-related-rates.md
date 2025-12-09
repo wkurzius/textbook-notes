@@ -35,8 +35,8 @@ $$\begin{align}
 
 What this means is that the rate of change of the area is related to both the current radius and the rate of change of the radius. Typically, these types of problems provide values for most of the variables or rates, and you'll be left to solve for the remaining one.
 
-## Example 1
-
+> ## Example 1
+>
 > A pebble is dropped into a calm pond, causing ripples in the form of concentric circles. The radius $r$ of the outer ripple is increasing at a constant rate of $1$ foot per second. When the radius is $4$ feet, at what rate is the total area $A$ of the disturbed water changing?
 {: .example}
 
@@ -53,8 +53,8 @@ $\blacksquare$
 
 Note the use of units. Dimensional analysis is highly recommended so that you can a) determine the correct units, and b) verify you arrived at a correct solution. If the units don't make sense, there is likely a problem with your work. Here, square feet per second makes sense we are talking about area over time.
 
-## Example 2
-
+> ## Example 2
+>
 > An airplane flying at an altitude of 6 miles is on a path that will take it directly over a radar tracking station. The direct distance from the plane to the station $s$ is decreasing at a rate of 400 miles per hour when $s$ is 10 miles. What is the horizontal speed of the plane?
 >
 >> ![](./img/2-7-plane.png){: width="300"}
@@ -89,7 +89,7 @@ $$\begin{align}
 \units[-500]{mi/hr} &= x'
 \end{align}$$
 
-Note the negative for the changing distance of $s$. Remember that velocity has a sign, but speed doesn't. The speed of the plane is 500 mph, but has a velocity of -500 mph, meaning it's moving to the left.
+Note the negative for the changing distance of $s$. Remember that velocity has a sign, but speed doesn't. The speed of the plane is 500 mph, but has a velocity of −500 mph, meaning it's moving to the left.
 
 $\blacksquare$
 {: .qed}
