@@ -4,7 +4,7 @@ layout: this-week
 
 csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/){: .table-head-link}<br>[Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\" .table-head-link}"
 csc-1: "**T**{: .day}Magpie Lab"
-csc-2: "**R**{: .day}[3.1 Abstraction and Program Design](./csawesome2/3-1-abstraction-and-program-design.md) and [3.2 Impact of Program Design](./csawesome2/3-2-impact-of-program-design.html)"
+csc-2: "**R**{: .day}[3.1 Abstraction and Program Design](./csawesome2/3-1-abstraction-and-program-design.html) and [3.2 Impact of Program Design](./csawesome2/3-2-impact-of-program-design.html)"
 csc-3: ""
 csc-x: "Dec. 23"
 
@@ -29,7 +29,7 @@ dev-x: "–"
 cal-h: "**AP Calc**<br>[Notes and HW](./calc-for-ap-larson/)"
 cal-1: "**M**{: .day}[7.7 Indeterminate Forms and L'Hôpital's Rule](./calc-for-ap-larson/7-7-indeterminate-forms-and-lhopitals-rule.html)"
 cal-2: "**W**{: .day}MP1 Quiz 2"
-cal-3: "**F**{: .day}[3.1 Extrema on an Interval](./calc-for-ap-larson/3-1-extrema-on-an-interval.md)"
+cal-3: "**F**{: .day}[3.1 Extrema on an Interval](./calc-for-ap-larson/3-1-extrema-on-an-interval.html)"
 cal-x: "Dec. 10"
 ---
 

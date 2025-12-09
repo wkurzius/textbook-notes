@@ -29,27 +29,68 @@ last-reviewed:
 
 With your knowledge of differentiation, we'll move into applying to analyzing functions. We'll take a look at how to find key features, and then move into how those key features translate into real-life applications.
 
-With this section, we start looking at the extrema, or minimum and maximums of a function. More specifically, extrema on an interval. This leads to the Extreme Value Theorem.
+In this section we start looking at the extrema, or absolute minimum and maximum of a function. More specifically, extrema on an interval.
+
+When analyzing functions, intervals are a focus rather than the whole function. This translates to real-life applications since we are normally only concerned about a specific domain of a function. Also, note that the theorem mentions closed intervals. If you picture a linear function on an open interval, whether to infinity in both directions are even as small as $(1,2)$, the line will continue forever, never arriving at a hightest or lowest point.
+
+With a closed interval in mind, here is the one of the theorems you should know by name.
 
 > ### The Extreme Value Theorem
 >
 > If $f$ is continuous on a **closed** interval $[a,b]$, then $f$ has both a minimum and a maximum on the interval.
-
-When analyzing functions, intervals are a focus rather than the whole function, which translate to real-life applications since we normally are only concerned about a specific domain of a function. Also, note that the theorem mentions closed intervals. If you picture a linear function on an open interval, whether to infinity in both directions are even as small as $(1,2)$, the line will continue forever, never arriving at a hightest or lowest point.
+{: .definition}
 
 ## Relative Extrema and Critical Numbers
 
-There are different types of extrema, with relative and absolute (a.k.a. global) maximums and minimums. Absolutes are the absolute highest or lowest point on an interval, while relative ones are local extremes. Think of the peaks and valleys of a sine wave.
+There are different types of extrema, with relative and absolute[^1] maximums and minimums. Relative maxima and minima are just the highest and lowest in the area, while absolutes are—like the name entails—the absolute highest and lowest points on an interval.
 
-If you find the value of the derivative at these local extrema, you'll find two possible outcomes: either 0 or does not exist. These specific $x$-values where their derivatives produce zeros or don't exist are called critical points.
+If you find the value of the derivative at these local extrema, you'll get one of two possible outcomes: $0$ or does not exist. These specific $x$-values where their derivatives produce zeros or don't exist are called critical points.
 
-![Critical points](./img/3.1-critical-points.png)
+> ![Critical points](./img/3.1-critical-points.png){: width="600"}
+>
+> **Figure 3.1.1** An example of a critical point where the derivative does not exist and another where it is $0$.
+{: .figure}
 
-Naturally, finding the critical points is key to determining the extrema on an interval.
+Naturally, finding critical points is key to determining the extrema on an interval.
 
 ## Finding Extrema on a Closed Interval
 
-1. Find all the critical numbers. This typically means differentiating, and then solving for zero and seeing where the derivative does not exist.
-2. Evaluate each critical point. This means going back to the original function and finding the $y$-values.
-3. Do the same for the endpoints.
-4. The smallest is your minimum and the largest your maximum.
+1. **Find all the critical numbers**. This typically means differentiating, and then solving for zero and seeing where the derivative does not exist.
+2. **Evaluate each critical point**. This means going back to the original function and finding the $y$-values.
+3. **Evaluate the endpoints**. These are also critical points and candidates for extrema. Don't forget about them.
+
+Once all the critical points have been run through your original function, you can determine your absolute extrema.
+
+> ## Example 1
+>
+> Find the extrema of $f(x)=3x^4-4x^3$ on the interval $[-1,2]$.
+{: .example}
+
+First, find critical points by differentiating and solving for $0$.
+
+$$\begin{align}
+f'(x) &= 12x^3 - 12x^2 \\[1em]
+    0 &= 12x^3 - 12x^2 \\
+      &= 12x^2(x - 1)
+\end{align}$$
+
+We get tangent lines with slope of $0$ when $x=0$ and $x=1$.
+
+As for where the derivative does not exist, we don't have an issue since this is a polynomial. The function is continuous and differentiable everywhere.
+
+Along with $0$ and $1$, we also have to consider our endpoints of $-1$ and $2$, giving us four candidates. Now we run each through the original function.
+
+$$\begin{align}
+f(-1) = 7 \qquad f(0)=0 \qquad f(1)=-1 \qquad f(2)=16
+\end{align}$$
+
+Our absolute minimum is at $(1,-1)$ and the absolute maximum is at $(2,16)$. Don't forget to visually verify. Here's [the graph on Desmos](https://www.desmos.com/calculator/gnr5ougihw){: target="_blank"}.
+
+$\blacksquare$
+{: .qed}
+
+Did you look at the graph for the example? You should, because there's something strange about the point $(0,0)$: despite it being a critical point, it is neither a relative maximum or minimum.
+
+Finding relative maxima and minima is something for later.
+
+[^1]: there are also referred to as local and globals
