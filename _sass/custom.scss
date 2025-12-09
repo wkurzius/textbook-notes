@@ -185,6 +185,14 @@ h2#extra-practice {
     padding-bottom: 1rem;
 }
 
+.example h2, .example h3, .example h4 {
+	background: black;
+	color: white;
+	padding: 0.25rem 1rem;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
 .qed {
     text-align: right;
 }
