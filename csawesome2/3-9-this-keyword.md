@@ -9,8 +9,8 @@ course: AP CSA
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [xxx activities](){: target="_blank"}
-- [CodingPractice](){: target="_blank"}
+- All [3.9 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-3-9-this.html){: target="_blank"}
+- [3.12 Write Code Practice](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/classes-write-code.html){: target="_blank"}
 
 ---
 
