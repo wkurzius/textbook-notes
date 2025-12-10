@@ -1,5 +1,6 @@
 ---
 title: "*Calculus for AP* 2e Notes"
+layout: page
 ---
 
 - [Syllabus](../syllabi/ap-calc.md)

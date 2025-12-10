@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: page
 ---
 
 - {: .calendar}[This week](./this-week.md)
