@@ -1,6 +1,5 @@
 ---
 title:  1.7 APIs and Libraries
-
 course: AP CSA
 
 ---

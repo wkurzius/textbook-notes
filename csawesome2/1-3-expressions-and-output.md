@@ -1,6 +1,5 @@
 ---
 title:  1.3 Expressions and Output
-
 course: AP CSA
 ---
 

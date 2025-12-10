@@ -1,6 +1,5 @@
 ---
 title:  "1.13 Creating and Initializing Objects: Constructors"
-
 course: AP CSA
 ---
 

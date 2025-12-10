@@ -1,6 +1,5 @@
 ---
 title:  "1.11 Using the `Math` Class"
-
 course: AP CSA
 ---
 

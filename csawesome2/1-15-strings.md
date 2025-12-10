@@ -1,6 +1,5 @@
 ---
 title:  1.15 Strings
-
 course: AP CSA
 ---
 

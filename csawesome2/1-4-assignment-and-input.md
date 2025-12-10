@@ -1,6 +1,5 @@
 ---
 title:  1.4 Assignment and Input
-
 course: AP CSA
 ---
 
