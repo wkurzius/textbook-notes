@@ -1,9 +1,26 @@
+:root {
+    --bg-color: #fdfdfd;
+    --fg-color: #111;
+}
+
+// @media (prefers-color-scheme: dark) {
+//     :root {
+//         --bg-color: #191b1c;
+//         --text-color: #dddad6;
+//     }
+// }
+
 @mixin no-block {
     background: none;
     border: none;
     padding-left: 0;
     font-style: normal;
     color: initial;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--fg-color);
 }
 
 ul {
@@ -161,7 +178,8 @@ h2#extra-practice {
     margin-right: auto;
 }
 
-.figure img, .figure video {
+.figure img,
+.figure video {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -185,10 +203,12 @@ h2#extra-practice {
     padding-bottom: 1rem;
 }
 
-.example h2, .example h3, .example h4 {
-	background: black;
-	color: white;
-	padding: 0.25rem 1rem;
+.example h2,
+.example h3,
+.example h4 {
+    background: black;
+    color: white;
+    padding: 0.25rem 1rem;
     text-transform: uppercase;
     font-size: 18px;
 }
