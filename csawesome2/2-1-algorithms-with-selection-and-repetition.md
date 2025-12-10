@@ -1,6 +1,6 @@
 ---
 title: 2.1 Algorithms with Selection and Repetition
-layout: notes
+
 course: AP CSA
 ---
 

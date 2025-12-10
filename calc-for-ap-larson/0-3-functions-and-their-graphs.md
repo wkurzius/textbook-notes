@@ -1,6 +1,5 @@
 ---
 title: P.3 Functions and Their Graphs
-layout: notes
 course: AP Calc
 last-reviewed:
 ---

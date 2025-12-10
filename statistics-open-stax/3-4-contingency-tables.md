@@ -1,6 +1,6 @@
 ---
 title: 3.4 Contingency Tables
-layout: notes
+
 course: Probability & Statistics
 ---
 

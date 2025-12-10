@@ -1,6 +1,5 @@
 ---
 title: 5.3 Separation of Variables
-layout: notes
 course: AP Calc
 last-reviewed:
 ---

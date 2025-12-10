@@ -1,9 +1,10 @@
 ---
 title: 4.14 Searching Algorithms
-layout: notes
+
 course: AP CSA
 ---
 
+- Develop code used for linear search algorithms to search for specific information in a collection and determine the results of executing a search
 
 ## Assignment
 

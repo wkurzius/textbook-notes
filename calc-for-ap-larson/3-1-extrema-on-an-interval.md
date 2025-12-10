@@ -1,6 +1,5 @@
 ---
 title: 3.1 Extrema on an Interval
-layout: notes
 course: AP Calc
 last-reviewed: 2025-12-09 08:54:27
 ---

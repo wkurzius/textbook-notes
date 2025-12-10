@@ -1,6 +1,5 @@
 ---
 title: 2.2 Basic Differentiation Rules and Rates of Change
-layout: notes
 course: AP Calc
 last-reviewed:
 ---

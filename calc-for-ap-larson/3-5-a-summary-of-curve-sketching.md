@@ -1,6 +1,5 @@
 ---
 title: 3.5 A Summary of Curve Sketching
-layout: notes
 course: AP Calc
 last-reviewed:
 ---

@@ -1,6 +1,5 @@
 ---
 title: 2.5 Implicit Differentiation
-layout: notes
 course: AP Calc
 last-reviewed: 2025-11-14 10:24:03
 ---

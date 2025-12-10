@@ -1,6 +1,5 @@
 ---
 title: 3.4 Concavity and the Second Derivative Test
-layout: notes
 course: AP Calc
 last-reviewed:
 ---

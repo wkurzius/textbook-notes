@@ -1,9 +1,10 @@
 ---
 title: 4.2 Data Sets
-layout: notes
+
 course: AP CSA
 ---
 
+- Represent patterns and algorithms that involve data sets found in everyday life using written language or diagrams
 
 ## Assignment
 

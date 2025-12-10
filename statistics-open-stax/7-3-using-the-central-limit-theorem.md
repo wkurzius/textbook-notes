@@ -1,6 +1,6 @@
 ---
 title: 7.3 Using the Central Limit Theorem
-layout: notes
+
 course: Probability & Statistics
 ---
 

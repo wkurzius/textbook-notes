@@ -1,6 +1,5 @@
 ---
 title: 7.1 Basic Integration Rules
-layout: notes
 course: AP Calc
 last-reviewed:
 ---

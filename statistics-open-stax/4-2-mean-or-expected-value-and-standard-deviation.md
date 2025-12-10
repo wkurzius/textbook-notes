@@ -1,6 +1,6 @@
 ---
 title: 4.2 Mean or Expected Value and Standard Deviation
-layout: notes
+
 course: Probability & Statistics
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: "4.12 2D Array Traversals: Nested Loops"
-layout: notes
+
 course: AP CSA
 ---
 
+- Develop code used to traverse the elements in a 2D array and determine the result of these traversals
 
 ## Assignment
 

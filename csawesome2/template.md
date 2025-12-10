@@ -1,6 +1,5 @@
 ---
 title: 
-layout: notes
 course: AP CSA
 ---
 

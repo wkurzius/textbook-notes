@@ -1,6 +1,6 @@
 ---
 title: Product Landing Page
-layout: notes
+
 course: Certification Projects
 ---
 

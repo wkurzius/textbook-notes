@@ -1,6 +1,6 @@
 ---
 title: 5.1 Continuous Probability Functions
-layout: notes
+
 course: Probability & Statistics
 ---
 

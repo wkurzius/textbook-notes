@@ -1,5 +1,6 @@
 ---
 title: Setting up a Local Java Environment
+course: AP CSA
 ---
 
 Recommended when working on the labs and anytime you feel like the CSAwesome interface just isn't doing it for you.

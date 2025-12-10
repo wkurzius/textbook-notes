@@ -1,6 +1,5 @@
 ---
 title: 2.1 The Derivative and the Tangent Line Problem
-layout: notes
 course: AP Calc
 last-reviewed:
 ---

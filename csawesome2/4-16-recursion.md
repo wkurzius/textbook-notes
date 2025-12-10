@@ -1,9 +1,10 @@
 ---
 title: 4.16 Recursion
-layout: notes
+
 course: AP CSA
 ---
 
+- Determine the result of calling recursive methods
 
 ## Assignment
 

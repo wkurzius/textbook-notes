@@ -1,6 +1,6 @@
 ---
 title:  1.8 Documentation with Comments and Preconditions
-layout: notes
+
 course: AP CSA
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  1.5 Casting and Ranges Of Values
-layout: notes
+
 course: AP CSA
 ---
 

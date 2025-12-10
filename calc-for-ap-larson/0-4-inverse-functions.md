@@ -1,6 +1,5 @@
 ---
 title: P.4 Inverse Functions
-layout: notes
 course: AP Calc
 last-reviewed:
 ---

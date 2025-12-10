@@ -1,6 +1,6 @@
 ---
 title: 2.4 Nested if Statements
-layout: notes
+
 course: AP CSA
 ---
 

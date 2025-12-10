@@ -1,9 +1,10 @@
 ---
 title: 4.6 Using Text Files
-layout: notes
+
 course: AP CSA
 ---
 
+- Develop code to read data from a text file
 
 ## Assignment
 

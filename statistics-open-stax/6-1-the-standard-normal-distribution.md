@@ -1,6 +1,6 @@
 ---
 title: 6.1 The Standard Normal Distribution
-layout: notes
+
 course: Probability & Statistics
 ---
 

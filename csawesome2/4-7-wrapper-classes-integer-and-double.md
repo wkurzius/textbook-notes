@@ -1,9 +1,10 @@
 ---
 title: 4.7 Wrapper Classes - Integer and Double
-layout: notes
+
 course: AP CSA
 ---
 
+- Develop code to use `Integer` and `Double` objects from their primitive counterparts and determine the result of using these objects
 
 ## Assignment
 

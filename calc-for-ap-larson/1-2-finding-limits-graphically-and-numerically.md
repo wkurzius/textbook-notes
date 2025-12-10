@@ -1,6 +1,5 @@
 ---
 title: 1.2 Finding Limits Graphically and Numerically
-layout: notes
 course: AP Calc
 last-reviewed: 2025-11-14 09:35:10
 ---

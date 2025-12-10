@@ -1,6 +1,6 @@
 ---
 title: Survey Form
-layout: notes
+
 course: Certification Projects
 ---
 

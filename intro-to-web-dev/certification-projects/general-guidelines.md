@@ -1,6 +1,6 @@
 ---
 title: Certification Project General Guidelines
-layout: notes
+
 course: Certification Projects
 ---
 

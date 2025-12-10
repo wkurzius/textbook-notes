@@ -1,6 +1,5 @@
 ---
 title: 6.1 Area of a Region Between Two Curves
-layout: notes
 course: AP Calc
 last-reviewed:
 ---

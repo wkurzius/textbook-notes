@@ -1,6 +1,5 @@
 ---
 title: 2.6 Derivatives of Inverse Functions
-layout: notes
 course: AP Calc
 last-reviewed: 2025-11-15 10:35:52
 ---

@@ -1,9 +1,10 @@
 ---
 title: 3.9 this Keyword
-layout: notes
+
 course: AP CSA
 ---
 
+- Develop code for expressions that are self-referencing and determine the result of these expressions
 
 ## Assignment
 

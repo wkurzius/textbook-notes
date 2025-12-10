@@ -1,6 +1,6 @@
 ---
 title:  1.12 Objects - Instances of Classes
-layout: notes
+
 course: AP CSA
 ---
 

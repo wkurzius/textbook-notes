@@ -1,6 +1,6 @@
 ---
 title: 4.1 Probability Distribution Function (PDF) for a Discrete Random Variable
-layout: notes
+
 course: Probability & Statistics
 ---
 

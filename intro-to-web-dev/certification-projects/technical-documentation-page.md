@@ -1,6 +1,6 @@
 ---
 title: Technical Documentation Page
-layout: notes
+
 course: Certification Projects
 ---
 

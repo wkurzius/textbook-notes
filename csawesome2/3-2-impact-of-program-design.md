@@ -1,9 +1,10 @@
 ---
 title: 3.2 Impact of Program Design
-layout: notes
+
 course: AP CSA
 ---
 
+- Explain the social and ethical implications of computing systems
 
 ## Assignment
 

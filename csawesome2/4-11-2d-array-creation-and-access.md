@@ -1,9 +1,10 @@
 ---
 title: 4.11 2D Array Creation and Access
-layout: notes
+
 course: AP CSA
 ---
 
+- Develop code used to represent collections of related data using two-dimensional (2D) array objects
 
 ## Assignment
 

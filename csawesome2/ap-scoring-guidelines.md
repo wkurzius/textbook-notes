@@ -1,5 +1,6 @@
 ---
 title: AP Computer Science A Scoring Guidelines
+course: AP CSA
 ---
 
 > The [source document can be found here](../pdfs/ap24-sg-computer-science-a.pdf) and includes answers to FRQs, but not the questions themselves. The general guidelines that accompany each answer set is reproduced below.

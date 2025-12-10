@@ -1,9 +1,11 @@
 ---
 title: 3.7 Class (static) Variables and Methods
-layout: notes
+
 course: AP CSA
 ---
 
+- Develop code to define behaviors of a class through class methods
+- Develop code to declare the class variables that belong to the class
 
 ## Assignment
 

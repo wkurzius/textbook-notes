@@ -1,6 +1,5 @@
 ---
 title: 4.1 Antiderivatives and Indefinite Integration
-layout: notes
 course: AP Calc
 last-reviewed:
 ---

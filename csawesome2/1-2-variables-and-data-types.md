@@ -1,6 +1,6 @@
 ---
 title:  1.2 Variables and Data Types
-layout: notes
+
 course: AP CSA
 ---
 

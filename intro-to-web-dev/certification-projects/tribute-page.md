@@ -1,6 +1,6 @@
 ---
 title: Tribute Page
-layout: notes
+
 course: Certification Projects
 ---
 

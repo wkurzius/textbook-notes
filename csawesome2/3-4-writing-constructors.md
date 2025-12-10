@@ -1,9 +1,10 @@
 ---
 title: 3.4 Writing Constructors
-layout: notes
+
 course: AP CSA
 ---
 
+- Develop code to declare instance variables for the attributes to be initialized in the body of the constructors of a class
 
 ## Assignment
 

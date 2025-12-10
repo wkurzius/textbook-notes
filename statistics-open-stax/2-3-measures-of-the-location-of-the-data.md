@@ -1,6 +1,6 @@
 ---
 title: 2.3 Measures of the Location of the Data
-layout: notes
+
 course: Probability & Statistics
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 4.3 Reimann Sums and Definite Integrals
-layout: notes
 course: AP Calc
 last-reviewed:
 ---

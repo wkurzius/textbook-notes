@@ -1,9 +1,10 @@
 ---
 title: 4.3 Array Creation and Access
-layout: notes
+
 course: AP CSA
 ---
 
+- Develop code used to represent collections of related data using one-dimensional (1D) array objects
 
 ## Assignment
 

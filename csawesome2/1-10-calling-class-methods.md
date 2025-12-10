@@ -1,6 +1,6 @@
 ---
 title:  1.10 Calling Class Methods
-layout: notes
+
 course: AP CSA
 ---
 

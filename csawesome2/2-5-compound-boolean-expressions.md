@@ -1,6 +1,6 @@
 ---
 title: 2.5 Compound Boolean Expressions
-layout: notes
+
 course: AP CSA
 ---
 

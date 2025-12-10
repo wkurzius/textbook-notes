@@ -1,9 +1,10 @@
 ---
 title: 3.8 Scope and Access
-layout: notes
+
 course: AP CSA
 ---
 
+- Explain where variables can be used in the code
 
 ## Assignment
 

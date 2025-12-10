@@ -1,6 +1,5 @@
 ---
 title: 4.4 The Fundamental Theorem of Calculus
-layout: notes
 course: AP Calc
 last-reviewed:
 ---

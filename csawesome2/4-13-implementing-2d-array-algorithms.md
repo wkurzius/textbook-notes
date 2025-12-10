@@ -1,9 +1,10 @@
 ---
 title: 4.13 Implementing 2D Array Algorithms
-layout: notes
+
 course: AP CSA
 ---
 
+- Develop code for standard and original algorithms for a particular context or specification that involves 2D arrays and determine the result of these algorithms
 
 ## Assignment
 

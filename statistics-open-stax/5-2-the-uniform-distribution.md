@@ -1,6 +1,6 @@
 ---
 title: 5.2 The Uniform Distribution
-layout: notes
+
 course: Probability & Statistics
 ---
 

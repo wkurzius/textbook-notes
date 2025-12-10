@@ -1,9 +1,10 @@
 ---
 title: 4.9 ArrayList Traversals
-layout: notes
+
 course: AP CSA
 ---
 
+- Develop code used to traverse the elements of an `ArrayList` and determine the results of these traversals
 
 ## Assignment
 

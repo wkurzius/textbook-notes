@@ -1,6 +1,5 @@
 ---
 title: 1.4 Continuity and One-Sided Limits
-layout: notes
 course: AP Calc
 last-reviewed:
 ---

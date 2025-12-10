@@ -1,6 +1,6 @@
 ---
 title: 2.10 Implementing String Algorithms
-layout: notes
+
 course: AP CSA
 ---
 

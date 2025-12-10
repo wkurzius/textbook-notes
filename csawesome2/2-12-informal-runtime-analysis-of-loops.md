@@ -1,6 +1,6 @@
 ---
 title: 2.12 Informal Runtime Analysis of Loops
-layout: notes
+
 course: AP CSA
 ---
 

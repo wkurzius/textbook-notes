@@ -1,9 +1,10 @@
 ---
 title: 4.15 Sorting Algorithms
-layout: notes
+
 course: AP CSA
 ---
 
+- Determine the result of executing each step of sorting algorithms to sort the elements of a collection
 
 ## Assignment
 

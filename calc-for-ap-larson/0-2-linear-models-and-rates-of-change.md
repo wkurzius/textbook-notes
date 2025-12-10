@@ -1,6 +1,5 @@
 ---
 title: P.2 Linear Models and Rates of Change
-layout: notes
 course: AP Calc
 last-reviewed:
 ---

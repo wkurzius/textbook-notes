@@ -1,6 +1,6 @@
 ---
 title: 3.1 Terminology
-layout: notes
+
 course: Probability & Statistics
 ---
 

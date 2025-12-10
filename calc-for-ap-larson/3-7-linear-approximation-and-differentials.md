@@ -1,6 +1,5 @@
 ---
 title: 3.7 Linear Approximation and Differentials
-layout: notes
 course: AP Calc
 last-reviewed: 2025-12-04 09:40:40
 ---

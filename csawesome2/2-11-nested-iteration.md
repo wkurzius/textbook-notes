@@ -1,6 +1,6 @@
 ---
 title: 2.11 Nested Iteration
-layout: notes
+
 course: AP CSA
 ---
 

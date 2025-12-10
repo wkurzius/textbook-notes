@@ -1,6 +1,5 @@
 ---
 title: 3.3 Increasing and Decreasing Functions and the First Derivative Test
-layout: notes
 course: AP Calc
 last-reviewed:
 ---

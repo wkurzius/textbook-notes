@@ -1,6 +1,6 @@
 ---
 title: 2.6 Comparing Boolean Expressions (De Morgan’s Laws)
-layout: notes
+
 course: AP CSA
 ---
 

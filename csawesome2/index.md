@@ -45,34 +45,34 @@ title: "*CSAwesome2* Notes"
 
 ## 3 Class Creation
 
-- Abstraction and Program Design
-- Impact of Program Design
-- Anatomy of a Java Class
-- Writing Constructors
-- Methods: How to Write Them
-- Methods: Passing and Returning References of an Object
-- Class (static) Variables and Methods
-- Scope and Access
-- `this` Keyword
+- [Abstraction and Program Design](./3-1-abstraction-and-program-design.md)
+- [Impact of Program Design](./3-2-impact-of-program-design.md)
+- [Anatomy of a Java Class](./3-3-anatomy-of-a-java-class.md)
+- [Writing Constructors](./3-4-writing-constructors.md)
+- [Methods: How to Write Them](./3-5-methods-how-to-write-them.md)
+- [Methods: Passing and Returning References of an Object](./3-6-methods-passing-and-returning-references-of-an-object.md)
+- [Class (static) Variables and Methods](./3-7-class-variables-and-methods.md)
+- [Scope and Access](./3-8-scope-and-access.md)
+- [`this` Keyword](./3-9-this-keyword.md)
 {: .notes-list}
 
 ## 4 Data Collections
 
-- Ethical and Social Issues Around Data Collection
-- Data Sets
-- Array Creation and Access
-- Array Traversals
-- Implementing Array Algorithms
-- Using Text Files
-- Wrapper Classes - Integer and Double
-- ArrayList and its Methods
-- ArrayList Traversals
-- Implementing ArrayList Algorithms
-- 2D Array Creation and Access
-- 2D Array Traversals: Nested Loops
-- Implementing 2D Array Algorithms
-- Searching Algorithms
-- Sorting Algorithms
-- Recursion
-- Recursive Searching and Sorting
+- [Ethical and Social Issues Around Data Collection](./4-1-ethical-and-social-issues-around-data-collection.md)
+- [Data Sets](./4-2-data-sets.md)
+- [Array Creation and Access](./4-3-array-creation-and-access.md)
+- [Array Traversals](./4-4-array-traversals.md)
+- [Implementing Array Algorithms](./4-5-implementing-array-algorithms.md)
+- [Using Text Files](./4-6-using-text-files.md)
+- [Wrapper Classes - Integer and Double](./4-7-wrapper-classes-integer-and-double.md)
+- [ArrayList and its Methods](./4-8-array-list-and-its-methods.md)
+- [ArrayList Traversals](./4-9-array-list-traversals.md)
+- [Implementing ArrayList Algorithms](./4-10-implementing-array-list-algorithms.md)
+- [2D Array Creation and Access](./4-11-2d-array-creation-and-access.md)
+- [2D Array Traversals: Nested Loops](./4-12-2d-array-traversals-nested-loops.md)
+- [Implementing 2D Array Algorithms](./4-13-implementing-2d-array-algorithms.md)
+- [Searching Algorithms](./4-14-searching-algorithms.md)
+- [Sorting Algorithms](./4-15-sorting-algorithms.md)
+- [Recursion](./4-16-recursion.md)
+- [Recursive Searching and Sorting](./4-17-recursive-searching-and-sorting.md)
 {: .notes-list}

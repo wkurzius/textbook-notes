@@ -28,6 +28,11 @@ url: "https://mr.kurzius.net" # the base hostname & protocol for your site, e.g.
 
 # Build settings
 theme: minima
+
+header_pages:
+  - index.md
+  - this-week.md
+
 plugins:
   - jekyll-feed
 

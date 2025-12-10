@@ -1,6 +1,6 @@
 ---
 title:  1.15 Strings
-layout: notes
+
 course: AP CSA
 ---
 

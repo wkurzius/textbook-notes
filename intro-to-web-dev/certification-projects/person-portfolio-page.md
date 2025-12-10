@@ -1,6 +1,6 @@
 ---
 title: Personal Portfolio Page
-layout: notes
+
 course: Certification Projects
 ---
 

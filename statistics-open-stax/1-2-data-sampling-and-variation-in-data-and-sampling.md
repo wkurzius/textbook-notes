@@ -1,6 +1,6 @@
 ---
 title: 1.2 Data, Sampling, and Variation in Data and Sampling
-layout: notes
+
 course: Probability & Statistics
 ---
 

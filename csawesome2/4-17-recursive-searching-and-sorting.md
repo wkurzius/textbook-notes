@@ -1,9 +1,12 @@
 ---
 title: 4.17 Recursive Searching and Sorting
-layout: notes
+
 course: AP CSA
 ---
 
+- Determine the result of executing recursive algorithms that use strings or collections
+- Determine the result of each iteration of a binary search algorithm used to search for information in a collection
+- Determine the result of each iteration of the merge sort algorithm when used to sort a collection
 
 ## Assignment
 

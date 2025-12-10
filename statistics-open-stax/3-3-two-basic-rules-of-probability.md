@@ -1,6 +1,6 @@
 ---
 title: 3.3 Two Basic Rules of Probability
-layout: notes
+
 course: Probability & Statistics
 ---
 

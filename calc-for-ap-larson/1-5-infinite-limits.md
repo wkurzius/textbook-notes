@@ -1,6 +1,5 @@
 ---
 title: 1.5 Infinite Limits
-layout: notes
 course: AP Calc
 last-reviewed:
 ---
