@@ -1,7 +1,7 @@
 ---
 title: Personal Portfolio Page
-
-course: Certification Projects
+layout: page
+course: Intro to Web Dev
 ---
 
 [Link to project on freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage){: target="_blank"}

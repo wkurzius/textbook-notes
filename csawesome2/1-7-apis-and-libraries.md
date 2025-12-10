@@ -1,7 +1,7 @@
 ---
 title:  1.7 APIs and Libraries
+layout: page
 course: AP CSA
-
 ---
 
 - Identify the attributes and behaviors of a class found in the libraries contained in an API

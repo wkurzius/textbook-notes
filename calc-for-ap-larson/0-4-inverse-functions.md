@@ -1,6 +1,7 @@
 ---
 title: P.4 Inverse Functions
-course: AP Calc
+colayout: page
+rse: AP Calc
 last-reviewed:
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 4.11 2D Array Creation and Access
-
+layout: page
 course: AP CSA
 ---
 

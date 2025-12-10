@@ -1,5 +1,6 @@
 ---
 title: "*Statistics* by OpenStax Notes"
+layout: page
 ---
 
 - [Online textbook](https://openstax.org/books/statistics/pages/1-introduction){: target="_blank"}

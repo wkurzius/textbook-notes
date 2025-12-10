@@ -20,7 +20,7 @@ sta-2: "**R**{: .day}[6.2 Using the Normal Distribution](./statistics-open-stax/
 sta-3: ""
 sta-x: "Dec. 19"
 
-dev-h: "**Intro to Web Dev.**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target=\"_blank\"}{: .table-head-link}<br>[Certification Projects](./intro-to-web-dev/certification-projects/){: .table-head-link}"
+dev-h: "**Intro to Web Dev.**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target=\"_blank\"}{: .table-head-link}<br>[Certification Projects](./intro-to-web-dev/){: .table-head-link}"
 dev-1: "Photo Gallery (<B) or City Skyline (>B)"
 dev-2: ""
 dev-3: ""

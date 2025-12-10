@@ -1,6 +1,6 @@
 ---
 title: 2.7 Measures of the Spread of the Data
-
+layout: page
 course: Probability & Statistics
 ---
 

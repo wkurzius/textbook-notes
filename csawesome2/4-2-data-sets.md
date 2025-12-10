@@ -1,6 +1,6 @@
 ---
 title: 4.2 Data Sets
-
+layout: page
 course: AP CSA
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "3.6 Methods: Passing and Returning References of an Object"
-
+layout: page
 course: AP CSA
 ---
 

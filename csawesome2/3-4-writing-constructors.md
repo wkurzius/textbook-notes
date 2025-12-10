@@ -1,6 +1,6 @@
 ---
 title: 3.4 Writing Constructors
-
+layout: page
 course: AP CSA
 ---
 

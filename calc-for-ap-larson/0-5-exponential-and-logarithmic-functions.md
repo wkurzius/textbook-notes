@@ -1,5 +1,6 @@
 ---
 title: P.5 Exponential and Logarithmic Functions
+layout: page
 course: AP Calc
 last-reviewed:
 ---

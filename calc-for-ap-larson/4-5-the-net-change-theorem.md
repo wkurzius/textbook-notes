@@ -1,5 +1,6 @@
 ---
 title: 4.5 The Net Change Theorem
+layout: page
 course: AP Calc
 last-reviewed:
 ---

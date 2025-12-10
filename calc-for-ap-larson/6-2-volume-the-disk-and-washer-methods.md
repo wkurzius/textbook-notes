@@ -1,5 +1,6 @@
 ---
 title: "6.2 Volume: The Disk and Washer Methods"
+layout: page
 course: AP Calc
 last-reviewed:
 ---

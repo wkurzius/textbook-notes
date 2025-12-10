@@ -1,5 +1,6 @@
 ---
 title: 4.2 Area
+layout: page
 course: AP Calc
 last-reviewed:
 ---

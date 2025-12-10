@@ -1,5 +1,6 @@
 ---
 title: "*CSAwesome2* Notes"
+layout: page
 ---
 
 - [Syllabus](../syllabi/ap-csa.md)

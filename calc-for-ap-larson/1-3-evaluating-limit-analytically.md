@@ -1,5 +1,6 @@
 ---
 title: 1.3 Evaluating Limits Analytically
+layout: page
 course: AP Calc
 last-reviewed:
 ---

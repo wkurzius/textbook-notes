@@ -1,6 +1,6 @@
 ---
 title: 1.3 Frequency, Frequency Tables, and Levels of Measurement
-
+layout: page
 course: Probability & Statistics
 ---
 

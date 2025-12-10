@@ -1,5 +1,6 @@
 ---
 title: 1.1 A Preview of Calculus
+layout: page
 course: AP Calc
 last-reviewed: 2025-11-14 10:14:20
 ---

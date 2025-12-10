@@ -1,6 +1,6 @@
 ---
 title: 4.4 Array Traversals
-
+layout: page
 course: AP CSA
 ---
 

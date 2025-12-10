@@ -1,6 +1,6 @@
 ---
 title: 4.15 Sorting Algorithms
-
+layout: page
 course: AP CSA
 ---
 

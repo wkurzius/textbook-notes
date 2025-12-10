@@ -1,6 +1,6 @@
 ---
 title: 3.2 Impact of Program Design
-
+layout: page
 course: AP CSA
 ---
 

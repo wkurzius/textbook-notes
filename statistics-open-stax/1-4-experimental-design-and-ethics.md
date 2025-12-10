@@ -1,6 +1,6 @@
 ---
 title: 1.4 Experimental Design and Ethics
-
+layout: page
 course: Probability & Statistics
 ---
 

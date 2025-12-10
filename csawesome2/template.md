@@ -1,5 +1,6 @@
 ---
 title: 
+layout: page
 course: AP CSA
 ---
 

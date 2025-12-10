@@ -1,6 +1,6 @@
 ---
 title: 2.7 While Loops
-
+layout: page
 course: AP CSA
 ---
 

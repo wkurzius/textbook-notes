@@ -1,6 +1,6 @@
 ---
 title: 4.5 Implementing Array Algorithms
-
+layout: page
 course: AP CSA
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 4.6 Using Text Files
-
+layout: page
 course: AP CSA
 ---
 

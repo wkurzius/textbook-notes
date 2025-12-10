@@ -1,5 +1,7 @@
 ---
 title: AP Calc AB Syllabus
+layout: page
+course: AP Calc
 ---
 
 - Mr. Kurzius

@@ -1,6 +1,6 @@
 ---
 title: 2.6 Skewness and the Mean, Median, and Mode
-
+layout: page
 course: Probability & Statistics
 ---
 

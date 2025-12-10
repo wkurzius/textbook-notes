@@ -1,7 +1,7 @@
 ---
 title: Certification Project General Guidelines
-
-course: Certification Projects
+layout: page
+course: Intro to Web Dev
 ---
 
 Each project has specific details about content and style, but there is some information that applies to all the projects., which includes how to validate your code and publishing your finished project. I've also included some starter code along with some general advice.

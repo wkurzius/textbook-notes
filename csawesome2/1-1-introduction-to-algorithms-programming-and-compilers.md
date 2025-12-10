@@ -1,5 +1,6 @@
 ---
 title:  1.1 Introduction to Algorithms, Programming, and Compilers
+layout: page
 course: AP CSA
 ---
 

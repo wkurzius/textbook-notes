@@ -1,6 +1,6 @@
 ---
 title: 2.4 Box Plots
-
+layout: page
 course: Probability & Statistics
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 3.2 Independent and Mutually Exclusive Events
-
+layout: page
 course: Probability & Statistics
 ---
 

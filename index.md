@@ -8,30 +8,30 @@ layout: page
 
 ## AP Computer Science A
 
-- [Syllabus](./syllabi/ap-csa.md)
+- [Syllabus](./csawesome2/ap-csa-syllabus.md)
 - [*CSAwesome2* by Runestone online curriculum](https://runestone.academy/){: target="_blank"}
 - [*CSAwesome2* notes and assignments](./csawesome2/)
 
 ## Concepts of Algebra
 
-- [Syllabus](./syllabi/concepts-of-algebra.md)
+- [Syllabus](./syllabi/concepts-of-algebra-syllabus.md)
 - [*Algebra Basics* on Khan Academy](https://www.khanacademy.org/math/algebra-basics){: target="_blank"}
 
 ## Probability & Statistics
 
-- [Syllabus](./syllabi/prob-and-stats.md)
+- [Syllabus](./statistics-open-stax/prob-and-stats-syllabus.md)
 - [*Statistics* by OpenStax online book](https://openstax.org/details/books/statistics){: target="_blank"}
 - [*Statistics* notes and assignments](./statistics-open-stax/)
 
 ## Intro to Web Development
 
-- [Syllabus](./syllabi/intro-to-web-dev.md)
+- [Syllabus](./intro-to-web-dev/intro-to-web-dev-syllabus.md)
 - [*freeCodeCamp* Responsive Web Design curriculum](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target="_blank"}
-- [Certification Projects](./intro-to-web-dev/certification-projects/)
+- [Certification Projects](./intro-to-web-dev/)
 
 ## AP Calculus
 
-- [Syllabus](./syllabi/ap-calc.md)
+- [Syllabus](./calc-for-ap-larson/ap-calc-syllabus.md)
 - [*Calculus for AP* 2e notes](./calc-for-ap-larson/)
 
 <!--

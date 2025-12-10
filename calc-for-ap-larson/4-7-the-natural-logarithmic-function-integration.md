@@ -1,5 +1,6 @@
 ---
 title: "4.7 The Natural Logarithmic Function: Integration"
+layout: page
 course: AP Calc
 last-reviewed:
 ---

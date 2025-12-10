@@ -1,6 +1,6 @@
 ---
 title: 2.2 Histograms, Frequency Polygons, and Time Series Graphs
-
+layout: page
 course: Probability & Statistics
 ---
 

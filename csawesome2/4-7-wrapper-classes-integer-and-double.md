@@ -1,6 +1,6 @@
 ---
 title: 4.7 Wrapper Classes - Integer and Double
-
+layout: page
 course: AP CSA
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "4.8 Inverse Trigonometric Functions: Integration"
+layout: page
 course: AP Calc
 last-reviewed:
 ---

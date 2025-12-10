@@ -1,6 +1,6 @@
 ---
 title: 4.8 ArrayList and its Methods
-
+layout: page
 course: AP CSA
 ---
 

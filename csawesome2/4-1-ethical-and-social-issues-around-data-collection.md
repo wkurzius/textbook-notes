@@ -1,6 +1,6 @@
 ---
 title: 4.1 Ethical and Social Issues Around Data Collection
-
+layout: page
 course: AP CSA
 ---
 

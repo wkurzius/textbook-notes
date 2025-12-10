@@ -1,5 +1,7 @@
 ---
 title: "AP Computer Science A"
+layout: page
+course: AP CSA
 ---
 
 - Mr. Kurzius

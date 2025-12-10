@@ -1,5 +1,6 @@
 ---
 title: 3.1 Abstraction and Program Design
+layout: page
 course: AP CSA
 ---
 

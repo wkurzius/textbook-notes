@@ -1,5 +1,6 @@
 ---
 title: Setting up a Local Java Environment
+layout: page
 course: AP CSA
 ---
 

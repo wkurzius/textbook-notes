@@ -1,6 +1,6 @@
 ---
 title: 7.1 The Central Limit Theorem for Sample Means (Averages)
-
+layout: page
 course: Probability & Statistics
 ---
 

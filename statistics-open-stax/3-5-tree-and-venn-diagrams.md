@@ -1,6 +1,6 @@
 ---
 title: 3.5 Tree and Venn Diagrams
-
+layout: page
 course: Probability & Statistics
 ---
 

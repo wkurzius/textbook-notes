@@ -1,6 +1,6 @@
 ---
 title: 6.1 The Standard Normal Distribution
-
+layout: page
 course: Probability & Statistics
 ---
 
@@ -9,7 +9,6 @@ course: Probability & Statistics
 - Recognize the normal probability distribution and apply it appropriately
 - Recognize the standard normal probability distribution and apply it appropriately
 - Compare normal probabilities by converting to the standard normal distribution
-
 
 ## Assignment
 
@@ -37,9 +36,9 @@ The events most likely to happen are bunched towards the middle, while the less 
 
 The standard normal distribution is an idealized version of the normal distribution. It has a mean of 0 and a standard deviation of 1. This "ideal" curve is helpful for analysis and comparisons, and more specifically, is used to generate areas above and below _z_-scores, or standard deviations.
 
-> ![](./img/6-1-z-score-area.png)
+> ![Normal distribution with a z-score](./img/6-1-z-score-area.png)
 >
-> **Figure 6.1.2**  A normal distribution with a _z_-score and the area below it shaded. 
+> **Figure 6.1.2**  A normal distribution with a _z_-score and the area below it shaded.
 {: .figure}
 
 ## Calculating _z_-scores

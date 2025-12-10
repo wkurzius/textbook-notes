@@ -1,6 +1,6 @@
 ---
 title: 4.10 Implementing ArrayList Algorithms
-
+layout: page
 course: AP CSA
 ---
 

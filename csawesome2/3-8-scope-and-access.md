@@ -1,6 +1,6 @@
 ---
 title: 3.8 Scope and Access
-
+layout: page
 course: AP CSA
 ---
 

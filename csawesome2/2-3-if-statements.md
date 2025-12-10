@@ -1,6 +1,6 @@
 ---
 title: 2.3 if Statements
-
+layout: page
 course: AP CSA
 ---
 

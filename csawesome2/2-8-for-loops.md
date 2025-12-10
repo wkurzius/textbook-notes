@@ -1,6 +1,6 @@
 ---
 title: 2.8 For Loops
-
+layout: page
 course: AP CSA
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: P.1 Graphs and Models
+layout: page
 course: AP Calc
 last-reviewed:
 ---

@@ -1,5 +1,6 @@
 ---
 title: 2.4 The Chain Rule
+layout: page
 course: AP Calc
 last-reviewed:
 ---

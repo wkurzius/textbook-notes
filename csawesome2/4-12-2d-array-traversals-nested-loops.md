@@ -1,6 +1,6 @@
 ---
 title: "4.12 2D Array Traversals: Nested Loops"
-
+layout: page
 course: AP CSA
 ---
 

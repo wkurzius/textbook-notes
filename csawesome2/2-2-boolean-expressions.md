@@ -1,6 +1,6 @@
 ---
 title: 2.2 Boolean Expressions
-
+layout: page
 course: AP CSA
 ---
 

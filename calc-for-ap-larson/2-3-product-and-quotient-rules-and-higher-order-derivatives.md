@@ -1,5 +1,6 @@
 ---
 title: 2.3 Product and Quotient Rules and Higher-Order Derivatives
+layout: page
 course: AP Calc
 last-reviewed:
 ---

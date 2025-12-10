@@ -1,5 +1,6 @@
 ---
 title: 4.6 Integration by Substitution
+layout: page
 course: AP Calc
 last-reviewed:
 ---

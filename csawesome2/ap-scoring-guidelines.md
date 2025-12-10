@@ -1,5 +1,6 @@
 ---
 title: AP Computer Science A Scoring Guidelines
+layout: page
 course: AP CSA
 ---
 

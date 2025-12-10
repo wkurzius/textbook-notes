@@ -1,6 +1,6 @@
 ---
 title: "3.5 Methods: How to Write Them"
-
+layout: page
 course: AP CSA
 ---
 

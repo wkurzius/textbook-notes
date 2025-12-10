@@ -1,5 +1,6 @@
 ---
 title: 1.6 Limits at Infinity
+layout: page
 course: AP Calc
 last-reviewed:
 ---

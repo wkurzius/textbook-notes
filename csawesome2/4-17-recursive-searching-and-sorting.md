@@ -1,6 +1,6 @@
 ---
 title: 4.17 Recursive Searching and Sorting
-
+layout: page
 course: AP CSA
 ---
 

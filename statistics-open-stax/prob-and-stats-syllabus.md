@@ -1,5 +1,7 @@
 ---
 title: "Probability & Statistics Syllabus"
+layout: page
+course: Probability & Statistics
 ---
 
 - Mr. Kurzius

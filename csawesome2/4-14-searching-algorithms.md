@@ -1,6 +1,6 @@
 ---
 title: 4.14 Searching Algorithms
-
+layout: page
 course: AP CSA
 ---
 

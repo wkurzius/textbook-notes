@@ -1,5 +1,6 @@
 ---
 title:  1.14 Calling Instance Methods
+layout: page
 course: AP CSA
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 6.2 Using the Normal Distribution
-
+layout: page
 course: Probability & Statistics
 ---
 

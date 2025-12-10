@@ -1,6 +1,6 @@
 ---
 title: "2.1 Stem-and-Leaf Graphs (Stemplots), Line Graphs, and Bar Graphs"
-
+layout: page
 course: Probability & Statistics
 ---
 

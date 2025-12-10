@@ -1,6 +1,6 @@
 ---
 title: 3.7 Class (static) Variables and Methods
-
+layout: page
 course: AP CSA
 ---
 

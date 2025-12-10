@@ -1,6 +1,6 @@
 ---
 title: 4.9 ArrayList Traversals
-
+layout: page
 course: AP CSA
 ---
 

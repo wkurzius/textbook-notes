@@ -1,6 +1,6 @@
 ---
 title: 4.16 Recursion
-
+layout: page
 course: AP CSA
 ---
 

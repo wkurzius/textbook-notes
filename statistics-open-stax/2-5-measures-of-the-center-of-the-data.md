@@ -1,6 +1,6 @@
 ---
 title: 2.5 Measures of the Center of the Data
-
+layout: page
 course: Probability & Statistics
 ---
 

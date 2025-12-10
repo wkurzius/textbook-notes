@@ -1,6 +1,6 @@
 ---
 title: 1.1 Definitions of Statistics, Probability, and Key Terms
-
+layout: page
 course: Probability & Statistics
 ---
 

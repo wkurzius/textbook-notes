@@ -1,5 +1,6 @@
 ---
 title:  1.9 Method Signatures
+layout: page
 course: AP CSA
 ---
 

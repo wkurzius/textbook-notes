@@ -1,5 +1,6 @@
 ---
 title: 3.2 Rolle's Theorem and the Mean Value Theorem
+layout: page
 course: AP Calc
 last-reviewed:
 ---

@@ -1,5 +1,6 @@
 ---
 title: Concepts of Algebra
+layout: page
 ---
 
 - Mr. Kurzius

@@ -1,6 +1,6 @@
 ---
 title: 4.3 Array Creation and Access
-
+layout: page
 course: AP CSA
 ---
 

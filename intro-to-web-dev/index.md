@@ -1,6 +1,11 @@
 ---
-title: Certification Projects
+title: Intro to Web Development
+layout: page
 ---
+
+- [Syllabus](./intro-to-web-dev-syllabus.md)
+
+## Certification Projects
 
 Each module on freeCodeCamp ends with a Certification Project, and you will need to complete at least the first two to pass the course. Make sure you read the General Guidelines first, then look at the specific requirements for each.
 

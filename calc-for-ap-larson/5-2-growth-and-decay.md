@@ -1,5 +1,6 @@
 ---
 title: 5.2 Growth and Decay
+layout: page
 course: AP Calc
 last-reviewed:
 ---

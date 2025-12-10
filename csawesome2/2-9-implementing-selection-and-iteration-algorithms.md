@@ -1,6 +1,6 @@
 ---
 title: 2.9 Implementing Selection and Iteration Algorithms
-
+layout: page
 course: AP CSA
 ---
 

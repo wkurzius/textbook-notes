@@ -1,6 +1,6 @@
 ---
 title: 3.3 Anatomy of a Java Class
-
+layout: page
 course: AP CSA
 ---
 

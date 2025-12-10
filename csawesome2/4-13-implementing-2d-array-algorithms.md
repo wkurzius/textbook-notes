@@ -1,6 +1,6 @@
 ---
 title: 4.13 Implementing 2D Array Algorithms
-
+layout: page
 course: AP CSA
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Survey Form
-
-course: Certification Projects
+layout: page
+course: Intro to Web Dev
 ---
 
 [Link to project on freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form){: target="_blank"}

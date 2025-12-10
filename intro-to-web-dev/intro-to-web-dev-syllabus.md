@@ -1,5 +1,7 @@
 ---
 title: "Intro to Web Development Syllabus"
+layout: page
+course: Intro to Web Dev
 ---
 
 - Mr. Kurzius

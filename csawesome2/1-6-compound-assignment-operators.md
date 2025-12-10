@@ -1,5 +1,6 @@
 ---
 title:  1.6 Compound Assignment Operators
+layout: page
 course: AP CSA
 ---
 
