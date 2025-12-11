@@ -34,6 +34,7 @@ minima:
     - index.md
     - this-week.md
   skin: classic
+  toggle: false
 
 plugins:
   - jekyll-feed

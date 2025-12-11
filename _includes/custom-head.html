@@ -1,5 +1,4 @@
-
-<link rel="shortcut icon" type="image/x-icon" href="{{ "/assets/favicon.png" | relative_url }}">
+<link rel="shortcut icon" type="image/x-icon" href="{{ " /assets/favicon.png" | relative_url }}">
 <script defer src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
 <script>
     MathJax = {
@@ -14,3 +13,12 @@
 <link href="/assets/fontawesome/css/fontawesome.css" rel="stylesheet" />
 <link href="/assets/fontawesome/css/brands.css" rel="stylesheet" />
 <link href="/assets/fontawesome/css/solid.css" rel="stylesheet" />
+
+<script>
+    $('#color-toggle').click(function () {
+        $('root').css({
+            'color-scheme': 'dark',
+        });
+    });
+
+</script>
