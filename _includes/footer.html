@@ -2,3 +2,12 @@
   <div class="wrapper">
   </div>
 </footer> -->
+<script>
+  document.getElementById("color-toggle").onclick = function () {
+    mode = document.body.style.colorScheme;
+    if (mode == "dark")
+      document.body.style.colorScheme = "light";
+    else
+      document.body.style.colorScheme = "dark";
+  };
+</script>

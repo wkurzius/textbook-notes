@@ -1,6 +1,5 @@
 // until dark mode is fully implemented
 :root {
-    color-scheme: light;
     --minima-brand-color: #{$lm-brand-color};
     --minima-brand-color-light: #{$lm-brand-color-light};
     --minima-brand-color-dimmed: #{$lm-brand-color-dimmed};
@@ -26,6 +25,11 @@
     --minima-table-header-bg-color: #{$lm-table-header-bg-color};
     --minima-table-header-border: #{$lm-table-header-border};
     --minima-table-border-color: #{$lm-table-border-color};
+}
+
+body {
+    color-scheme: light;
+    background-color: light-dark(white, black);
 }
 
 @mixin blockquote-suppress {
