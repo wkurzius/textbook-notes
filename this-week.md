@@ -58,5 +58,6 @@ Office hours are when I am available in room 31 for extra help or other course-r
 |  L2   | **Office Hours** (Flex) | **Office Hours** (Flex)  |
 |   3   | Prob. & Stats           | AP Calc AB               |
 |   4   | **Office Hours**/Duty   | Duty                     |
+{: #office-hours}
 
 I'm also available before school Tuesday through Thursday.

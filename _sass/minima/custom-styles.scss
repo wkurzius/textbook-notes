@@ -394,3 +394,14 @@ img.icon {
 .right-aligned-table {
     text-align: right;
 }
+
+// minima block table override
+
+@media screen and (max-width: 800px) {
+    table#office-hours {
+        display: table;
+        // overflow-x:;
+        // -webkit-overflow-scrolling: initial;
+        // -ms-overflow-style: -ms-autohiding-scrollbar;
+    }
+}
