@@ -4,10 +4,12 @@ layout: page
 course: Intro to Web Dev
 ---
 
-- Mr. Kurzius
-- Room 31
-- Period B1 (S1 only), 2025–26
-{: .list-headless}
+> Mr. Kurzius
+>
+> Room 31
+>
+> Period B1 (S1 only), 2025–26
+{: .blockquote-to-flex}
 
 ## Course Description
 

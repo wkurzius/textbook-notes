@@ -3,7 +3,7 @@ title: "*Calculus for AP* 2e Notes"
 layout: page
 ---
 
-- [Syllabus](../syllabi/ap-calc.md)
+- [Syllabus](./ap-calc-syllabus.md)
 - [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="_blank"}
 - [Differentiation cheat sheet](../pdfs/differentiation-cheat-sheet.pdf)
 

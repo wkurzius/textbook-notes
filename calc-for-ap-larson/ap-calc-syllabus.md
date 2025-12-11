@@ -4,10 +4,12 @@ layout: page
 course: AP Calc
 ---
 
-- Mr. Kurzius
-- Room 31
-- Period B3, 2025–26
-{: .list-headless}
+> Mr. Kurzius
+>
+> Room 31
+>
+> Period B3, 2025–26
+{: .blockquote-to-flex}
 
 ## Course Description
 

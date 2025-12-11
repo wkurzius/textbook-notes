@@ -4,10 +4,12 @@ layout: page
 course: Probability & Statistics
 ---
 
-- Mr. Kurzius
-- Room 31
-- Period A3 (S1) and B1 (S2), 2025–26
-{: .list-headless}
+> Mr. Kurzius
+>
+> Room 31
+>
+> Period A3 (S1) and B1 (S2), 2025–26
+{: .blockquote-to-flex}
 
 ## Course Description
 

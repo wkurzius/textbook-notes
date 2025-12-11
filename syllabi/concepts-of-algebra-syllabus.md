@@ -3,10 +3,12 @@ title: Concepts of Algebra
 layout: page
 ---
 
-- Mr. Kurzius
-- Room 30
-- Period A2, 2025–26
-{: .list-headless}
+> Mr. Kurzius
+>
+> Room 30
+>
+> Period A2, 2025–26
+{: .blockquote-to-flex}
 
 ## Course Description
 

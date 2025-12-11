@@ -4,10 +4,12 @@ layout: page
 course: AP CSA
 ---
 
-- Mr. Kurzius
-- Room 31
-- Period A1, 2025–26
-{: .list-headless}
+> Mr. Kurzius
+>
+> Room 31
+>
+> Period A1, 2025–26
+{: .blockquote-to-flex}
 
 > College Board significantly revised the AP Computer Science A course for the 2025–26 school year. Be aware of this in case you find yourself doing some extra reading. Here is a list of changes in case you are curious: [AP Computer Science A Revisions for 2025–26](https://apcentral.collegeboard.org/courses/ap-computer-science-a/future-revisions).
 

@@ -3,7 +3,7 @@ title: "*CSAwesome2* Notes"
 layout: page
 ---
 
-- [Syllabus](../syllabi/ap-csa.md)
+- [Syllabus](./ap-csa-syllabus.md)
 - [*CSAwesome2* online curriculum](https://runestone.academy/){: target="_blank"}
 - [Java Quick Reference](../pdfs/ap-csa-java-quick-reference.pdf)
 - [AP Scoring Guidelines](./ap-scoring-guidelines.md)

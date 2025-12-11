@@ -1,4 +1,3 @@
-
 // until dark mode is fully implemented
 :root {
     --minima-brand-color: #{$lm-brand-color};
@@ -26,11 +25,11 @@
     --minima-table-header-bg-color: #{$lm-table-header-bg-color};
     --minima-table-header-border: #{$lm-table-header-border};
     --minima-table-border-color: #{$lm-table-border-color};
-  }
+}
 
 
 
-@mixin no-block {
+@mixin blockquote-suppress {
     background: none;
     border: none;
     padding-left: 0;
@@ -331,16 +330,8 @@ img.icon {
 /////////////////////////////////
 // for PD pages
 
-@mixin no-block {
-    background: none;
-    border: none;
-    padding-left: 0;
-    font-style: normal;
-    color: initial;
-}
-
 .grade-sync-icons {
-    @include no-block;
+    @include blockquote-suppress;
 
     p {
         text-align: center;
@@ -356,7 +347,7 @@ img.icon {
 }
 
 .grade-sync-warnings {
-    @include no-block;
+    @include blockquote-suppress;
     background-color: #c00000;
     color: white;
     font-weight: bold;
@@ -385,4 +376,12 @@ img.icon {
         // -webkit-overflow-scrolling: initial;
         // -ms-overflow-style: -ms-autohiding-scrollbar;
     }
+}
+
+.blockquote-to-flex {
+    @include blockquote-suppress;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
