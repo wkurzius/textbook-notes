@@ -1,5 +1,6 @@
 ---
 title: "Summer Work 2025"
+layout: page
 ---
 
 The work below is recommended, not required.

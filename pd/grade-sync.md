@@ -1,5 +1,6 @@
 ---
 title: Grade Sync
+layout: page
 ---
 
 [Link to Canvas’s guide on the topic](https://community.canvaslms.com/t5/Data-Sync-and-Canvas/How-do-I-sync-my-Canvas-assignment-groups-with-SIS-grading/ta-p/636603)

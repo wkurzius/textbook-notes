@@ -1,5 +1,6 @@
 ---
 title: "Bell Schedules 2024–2025"
+layout: page
 ---
 
 {: .bell-schedules-table}

@@ -33,7 +33,7 @@ minima:
   nav_pages:
     - index.md
     - this-week.md
-  # skin: auto
+  skin: classic
 
 plugins:
   - jekyll-feed

@@ -1,5 +1,6 @@
 ---
 title: Useful Math Links
+layout: page
 ---
 
 ## Tools and Calculators

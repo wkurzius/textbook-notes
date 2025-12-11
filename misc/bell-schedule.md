@@ -1,5 +1,6 @@
 ---
 title: "Bell Schedules 2025–2026"
+layout: page
 ---
 
 |       | Start |  End  | Start$_e$ | End$_e$ | Start$_d$ | End$_d$ |

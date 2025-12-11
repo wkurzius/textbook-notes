@@ -31,6 +31,7 @@ Now that we've looked at the derivatives for increasing/decreasing and concavity
 > 1. Determine the domain and range of the function
 > 2. Determine the intercepts, asymptotes, and symmetry of the graph.
 > 3. Find critical points for $f'$ and $f^{\prime\prime}$ and determine extrema and points of inflection.
+{: .definition}
 
 The book has a slew of examples which highlight some common things to look for, as well as organizational tips. When you read through them, here are some things to look for.
 

@@ -1,5 +1,6 @@
 ---
 title: Differentiation Tags
+layout: page
 ---
 
 [Link to Canvas’s guide on the topic](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-and-manage-Differentiation-Tags-as-an-instructor/ta-p/648065)

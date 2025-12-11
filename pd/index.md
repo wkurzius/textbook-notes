@@ -1,5 +1,6 @@
 ---
 title: PD Materials
+layout: page
 ---
 
 Remember having publicly accessible teacher sites?

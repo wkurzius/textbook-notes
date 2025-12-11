@@ -1,14 +1,34 @@
-:root {
-    --bg-color: #fdfdfd;
-    --fg-color: #111;
-}
 
-// @media (prefers-color-scheme: dark) {
-//     :root {
-//         --bg-color: #191b1c;
-//         --text-color: #dddad6;
-//     }
-// }
+// until dark mode is fully implemented
+:root {
+    --minima-brand-color: #{$lm-brand-color};
+    --minima-brand-color-light: #{$lm-brand-color-light};
+    --minima-brand-color-dimmed: #{$lm-brand-color-dimmed};
+    --minima-brand-color-dark: #{$lm-brand-color-dark};
+
+    --minima-site-title-color: #{$lm-site-title-color};
+
+    --minima-heading-color: #{$lm-heading-color};
+    --minima-text-color: #{$lm-text-color};
+    --minima-background-color: #{$lm-background-color};
+    --minima-code-background-color: #{$lm-code-background-color};
+
+    --minima-link-base-color: #{$lm-link-base-color};
+    --minima-link-visited-color: #{$lm-link-visited-color};
+    --minima-link-hover-color: #{$lm-link-hover-color};
+
+    --minima-border-color-01: #{$lm-border-color-01};
+    --minima-border-color-02: #{$lm-border-color-02};
+    --minima-border-color-03: #{$lm-border-color-03};
+
+    --minima-table-text-color: #{$lm-table-text-color};
+    --minima-table-zebra-color: #{$lm-table-zebra-color};
+    --minima-table-header-bg-color: #{$lm-table-header-bg-color};
+    --minima-table-header-border: #{$lm-table-header-border};
+    --minima-table-border-color: #{$lm-table-border-color};
+  }
+
+
 
 @mixin no-block {
     background: none;
@@ -18,25 +38,12 @@
     color: initial;
 }
 
-body {
-    background-color: var(--bg-color);
-    color: var(--fg-color);
-}
-
 ul {
     margin-left: 50px;
 }
 
 .red {
     color: red;
-}
-
-.gray {
-    color: gray;
-}
-
-.grey {
-    color: gray;
 }
 
 .ka-familiar {
@@ -51,8 +58,9 @@ ul {
     /*display: inline-block;*/
     padding-left: 0.5rem;
     margin-left: 0.25rem;
-    border-left: 1px solid grey;
-    color: grey;
+    border-left: 1px solid var(--minima-text-color);
+    color: var(--minima-text-color);
+    opacity: 0.6;
 }
 
 .teal-box {
@@ -65,18 +73,9 @@ blockquote {
     letter-spacing: inherit;
     font-size: inherit;
     // font-style: inherit;
-    color: #333;
-    background-color: #fafafa;
-    border-left-color: #999;
-}
-
-.post-list-heading {
-    font-size: revert;
-    border-top: 1px solid grey;
-}
-
-.post-list h3 .post-link {
-    font-size: revert;
+    color: var(--minima-text-color);
+    background-color: var(--minima-background-color);
+    border-left-color: var(--minima-border-color-02);
 }
 
 h1 code {
@@ -86,18 +85,13 @@ h1 code {
 }
 
 .footnotes {
-    border-top: 1px solid #555;
+    border-top: 1px solid var(--minima-border-color-01);
     margin-top: 5rem;
-}
-
-.lesson-dates {
-    border-bottom: 2px solid #555;
-    padding-bottom: 1rem;
-    margin-top: -0.5rem;
+    padding-top: 1rem;
 }
 
 hr {
-    border: 1px solid #555;
+    border: 1px solid var(--minima-border-color-01);
     margin-bottom: 1rem;
 }
 
@@ -106,16 +100,9 @@ hr {
     border-right-width: 5px;
 }
 
-.next-quiz::before {
-    content: "!";
-    font-weight: bold;
-    color: red;
-    padding-right: 0.25rem;
-}
-
 blockquote.definition {
     border: none;
-    background-color: #eeeed0;
+    background-color: var(--minima-border-color-01);
     font-style: normal;
     padding: 1rem;
 }
@@ -126,6 +113,7 @@ blockquote.definition h5 {
     font-size: 1rem;
     font-weight: bold;
     border-bottom: 1px solid gray;
+    margin-top: 0;
 }
 
 h2#assignment,
@@ -137,28 +125,9 @@ h2#extra-practice {
     font-weight: normal;
 }
 
-.v {
-    color: hsl(330, 50%, 35%);
-}
-
-.f47 {
-    text-align: center;
-}
-
-.f47::before {
-    content: "🇺🇦";
-}
-
 .site-title a,
 .site-title a:visited {
-    color: #424242;
-}
-
-.info-block {
-    background-color: #3fcfff;
-    border-radius: 0.25rem;
-    border: 1px solid #3fcfff;
-    padding: 0.5rem 1rem;
+    color: var(--minima-text-color);
 }
 
 .figure {
@@ -169,7 +138,6 @@ h2#extra-practice {
     font-style: normal;
     padding-top: 1rem;
     padding-bottom: 1rem;
-
 }
 
 .figure p:nth-child(2) {
@@ -194,7 +162,7 @@ h2#extra-practice {
     border: none;
     background: none;
     padding: 0;
-    border-bottom: 1px solid #e8e8e8;
+    border-bottom: 1px solid var(--minima-border-color-01);
     // padding: 0;
     // font-size: small;
     font-style: normal;
@@ -206,8 +174,8 @@ h2#extra-practice {
 .example h2,
 .example h3,
 .example h4 {
-    background: black;
-    color: white;
+    background: var(--minima-text-color);
+    color: var(--minima-background-color);
     padding: 0.25rem 1rem;
     text-transform: uppercase;
     font-size: 18px;
@@ -333,7 +301,7 @@ table.rouge-table * {
 table.rouge-table .rouge-gutter {
     width: 0;
     padding-right: 1em;
-    border-right: 1px solid oklab(0.8 0 0);
+    border-right: 1px solid var(--minima-border-color-02);
     text-align: right;
 }
 
@@ -358,6 +326,17 @@ table.rouge-table .rouge-code {
 
 img.icon {
     width: 1.5rem;
+}
+
+/////////////////////////////////
+// for PD pages
+
+@mixin no-block {
+    background: none;
+    border: none;
+    padding-left: 0;
+    font-style: normal;
+    color: initial;
 }
 
 .grade-sync-icons {
@@ -386,6 +365,8 @@ img.icon {
     margin-left: auto;
     margin-right: auto;
 }
+
+/////////////////////////////////
 
 .headless-table thead {
     display: none;
