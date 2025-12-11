@@ -1,35 +1,29 @@
-// until dark mode is fully implemented
 :root {
-    --minima-brand-color: #{$lm-brand-color};
-    --minima-brand-color-light: #{$lm-brand-color-light};
-    --minima-brand-color-dimmed: #{$lm-brand-color-dimmed};
-    --minima-brand-color-dark: #{$lm-brand-color-dark};
+    --minima-brand-color:               light-dark(#{$lm-brand-color}, #{$dm-brand-color});
+    --minima-brand-color-light:         light-dark(#{$lm-brand-color-light}, #{$dm-brand-color-light});
+    --minima-brand-color-dimmed:        light-dark(#{$lm-brand-color-dimmed}, #{$dm-brand-color-dimmed});
+    --minima-brand-color-dark:          light-dark(#{$lm-brand-color-dark}, #{$dm-brand-color-dark});
 
-    --minima-site-title-color: #{$lm-site-title-color};
+    --minima-site-title-color:          light-dark(#{$lm-site-title-color}, #{$dm-site-title-color});
 
-    --minima-heading-color: #{$lm-heading-color};
-    --minima-text-color: #{$lm-text-color};
-    --minima-background-color: #{$lm-background-color};
-    --minima-code-background-color: #{$lm-code-background-color};
+    --minima-heading-color:             light-dark(#{$lm-heading-color}, #{$dm-heading-color});
+    --minima-text-color:                light-dark(#{$lm-text-color}, #{$dm-text-color});
+    --minima-background-color:          light-dark(#{$lm-background-color}, #{$dm-background-color});
+    --minima-code-background-color:     light-dark(#{$lm-code-background-color}, #{$dm-code-background-color});
 
-    --minima-link-base-color: #{$lm-link-base-color};
-    --minima-link-visited-color: #{$lm-link-visited-color};
-    --minima-link-hover-color: #{$lm-link-hover-color};
+    --minima-link-base-color:           light-dark(#{$lm-link-base-color}, #{$dm-link-base-color});
+    --minima-link-visited-color:        light-dark(#{$lm-link-visited-color}, #{$dm-link-visited-color});
+    --minima-link-hover-color:          light-dark(#{$lm-link-hover-color}, #{$dm-link-hover-color});
 
-    --minima-border-color-01: #{$lm-border-color-01};
-    --minima-border-color-02: #{$lm-border-color-02};
-    --minima-border-color-03: #{$lm-border-color-03};
+    --minima-border-color-01:           light-dark(#{$lm-border-color-01}, #{$dm-border-color-01});
+    --minima-border-color-02:           light-dark(#{$lm-border-color-02}, #{$dm-border-color-02});
+    --minima-border-color-03:           light-dark(#{$lm-border-color-03}, #{$dm-border-color-03});
 
-    --minima-table-text-color: #{$lm-table-text-color};
-    --minima-table-zebra-color: #{$lm-table-zebra-color};
-    --minima-table-header-bg-color: #{$lm-table-header-bg-color};
-    --minima-table-header-border: #{$lm-table-header-border};
-    --minima-table-border-color: #{$lm-table-border-color};
-}
-
-body {
-    color-scheme: light;
-    background-color: light-dark(white, black);
+    --minima-table-text-color:          light-dark(#{$lm-table-text-color}, #{$dm-table-text-color});
+    --minima-table-zebra-color:         light-dark(#{$lm-table-zebra-color}, #{$dm-table-zebra-color});
+    --minima-table-header-bg-color:     light-dark(#{$lm-table-header-bg-color}, #{$dm-table-header-bg-color});
+    --minima-table-header-border:       light-dark(#{$lm-table-header-border}, #{$dm-table-header-border});
+    --minima-table-border-color:        light-dark(#{$lm-table-border-color}, #{$dm-table-border-color});
 }
 
 @mixin blockquote-suppress {
@@ -393,4 +387,8 @@ img.icon {
 
 .site-header .nav-items {
     display: inline-block;
+}
+
+#color-toggle {
+    margin-left: 1rem;
 }
