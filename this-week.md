@@ -1,36 +1,36 @@
 ---
-title: "This Week (Dec. 1–5)"
+title: "This Week (Dec. 15–19)"
 layout: this-week
 
 csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/){: .table-head-link}<br>[Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\" .table-head-link}"
-csc-1: "**T**{: .day}Magpie Lab"
-csc-2: "**R**{: .day}[3.1 Abstraction and Program Design](./csawesome2/3-1-abstraction-and-program-design.html) and [3.2 Impact of Program Design](./csawesome2/3-2-impact-of-program-design.html)"
-csc-3: ""
+csc-1: "**M**{: .day}[3.3 Anatomy of a Java Class](./csawesome2/3-3-anatomy-of-a-java-class.html)"
+csc-2: "**W**{: .day}[3.4 Writing Constructors](./csawesome2/3-4-writing-constructors.html)"
+csc-3: "**F**{: .day}Progress Check/Review"
 csc-x: "Dec. 23"
 
 con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/math/algebra-basics){: target=\"_blank\"}"
-con-1: "Algebraic Expressions"
+con-1: "Quiz Friday on Algebraic Expressions "
 con-2: ""
 con-3: ""
-con-x: "–"
+con-x: "Dec. 19"
 
 sta-h: "**Prob. & Stats**<br>[Notes and HW](./statistics-open-stax/){: .table-head-link}<br>[Book](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" .table-head-link}"
-sta-1: "**T**{: .day}[6.1 The Standard Normal Distribution](./statistics-open-stax/6-1-the-standard-normal-distribution.html)"
-sta-2: "**R**{: .day}[6.2 Using the Normal Distribution](./statistics-open-stax/6-2-using-the-normal-distribution.html)"
-sta-3: ""
+sta-1: "**M**{: .day}"
+sta-2: "**W**{: .day}"
+sta-3: "**F**{: .day}Ch 6 Quiz"
 sta-x: "Dec. 19"
 
 dev-h: "**Intro to Web Dev.**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target=\"_blank\"}{: .table-head-link}<br>[Certification Projects](./intro-to-web-dev/){: .table-head-link}"
-dev-1: "Photo Gallery (<B) or City Skyline (>B)"
+dev-1: "Nutrition Label (<B) or Product Landing Page (>B)"
 dev-2: ""
 dev-3: ""
 dev-x: "–"
 
 cal-h: "**AP Calc**<br>[Notes and HW](./calc-for-ap-larson/)"
-cal-1: "**M**{: .day}[7.7 Indeterminate Forms and L'Hôpital's Rule](./calc-for-ap-larson/7-7-indeterminate-forms-and-lhopitals-rule.html)"
-cal-2: "**W**{: .day}MP1 Quiz 2"
-cal-3: "**F**{: .day}[3.1 Extrema on an Interval](./calc-for-ap-larson/3-1-extrema-on-an-interval.html)"
-cal-x: "Dec. 10"
+cal-1: "**T**{: .day}[3.2 Mean Value Theorem](./calc-for-ap-larson/3-2-rolles-theorem-and-the-mean-value-theorem.html)"
+cal-2: "**R**{: .day}[3.3 Increasing and Decreasing Functions and the First Derivative Test](./calc-for-ap-larson/3-3-the-first-derivative-test.html)"
+cal-3: ""
+cal-x: "Dec. 22"
 ---
 
 - {: .home}[Site home](./)
