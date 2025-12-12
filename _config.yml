@@ -33,8 +33,7 @@ minima:
   nav_pages:
     - index.md
     - this-week.md
-  toggle: false
-  skin: classic
+  toggle: true
 
 plugins:
   - jekyll-feed

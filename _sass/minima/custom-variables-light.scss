@@ -1,0 +1,29 @@
+// Placeholder to allow overriding predefined variables smoothly.
+
+:root {
+    --minima-brand-color:               #{$lm-brand-color};
+    --minima-brand-color-light:         #{$lm-brand-color-light};
+    --minima-brand-color-dimmed:        #{$lm-brand-color-dimmed};
+    --minima-brand-color-dark:          #{$lm-brand-color-dark};
+
+    --minima-site-title-color:          #{$lm-site-title-color};
+
+    --minima-heading-color:             #{$lm-heading-color};
+    --minima-text-color:                #{$lm-text-color};
+    --minima-background-color:          #{$lm-background-color};
+    --minima-code-background-color:     #{$lm-code-background-color};
+
+    --minima-link-base-color:           #{$lm-link-base-color};
+    --minima-link-visited-color:        #{$lm-link-visited-color};
+    --minima-link-hover-color:          #{$lm-link-hover-color};
+
+    --minima-border-color-01:           #{$lm-border-color-01};
+    --minima-border-color-02:           #{$lm-border-color-02};
+    --minima-border-color-03:           #{$lm-border-color-03};
+
+    --minima-table-text-color:          #{$lm-table-text-color};
+    --minima-table-zebra-color:         #{$lm-table-zebra-color};
+    --minima-table-header-bg-color:     #{$lm-table-header-bg-color};
+    --minima-table-header-border:       #{$lm-table-header-border};
+    --minima-table-border-color:        #{$lm-table-border-color};
+}
