@@ -14,3 +14,7 @@ course: AP CSA
 
 ---
 
+## The Constructor Signature
+
+Constructors are methods ([debatable](https://stackoverflow.com/questions/3646461/can-i-say-a-constructor-is-a-method)) with a very specific function, so their signatures look a little different than other methods: there is no return type, not even `void`; and the constructors name is identical to the class name.
+
