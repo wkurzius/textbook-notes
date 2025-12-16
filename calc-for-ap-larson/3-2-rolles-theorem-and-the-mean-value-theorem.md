@@ -82,7 +82,7 @@ x &= \pm 2
 
 Only one of those falls within our interval, so one point satisfies and that is when $x=2$.
 
-$\blacksquare$
+■
 {: .qed}
 
 > ## Example 2
@@ -101,7 +101,7 @@ $$\begin{align}
 
 By the Mean Value Theorem, if the truck's average speed was 75 miles per hour, it must have traveled at 75 miles per hour at some point (likely way more than that for a significant portion of the time).
 
-$\blacksquare$
+■
 {: .qed}
 
 Problems don't get much more complicated than that. The trick is recognizing _when_ it needs to be applied, and also invoking its name in any FRQs.

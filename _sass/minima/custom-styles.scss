@@ -73,6 +73,7 @@ blockquote.definition {
     background-color: var(--definition-background-color);
     font-style: normal;
     padding: 1rem;
+    color: var(--definition-text-color);
 }
 
 blockquote.definition h3,
@@ -82,6 +83,8 @@ blockquote.definition h5 {
     font-weight: bold;
     border-bottom: 1px solid gray;
     margin-top: 0;
+    color: var(--definition-text-color);
+
 }
 
 h2#assignment,
@@ -142,7 +145,7 @@ h2#extra-practice {
 .example h2,
 .example h3,
 .example h4 {
-    background: var(--minima-text-color);
+    background: var(--example-heading-color);
     color: var(--minima-background-color);
     padding: 0.25rem 1rem;
     text-transform: uppercase;
@@ -150,6 +153,7 @@ h2#extra-practice {
 }
 
 .qed {
+    color: var(--example-heading-color);
     text-align: right;
 }
 
