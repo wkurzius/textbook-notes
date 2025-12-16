@@ -17,12 +17,13 @@
     let prevSkin = localStorage.getItem("minima-ss");
     let isDark = false;
     const darkness = window.matchMedia('(prefers-color-scheme: dark)');
+    const inIframe = window.self !== window.top;
 
     if (prevSkin == "style-dark.css") {
       metaTag.href = SSHref.replace(SSName, prevSkin);
       isDark = true;
     }
-    else if (darkness.matches && prevSkin != "style-light.css") {
+    else if (darkness.matches && prevSkin != "style-light.css" && !inIframe) {
       metaTag.href = SSHref.replace(SSName, "style-dark.css");
       isDark = true;
     }
