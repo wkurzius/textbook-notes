@@ -9,29 +9,34 @@
 
   <link id="main-stylesheet" rel="stylesheet" href="{{ '/assets/css/style-light.css' | relative_url }}">
   <script>
-    // document.getElementById("skin-switch-container").style.display = "block";
-    var metaTag = document.getElementById("main-stylesheet");
-    // var skinSwitcher = document.getElementById("skin-switch");
-    var SSHref = metaTag.href;
-    var SSName = SSHref.substring(SSHref.lastIndexOf('/') + 1);
-    var prevSkin = localStorage.getItem("minima-ss");
+    let metaTag = document.getElementById("main-stylesheet");
+    let SSHref = metaTag.href;
+    let SSName = SSHref.substring(SSHref.lastIndexOf('/') + 1);
+    let prevSkin = localStorage.getItem("minima-ss");
+    let isDark = false;
+    const darkness = window.matchMedia('(prefers-color-scheme: dark)');
 
-    if (prevSkin) {
+    if (prevSkin == "style-dark.css") {
       metaTag.href = SSHref.replace(SSName, prevSkin);
-      // skinSwitcher.value = prevSkin;
-    } else {
-      // skinSwitcher.value = SSName;
+      isDark = true;
+    }
+    else if (darkness.matches) {
+      metaTag.href = SSHref.replace(SSName, "style-dark.css");
+      isDark = true;
     }
 
     function changeSkin() {
-      var prevSkin = localStorage.getItem("minima-ss");
-      if (prevSkin == "style-dark.css") {
+      console.log(isDark)
+      if (isDark) {
         metaTag.href = SSHref.replace(SSName, "style-light.css");
         localStorage.setItem("minima-ss", "style-light.css");
+        isDark = false;
       } else {
         metaTag.href = SSHref.replace(SSName, "style-dark.css");
         localStorage.setItem("minima-ss", "style-dark.css");
+        isDark = true;
       }
+      console.log(isDark)
     }
 
   </script>
