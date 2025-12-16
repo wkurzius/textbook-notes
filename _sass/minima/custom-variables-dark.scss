@@ -9,8 +9,8 @@
 
     --minima-site-title-color:          #{$dm-site-title-color};
 
-    --minima-heading-color:             #{$dm-heading-color};
-    --minima-text-color:                #{$dm-text-color};
+    --minima-heading-color:             #A3A3A3;
+    --minima-text-color:                #A3A3A3;
     --minima-background-color:          #{$dm-background-color};
     --minima-code-background-color:     #{$dm-code-background-color};
 
@@ -28,7 +28,8 @@
     --minima-table-header-border:       #{$dm-table-header-border};
     --minima-table-border-color:        #{$dm-table-border-color};
 
-    --definition-background-color: var(--p-800);
-    --definition-text-color: white;
+    --definition-background-color: var(--p-900);
+    --definition-text-color: #BABABA;
+    --definition-border-color: var(--p-400);
     --example-heading-color: var(--c-200);
 }

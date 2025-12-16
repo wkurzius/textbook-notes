@@ -6,6 +6,10 @@
     color: var(--minima-text-color);
 }
 
+body {
+    color: var(--minima-text-color);
+}
+
 ul {
     margin-left: 50px;
 }
@@ -81,7 +85,7 @@ blockquote.definition h4,
 blockquote.definition h5 {
     font-size: 1rem;
     font-weight: bold;
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid var(--definition-border-color);
     margin-top: 0;
     color: var(--definition-text-color);
 
