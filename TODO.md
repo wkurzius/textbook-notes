@@ -4,10 +4,7 @@ title: TODO
 
 ## General
 
-- Merge with main github.io repository? Possibly also use mr.kurzius.net as main address.
-- Figures. See Algebra 2 5.6
-- Vocabulary!
-- Run everything through a grammar checker.
+- Stylesheet clean-up and migrate to 3.0.0 to suppress warnings
 
 ## Calc
 

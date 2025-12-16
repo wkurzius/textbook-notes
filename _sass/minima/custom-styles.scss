@@ -70,7 +70,7 @@ hr {
 
 blockquote.definition {
     border: none;
-    background-color: var(--minima-border-color-01);
+    background-color: var(--definition-background-color);
     font-style: normal;
     padding: 1rem;
 }
@@ -367,5 +367,11 @@ img.icon {
 }
 
 #color-toggle:hover {
+    color: color-mix(in srgb, var(--minima-text-color) 70%, var(--minima-background-color) 30%);
+}
+
+footer .last-reviewed {
+    font-size: small;
+    font-style: italic;
     color: color-mix(in srgb, var(--minima-text-color) 70%, var(--minima-background-color) 30%);
 }

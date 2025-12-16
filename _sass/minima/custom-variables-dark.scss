@@ -1,4 +1,5 @@
 // Placeholder to allow overriding predefined variables smoothly.
+@use 'sass:color';
 
 :root {
     --minima-brand-color:               #{$dm-brand-color};
@@ -26,4 +27,6 @@
     --minima-table-header-bg-color:     #{$dm-table-header-bg-color};
     --minima-table-header-border:       #{$dm-table-header-border};
     --minima-table-border-color:        #{$dm-table-border-color};
+
+    --definition-background-color: #{$dm-border-color-01};
 }
