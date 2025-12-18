@@ -71,7 +71,7 @@ Here is the completed table.
 
 ## The First Derivative Test
 
-The above process leads to a nice side effect: determining whether critical points are maxima or minima. If consecutive intervals switch from increasing to decreasing, then you have a relative maximum. It's a minimum when going from decreasing to increasing.
+The above process leads to a nice side effect: you can quickly spot whether a critical point is a maximum or a minimum. If consecutive intervals switch from increasing to decreasing, then you have a relative maximum. It's a minimum when going from decreasing to increasing.
 
 Just watch for situations where part of the domain is missing. For $f(x)=\frac{1}{x^2}$, you end up with a table like this.
 
