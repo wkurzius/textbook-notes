@@ -2,7 +2,7 @@
 title: 3.3 Increasing and Decreasing Functions and the First Derivative Test
 layout: page
 course: AP Calc
-last-reviewed:
+last-reviewed: 2025-12-18 09:48:25
 ---
 
 - Determine intervals on which a function is increasing or decreasing.
@@ -43,11 +43,12 @@ f'(x) &= 3x^2 - 3x \\[1em]
 
 The derivative is a polynomial, so we don't need to worry about any places where is doesn't exist, so we're left with critical points at $x=0$ and $x=1$. These will act as our interval boundaries.
 
-At this point, it's helpful to set up a table or a sign chart to keep track of your intervals. In our case, we have two critical points, meaning three intervals.
+At this point, it's helpful to set up a table or a sign chart to keep track of your intervals. In our case, we have two critical points, meaning three intervals. I'll also set up rows for the test and resulting sign. the next steps, which is the test and .
 
-| $x<0$ | $0<x<1$ | $x>1$ |
-| :---: | :-----: | :---: |
-|   ?   |    ?    |   ?   |
+| Interval     | $x<0$ | $0<x<1$ | $x>1$ |
+| ------------ | :---: | :-----: | :---: |
+| $f'$ test    |       |         |       |
+| Sign of $f'$ |       |         |       |
 
 Now, pick a value in each interval and plug it into your derivative to see if it's positive or negative.
 
@@ -57,21 +58,26 @@ For the other interval we need to pick a reasonable value to test. I'll go with 
 
 > Tip: you have access to both the original and factored versions of the derivative, so use whichever will be easiest. Though, factored might be preferred since you just need the sign.
 
-The completed table looks like this.
+Here is the completed table.
 
-| Interval     | $x<0$ | $0<x<1$ | $x>1$ |
-| ------------ | :---: | :-----: | :---: |
-| Sign of $f'$ |  $+$  |   $-$   |  $+$  |
-| Conclusion   | Inc.  |  Dec.   | Inc.  |
+| Interval     |        $x<0$         |                  $0<x<1$                  |        $x>1$        |
+| ------------ | :------------------: | :---------------------------------------: | :-----------------: |
+| $f'$ test    | $f'(-100) = 29\,700$ | $f'\left(\frac{1}{2}\right)=-\frac{3}{4}$ | $f'(100) = 29\,700$ |
+| Sign of $f'$ |         $+$          |                    $-$                    |         $+$         |
+| Conclusion   |         Inc.         |                   Dec.                    |        Inc.         |
 
 ■
 {: .qed}
 
-
-
-
 ## The First Derivative Test
 
-This is pretty straightforward: if consecutive intervals switch from increasing to decreasing, then you have a relative maximum. It's a minimum when going from decreasing to increasing.
+The above process leads to a nice side effect: determining whether critical points are maxima or minima. If consecutive intervals switch from increasing to decreasing, then you have a relative maximum. It's a minimum when going from decreasing to increasing.
 
-This doesn't wholly replace what you learned in [3.1](./3.1-extrema-on-an-interval.md). The first derivative test is good for curve sketching, while finding absolute extrema still requires evaluating and comparing critical points.
+Just watch for situations where part of the domain is missing. For $f(x)=\frac{1}{x^2}$, you end up with a table like this.
+
+| Interval     | $x<0$ | $x>0$ |
+| ------------ | :---: | :---: |
+| Sign of $f'$ |  $+$  |  $-$  |
+| Conclusion   | Inc.  | Dec.  |
+
+This implies that there is a a maximum at $x=0$, but $f(0)$ does not exist.
