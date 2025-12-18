@@ -26,17 +26,49 @@ last-reviewed:
 
 The theme of this chapter is curve sketching, or how to determine the features of a curve without technology. In the first section we found out how to find extreme points. After a short detour with the Mean Value Theorem—which is used to prove a lot of the ideas in this section—we're back to curve sketching with increasing and decreasing functions.
 
-This is a pretty straightforward idea on the surface. If the derivative is positive, the slope is positive, so the function is increasing. Negative means decreasing. However, testing every number is not very productive, so we'll combine this with the idea of critical points. Critical points were all candidates for local extrema, so that means in between those critical points, the slope will be consistently positive or negative.
+This is a pretty straightforward idea on the surface. If the derivative is positive, the slope is positive, so the function is increasing. Negative means decreasing. However, testing every number is not realistic, so we'll combine this with the idea of critical points. Critical points were all candidates for local extrema, so that means in between those critical points, the slope will be consistently positive or negative.
 
-### Example
+> ### Example
+>
+> Find the open intervals on which $f(x)=x^3-\frac{3}{2}x^2$ is increasing or decreasing.
+{: .example}
 
-Let's look at the function $f(x)=x^3-\frac{3}{2}x^2$. It's derivative is $f'(x)=3x^2 - 3x$. There are no places where $f'$ doesn't exist, so we can just set it equal to zero to find our critical points. Factoring gives us $0=(3x)(x-1)$, so at $x=0$ and $x=1$.
+We'll start with the same process for finding extrema, meaning we need a derivative so we can find critical points.
 
-From here, it's helpful to set up a table or a sign chart to keep track of your intervals. Regardless of how you choose to organize, pick a value in each interval and plug it into your derivative to see if it's positive or negative. In our case, we have three intervals: $x < 0$, $0 < x < 1$, and $x > 1$.
+$$\begin{align}
+f(x) &= x^3 - \frac{3}{2}x^2 \\
+f'(x) &= 3x^2 - 3x \\[1em]
+0 &= 3x(x-1)
+\end{align}$$
 
-With the end intervals, pick massive numbers to make your life easier. We only need a sign, so the exact value is unnecessary. In this case, our derivative is an even degree polynomial with a positive coeffecient, so the end intervals are positive, meaning the original function is increasing there.
+The derivative is a polynomial, so we don't need to worry about any places where is doesn't exist, so we're left with critical points at $x=0$ and $x=1$. These will act as our interval boundaries.
 
-For the other interval, use either the original or the factored derivative. One might be easier than the other depending on the number you plug in. Factored might be preferred since you just need the sign. Anything between 0 and 1 is positive, so $3x$ is always positive, but $x-1$ will always be negative, so a decreasing interval.
+At this point, it's helpful to set up a table or a sign chart to keep track of your intervals. In our case, we have two critical points, meaning three intervals.
+
+| $x<0$ | $0<x<1$ | $x>1$ |
+| :---: | :-----: | :---: |
+|   ?   |    ?    |   ?   |
+
+Now, pick a value in each interval and plug it into your derivative to see if it's positive or negative.
+
+With the end intervals, pick massive numbers to make your life easier. We only need a sign, so the exact value is unnecessary. In this case, our derivative is an even degree polynomial with a positive coefficient, so you should get positives when you test. So, for these end intervals, our function is increasing.
+
+For the other interval we need to pick a reasonable value to test. I'll go with $\frac{1}{2}$, which leads to $f'\left(\frac{1}{2}\right)=\frac{3}{2}\left(-\frac{1}{2}\right)=-\frac{3}{4}$
+
+> Tip: you have access to both the original and factored versions of the derivative, so use whichever will be easiest. Though, factored might be preferred since you just need the sign.
+
+The completed table looks like this.
+
+| Interval     | $x<0$ | $0<x<1$ | $x>1$ |
+| ------------ | :---: | :-----: | :---: |
+| Sign of $f'$ |  $+$  |   $-$   |  $+$  |
+| Conclusion   | Inc.  |  Dec.   | Inc.  |
+
+■
+{: .qed}
+
+
+
 
 ## The First Derivative Test
 
