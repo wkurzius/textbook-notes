@@ -3,8 +3,8 @@ title: 3.3 Increasing and Decreasing Functions and the First Derivative Test
 layout: page
 course: AP Calc
 last-reviewed: 2025-12-18 09:48:25
-prev-link: 
-next-link: 
+prev-link: "./3-2-rolles-theorem-and-the-mean-value-theorem.html"
+next-link: "./3-4-concavity-and-the-second-derivative-test.html"
 ---
 
 - Determine intervals on which a function is increasing or decreasing.

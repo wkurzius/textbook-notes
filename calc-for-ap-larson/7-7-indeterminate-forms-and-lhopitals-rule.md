@@ -3,8 +3,8 @@ title: 7.7 Indeterminate Forms and L'Hôpital's Rule
 layout: page
 course: AP Calc
 last-reviewed: 2025-12-08 10:09:00
-prev-link: 
-next-link: 
+prev-link: "./3-7-linear-approximation-and-differentials.html"
+next-link: "./3-1-extrema-on-an-interval.html"
 ---
 
 - Recognize limits that produce indeterminate forms.

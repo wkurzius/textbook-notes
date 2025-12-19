@@ -3,8 +3,8 @@ title: 3.7 Linear Approximation and Differentials
 layout: page
 course: AP Calc
 last-reviewed: 2025-12-04 09:40:40
-prev-link: 
-next-link: 
+prev-link: "./2-7-related-rates.html"
+next-link: "./7-7-indeterminate-forms-and-lhopitals-rule.html"
 ---
 
 - Understand the concept of a tangent line approximation.

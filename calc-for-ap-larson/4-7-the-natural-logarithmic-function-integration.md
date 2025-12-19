@@ -3,8 +3,8 @@ title: "4.7 The Natural Logarithmic Function: Integration"
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: 
-next-link: 
+prev-link: "./4-6-integration-by-substitution.html"
+next-link: "./4-8-inverse-trigonometric-function-integration.html"
 ---
 
 - Use the Log Rule for Integration to integrate a rational function.

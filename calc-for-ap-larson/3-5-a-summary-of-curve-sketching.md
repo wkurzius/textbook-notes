@@ -3,8 +3,8 @@ title: 3.5 A Summary of Curve Sketching
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: 
-next-link: 
+prev-link: "./3-4-concavity-and-the-second-derivative-test.html"
+next-link: "./3-6-optimization-problems.html"
 ---
 
 - Analyze and sketch the graph of a function.

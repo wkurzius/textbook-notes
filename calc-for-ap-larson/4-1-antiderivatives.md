@@ -3,8 +3,8 @@ title: 4.1 Antiderivatives and Indefinite Integration
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: 
-next-link: 
+prev-link: "./3-6-optimization-problems.html"
+next-link: "./4-2-area.html"
 ---
 
 - Write the general solution of a differential equation and use indefinite integral notation for antiderivatives.

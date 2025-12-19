@@ -3,8 +3,8 @@ title: 3.6 Optimization Problems
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: 
-next-link: 
+prev-link: "./3-5-a-summary-of-curve-sketching.html"
+next-link: "./4-1-antiderivatives.html"
 ---
 
 - Solve applied minimum and maximum problems.

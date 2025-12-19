@@ -3,8 +3,8 @@ title: 3.4 Concavity and the Second Derivative Test
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: 
-next-link: 
+prev-link: "./3-3-the-first-derivative-test.html"
+next-link: "./3-5-a-summary-of-curve-sketching.html"
 ---
 
 - Determine intervals on which a function is concave upward or concave downward.

@@ -3,8 +3,8 @@ title: 4.5 The Net Change Theorem
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: 
-next-link: 
+prev-link: "./4-4-the-fundamental-theorem-of-calculus.html"
+next-link: "./4-6-integration-by-substitution.html"
 ---
 
 - Understand and use the Net Change Theorem.

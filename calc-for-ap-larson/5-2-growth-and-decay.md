@@ -3,8 +3,8 @@ title: 5.2 Growth and Decay
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: 
-next-link: 
+prev-link: "./5-1-slope-fields-and-eulers-method.html"
+next-link: "./5-3-separation-of-variables.html"
 ---
 
 - Use separation of variables to solve a simple differential equation.

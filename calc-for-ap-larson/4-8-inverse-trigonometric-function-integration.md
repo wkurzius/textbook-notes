@@ -3,8 +3,8 @@ title: "4.8 Inverse Trigonometric Functions: Integration"
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: 
-next-link: 
+prev-link: "./4-7-the-natural-logarithmic-function-integration.html"
+next-link: "./5-1-slope-fields-and-eulers-method.html"
 ---
 
 - Integrate functions whose antiderivatives involve inverse trigonometric functions.

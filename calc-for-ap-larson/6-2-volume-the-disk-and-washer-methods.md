@@ -3,8 +3,8 @@ title: "6.2 Volume: The Disk and Washer Methods"
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: 
-next-link: 
+prev-link: "./6-1-area-of-a-region-between-two-curves.html"
+next-link: "./7-1-basic-integration-rules.html"
 ---
 
 - Find the volume of a solid of revolution using the disk method.

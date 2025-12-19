@@ -3,8 +3,8 @@ title: 4.2 Area
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: 
-next-link: 
+prev-link: "./4-1-antiderivatives.html"
+next-link: "./4-3-reimann-sums-and-definite-integrals.html"
 ---
 
 - Use sigma notation to write and evaluate a sum

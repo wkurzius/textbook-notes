@@ -3,8 +3,8 @@ title: 6.1 Area of a Region Between Two Curves
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: 
-next-link: 
+prev-link: "./5-3-separation-of-variables.html"
+next-link: "./6-2-volume-the-disk-and-washer-methods.html"
 ---
 
 - Find the area of a region between two curves using integration.

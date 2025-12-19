@@ -4,7 +4,7 @@ layout: page
 course: AP Calc
 last-reviewed: 2025-12-01
 prev-link: "./2-6-derivatives-of-inverse-functions.html"
-next-link: "./3-1-extrema-on-an-interval.html"
+next-link: "./3-7-linear-approximation-and-differentials.html"
 ---
 
 - Find a related rate.

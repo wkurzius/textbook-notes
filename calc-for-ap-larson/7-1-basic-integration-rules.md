@@ -3,7 +3,7 @@ title: 7.1 Basic Integration Rules
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: 
+prev-link: "./6-2-volume-the-disk-and-washer-methods.html"
 next-link:  
 ---
 

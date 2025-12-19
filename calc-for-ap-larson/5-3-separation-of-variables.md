@@ -3,8 +3,8 @@ title: 5.3 Separation of Variables
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: 
-next-link: 
+prev-link: "./5-2-growth-and-decay.html"
+next-link: "./6-1-area-of-a-region-between-two-curves.html"
 ---
 
 - Recognize and solve differential equations that can be solved by separation of variables.

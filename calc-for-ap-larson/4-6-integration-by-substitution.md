@@ -3,8 +3,8 @@ title: 4.6 Integration by Substitution
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: 
-next-link:  
+prev-link: "./4-5-the-net-change-theorem.html"
+next-link:  "./4-7-the-natural-logarithmic-function-integration.html"
 ---
 
 - Use pattern recognition to find an indefinite integral.

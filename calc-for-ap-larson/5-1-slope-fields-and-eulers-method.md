@@ -1,17 +1,16 @@
 ---
-title: 5.1 Slope Fields and Euler's Method*
+title: 5.1 Slope Fields and Euler's Method
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: 
-next-link: 
+prev-link: "./4-8-inverse-trigonometric-function-integration.html"
+next-link: "./5-2-growth-and-decay.html"
 ---
 
-\* *Euler's method is a topic only for AP Calc BC, so we'll only be looking at slope fields.*
 
 - Use initial conditions to find particular solutions of differential equations.
 - Use slope fields to approximate solutions of differential equations.
-- Use Euler's Method to approximate solutions of differential equations.
+- ~~Use Euler's Method to approximate solutions of differential equations.~~[^1]
 
 ## Assignment
 
@@ -91,3 +90,5 @@ Now that we can "see" the general solution of ${y=Cx^3}$, it's worth pointing ou
 ### Identifying Slope Fields for Differential Equations
 
 Example 4 provides three slope fields to match with three given differential equations. I have no general advice for you besides looking for patterns in the slopes. I suggest practicing a fair bit with these, and [Khan Academy has an exercise for it](https://www.khanacademy.org/math/ap-calculus-ab/ab-differential-equations-new/ab-7-3/e/slope-fields){: target="_blank"}.
+
+[^1]: Euler's method is an AP Calc BC topic, so we'll only be looking at slope fields.
