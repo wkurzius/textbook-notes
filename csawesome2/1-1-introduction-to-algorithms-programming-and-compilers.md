@@ -2,6 +2,8 @@
 title:  1.1 Introduction to Algorithms, Programming, and Compilers
 layout: page
 course: AP CSA
+prev-link: 
+next-link: "./1-2-variables-and-data-types.html"
 ---
 
 - Represent patterns and algorithms found in everyday life using written language or diagrams

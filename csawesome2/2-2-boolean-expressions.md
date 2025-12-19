@@ -2,6 +2,8 @@
 title: 2.2 Boolean Expressions
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Develop code to create Boolean expressions with relational operators and determine the result of these expressions

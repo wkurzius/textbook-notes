@@ -2,6 +2,8 @@
 title:  1.2 Variables and Data Types
 layout: page
 course: AP CSA
+prev-link: "./1-1-introduction-to-algorithms-programming-and-compilers.html"
+next-link: "./1-3-expressions-and-output.html"
 ---
 
 - Identify the most appropriate data type category for a particular specification

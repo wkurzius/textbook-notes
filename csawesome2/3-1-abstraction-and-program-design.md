@@ -2,6 +2,8 @@
 title: 3.1 Abstraction and Program Design
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Represent the design of a program by using natural language or creating diagrams that indicate the classes in the program and the data and procedural abstractions found in each class by including all attributes and behaviors

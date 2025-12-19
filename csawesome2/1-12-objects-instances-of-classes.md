@@ -2,6 +2,8 @@
 title:  1.12 Objects - Instances of Classes
 layout: page
 course: AP CSA
+prev-link: "./1-11-using-the-math-class.html"
+next-link: "./1-13-creating-and-initializing-objects.html"
 ---
 
 - Explain the relationship between a class and an object

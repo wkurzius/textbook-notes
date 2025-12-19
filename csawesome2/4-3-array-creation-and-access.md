@@ -2,6 +2,8 @@
 title: 4.3 Array Creation and Access
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Develop code used to represent collections of related data using one-dimensional (1D) array objects

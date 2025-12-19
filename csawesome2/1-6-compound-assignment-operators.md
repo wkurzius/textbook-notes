@@ -2,6 +2,8 @@
 title:  1.6 Compound Assignment Operators
 layout: page
 course: AP CSA
+prev-link: "./1-5-casting-and-ranges-of-values.html"
+next-link: "./1-7-apis-and-libraries.html"
 ---
 
 - Develop code for assignment statements with compound assignment operators and determine the value that is stored in the variable as a result

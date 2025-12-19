@@ -2,6 +2,8 @@
 title:  1.8 Documentation with Comments and Preconditions
 layout: page
 course: AP CSA
+prev-link: "./1-7-apis-and-libraries.html"
+next-link: "./1-9-method-signatures.html"
 ---
 
 - Describe the functionality and use of code through comments

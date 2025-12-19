@@ -2,6 +2,8 @@
 title: 2.7 While Loops
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Identify when an iterative process is required to achieve a desired result

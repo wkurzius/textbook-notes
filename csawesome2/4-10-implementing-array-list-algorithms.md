@@ -2,6 +2,8 @@
 title: 4.10 Implementing ArrayList Algorithms
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Develop code for standard and original algorithms for a particular context or specification that involve `ArrayList` objects and determine the result of these algorithms

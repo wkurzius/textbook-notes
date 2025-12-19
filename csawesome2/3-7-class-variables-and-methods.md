@@ -2,6 +2,8 @@
 title: 3.7 Class (static) Variables and Methods
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Develop code to define behaviors of a class through class methods

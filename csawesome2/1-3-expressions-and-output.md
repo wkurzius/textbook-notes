@@ -2,6 +2,8 @@
 title:  1.3 Expressions and Output
 layout: page
 course: AP CSA
+prev-link: "./1-2-variables-and-data-types.html"
+next-link: "./1-4-assignment-and-input.html"
 ---
 
 - Develop code to generate output and determine the result that would be displayed

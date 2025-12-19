@@ -2,6 +2,8 @@
 title:  1.10 Calling Class Methods
 layout: page
 course: AP CSA
+prev-link: "./1-9-method-signatures.html"
+next-link: "./1-11-using-the-math-class.html"
 ---
 
 - Develop code to call class methods and determine the result of those calls

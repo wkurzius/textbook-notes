@@ -2,6 +2,8 @@
 title:  1.9 Method Signatures
 layout: page
 course: AP CSA
+prev-link: "./1-8-documentation-with-comments-and-preconditions.html"
+next-link: "./1-10-calling-class-methods.html"
 ---
 
 - Identify the correct method to call based on documentation and method signatures

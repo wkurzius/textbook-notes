@@ -2,6 +2,8 @@
 title:  1.4 Assignment and Input
 layout: page
 course: AP CSA
+prev-link: "./1-3-expressions-and-output.html"
+next-link: "./1-5-casting-and-ranges-of-values.html"
 ---
 
 - Develop code for assignment statements with expressions and determine the value that is stored in the variable as a result of these statements

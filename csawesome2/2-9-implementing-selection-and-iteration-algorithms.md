@@ -2,6 +2,8 @@
 title: 2.9 Implementing Selection and Iteration Algorithms
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Develop code for standard and original algorithms (without data structures) and determine the result of these algorithms

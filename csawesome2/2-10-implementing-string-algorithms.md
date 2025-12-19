@@ -2,6 +2,8 @@
 title: 2.10 Implementing String Algorithms
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Develop code for standard and original algorithms that involve strings and determine the result of these algorithms

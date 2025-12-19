@@ -2,6 +2,8 @@
 title: 3.8 Scope and Access
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Explain where variables can be used in the code

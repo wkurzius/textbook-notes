@@ -2,6 +2,8 @@
 title:  "1.13 Creating and Initializing Objects: Constructors"
 layout: page
 course: AP CSA
+prev-link: "./1-12-objects-instances-of-classes.html"
+next-link: "./1-14-calling-instance-methods.html"
 ---
 
 - Identify, using its signature, the correct constructor being called

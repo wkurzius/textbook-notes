@@ -2,6 +2,8 @@
 title:  1.7 APIs and Libraries
 layout: page
 course: AP CSA
+prev-link: "./1-6-compound-assignment-operators.html"
+next-link: "./1-8-documentation-with-comments-and-preconditions.html"
 ---
 
 - Identify the attributes and behaviors of a class found in the libraries contained in an API

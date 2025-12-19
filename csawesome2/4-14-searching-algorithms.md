@@ -2,6 +2,8 @@
 title: 4.14 Searching Algorithms
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Develop code used for linear search algorithms to search for specific information in a collection and determine the results of executing a search

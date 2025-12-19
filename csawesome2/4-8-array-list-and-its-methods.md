@@ -2,6 +2,8 @@
 title: 4.8 ArrayList and its Methods
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Develop code for collections of related objects using `ArrayList` objects and determine the result of calling methods on these objects

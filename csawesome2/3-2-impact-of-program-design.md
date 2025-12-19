@@ -2,6 +2,8 @@
 title: 3.2 Impact of Program Design
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Explain the social and ethical implications of computing systems

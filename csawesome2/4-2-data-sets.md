@@ -2,6 +2,8 @@
 title: 4.2 Data Sets
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Represent patterns and algorithms that involve data sets found in everyday life using written language or diagrams

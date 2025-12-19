@@ -2,6 +2,8 @@
 title: "3.6 Methods: Passing and Returning References of an Object"
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Develop code to define behaviors of an object through methods written in a class using object references and determine the result of calling these methods

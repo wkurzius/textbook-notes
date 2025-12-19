@@ -2,6 +2,8 @@
 title: 3.3 Anatomy of a Java Class
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Develop code to designate access and visibility constraints to classes, data, constructors, and methods

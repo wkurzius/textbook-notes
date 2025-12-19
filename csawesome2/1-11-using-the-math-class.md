@@ -1,7 +1,9 @@
 ---
-title:  "1.11 Using the `Math` Class"
+title:  "1.11 Using the Math Class"
 layout: page
 course: AP CSA
+prev-link: "./1-10-calling-class-methods.html"
+next-link: "./1-12-objects-instances-of-classes.html"
 ---
 
 - Develop code to write expressions that incorporate calls to built-in mathematical libraries and determine the value that is produced as a result

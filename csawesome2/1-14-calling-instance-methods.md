@@ -2,6 +2,8 @@
 title:  1.14 Calling Instance Methods
 layout: page
 course: AP CSA
+prev-link: "./1-13-creating-and-initializing-objects.html"
+next-link: "./1-15-strings.html"
 ---
 
 - Develop code to call instance methods and determine the result of these calls

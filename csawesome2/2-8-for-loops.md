@@ -2,6 +2,8 @@
 title: 2.8 For Loops
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Develop code to represent iterative processes using `for` loops and determine the result of these processes

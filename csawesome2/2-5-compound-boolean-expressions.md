@@ -2,6 +2,8 @@
 title: 2.5 Compound Boolean Expressions
 layout: page
 course: AP CSA
+prev-link: 
+next-link: 
 ---
 
 - Develop code to represent compound Boolean expressions and determine the result of these expressions

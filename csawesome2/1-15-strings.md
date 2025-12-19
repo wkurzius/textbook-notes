@@ -2,6 +2,8 @@
 title:  1.15 Strings
 layout: page
 course: AP CSA
+prev-link: "./1-14-calling-instance-methods.html"
+next-link: "./2-1-algorithms-with-selection-and-repetition.html"
 ---
 
 - Develop code to create string objects and determine the result of creating and combining strings

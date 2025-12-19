@@ -2,6 +2,8 @@
 title:  1.5 Casting and Ranges Of Values
 layout: page
 course: AP CSA
+prev-link: "./1-4-assignment-and-input.html"
+next-link: "./1-6-compound-assignment-operators.html"
 ---
 
 - Develop code to cast primitive values to different primitive types in arithmetic expressions and determine the value that is produced as a result
