@@ -3,6 +3,10 @@ title: 3.1 Extrema on an Interval
 layout: page
 course: AP Calc
 last-reviewed: 2025-12-09 08:54:27
+prev: 2.7
+prev-link: ./2-7-related-rates.html
+next: 3.2
+next-link: ./3-2-rolles-theorem-and-the-mean-value-theorem.html
 ---
 
 - Understand the definition of extrema of a function on an interval.

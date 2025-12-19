@@ -383,3 +383,15 @@ footer .last-reviewed {
     font-style: italic;
     color: color-mix(in srgb, var(--minima-text-color) 70%, var(--minima-background-color) 30%);
 }
+
+// prev-next navigation
+
+.post-header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.post-header .post-nav {
+    display: inline-block;
+}

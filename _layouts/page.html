@@ -4,7 +4,19 @@ layout: base
 <article class="post">
 
   <header class="post-header">
+    {% if page.prev %}
+    <a href="{{ page.prev-link }}">
+      <h2 class="post-nav post-prev">{{ page.prev }}</h2>
+      <h2 class="post-nav post-prev-marker">&lt;</h2>
+    </a>
+    {% endif %}
     <h1 class="post-title">{{ page.title | escape | markdownify }}</h1>
+    {% if page.next %}
+    <a href="{{ page.next-link }}">
+      <h2 class="post-nav post-next-marker">&gt;</h2>
+      <h2 class="post-nav post-next">{{ page.next }}</h2>
+    </a>
+    {% endif %}
   </header>
 
   <div class="post-content">
