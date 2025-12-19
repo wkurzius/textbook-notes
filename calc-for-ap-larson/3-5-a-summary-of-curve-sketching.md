@@ -3,9 +3,7 @@ title: 3.5 A Summary of Curve Sketching
 layout: page
 course: AP Calc
 last-reviewed:
-prev: 
 prev-link: 
-next: 
 next-link: 
 ---
 

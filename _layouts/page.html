@@ -3,19 +3,19 @@ layout: base
 ---
 <article class="post">
 
-  {% if page.prev or page.next %}
+  {% if page.prev-link or page.next-link %}
   <header class="post-header post-header-nav">
-    <h2 class="post-nav post-prev {% if page.prev-link == null %}hidden{% endif %}">
+    <div class="post-nav post-prev {% if page.prev-link == null %}hidden{% endif %}">
       <a href="{{ page.prev-link }}">
-        <span>&larr;</span> {{ page.prev }}
+        &larr;
       </a>
-    </h2>
+    </div>
     <h1 class="post-title">{{ page.title | escape | markdownify }}</h1>
-    <h2 class="post-nav post-next {% if page.next-link == null %}hidden{% endif %}">
+    <div class="post-nav post-next {% if page.next-link == null %}hidden{% endif %}">
       <a href="{{ page.next-link }}">
-        {{ page.next }} <span>&rarr;</span>
+        &rarr;
       </a>
-    </h2>
+    </div>
   </header>
 
   {% else %}

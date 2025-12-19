@@ -3,9 +3,7 @@ title: P.3 Functions and Their Graphs
 layout: page
 course: AP Calc
 last-reviewed:
-prev: P.2
 prev-link: ./0-2-linear-models-and-rates-of-change.html
-next: P.4
 next-link: ./0-4-inverse-functions.html
 ---
 

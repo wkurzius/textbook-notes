@@ -3,9 +3,7 @@ title: 5.3 Separation of Variables
 layout: page
 course: AP Calc
 last-reviewed:
-prev: 
 prev-link: 
-next: 
 next-link: 
 ---
 

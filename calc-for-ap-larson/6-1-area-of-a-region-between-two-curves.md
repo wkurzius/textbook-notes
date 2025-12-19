@@ -3,9 +3,7 @@ title: 6.1 Area of a Region Between Two Curves
 layout: page
 course: AP Calc
 last-reviewed:
-prev: 
 prev-link: 
-next: 
 next-link: 
 ---
 

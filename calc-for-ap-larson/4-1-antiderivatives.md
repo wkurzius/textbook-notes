@@ -3,9 +3,7 @@ title: 4.1 Antiderivatives and Indefinite Integration
 layout: page
 course: AP Calc
 last-reviewed:
-prev: 
 prev-link: 
-next: 
 next-link: 
 ---
 

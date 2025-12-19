@@ -3,9 +3,7 @@ title: 3.2 Rolle's Theorem and the Mean Value Theorem
 layout: page
 course: AP Calc
 last-reviewed: 2025-12-16 09:33:07
-prev: 
 prev-link: 
-next: 
 next-link: 
 ---
 

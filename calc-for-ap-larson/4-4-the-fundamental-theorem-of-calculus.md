@@ -3,9 +3,7 @@ title: 4.4 The Fundamental Theorem of Calculus
 layout: page
 course: AP Calc
 last-reviewed:
-prev: 
 prev-link: 
-next: 
 next-link: 
 ---
 

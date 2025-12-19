@@ -3,9 +3,7 @@ title: P.4 Inverse Functions
 layout: page
 course: AP Calc
 last-reviewed:
-prev: P.3
 prev-link: "./0-3-functions-and-their-graphs.html"
-next: P.5
 next-link: "./0-5-exponential-and-logarithmic-functions.html"
 ---
 

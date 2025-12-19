@@ -3,9 +3,7 @@ title: 3.6 Optimization Problems
 layout: page
 course: AP Calc
 last-reviewed:
-prev: 
 prev-link: 
-next: 
 next-link: 
 ---
 

@@ -3,10 +3,8 @@ title: 4.6 Integration by Substitution
 layout: page
 course: AP Calc
 last-reviewed:
-prev: 
 prev-link: 
-next: 
-next-link: 
+next-link:  
 ---
 
 - Use pattern recognition to find an indefinite integral.

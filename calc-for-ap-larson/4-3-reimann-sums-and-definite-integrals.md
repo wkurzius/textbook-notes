@@ -3,9 +3,7 @@ title: 4.3 Reimann Sums and Definite Integrals
 layout: page
 course: AP Calc
 last-reviewed:
-prev: 
 prev-link: 
-next: 
 next-link: 
 ---
 

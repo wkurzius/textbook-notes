@@ -3,9 +3,7 @@ title: 3.7 Linear Approximation and Differentials
 layout: page
 course: AP Calc
 last-reviewed: 2025-12-04 09:40:40
-prev: 
 prev-link: 
-next: 
 next-link: 
 ---
 

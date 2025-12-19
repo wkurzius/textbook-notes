@@ -3,9 +3,7 @@ title: 2.7 Related Rates
 layout: page
 course: AP Calc
 last-reviewed: 2025-12-01
-prev: 2.6
 prev-link: "./2-6-derivatives-of-inverse-functions.html"
-next: 3.1
 next-link: "./3-1-extrema-on-an-interval.html"
 ---
 

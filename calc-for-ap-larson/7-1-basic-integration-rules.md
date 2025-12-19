@@ -3,10 +3,8 @@ title: 7.1 Basic Integration Rules
 layout: page
 course: AP Calc
 last-reviewed:
-prev: 
 prev-link: 
-next: 
-next-link: 
+next-link:  
 ---
 
 - Review procedures for fitting an integrand to one of the basic integration rules.

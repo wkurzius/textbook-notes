@@ -3,9 +3,7 @@ title: 1.2 Finding Limits Graphically and Numerically
 layout: page
 course: AP Calc
 last-reviewed: 2025-11-14 09:35:10
-prev: 1.1
 prev-link: "./1-1-a-preview-of-calculus.html"
-next: 1.3
 next-link: "./1-3-evaluating-limit-analytically.html"
 ---
 
