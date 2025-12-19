@@ -3,6 +3,10 @@ title: 3.6 Optimization Problems
 layout: page
 course: AP Calc
 last-reviewed:
+prev: 
+prev-link: 
+next: 
+next-link: 
 ---
 
 - Solve applied minimum and maximum problems.

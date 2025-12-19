@@ -3,6 +3,10 @@ title: 7.7 Indeterminate Forms and L'Hôpital's Rule
 layout: page
 course: AP Calc
 last-reviewed: 2025-12-08 10:09:00
+prev: 
+prev-link: 
+next: 
+next-link: 
 ---
 
 - Recognize limits that produce indeterminate forms.

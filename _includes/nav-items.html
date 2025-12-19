@@ -1,0 +1,12 @@
+<div class="nav-items">
+  {%- for path in include.paths -%}
+  {%- assign hyperpage = site.pages | where: "path", path | first -%}
+  {%- if hyperpage.title %}
+  <a class="nav-item" href="{{ hyperpage.url | relative_url }}">{{ hyperpage.title | escape }}</a>
+  {%- endif -%}
+  {%- endfor %}
+
+  {% if site.minima.toggle %}
+  <a id="color-toggle" class="nav-item" onclick="changeSkin()"><i class="fa-solid fa-sun"></i></a>
+  {% endif %}
+</div>

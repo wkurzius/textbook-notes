@@ -3,6 +3,10 @@ title: 1.1 A Preview of Calculus
 layout: page
 course: AP Calc
 last-reviewed: 2025-11-14 10:14:20
+prev: P.5
+prev-link: "./0-5-exponential-and-logarithmic-functions.html"
+next: 1.2
+next-link: "./1-2-finding-limits-graphically-and-numerically.html"
 ---
 
 - Understand what calculus is and how it compares with precalculus.

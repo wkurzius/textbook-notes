@@ -3,6 +3,10 @@ title: 5.2 Growth and Decay
 layout: page
 course: AP Calc
 last-reviewed:
+prev: 
+prev-link: 
+next: 
+next-link: 
 ---
 
 - Use separation of variables to solve a simple differential equation.

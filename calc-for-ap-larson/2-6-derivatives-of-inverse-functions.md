@@ -3,6 +3,10 @@ title: 2.6 Derivatives of Inverse Functions
 layout: page
 course: AP Calc
 last-reviewed: 2025-11-15 10:35:52
+prev: 2.5
+prev-link: "./2-5-implicit-differentiation.html"
+next: 2.7
+next-link: "./2-7-related-rates.html"
 ---
 
 - Find the derivative of an inverse function.

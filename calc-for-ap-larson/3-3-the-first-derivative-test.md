@@ -3,6 +3,10 @@ title: 3.3 Increasing and Decreasing Functions and the First Derivative Test
 layout: page
 course: AP Calc
 last-reviewed: 2025-12-18 09:48:25
+prev: 
+prev-link: 
+next: 
+next-link: 
 ---
 
 - Determine intervals on which a function is increasing or decreasing.

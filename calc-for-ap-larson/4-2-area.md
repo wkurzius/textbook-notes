@@ -3,6 +3,10 @@ title: 4.2 Area
 layout: page
 course: AP Calc
 last-reviewed:
+prev: 
+prev-link: 
+next: 
+next-link: 
 ---
 
 - Use sigma notation to write and evaluate a sum

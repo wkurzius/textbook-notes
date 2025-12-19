@@ -3,6 +3,10 @@ title: 1.5 Infinite Limits
 layout: page
 course: AP Calc
 last-reviewed:
+prev: 1.4
+prev-link: "./1-4-continuity-and-one-sided-limits.html"
+next: 1.6
+next-link: "./1-6-limits-at-infinity.html"
 ---
 
 - Determine infinite limits from the left and from the right.

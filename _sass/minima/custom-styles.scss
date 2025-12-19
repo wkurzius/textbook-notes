@@ -370,8 +370,8 @@ img.icon {
 }
 
 #color-toggle {
-    margin-left: 1rem;
-    cursor: pointer;
+    // margin-left: 1rem;
+    // cursor: pointer;
 }
 
 #color-toggle:hover {
@@ -386,12 +386,31 @@ footer .last-reviewed {
 
 // prev-next navigation
 
-.post-header {
+.post-header-nav {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
+    gap: 2rem;
+    padding-bottom: 8px;
 }
 
-.post-header .post-nav {
-    // display: inline-block;
+.post-header-nav .post-nav {
+    width: 75px;
+    flex: 0 0 75px;
 }
+
+.post-header-nav .post-nav a:hover {
+    text-decoration: none;
+}
+
+.post-header-nav .post-nav.hidden {
+    visibility: hidden;
+}
+
+@media screen and (max-width: 600px) {
+    .post-header-nav .post-nav {
+        display: none;
+    }
+}
+
+// end prev-next navigation

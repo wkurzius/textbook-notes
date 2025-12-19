@@ -3,6 +3,10 @@ title: 2.4 The Chain Rule
 layout: page
 course: AP Calc
 last-reviewed:
+prev: 2.3
+prev-link: "./2-3-product-and-quotient-rules-and-higher-order-derivatives.html"
+next: 2.5
+next-link: "./2-5-implicit-differentiation.html"
 ---
 
 - Find the derivative of a composite function using the Chain Rule.

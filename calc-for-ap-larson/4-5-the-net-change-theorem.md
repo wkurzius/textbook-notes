@@ -3,6 +3,10 @@ title: 4.5 The Net Change Theorem
 layout: page
 course: AP Calc
 last-reviewed:
+prev: 
+prev-link: 
+next: 
+next-link: 
 ---
 
 - Understand and use the Net Change Theorem.

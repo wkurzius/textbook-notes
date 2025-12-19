@@ -3,6 +3,10 @@ title: P.2 Linear Models and Rates of Change
 layout: page
 course: AP Calc
 last-reviewed:
+prev: P.1
+prev-link: ./0-1-graphs-and-models.html
+next: P.3
+next-link: ./0-3-functions-and-their-graphs.html
 ---
 
 - Find the slope of a line passing through two points.

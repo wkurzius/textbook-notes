@@ -3,6 +3,10 @@ title: 1.4 Continuity and One-Sided Limits
 layout: page
 course: AP Calc
 last-reviewed:
+prev: 1.3
+prev-link: "./1-3-evaluating-limit-analytically.html" 
+next: 1.5
+next-link: "./1-5-infinite-limits.html"
 ---
 
 - Determine continuity at a point and continuity on an open interval.
