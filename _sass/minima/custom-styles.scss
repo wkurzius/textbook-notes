@@ -404,6 +404,10 @@ footer .last-reviewed {
 	line-height: 1.15;
 }
 
+.post-header-nav .post-nav a {
+    color: var(--minima-text-color);
+}
+
 .post-header-nav .post-nav a:hover {
     text-decoration: none;
 }
