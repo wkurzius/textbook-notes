@@ -28,9 +28,8 @@
     --minima-table-header-border:       #{$dm-table-header-border};
     --minima-table-border-color:        #{$dm-table-border-color};
 
-    --definition-background-color:      var(--p-900);
-    --definition-text-color:            #BABABA;
-    --definition-border-color:          var(--p-400);
-    
-    --example-heading-color:            var(--c-200);
+    --definition-background-color: hsl(240, 0%, 13%);
+    --definition-text-color: #BABABA;
+    --definition-border-color: var(--minima-border-color-03);
+    --example-heading-color: hsl(285, 0%, 70%);
 }
