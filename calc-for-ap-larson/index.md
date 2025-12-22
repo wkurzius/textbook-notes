@@ -7,9 +7,11 @@ layout: page
 - [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="_blank"}
 - [Differentiation cheat sheet](../pdfs/differentiation-cheat-sheet.pdf)
 - [Cram Sheet](../pdfs/ap-calc-cram-sheet.pdf)
+- [Derivative calculator](https://www.derivative-calculator.net/){: target="_blank"} Shows steps for differentiating
 
 <!--
 - [Integration cheat sheet](./misc/integration-cheat-sheet.pdf)
+- [Integral calculator](https://www.integral-calculator.com/){: target="_blank"} Shows steps for integrating
 -->
 
 ## P Preparation for Calculus
