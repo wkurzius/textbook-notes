@@ -12,19 +12,19 @@ con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/ma
 con-1: "–"
 con-2: ""
 con-3: ""
-con-x: "Dec. 19"
+con-x: "–"
 
 sta-h: "**Prob. & Stats**<br>[Notes and HW](./statistics-open-stax/){: .table-head-link}<br>[Book](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" .table-head-link}"
 sta-1: "–"
 sta-2: ""
 sta-3: ""
-sta-x: "Dec. 19"
+sta-x: "Jan. 16"
 
 dev-h: "**Intro to Web Dev.**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target=\"_blank\"}{: .table-head-link}<br>[Certification Projects](./intro-to-web-dev/){: .table-head-link}"
 dev-1: "Nutrition Label (<B) or Product Landing Page (>B)"
 dev-2: ""
 dev-3: ""
-dev-x: "–"
+dev-x: "Jan. 26"
 
 cal-h: "**AP Calc**<br>[Notes and HW](./calc-for-ap-larson/)"
 cal-1: "**M**{: .day}3.1–3.3 Quiz"
