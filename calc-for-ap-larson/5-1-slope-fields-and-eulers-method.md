@@ -3,7 +3,7 @@ title: 5.1 Slope Fields and Euler's Method
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: "./4-8-inverse-trigonometric-function-integration.html"
+prev-link: ./7-1-basic-integration-rules.html
 next-link: "./5-2-growth-and-decay.html"
 ---
 

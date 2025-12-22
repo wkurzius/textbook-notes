@@ -3,8 +3,8 @@ title: 7.1 Basic Integration Rules
 layout: page
 course: AP Calc
 last-reviewed:
-prev-link: "./6-2-volume-the-disk-and-washer-methods.html"
-next-link:  
+prev-link: ./4-8-inverse-trigonometric-function-integration.html
+next-link: ./5-1-slope-fields-and-eulers-method.html
 ---
 
 - Review procedures for fitting an integrand to one of the basic integration rules.

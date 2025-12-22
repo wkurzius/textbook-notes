@@ -4,7 +4,7 @@ layout: page
 course: AP Calc
 last-reviewed:
 prev-link: "./4-7-the-natural-logarithmic-function-integration.html"
-next-link: "./5-1-slope-fields-and-eulers-method.html"
+next-link: ./7-1-basic-integration-rules.html
 ---
 
 - Integrate functions whose antiderivatives involve inverse trigonometric functions.

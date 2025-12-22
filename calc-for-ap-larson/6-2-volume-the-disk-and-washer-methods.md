@@ -4,7 +4,7 @@ layout: page
 course: AP Calc
 last-reviewed:
 prev-link: "./6-1-area-of-a-region-between-two-curves.html"
-next-link: "./7-1-basic-integration-rules.html"
+next-link: 
 ---
 
 - Find the volume of a solid of revolution using the disk method.
