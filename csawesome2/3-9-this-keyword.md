@@ -1,9 +1,9 @@
 ---
-title: 3.9 this Keyword
+title: 3.9 `this` Keyword
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./3-8-scope-and-access.html
+next-link: ./4-1-ethical-and-social-issues-around-data-collection.html
 ---
 
 - Develop code for expressions that are self-referencing and determine the result of these expressions

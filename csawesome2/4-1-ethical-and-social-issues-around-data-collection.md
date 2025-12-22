@@ -2,8 +2,8 @@
 title: 4.1 Ethical and Social Issues Around Data Collection
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./3-9-this-keyword.html
+next-link: ./4-2-data-sets.html
 ---
 
 - Explain the risks to privacy from collecting and storing personal data on computer systems

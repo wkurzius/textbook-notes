@@ -2,8 +2,8 @@
 title: 2.1 Algorithms with Selection and Repetition
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./1-15-strings.html
+next-link: ./2-2-boolean-expressions.html
 ---
 
 - Represent patterns and algorithms that involve selection and repetition found in everyday life using written language or diagrams

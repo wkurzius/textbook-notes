@@ -2,8 +2,8 @@
 title: 4.3 Array Creation and Access
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./4-2-data-sets.html
+next-link: ./4-4-array-traversals.html
 ---
 
 - Develop code used to represent collections of related data using one-dimensional (1D) array objects

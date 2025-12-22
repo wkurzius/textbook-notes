@@ -2,8 +2,8 @@
 title: 2.11 Nested Iteration
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./2-10-implementing-string-algorithms.html
+next-link: ./2-12-informal-runtime-analysis-of-loops.html
 ---
 
 - Develop code to represent nested iterative processes and determine the result of these processes

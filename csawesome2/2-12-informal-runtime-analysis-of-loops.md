@@ -2,8 +2,8 @@
 title: 2.12 Informal Runtime Analysis of Loops
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./2-11-nested-iteration.html
+next-link: ./3-1-abstraction-and-program-design.html
 ---
 
 - Calculate statement execution counts and informal run-time comparison of iterative statements

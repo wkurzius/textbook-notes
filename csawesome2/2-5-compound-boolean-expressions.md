@@ -2,8 +2,8 @@
 title: 2.5 Compound Boolean Expressions
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./2-4-nested-if-statements.html
+next-link: ./2-6-comparing-boolean-expressions.html
 ---
 
 - Develop code to represent compound Boolean expressions and determine the result of these expressions

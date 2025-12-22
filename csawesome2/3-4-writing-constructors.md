@@ -2,8 +2,8 @@
 title: 3.4 Writing Constructors
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./3-3-anatomy-of-a-java-class.html
+next-link: ./3-5-methods-how-to-write-them.html
 ---
 
 - Develop code to declare instance variables for the attributes to be initialized in the body of the constructors of a class

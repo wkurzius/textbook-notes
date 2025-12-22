@@ -1,9 +1,9 @@
 ---
-title: 2.4 Nested if Statements
+title: 2.4 Nested `if` Statements
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./2-3-if-statements.html
+next-link: ./2-5-compound-boolean-expressions.html
 ---
 
 - Develop code to represent nested branching logical processes and determine the result of these processes
