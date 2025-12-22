@@ -2,8 +2,8 @@
 title: 2.6 Comparing Boolean Expressions (De Morgan’s Laws)
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./2-5-compound-boolean-expressions.html
+next-link: ./2-7-while-loops.html
 ---
 
 - Compare equivalent Boolean expressions

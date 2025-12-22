@@ -1,5 +1,5 @@
 ---
-title:  "1.11 Using the Math Class"
+title:  "1.11 Using the `Math` Class"
 layout: page
 course: AP CSA
 prev-link: "./1-10-calling-class-methods.html"

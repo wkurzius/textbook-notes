@@ -2,8 +2,8 @@
 title: 2.8 For Loops
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./2-7-while-loops.html
+next-link: ./2-9-implementing-selection-and-iteration-algorithms.html
 ---
 
 - Develop code to represent iterative processes using `for` loops and determine the result of these processes

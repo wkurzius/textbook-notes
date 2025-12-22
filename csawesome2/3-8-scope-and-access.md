@@ -2,8 +2,8 @@
 title: 3.8 Scope and Access
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./3-7-class-variables-and-methods.html
+next-link: ./3-9-this-keyword.html
 ---
 
 - Explain where variables can be used in the code

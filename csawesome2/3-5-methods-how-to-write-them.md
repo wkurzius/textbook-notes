@@ -2,8 +2,8 @@
 title: "3.5 Methods: How to Write Them"
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./3-4-writing-constructors.html
+next-link: ./3-6-methods-passing-and-returning-references-of-an-object.html
 ---
 
 - Develop code to define behaviors of an object through methods written in a class using primitive values and determine the result of calling these methods

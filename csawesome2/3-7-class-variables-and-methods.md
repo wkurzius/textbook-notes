@@ -2,8 +2,8 @@
 title: 3.7 Class (static) Variables and Methods
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./3-6-methods-passing-and-returning-references-of-an-object.html
+next-link: ./3-8-scope-and-access.html
 ---
 
 - Develop code to define behaviors of a class through class methods

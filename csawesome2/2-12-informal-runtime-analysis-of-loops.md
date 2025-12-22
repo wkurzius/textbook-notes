@@ -2,8 +2,8 @@
 title: 2.12 Informal Runtime Analysis of Loops
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./2-11-nested-iteration.html
+next-link: ./3-1-abstraction-and-program-design.html
 ---
 
 - Calculate statement execution counts and informal run-time comparison of iterative statements
@@ -37,7 +37,7 @@ while ((var2 != 0) && ((var1 / var2) >= 0)) {
 
 The output will look like this.
 
-```
+```text
 i       var1    var2
 ----------------
 1       4       1
@@ -51,4 +51,3 @@ Naturally, you won't have the opportunity to modify the code of a multiple-choic
 3. Look for any code in the loop that might be messing with the counter.
 
 If the loops don't involve counters, all the work is likely done inside the loop. Use paper and write out the values after each iteration to make sure you understand what it's doing.
-

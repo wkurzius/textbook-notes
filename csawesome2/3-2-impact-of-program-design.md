@@ -2,8 +2,8 @@
 title: 3.2 Impact of Program Design
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./3-1-abstraction-and-program-design.html
+next-link: ./3-3-anatomy-of-a-java-class.html
 ---
 
 - Explain the social and ethical implications of computing systems

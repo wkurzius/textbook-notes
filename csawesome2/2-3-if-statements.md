@@ -1,9 +1,9 @@
 ---
-title: 2.3 if Statements
+title: 2.3 `if` Statements
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./2-2-boolean-expressions.html
+next-link: ./2-4-nested-if-statements.html
 ---
 
 - Develop code to represent branching logical processes by using selection statements and determine the result of these processes

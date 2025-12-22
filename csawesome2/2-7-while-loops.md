@@ -2,8 +2,8 @@
 title: 2.7 While Loops
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./2-6-comparing-boolean-expressions.html
+next-link: ./2-8-for-loops.html
 ---
 
 - Identify when an iterative process is required to achieve a desired result

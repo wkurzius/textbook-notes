@@ -2,8 +2,8 @@
 title: 2.10 Implementing String Algorithms
 layout: page
 course: AP CSA
-prev-link: 
-next-link: 
+prev-link: ./2-9-implementing-selection-and-iteration-algorithms.html
+next-link: ./2-11-nested-iteration.html
 ---
 
 - Develop code for standard and original algorithms that involve strings and determine the result of these algorithms
