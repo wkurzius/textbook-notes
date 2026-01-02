@@ -2,7 +2,7 @@
 title: 3.4 Concavity and the Second Derivative Test
 layout: page
 course: AP Calc
-last-reviewed:
+last-reviewed: 2026-01-02 15:26:08
 prev-link: "./3-3-the-first-derivative-test.html"
 next-link: "./3-5-a-summary-of-curve-sketching.html"
 ---
@@ -28,22 +28,68 @@ next-link: "./3-5-a-summary-of-curve-sketching.html"
 
 ## Concavity
 
-Whether or not a graph curve upwards or downwards is measured by it's concavity. A slope that is increasing is concave upward, regardless of its negative or not, and likewise a decreasing slope is concave downward.
+Whether or not a graph curve upwards or downwards is described by its **concavity**. An interval where the slope is increasing is concave upward, and likewise a decreasing slope is concave downward.
 
-![Concavity up versus down](./img/3.4-concavity.png)
+> ![Concavity up versus down](./img/3.4-concavity.png)
+>
+> **Figure 3.4.1** Besides the increasing/decreasing slope, you can also determine concavity by where the curve lies in relation to the tangent lines. Concave upward curves are above their tangent lines, while downwards are below their lines.
+{: .figure}
 
-Well, just like we used $f'$ to quickly see when $f$ was increasing or decreasing, we can do the same with $f''$ to determine when $f'$ is increasing or decreasing, which will in turn let us know if $f$ is concave upward or downward.
+A derivative's sign tells you if the original is increasing or decreasing, and we used that fact to quickly see when a function was increasing or decreasing. We can do the same with the second derivative $f^{\prime\prime}$, which tells us when the first derivative is increasing or decreasing. That in turn will let us know if $f$ is concave upward or downward.
 
-## Points of Inflection
+The process for determining concavity is nearly identical to determining increasing/decreasing intervals. Use the second derivative to find ~~the critical points~~[^1] where $f^{\prime\prime}(x)=0$ or where $f^{\prime\prime}(x)$ does not exist, and then test the intervals that fall between them. If the concavity changes across intervals, that point is known as a **point of inflection**.
 
-Where $f$ changes direction, from either increasing to decreasing or vice versa, $f'$ will show critical points. Just like with the first derivative, a critical point only indicates a possible point of inflection. The graph of $f(x)=x^4$ is one example of this.
+With the first derivative, we saw that a critical point only indicates a _possible_ point where the function switches from increasing to decreasing. The same apples with finding points of inflection. Don't assume that concavity switches just because you moved to a different interval.
 
-![No inflection point](./img/3.4-false-inflection.png)
+> ## Example 1
+>
+> Determine the open intervals on which the graph of $f(x)=e^{-x^2/2}$ is concave up or concave down.
+{: .example}
+
+A rewrite will make the function easier to differentiate.
+
+$$\begin{align}
+f(x)=e^{-\frac{1}{2}x^2}
+\end{align}$$
+
+We're only concerned with concave up and down, so we can jump right to differentiating twice.
+
+$$\begin{align}
+f(x)   &= e^{-\frac{1}{2}x^2} \\
+f'(x)  &= (-x)\left(e^{-\frac{1}{2}x^2}\right) \\
+f''(x) &= -e^{-\frac{1}{2}x^2} + (-x)(-x)\left(e^{-\frac{1}{2}x^2}\right) \\
+       &= -e^{-\frac{1}{2}x^2} + (x^2)\left(e^{-\frac{1}{2}x^2}\right) \\
+       &= e^{-\frac{1}{2}x^2} \left(-1 + x^2\right) \\
+\end{align}$$
+
+The last few lines might just look like some simplification, but they are incredibly helpful for finding our boundaries. In fact, we can take it one step further and completely factor it using difference of squares.
+
+$$\begin{align}
+f''(x) &= e^{-\frac{1}{2}x^2} \left(x^2 - 1\right) \\
+       &= e^{-\frac{1}{2}x^2} (x+1)(x-1) \\
+\end{align}$$
+
+$e^x$ is defined everywhere and also will never hit $0$, so our candidates for inflection points are only at $x=\pm1$, giving us three intervals to test.
+
+This particular function gives an interesting result if we do our usual "test a large number": it produces a false $0$ on a calculator. $f^{\prime\prime}(100)$ is not actually $0$, but it's so close the calculator doesn't have the capability to display the digits needed to express the actual result.
+
+Luckily, we only care about signs and $e^{-\frac{1}{2}x^2}$ will always be positive. If needed, test something close to the boundaries to avoid the issue.
+
+| Interval                |            $x<-1$            |         $-1<x<1$         |            $x>1$            |
+| ----------------------- | :--------------------------: | :----------------------: | :-------------------------: |
+| $f^{\prime\prime}$ test | $f^{\prime\prime}(-100) > 0$ | $f^{\prime\prime}(0)=-1$ | $f^{\prime\prime}(100) > 0$ |
+| Sign of $f'$            |             $+$              |           $-$            |             $+$             |
+| Conclusion              |              Up              |           Down           |             Up              |
+
+$\blacksquare$
+{: .qed}
 
 ## The Second Derivative Test
 
-Despite mostly talking about concavity this section, we're going to bounce back to extrema. The first derivative test had you looking at intervals and how they changed. Any change would indicate a relative maximum or minimum.
+Despite mostly talking about concavity this section, we're going to bounce back to extrema. The first derivative test had you looking at intervals and how they changed. Any change across intervals indicates a relative maximum or minimum.
 
-The second derivative test instead has you looking at the specific point in question. If $f^{\prime\prime}(c) > 0$, then $f$ has a relative minimum. The second derivate tells you the rate of change of the slope. Since that rate is positive, that means the slope is going from negative to positive.
+A simpler test for extrema involves the second derivative. Assuming $c$ is a critical point, then if $f^{\prime\prime}(c) > 0$, $c$ is a relative minimum. Since the second derivate tells you the concavity, a critical point in the midst of a concave up portion of the graph must be a minimum. Likewise, if $f^{\prime\prime}(c) < 0$ then $c$ is a relative maximum as we are in a concave down portion.
 
-Likewise, if $f^{\prime\prime}(c) < 0$ then there is a relative maximum as the slope is going from positive to negative.
+What to watch for is when $f^{\prime\prime}(c) = 0$. You won't be able to draw any conclusions from this and will have to do other testing to determine the points significance.
+
+[^1]: Critical points are specifically defined as where the first derivative is $0$ or does not exist. There is no name for these points when we are dealing with the second derivative.
