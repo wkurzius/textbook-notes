@@ -93,7 +93,29 @@ public void aMethod(int num) {
 
 ## Getters and Setters
 
-Or accessor methods and mutator methods (or even modifier methods), but that's not nearly as catchy. These are used to grant access to your better-be-private instance/class variables (fields). This gives you control over how that data is accessed and set, whether it be as simple as blocking access or data validation to ensure proper values are set.
+Or accessor methods and mutator methods (or even modifier methods), but that's not nearly as catchy. These are used to grant access to your better-be-private instance/class variables (fields). This gives you control over how that data is accessed and set, whether it be as simple as blocking access (by not including a getter or setter) or data validation to ensure proper values are set.
 
 ```java
-public 
+public class Thing {
+
+    private int posNum;
+
+    // ...
+    // constructors, et al.
+    // ...
+
+    // accessor
+    public int getPosNum() {
+        return posNum;
+    }
+
+    // mutator w/ data validation
+    public void setNum(int newPosNum) {
+        if (newPosNum < 0)
+            newPosNum *= -1;
+        posNum = newPosNum;
+    }
+}
+```
+
+Your accessors will have a return value that matches the field's data type, while your mutators will (typically) have a return type of `void`.
