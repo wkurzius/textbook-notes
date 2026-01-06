@@ -48,14 +48,14 @@ cal-x: "Jan. 20"
 
 ## Schedule
 
-If you are looking for extra help, I am available every day during L1 in the library and I'm also available before school most days.
+I am available for extra help every day in the library during LF1, as well as before school on most days.
 
 | Block | A Days               | B Days              |
 | :---: | -------------------- | ------------------- |
 |   1   | AP CS A              | Intro to Web Dev.   |
 |   2   | Concepts of Algebra  | Prep                |
-|  L1   | **Library HW Help**  | **Library HW Help** |
-|  L2   | Flex                 | Flex                |
+|  LF1  | **Library HW Help**  | **Library HW Help** |
+|  LF2  | Flex                 | Flex                |
 |   3   | Prob. & Stats        | AP Calc AB          |
 |   4   | Prep / Bathroom Duty | Library Duty        |
 {: #office-hours}
