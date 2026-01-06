@@ -6,7 +6,10 @@ course: Probability & Statistics
 
 ## Chapter Objectives
 
-- 
+- Recognize central limit theorem problems
+- Classify continuous word problems by their distributions
+- Apply and interpret the central limit theorem for means
+- Apply and interpret the central limit theorem for sums
 
 ## Assignment
 
