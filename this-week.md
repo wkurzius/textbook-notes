@@ -18,13 +18,13 @@ sta-h: "**Prob. & Stats**<br>[Notes and HW](./statistics-open-stax/){: .table-he
 sta-1: "**T**{: .day}[7.1 The Central Limit Theorem for Sample Means](./statistics-open-stax/7-1-the-central-limit-theorem-for-sample-means.html)"
 sta-2: "**R**{: .day}[7.3 Using the Central Limit Theorem](./statistics-open-stax/7-3-using-the-central-limit-theorem.html)"
 sta-3: ""
-sta-x: "Jan. 16"
+sta-x: "Jan. 23<br>(Final Exam)"
 
 dev-h: "**Intro to Web Dev.**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target=\"_blank\"}{: .table-head-link}<br>[Certification Projects](./intro-to-web-dev/){: .table-head-link}"
 dev-1: "Nutrition Label (<B) or Product Landing Page (>B)"
 dev-2: ""
 dev-3: ""
-dev-x: "Jan. 26<br>(Final Exam)"
+dev-x: "Jan. 22<br>(Final Exam)"
 
 cal-h: "**AP Calc**<br>[Notes and HW](./calc-for-ap-larson/)"
 cal-1: "**M**{: .day}[3.4 Concavity and the Second Derivative Test](./calc-for-ap-larson/3-4-concavity-and-the-second-derivative-test.html)"
