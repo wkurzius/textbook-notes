@@ -42,7 +42,7 @@ There are certain variables that just don't have a normal distribution, one bein
 
 But that not-normal distribution only applies to the individual data points. If we were to go around and collect samples of retirement ages, the means of those samples would produce a normal distribution. No skew. No irregularities. And the larger the sample size, the more it would resemble a normal distribution.
 
-This is tough to visualize, so I recommend using [this tool from Rice University](https://onlinestatbook.com/stat_sim/sampling_dist/). Create a distribution, and make it as strange as possible. Then produce samples and watch how the mean of those samples produces a normal distribution.
+This is tough to visualize, so I recommend using [this tool from Rice University](https://onlinestatbook.com/stat_sim/sampling_dist/){: target="_blank"}. Create a distribution, and make it as strange as possible. Then produce samples and watch how the mean of those samples produces a normal distribution.
 
 This means analyzing data, especially those with irregular or even unknown distributions can be simplified. Of course, this only works if we are concerned about the mean of the group.
 
