@@ -123,3 +123,14 @@ Assume all percentages are decimals unless stated otherwise.
 > \sigma &= \sqrt{\frac{(b-a)^2}{12}}
 > \end{align}$$
 {: .definition}
+
+## 7 Central Limit Theorem
+
+> ### Standard Deviation of a Sampling Distribution
+>
+> Also known as the **standard error of the mean**. Use this as your standard deviation when when finding _z_-scores of sampling distributions. $\sigma$ is the standard deviation of the variable and $n$ the sample size.
+>
+> $$\begin{align}
+> \sigma_{\bar{x}} = \frac{\sigma}{\sqrt{n}}
+> \end{align}$$
+{: .definition}
