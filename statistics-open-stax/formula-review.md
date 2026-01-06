@@ -37,10 +37,10 @@ Assume all percentages are decimals unless stated otherwise.
 
 > ### Standard Deviation
 >
-> Where 
+> 
 >
 > $$\begin{align}
-> 
+> \sigma &= \sqrt{\frac{\Sigma (x - \mu)^2}{n}}
 > \end{align}$$
 
 {: .definition}

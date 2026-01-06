@@ -20,9 +20,6 @@ course: Probability & Statistics
 
 ---
 
-- {: .document}[PowerPoint slides](){: target="_blank"}
-{: .icon-list}
-
 ## A Normal Refresher
 
 A distribution shows to the probability of a particular value appearing if chosen at random. A normal distribution is a symmetrical distribution with the bulk of the data falling in the middle. It's also called the bell curve since its shape resembles a bell.
