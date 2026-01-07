@@ -16,3 +16,53 @@ next-link: ./3-7-class-variables-and-methods.html
 
 ---
 
+You might remember that java utilizes a concept known as **call by value** where the values of a variable are copied when called by methods.
+
+```java
+public static int triple(int x) {
+    return x * 3;
+}
+
+public static void main(String[] args) {
+    int x = 2;
+    System.out.println(x); // outputs 2
+    triple(x);
+    System.out.println(x); // also outputs 2
+}
+```
+
+This is straightforward with primitives. If you want to modify the value of a variable, you need to explicitly do so. For the above situation, changing line 7 to `x = triple(x);` would actually triple the value of `x`.
+
+But call by value can get messy when working with objects. Object variables, like `Turtle t1`, have values that are only a reference to the object, not the object itself. This means the reference is copied, in line with call by value, but that copy is still the same reference and points to the same object.
+
+To put it bluntly, if you pass an object as a parameter, you risk modifying the original. If you want a copy, you need to explicitly make a new object and copy the instance variables from the original. This means utilizing the getters/accessor methods to get the values of the source object.
+
+```java
+Rectangle r1 = new Rectangle(100,200);
+Rectangle r2 = new Rectangle(r1.getWidth(), r1.getHeight());
+```
+
+Or, if you are designing the class, you can provide a copy constructor which will take the object passed and copy each value.
+
+```java
+
+public class Rectangle {
+    private int width;
+    private int height;
+
+    // ... typical constructors ...
+
+    // a copy constructor
+    public Rectangle(Rectangle r) {
+        width = r.getWidth();
+        height = r.getHeight();
+    }
+
+    // ... getters and setters ...
+
+    public static void main(String args[]) {
+        Rectangle r1 = new Rectangle(100,200);
+        Rectangle r2 = new Rectangle(r1);
+    }
+}
+```
