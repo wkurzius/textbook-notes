@@ -16,6 +16,8 @@ next-link: ./3-7-class-variables-and-methods.html
 
 ---
 
+## Call by Value
+
 You might remember that java utilizes a concept known as **call by value** where the values of a variable are copied when called by methods.
 
 ```java
@@ -42,7 +44,7 @@ Rectangle r1 = new Rectangle(100,200);
 Rectangle r2 = new Rectangle(r1.getWidth(), r1.getHeight());
 ```
 
-Or, if you are designing the class, you can provide a copy constructor which will take the object passed and copy each value.
+If you are designing the class, you can provide a copy constructor which will take the object passed and copy each value.
 
 ```java
 
@@ -66,3 +68,8 @@ public class Rectangle {
     }
 }
 ```
+
+### Mutable vs Immutable
+
+The book mentions immutable objects, which are just objects that cannot be modified. There is no flag to make this happen, it just comes from simply making all your fields private and not providing any setters. `String` objects are immutable by design, something else that makes them more like primitives.
+
