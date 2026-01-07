@@ -14,7 +14,7 @@ next-link: "./3-5-a-summary-of-curve-sketching.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p242 3, 7, 12, 13, 18, 23, 26, 27, 31, 27, 41–51 odd, 59, 67, 69–71 *74, 80, 92–94*{: .ap-problems}
+- p242 3, 7, 12, 13, 18, 23, 26, 27, 31, 37, 41–51 odd, 59, 67, 69–71 *74, 80, 92–94*{: .ap-problems}
 
 ## Additional Resources
 

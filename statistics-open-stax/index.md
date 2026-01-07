@@ -5,7 +5,7 @@ layout: page
 
 - [Syllabus](./prob-and-stats-syllabus.md)
 - [Online textbook](https://openstax.org/books/statistics/pages/1-introduction){: target="_blank"}
-- [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL)
+- [Formula Review](./formula-review.md)
 
 ## 1 Sampling and Data
 
