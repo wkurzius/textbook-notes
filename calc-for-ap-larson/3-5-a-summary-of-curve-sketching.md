@@ -26,13 +26,13 @@ next-link: "./3-6-optimization-problems.html"
 
 ## Analyzing the Graph of a Function
 
-Now that we've looked at the derivatives for increasing/decreasing and concavity, we wrap everything up into one package.
+Now that we've learned how to use derivatives to determine when a function increasing/decreasing and when it's concave up or down, we can wrap everything up into one package.
 
 > ### Guidelines for Analyzing the Graph of a Function
 >
 > 1. Determine the domain and range of the function
 > 2. Determine the intercepts, asymptotes, and symmetry of the graph.
-> 3. Find critical points for $f'$ and $f^{\prime\prime}$ and determine extrema and points of inflection.
+> 3. Find where $f'$ and $f^{\prime\prime}$ are 0 or don't exist, then determine extrema and points of inflection.
 {: .definition}
 
 The book has a slew of examples which highlight some common things to look for, as well as organizational tips. When you read through them, here are some things to look for.
@@ -44,3 +44,32 @@ The book has a slew of examples which highlight some common things to look for, 
 - Example 5: A reminder of properties of polynomials, such as number of extrema and points of inflection.
 - Example 6: Mentions theorem 1.14 which is the definition of vertical asymptotes. Technically you need something not equal to zero in the numerator while the denominator is zero for it to be an asymptote. $0/0$ doesn't fulfill this, so they rewrite to get another version to see what's actually going on.
 - Example 7–10: Note that the tables are *not* used as justification. Instead, verbal explanations are given, with any tables there only to organize work done before the explanations. Examples 9 and 10 in particular showcase problems that will likely appear on the exam.
+
+> ## Example 1
+>
+> Analyze the graph of $f(x) = \frac{2(x^2-9)}{x^2-4}$
+{: .example}
+
+First up, we need domain and range. Our only concern in this function is denominator, which means for our domain $x\neq\pm2$. Range is tougher to analyze, and sometimes its easier to come back to this after determining your asymptotes and extrema.
+
+For horizontal asymptotes, we have one at $y=2$. The degrees are equal, so that means leading coefficients determine that.
+
+Vertical asymptotes will pop up when the denominator is $0$, but not a removable discontinuity. Factoring is required here.
+
+$$\begin{align}
+f(x) &= \frac{2(x^2-9)}{x^2-4} \\
+     &= \frac{2(x-3)(x+3)}{(x-2)(x+2)}
+\end{align}$$
+
+Nothing divides out, so we have vertical asymptotes at $x=\pm2$.
+
+Even symmetry is when $f(-x)=f(x)$. Since we only have $x^2$, negatives don't matter so this does have even symmetry, meaning it's symmetrical with respect to the $y$-axis.
+
+
+
+$\blacksquare$
+{: .qed}
+
+
+
+◜◝◟◞
