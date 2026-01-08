@@ -39,6 +39,7 @@ $$\begin{align}
     &= \frac{1+5}{2} \\
     &= 3 
 \end{align}$$
+
 $$\begin{align}
 \sigma &= \sqrt{\frac{(b-a)^2}{12}} \\
        &= \sqrt{\frac{(5-1)^2}{12}} \\
