@@ -65,7 +65,9 @@ Nothing divides out, so we have vertical asymptotes at $x=\pm2$.
 
 Even symmetry is when $f(-x)=f(x)$. Since we only have $x^2$, negatives don't matter so this does have even symmetry, meaning it's symmetrical with respect to the $y$-axis.
 
+Odd symmetry, or with respect to the origin is tested with $f(-x) = -f(x)$. That doesn't work here, so no odd symmetry. In fact, unless your function is $f(x)=0$, then you can't have both even and odd symmetry at the same time anyway.
 
+Intercepts are when $x=0$ and when 
 
 $\blacksquare$
 {: .qed}
