@@ -97,5 +97,3 @@ public class Rectangle {
     }
 }
 ```
-
-The book paints a picture of a `Person` object which has an instance variable that points to an `Address` object. 
