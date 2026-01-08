@@ -37,7 +37,7 @@ This is straightforward with primitives. If you want to modify the value of a va
 
 But call by value can get messy when working with objects. Object variables, like `Turtle t1`, have values that are only a reference to the object, not the object itself. This means the reference is copied, in line with call by value, but that copy is still the same reference and points to the same object.
 
-To put it bluntly, if you pass an object as a parameter, you risk modifying the original. If you want a copy, you need to explicitly make a new object and copy the instance variables from the original. This means utilizing the getters/accessor methods to get the values of the source object.
+To put it bluntly, **if you pass an object as a parameter, you risk modifying the original**. If you want a copy, you need to explicitly make a new object and copy the instance variables from the original. This means utilizing the getters/accessor methods to get the values of the source object.
 
 ```java
 Rectangle r1 = new Rectangle(100,200);
@@ -47,7 +47,6 @@ Rectangle r2 = new Rectangle(r1.getWidth(), r1.getHeight());
 If you are designing the class, you can provide a copy constructor which will take the object passed and copy each value.
 
 ```java
-
 public class Rectangle {
     private int width;
     private int height;
@@ -69,10 +68,34 @@ public class Rectangle {
 }
 ```
 
+Regardless, making copies should be the default approach to working with object unless you are sure they are supposed to be modified. With a copy, you have option to access the original if needed. On the other hand, if you modify the original that information is lost.
+
 ### Mutable vs Immutable
 
 The book mentions immutable objects, which are just objects that cannot be modified. There is no flag to make this happen, it just comes from simply making all your fields private and not providing any setters. `String` objects are immutable by design, something else that makes them behave more like primitives.
 
-## The Actual Problem
+## Returning Objects
+
+Perhaps unsurprisingly, this "call by value" is in place with `return` statements as well. Objects can be large and therefore memory intensive, so again, just the reference to the object is returned. A copy is not made unless the method is designed to do so.
+
+## Classist Parameters
+
+Remember how you can't access the instance variables of a class if they are flagged as `private`? This continues to be true, but with an added wrinkle: different objects can access each other's instance variables. `private` restricts other classes, not other objects from the same class.
+
+```java
+public class Rectangle {
+    private int width;
+    private int height;
+
+    // ... typical constructors ...
+    // ... getters and setters ...
+
+    public static void main(String args[]) {
+        Rectangle r1 = new Rectangle(100,200);
+        // ...
+        Rectangle r4 = new Rectangle(r1.width, r1.height);  // this is legal
+    }
+}
+```
 
 The book paints a picture of a `Person` object which has an instance variable that points to an `Address` object. 
