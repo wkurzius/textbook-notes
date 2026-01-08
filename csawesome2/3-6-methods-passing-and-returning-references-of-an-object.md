@@ -71,5 +71,8 @@ public class Rectangle {
 
 ### Mutable vs Immutable
 
-The book mentions immutable objects, which are just objects that cannot be modified. There is no flag to make this happen, it just comes from simply making all your fields private and not providing any setters. `String` objects are immutable by design, something else that makes them more like primitives.
+The book mentions immutable objects, which are just objects that cannot be modified. There is no flag to make this happen, it just comes from simply making all your fields private and not providing any setters. `String` objects are immutable by design, something else that makes them behave more like primitives.
 
+## The Actual Problem
+
+The book paints a picture of a `Person` object which has an instance variable that points to an `Address` object. 
