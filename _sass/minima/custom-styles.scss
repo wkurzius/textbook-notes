@@ -293,14 +293,6 @@ table.rouge-table .rouge-code {
     font-family: monospace;
 }
 
-.table-head-link {
-    margin-left: 0.5rem;
-}
-
-.table-head-link::before {
-    content: "- ";
-}
-
 img.icon {
     width: 1.5rem;
 }
@@ -348,7 +340,7 @@ img.icon {
 // minima block table override
 
 @media screen and (max-width: 800px) {
-    table#office-hours {
+    #schedule-table {
         display: table;
         // overflow-x:;
         // -webkit-overflow-scrolling: initial;
@@ -424,3 +416,14 @@ footer .last-reviewed {
 }
 
 // end prev-next navigation
+
+// This week icons and links
+
+.this-week-table .fa-solid {
+    padding-right: 0.5em;
+    color: var(--minima-text-color);
+}
+
+.this-week-table .fa-solid:hover {
+    color: var(--minima-link-hover-color);
+}

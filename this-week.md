@@ -1,41 +1,45 @@
 ---
-title: "This Week (Jan. 5–9)"
+title: "This Week (Jan. 12–16)"
 layout: this-week
 
-csc-h: "**AP Comp Sci A**<br>[Notes and HW](./csawesome2/){: .table-head-link}<br>[Book](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\" .table-head-link}"
-csc-1: "**T**{: .day}[3.5 Methods: How to Write Them](./csawesome2/3-5-methods-how-to-write-them.html)"
-csc-2: "**R**{: .day}[3.6 Methods: Passing and Returning References of an Object](./csawesome2/3-6-methods-passing-and-returning-references-of-an-object.html)"
-csc-3: ""
+csc-h: "**AP Comp Sci A**<br>
+        [<i class=\"fa-solid fa-file-pen\"></i>](./csawesome2/){: title=\"Notes and HW\"}
+        [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
+csc-1: "**M**{: .day}[3.7 Class Variables and Methods](./csawesome2/3-7-class-variables-and-methods.html) and [3.8 Scope and Access](./csawesome2/3-8-scope-and-access.html)"
+csc-2: "**W**{: .day}[3.9 `this` Keyword](./csawesome2/3-9-this-keyword.html)"
+csc-3: "**F**{: .day}Review and Progress Check"
 csc-x: "Jan. 21"
 
-con-h: "**Concepts of Algebra**<br>[Khan Academy](https://www.khanacademy.org/math/algebra-basics){: target=\"_blank\"}"
-con-1: "Unit 3: Linear equations and inequalities"
+con-h: "**Concepts of Algebra**<br>
+        [<i class=\"fa-solid fa-globe\"></i>](https://www.khanacademy.org/math/algebra-basics){: target=\"_blank\" title=\"KhanAcademy.org\"}"
+con-1: "[Unit 3: Linear equations and inequalities](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities){: target=\"_blank\"}"
 con-2: ""
 con-3: ""
 con-x: "Jan. 12<br>(Benchmark)"
 
-sta-h: "**Prob. & Stats**<br>[Notes and HW](./statistics-open-stax/){: .table-head-link}<br>[Book](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" .table-head-link}"
-sta-1: "**T**{: .day}[7.1 The Central Limit Theorem for Sample Means](./statistics-open-stax/7-1-the-central-limit-theorem-for-sample-means.html)"
-sta-2: "**R**{: .day}[7.3 Using the Central Limit Theorem](./statistics-open-stax/7-3-using-the-central-limit-theorem.html)"
-sta-3: ""
+sta-h: "**Prob. & Stats**<br>
+        [<i class=\"fa-solid fa-file-pen\"></i>](./statistics-open-stax/){: title=\"Notes and HW\"}
+        [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
+sta-1: "**M**{: .day} Chapter 7 Review"
+sta-2: "**W**{: .day} Final Review Day 1"
+sta-3: "**F**{: .day} Final Review Day 2"
 sta-x: "Jan. 23<br>(Final Exam)"
 
-dev-h: "**Intro to Web Dev.**<br>[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target=\"_blank\"}{: .table-head-link}<br>[Certification Projects](./intro-to-web-dev/){: .table-head-link}"
+dev-h: "**Intro to Web Dev.**<br>
+        [<i class=\"fa-solid fa-file-pen\"></i>](./intro-to-web-dev/){: title=\"Certification Project Descriptions\"}
+        [<i class=\"fa-solid fa-globe\"></i>](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target=\"_blank\" title=\"freeCodeCamp Online Curriculum\"}"
 dev-1: "Nutrition Label (<B) or Product Landing Page (>B)"
 dev-2: ""
 dev-3: ""
 dev-x: "Jan. 22<br>(Final Exam)"
 
-cal-h: "**AP Calc**<br>[Notes and HW](./calc-for-ap-larson/)"
-cal-1: "**M**{: .day}[3.4 Concavity and the Second Derivative Test](./calc-for-ap-larson/3-4-concavity-and-the-second-derivative-test.html)"
-cal-2: "**W**{: .day}[3.4 Concavity and the Second Derivative Test](./calc-for-ap-larson/3-4-concavity-and-the-second-derivative-test.html)"
-cal-3: "**F**{: .day}[3.5 A Summary of Curve Sketching](./calc-for-ap-larson/3-5-a-summary-of-curve-sketching.html)"
-cal-x: "Jan. 20"
+cal-h: "**AP Calc**<br>
+        [<i class=\"fa-solid fa-file-pen\"></i>](./calc-for-ap-larson/){: title=\"Notes and HW\"}"
+cal-1: "**T**{: .day}[3.5 A Summary of Curve Sketching](./calc-for-ap-larson/3-5-a-summary-of-curve-sketching.html)"
+cal-2: "**R**{: .day}[3.6 Optimization Problems](./calc-for-ap-larson/3-6-optimization-problems.html)"
+cal-3: ""
+cal-x: "Jan. 26<br>(MP Exam)"
 ---
-
-- {: .home}[Site home](./)
-- {: .pen-square}[Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="_blank"}
-{: .icon-list}
 
 | Course         | New Material                                       | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
@@ -58,4 +62,4 @@ I am available for extra help every day in the library during LF1, as well as be
 |  LF2  | Flex                 | Flex                |
 |   3   | Prob. & Stats        | AP Calc AB          |
 |   4   | Prep / Bathroom Duty | Library Duty        |
-{: #office-hours}
+{: #schedule-table}
