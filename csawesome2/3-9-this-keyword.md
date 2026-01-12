@@ -44,9 +44,9 @@ public static void main(String args[]) {
 }
 ```
 
-Using `this` is always advised because is removes the ambiguity of what is being called. `width` looks like a local variable, but `this.width` is clearly an instance variable.
+Using `this` is always advised because it removes ambiguity. `width` looks like a local variable, but `this.width` is clearly an instance variable.
 
-Also, `this` can also be used as an argument.
+Also, `this` can also be used as an argument. The `area()` method is designed to be `static` since I don't necessarily need a `Rectangle` to exist to want to know the area.
 
 ```java
 public class Rectangle {
@@ -70,3 +70,5 @@ public class Rectangle {
     }
 }
 ```
+
+Of course, the method is designed to accept a `Rectangle` object, begging the question "couldn't you have just made it non-static?" Asking that question online will take you down the comp science philosophy rabbit hole. The short answer is ... eh.
