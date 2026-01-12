@@ -16,3 +16,34 @@ next-link: ./4-1-ethical-and-social-issues-around-data-collection.html
 
 ---
 
+Last section we introduced a problem where a local variable would be used in lieu of the instance variable.
+
+```java
+public int getWidth() {
+    int width = 999;
+    return width;   // 999 is returned
+}
+
+public static void main(String args[]) {
+    Rectangle r1 = new Rectangle(100, 200);
+    System.out.println(r1.getWidth());
+}
+```
+
+There is a very easy fix for this where you use the keyword `this` to represent the current object.
+
+```java
+public int getWidth() {
+    int width = 999;
+    return this.width;  // 100 is returned
+}
+
+public static void main(String args[]) {
+    Rectangle r1 = new Rectangle(100, 200);
+    System.out.println(r1.getWidth());
+}
+```
+
+Using `this` is always advised because is removes the ambiguity of what is being called. `width` looks like a local variable, but `this.width` is clearly an instance variable.
+
+Also, `this` can also be used as a replacement for passing an object as a argument. There is a convoluted example of this in the book.
