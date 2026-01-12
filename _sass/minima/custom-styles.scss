@@ -51,7 +51,11 @@ blockquote {
 }
 
 h1 code,
-h1 code.highlighter-rouge {
+h2.code,
+h3.code,
+h1 code.highlighter-rouge,
+h2 code.highlighter-rouge,
+h3 code.highlighter-rouge {
     font-size: unset;
     border: unset;
     background-color: unset;
@@ -391,10 +395,10 @@ footer .last-reviewed {
     width: 25px;
     flex: 0 0 25px;
     margin-bottom: 10px;
-	font-size: 2.625rem;
-	font-weight: 400;
-	letter-spacing: -1px;
-	line-height: 1.15;
+    font-size: 2.625rem;
+    font-weight: 400;
+    letter-spacing: -1px;
+    line-height: 1.15;
 }
 
 .post-header-nav .post-nav a {
