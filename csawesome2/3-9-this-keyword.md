@@ -46,4 +46,27 @@ public static void main(String args[]) {
 
 Using `this` is always advised because is removes the ambiguity of what is being called. `width` looks like a local variable, but `this.width` is clearly an instance variable.
 
-Also, `this` can also be used as a replacement for passing an object as a argument. There is a convoluted example of this in the book.
+Also, `this` can also be used as an argument.
+
+```java
+public class Rectangle {
+    private int width;
+    private int height;
+
+    // ... methods and constructors ...
+
+    public static int area(Rectangle r) {
+        return r.width * r.height;
+    }
+
+    public String toString() {
+        return this.width + " x " + this.height + "\n" +
+                "Area: " + area(this);
+    }
+
+    public static void main(String args[]) {
+        Rectangle r1 = new Rectangle();
+        System.out.println(r1);
+    }
+}
+```
