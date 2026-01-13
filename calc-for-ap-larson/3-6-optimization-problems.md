@@ -95,5 +95,17 @@ V &= 108
 
 Annoyingly, the volume and the surface area are the same number.
 
+> The decision to solve for $h$ at the beginning was just the path of least resistance. You could have also solved for $x$, though the algebra involved there would be _much_ more difficult.
+>
+> Just as a taste, to solve for $x$ you would need to use the quadratic formula on $x^2+4hx -108=0$. That would yield
+>
+> $$\begin{align}
+> x &= -2h\pm2\sqrt{h^2+27}
+> \end{align}$$
+>
+> which would then need to be plugged into your volume formula, which would then need to be differentiated.
+>
+> So, try different ways to solve problems if what you started with isn't working out.
+
 $\blacksquare$
 {: .qed}
