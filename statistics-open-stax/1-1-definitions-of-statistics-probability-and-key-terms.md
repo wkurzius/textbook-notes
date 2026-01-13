@@ -2,6 +2,8 @@
 title: 1.1 Definitions of Statistics, Probability, and Key Terms
 layout: page
 course: Probability & Statistics
+prev-link: 
+next-link: ./1-2-data-sampling-and-variation-in-data-and-sampling.html
 ---
 
 ## Chapter Objectives

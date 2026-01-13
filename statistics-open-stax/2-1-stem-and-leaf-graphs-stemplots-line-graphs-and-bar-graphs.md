@@ -2,6 +2,8 @@
 title: "2.1 Stem-and-Leaf Graphs (Stemplots), Line Graphs, and Bar Graphs"
 layout: page
 course: Probability & Statistics
+prev-link: ./1-4-experimental-design-and-ethics.html
+next-link: ./2-2-histograms-frequency-polygons-and-time-series-graphs.html
 ---
 
 ## Chapter Objectives

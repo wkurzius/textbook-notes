@@ -2,6 +2,8 @@
 title: 3.1 Terminology
 layout: page
 course: Probability & Statistics
+prev-link: ./2-7-measures-of-the-spread-of-the-data.html
+next-link: ./3-2-independent-and-mutually-exclusive-events.html
 ---
 
 ## Chapter Objectives

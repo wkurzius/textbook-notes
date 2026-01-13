@@ -2,6 +2,8 @@
 title: 4.2 Mean or Expected Value and Standard Deviation
 layout: page
 course: Probability & Statistics
+prev-link: ./4-1-probability-distribution-function-for-a-discrete-random-variable.html
+next-link: ./5-1-continuous-probability-functions.html
 ---
 
 ## Chapter Objectives

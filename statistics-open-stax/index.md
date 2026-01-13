@@ -13,8 +13,6 @@ layout: page
 - [Data, Sampling, and Variation in Data and Sampling](./1-2-data-sampling-and-variation-in-data-and-sampling.md)
 - [Frequency, Frequency Tables, and Levels of Measurement](./1-3-frequency-tables.md)
 - [Experimental Design and Ethics](./1-4-experimental-design-and-ethics.md)
-- Data Collection Experiment
-- Sampling Experiment
 {: .notes-list .notes-init}
 
 ## 2 Descriptive Statistics
@@ -26,7 +24,6 @@ layout: page
 - [Measures of the Center of the Data](./2-5-measures-of-the-center-of-the-data.md)
 - [Skewness and the Mean, Median, and Mode](./2-6-skewness-and-the-mean-median-and-mode.md)
 - [Measures of the Spread of the Data](./2-7-measures-of-the-spread-of-the-data.md)
-- Descriptive Statistics
 {: .notes-list}
 
 ## 3 Probability Topics
@@ -36,42 +33,28 @@ layout: page
 - [Two Basic Rules of Probability](./3-3-two-basic-rules-of-probability.md)
 - [Contingency Tables](./3-4-contingency-tables.md)
 - [Tree and Venn Diagrams](./3-5-tree-and-venn-diagrams.md)
-- Probability Topics
 {: .notes-list}
 
 ## 4 Discrete Random Variables
 
 - [Probability Distribution Function (PDF) for a Discrete Random Variable](./4-1-probability-distribution-function-for-a-discrete-random-variable.md)
 - [Mean or Expected Value and Standard Deviation](./4-2-mean-or-expected-value-and-standard-deviation.md)
-- ~~Binomial Distribution (Optional)~~
-- ~~Geometric Distribution (Optional)~~
-- ~~Hypergeometric Distribution (Optional)~~
-- ~~Poisson Distribution (Optional)~~
-- ~~Discrete Distribution (Playing Card Experiment)~~
-- ~~Discrete Distribution (Lucky Dice Experiment)~~
 {: .notes-list}
 
 ## 5 Continuous Random Variables
 
 - [Continuous Probability Functions](./5-1-continuous-probability-functions.md)
 - [The Uniform Distribution](./5-2-the-uniform-distribution.md)
-- ~~The Exponential Distribution (Optional)~~
-- ~~Continuous Distribution~~
 {: .notes-list}
 
 ## 6 The Normal Distribution
 
 - [The Standard Normal Distribution](./6-1-the-standard-normal-distribution.md)
 - [Using the Normal Distribution](./6-2-using-the-normal-distribution.md)
-- Normal Distribution—Lap Times
-- Normal Distribution—Pinkie Length
 {: .notes-list}
 
 ## 7 The Central Limit Theorem
 
 - [The Central Limit Theorem for Sample Means (Averages)](./7-1-the-central-limit-theorem-for-sample-means.md)
-- The Central Limit Theorem for Sums (Optional)
-- [Using the Central Limit Theorem](./7-3-using-the-central-limit-theorem.md)
-- Central Limit Theorem (Pocket Change)
-- Central Limit Theorem (Cookie Recipes)
+- {: .reset-3}[Using the Central Limit Theorem](./7-3-using-the-central-limit-theorem.md)
 {: .notes-list}

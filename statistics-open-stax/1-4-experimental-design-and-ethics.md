@@ -2,6 +2,8 @@
 title: 1.4 Experimental Design and Ethics
 layout: page
 course: Probability & Statistics
+prev-link: ./1-3-frequency-tables.html
+next-link: ./2-1-stem-and-leaf-graphs-stemplots-line-graphs-and-bar-graphs.html
 ---
 
 ## Chapter Objectives

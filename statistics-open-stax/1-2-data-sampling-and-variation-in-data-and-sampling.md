@@ -2,6 +2,8 @@
 title: 1.2 Data, Sampling, and Variation in Data and Sampling
 layout: page
 course: Probability & Statistics
+prev-link: ./1-1-definitions-of-statistics-probability-and-key-terms.html
+next-link: ./1-3-frequency-tables.html
 ---
 
 ## Chapter Objectives

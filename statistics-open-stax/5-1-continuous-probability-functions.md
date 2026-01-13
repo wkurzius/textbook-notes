@@ -2,6 +2,8 @@
 title: 5.1 Continuous Probability Functions
 layout: page
 course: Probability & Statistics
+prev-link: ./4-2-mean-or-expected-value-and-standard-deviation.html
+next-link: ./5-2-the-uniform-distribution.html
 ---
 
 ## Chapter Objectives

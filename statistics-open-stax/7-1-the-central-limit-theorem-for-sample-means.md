@@ -2,6 +2,8 @@
 title: 7.1 The Central Limit Theorem for Sample Means (Averages)
 layout: page
 course: Probability & Statistics
+prev-link: ./6-2-using-the-normal-distribution.html
+next-link: ./7-3-using-the-central-limit-theorem.html
 ---
 
 ## Chapter Objectives

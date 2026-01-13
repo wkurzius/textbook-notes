@@ -2,6 +2,8 @@
 title: 2.7 Measures of the Spread of the Data
 layout: page
 course: Probability & Statistics
+prev-link: ./2-6-skewness-and-the-mean-median-and-mode.html
+next-link: ./3-1-terminology.html
 ---
 
 ## Chapter Objectives
