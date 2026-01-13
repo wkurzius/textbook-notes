@@ -2,7 +2,7 @@
 title: 3.6 Optimization Problems
 layout: page
 course: AP Calc
-last-reviewed:
+last-reviewed: 2026-01-13 08:42:36
 prev-link: "./3-5-a-summary-of-curve-sketching.html"
 next-link: "./4-1-antiderivatives.html"
 ---
@@ -36,3 +36,64 @@ As for those guidelines, here's the boiled down version:
 3. Get the equation down to a single independent variable
 4. Determine the domain
 5. Use calculus to find the extrema
+
+> ## Optimization Example
+>
+> A manufacturer wants to design an open box having a square base and a surface area of 108 square inches. What dimensions will produce a box with maximum volume?
+{: .example}
+
+Boxes have three dimensions, but since the base is a square we can get away with using just two variables. Let $x$ be the base dimensions and $h$ be the height of the box.
+
+We also know that the surface area has to be 108 square inches, and that it's open box. Our formula for surface area has to include our square base and the four sides.
+
+$$\begin{align}
+SA &= x^2 + 4(xh) \\
+108 &= x^2 + 4(xh)
+\end{align}$$
+
+Since the question is concerned about the volume, we also need to set that up. Don't forget to account for the square base.
+
+$$\begin{align}
+V &= x^2h
+\end{align}$$
+
+Since the end-game is to maximize volume, we'll rearrange our surface area formula so it can be plugged into the volume one. To goal is a single independent variable, so I will solve and substitute for $h$.
+
+$$\begin{align}
+108 &= x^2 + 4(xh) \\
+h &= \frac{108- x^2}{4x} \\[1em]
+
+V &= x^2\left(\frac{108- x^2}{4x}\right) \\
+  &= \frac{108x - x^3}{4}
+\end{align}$$
+
+Now we can look for the maximum volume, or where this function will peak.
+
+$$\begin{align}
+V' &= \frac{1}{4} \cdot \frac{d}{dx}[108x-x^3] \\
+   &= \frac{1}{4} (108 - 3x^2) \\
+   &= \frac{3}{4} (36 - x^2)
+\end{align}$$
+
+We get critical points at $x=\pm6$, but only the positive version makes sense in this problem. This is likely where our volume will be maximized, but double check by looking at the intervals before and after. When $x=0$ we get a positive and when $x=100$ we get a negative, so it is a maximum.
+
+We have the dimensions of the square base, but still need the height. Go back to the surface area equation to find that.
+
+$$\begin{align}
+108 &= (6)^2 + 4(6)h \\
+108 &= 36 + 24h \\
+18 &= 6 + 4h \\
+3 &=h
+\end{align}$$
+
+So, we have the dimensions $(6 \times 6 \times 3)$, but what's the volume of this optimized box?
+
+$$\begin{align}
+V &= (6)^2(3) \\
+V &= 108
+\end{align}$$
+
+Annoyingly, the volume and the surface area are the same number.
+
+$\blacksquare$
+{: .qed}
