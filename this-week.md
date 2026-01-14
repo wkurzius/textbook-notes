@@ -5,8 +5,8 @@ layout: this-week
 csc-h: "**AP Comp Sci A**<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./csawesome2/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
-csc-1: "**M**{: .day}[3.7 Class Variables and Methods](./csawesome2/3-7-class-variables-and-methods.html) and [3.8 Scope and Access](./csawesome2/3-8-scope-and-access.html)"
-csc-2: "**W**{: .day}[3.9 `this` Keyword](./csawesome2/3-9-this-keyword.html)"
+csc-1: "**M**{: .day}[3.7 Class Variables and Methods](./csawesome2/3-7-class-variables-and-methods.html)"
+csc-2: "**W**{: .day}[3.8 Scope and Access](./csawesome2/3-8-scope-and-access.html) and [3.9 `this` Keyword](./csawesome2/3-9-this-keyword.html)"
 csc-3: "**F**{: .day}Review and Progress Check"
 csc-x: "Jan. 21"
 
