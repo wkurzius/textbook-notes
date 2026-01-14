@@ -24,3 +24,34 @@ next-link: ./2-2-histograms-frequency-polygons-and-time-series-graphs.html
 
 - {: .document}[PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/Ef6_N0lMqdxOm_tTAMaPEy0BR6uvfkQFZB9phqWePxS4HQ?e=5JZ54o){: target="_blank"}
 {: .icon-list}
+
+## The Stem-and-Leaf Graph
+
+- Good for small data sets
+- Shape provides info on the distribution
+- Can reveal outliers
+- Leaf is the final significant digit
+- Stem are the leading digits
+- Stem on left of a vertical line
+- Leaves on the right
+
+> ![Stem and leaf plot](./img/2-1-stem-and-leaf.png){: width="300"}
+>
+> **Figure 2.1.1** A stem and leaf plot.
+{: .figure}
+
+## Line Graphs and Bar Graphs
+
+- Good for representing frequency tables
+- Points are plotted at frequency, then connected by lines
+- Bars are the height of the frequency with space between
+
+> ![A line graph](./img/2-1-line-graph.png){: width="300"}
+>
+> **Figure 2.1.2** A line graph.
+{: .figure}
+
+> ![A bar graph](./img/2-1-bar-graph.png){: width="300"}
+>
+> **Figure 2.1.3** A bar graph.
+{: .figure}

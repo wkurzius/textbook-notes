@@ -17,6 +17,24 @@ Assume all percentages are decimals unless stated otherwise.
 > \end{align}$$
 {: .definition}
 
+> ### Inner Quartile Range
+>
+> 
+>
+> $$\begin{align}
+> \text{IQR} &= Q_3 - Q_1
+> \end{align}$$
+{: .definition}
+
+> ### Determining Outliers through IQR
+>
+> An data point is considered an outlier if it is outside the IQR by an amount greater than 1.5 times the IQR.
+>
+> $$\begin{align}
+> [𝑄_1−1.5⋅\text{IQR},𝑄_3+1.5⋅\text{IQR}]
+> \end{align}$$
+{: .definition}
+
 > ### Mean of a Frequency Table
 >
 > Sum your midpoints multiplied by their frequency, then divide by the total frequency.

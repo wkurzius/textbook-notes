@@ -24,3 +24,25 @@ next-link: ./2-5-measures-of-the-center-of-the-data.html
 
 - {: .document}[PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/ERwZD5B5NupGriTdMvcsPksBQwHe6V2X9kkGukHDLoR7RQ?e=MajMwc){: target="_blank"}
 {: .icon-list}
+
+## Box Plots
+
+- Uses positional measurements to show concentration of data
+- Min, max, median, $𝑄_1$ and $𝑄_3$
+- The middle 50% is the box
+- Whiskers go out to the min and max
+- Median is drawn inside the box
+
+> ![A box plot](./img/2-4-box-plot.png){: width="400"}
+>
+> **Figure 2.4.1** A box plot.
+{: .figure}
+
+## Drawing a Box Plot
+
+- Start with a properly scaled number line
+- Draw vertical lines at $𝑄_1$ and $𝑄_3$. Lines should be the same length
+- Create a box from those two lines
+- Draw the median inside the box
+- Mark the minimum and maximum
+- Draw whiskers to them from the box

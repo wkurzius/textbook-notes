@@ -8,7 +8,7 @@ csc-h: "**AP Comp Sci A**<br>
 csc-1: "**M**{: .day}[3.7 Class Variables and Methods](./csawesome2/3-7-class-variables-and-methods.html)"
 csc-2: "**W**{: .day}[3.8 Scope and Access](./csawesome2/3-8-scope-and-access.html) and [3.9 `this` Keyword](./csawesome2/3-9-this-keyword.html)"
 csc-3: "**F**{: .day}Review and Progress Check"
-csc-x: "Jan. 21"
+csc-x: "Jan. 27"
 
 con-h: "**Concepts of Algebra**<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://www.khanacademy.org/math/algebra-basics){: target=\"_blank\" title=\"KhanAcademy.org\"}"

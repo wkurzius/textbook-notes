@@ -24,3 +24,18 @@ next-link: ./2-7-measures-of-the-spread-of-the-data.html
 
 - {: .document}[PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/EQk394y1aURJhezsLSb7MxUBitoBvEQoWSrhnBig5-uwpg?e=JcYCPB){: target="_blank"}
 {: .icon-list}
+
+## Symmetrical vs Skewed
+
+> ![Symmetrical distribution](./img/2-6-symmetrical.png)
+>
+> **Figure 2.6.1** A symmetrical distribution.
+{: .figure}
+
+- In a symmetrical distribution, the left side is a mirror image of the right side
+- Mean and the median are the same
+
+> ![Let skewed distribution](./img/2-6-left-skew.png)
+>
+> **Figure 2.6.2** A left skewed, or negative skewed, distribution.
+{: .figure}

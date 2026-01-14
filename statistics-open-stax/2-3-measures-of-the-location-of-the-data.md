@@ -24,3 +24,52 @@ next-link: ./2-4-box-plots.html
 
 - {: .document}[PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/ET-8znfDPpNFtGYQW5wKTW8BLZ1cWnHOgo3nHEXMRrI7lA?e=MZ9yhF){: target="_blank"}
 {: .icon-list}
+
+## Percentiles
+
+- Used to measure location of data
+- Values themselves don’t matter, just as long as they are in order
+- 𝑥th percentile means 𝑥% of data is equal to or lower
+- A value at the 90th percentile means 90% of the data is equal to or below that value
+
+> ### Percentile Equation
+>
+> Where $k$ is the percentile, $i$ the index (ranking position) of the value in question, and $n$ the total number of values,
+>
+> $$\begin{align}
+> i &= k(n+1)
+> \end{align}$$
+{: .definition}
+
+## Quartiles
+
+- Quartiles are percentiles that represent quarters
+- $𝑄_1$ is quartile 1 and is equivalent to the 25th percentile
+- $𝑄_2$ is also know as the median and represents the 50th percentile
+- $𝑄_3$ is the same as the 75th percentile
+
+## IQR and Outliers
+
+- Interquartile Range measures spread of the data
+- Found by subtracting 𝑄_1 from 𝑄_3
+
+> ### Inner Quartile Range
+>
+> 
+>
+> $$\begin{align}
+> \text{IQR} &= Q_3 - Q_1
+> \end{align}$$
+{: .definition}
+
+- Outliers are data points well outside the data set
+- Can determine if an outlier using IQR
+
+> ### Determining Outliers through IQR
+>
+> An data point is considered an outlier if it is outside the IQR by an amount greater than 1.5 times the IQR.
+>
+> $$\begin{align}
+> [𝑄_1−1.5⋅\text{IQR},𝑄_3+1.5⋅\text{IQR}]
+> \end{align}$$
+{: .definition}

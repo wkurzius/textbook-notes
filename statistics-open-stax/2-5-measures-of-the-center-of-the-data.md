@@ -24,3 +24,32 @@ next-link: ./2-6-skewness-and-the-mean-median-and-mode.html
 
 - {: .document}[PowerPoint version](https://1drv.ms/p/c/c4097c61e06a2b97/EQk394y1aURJhezsLSb7MxUBitoBvEQoWSrhnBig5-uwpg?e=JcYCPB){: target="_blank"}
 {: .icon-list}
+
+## One Number to Represent a Set
+
+- An average[^1] is a single number or value that best represents a set of data
+- Often also referred to as the center
+- Mean: add up all the numbers and divide by the number of numbers
+- Median: find the middle number (or 50th percentile)
+- Mode: Most frequent value
+
+## $\mu$ vs $\bar{x}$
+
+- $\mu$ (the Greek letter mu) represents the population mean
+- $\bar{x}$ represents the sample mean
+
+## Mean of Grouped Frequency Tables
+
+- Use the midpoint of each group as the value
+- Frequency is the number of times to count each midpoint.
+
+> ### Mean of a Frequency Table
+>
+> Sum your midpoints multiplied by their frequency, then divide by the total frequency.
+>
+> $$\begin{align}
+>\mu &= \frac{\sum fm}{\sum f}
+> \end{align}$$
+{: .definition}
+
+[^1]: Colloquially, average and mean are used interchangeably.
