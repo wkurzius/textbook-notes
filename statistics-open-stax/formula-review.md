@@ -19,8 +19,6 @@ Assume all percentages are decimals unless stated otherwise.
 
 > ### Inner Quartile Range
 >
-> 
->
 > $$\begin{align}
 > \text{IQR} &= Q_3 - Q_1
 > \end{align}$$

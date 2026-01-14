@@ -27,15 +27,31 @@ next-link: ./2-7-measures-of-the-spread-of-the-data.html
 
 ## Symmetrical vs Skewed
 
-> ![Symmetrical distribution](./img/2-6-symmetrical.png)
+> ![Symmetrical distribution](./img/2-6-symmetrical.png){: width="300"}
 >
 > **Figure 2.6.1** A symmetrical distribution.
 {: .figure}
 
 - In a symmetrical distribution, the left side is a mirror image of the right side
 - Mean and the median are the same
+- Skewed data is where the bulk of the data is off to the side
 
-> ![Let skewed distribution](./img/2-6-left-skew.png)
+> ![Let skewed distribution](./img/2-6-left-skew.png){: width="300"}
 >
 > **Figure 2.6.2** A left skewed, or negative skewed, distribution.
+{: .figure}
+
+> ![Let skewed distribution](./img/2-6-right-skew.png){: width="300"}
+>
+> **Figure 2.6.2** A right skewed, or positive skewed, distribution.
+{: .figure}
+
+- Name is based on where the tail is
+- A negative skew has a long tail on the left, or the negative side of the number line
+- Positive skew has the tail on the right
+- The tail drags the mean to that side, far more than the median
+
+> ![](./img/2-6-skew-averages.png)
+>
+> **Figure 2.6.3** A comparison of how skew affects the different averages.
 {: .figure}

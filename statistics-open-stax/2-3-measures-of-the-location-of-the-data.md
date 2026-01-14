@@ -55,8 +55,6 @@ next-link: ./2-4-box-plots.html
 
 > ### Inner Quartile Range
 >
-> 
->
 > $$\begin{align}
 > \text{IQR} &= Q_3 - Q_1
 > \end{align}$$
