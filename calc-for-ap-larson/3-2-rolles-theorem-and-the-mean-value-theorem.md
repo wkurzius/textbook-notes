@@ -7,7 +7,7 @@ prev-link: "./3-1-extrema-on-an-interval.html"
 next-link: "./3-3-the-first-derivative-test.html"
 ---
 
-- Understand and use Rolle’s Theorem.
+- Understand and use Rolle's Theorem.
 - Understand and use the Mean Value Theorem.
 
 ## Assignment

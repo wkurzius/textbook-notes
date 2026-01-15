@@ -35,7 +35,7 @@ layout: page
 - [`if` Statements](./2-3-if-statements.md)
 - [Nested `if` Statements](./2-4-nested-if-statements.md)
 - [Compound Boolean Expressions](./2-5-compound-boolean-expressions.md)
-- [Comparing Boolean Expressions (De Morgan’s Laws)](./2-6-comparing-boolean-expressions.md)
+- [Comparing Boolean Expressions (De Morgan's Laws)](./2-6-comparing-boolean-expressions.md)
 - [While Loops](./2-7-while-loops.md)
 - [For Loops](./2-8-for-loops.md)
 - [Implementing Selection and Iteration Algorithms](./2-9-implementing-selection-and-iteration-algorithms.md)

@@ -3,7 +3,7 @@ title: Differentiation Tags
 layout: page
 ---
 
-[Link to Canvas’s guide on the topic](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-and-manage-Differentiation-Tags-as-an-instructor/ta-p/648065)
+[Link to Canvas's guide on the topic](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-and-manage-Differentiation-Tags-as-an-instructor/ta-p/648065)
 
 These allow you to group or highlight students in a way that only you can see. You can use tags when assigning items, as well as filter your gradebook with them.
 

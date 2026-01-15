@@ -47,7 +47,7 @@ Here is starter code to help you get going, and to make sure your page renders p
 
 ## Code Validation
 
-You should frequently verify that your code is acceptable by using the HTML and CSS validators (links below). Just because your page looks OK, that doesn’t mean everything is working well under the hood.
+You should frequently verify that your code is acceptable by using the HTML and CSS validators (links below). Just because your page looks OK, that doesn't mean everything is working well under the hood.
 
 - [HTML validator](https://validator.w3.org/){: target="_blank"}
 - [CSS validator](https://jigsaw.w3.org/css-validator/){: target="_blank"}

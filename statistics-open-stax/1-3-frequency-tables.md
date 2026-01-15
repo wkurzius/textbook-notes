@@ -26,7 +26,7 @@ next-link: ./1-4-experimental-design-and-ethics.html
 
 ## Answers and Rounding Off
 
-- Don’t sweat reducing fractions
+- Don't sweat reducing fractions
 - Avoid rounding decimal values until the very end
 - For final answers, round to one more decimal place than was in the original data
 - E.g., Original data had three decimal place, round final answers to four decimal places
@@ -47,7 +47,7 @@ next-link: ./1-4-experimental-design-and-ethics.html
 ### Interval
 
 - Quantitative data with no real starting point
-- Zero doesn’t mean zero
+- Zero doesn't mean zero
 - E.g., Fahrenheit/Celsius, SAT scores
 - Calculations are possible except for ratio-related ones
 - 60° is not twice as hot as 30°

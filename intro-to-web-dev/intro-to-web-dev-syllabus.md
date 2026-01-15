@@ -13,7 +13,7 @@ course: Intro to Web Dev
 
 ## Course Description
 
-Anyone who’s anyone has their own website, and this is where you can make yours. This one-semester course focuses on the front-end of web development, or the stuff that everyone sees. This includes structure with Hypertext Markup Language (HTML), style with Cascading Style Sheets (CSS) and will have students begin to build a portfolio of work for future employment.
+Anyone who's anyone has their own website, and this is where you can make yours. This one-semester course focuses on the front-end of web development, or the stuff that everyone sees. This includes structure with Hypertext Markup Language (HTML), style with Cascading Style Sheets (CSS) and will have students begin to build a portfolio of work for future employment.
 
 ## Units of Study
 

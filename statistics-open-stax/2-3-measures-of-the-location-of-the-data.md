@@ -28,7 +28,7 @@ next-link: ./2-4-box-plots.html
 ## Percentiles
 
 - Used to measure location of data
-- Values themselves don’t matter, just as long as they are in order
+- Values themselves don't matter, just as long as they are in order
 - 𝑥th percentile means 𝑥% of data is equal to or lower
 - A value at the 90th percentile means 90% of the data is equal to or below that value
 

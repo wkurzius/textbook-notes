@@ -3,7 +3,7 @@ title: Grade Sync
 layout: page
 ---
 
-[Link to Canvas’s guide on the topic](https://community.canvaslms.com/t5/Data-Sync-and-Canvas/How-do-I-sync-my-Canvas-assignment-groups-with-SIS-grading/ta-p/636603)
+[Link to Canvas's guide on the topic](https://community.canvaslms.com/t5/Data-Sync-and-Canvas/How-do-I-sync-my-Canvas-assignment-groups-with-SIS-grading/ta-p/636603)
 
 You can now automatically sync the Canvas grade book with Genesis. But before you consider using this:
 
@@ -26,21 +26,21 @@ Grade Sync will work regardless of whether your grade books are merged or not, b
 
     The issue is that parents will see every copy in Genesis, and all the extras will be blank. This will lead to questions and confusion on their end, so best to avoid.
 
-2. **Unmerged is better for the parents, but worse for you**. At the very least, Genesis attendance will be more difficult, and you’ll have to do your seating charts somewhere else.
+2. **Unmerged is better for the parents, but worse for you**. At the very least, Genesis attendance will be more difficult, and you'll have to do your seating charts somewhere else.
 
-If you’ve already merged your grade books and want to use this, you will have to trash every assignment you’ve created and break those merges. Or be prepared to explain to your parents why there are multiple copies of every assignment.
+If you've already merged your grade books and want to use this, you will have to trash every assignment you've created and break those merges. Or be prepared to explain to your parents why there are multiple copies of every assignment.
 
 ## Other Things To Be Aware Of
 
-**"Sync" is a misnomer.** It’s more of a "copy" since anything you do in Genesis will not make it over to Canvas. So, do everything in Canvas and peek at Genesis occasionally to make sure everything looks OK.
+**"Sync" is a misnomer.** It's more of a "copy" since anything you do in Genesis will not make it over to Canvas. So, do everything in Canvas and peek at Genesis occasionally to make sure everything looks OK.
 
-**Comments won’t sync.** Grades, points and due dates will copy over, but any comments you make in Canvas will not.
+**Comments won't sync.** Grades, points and due dates will copy over, but any comments you make in Canvas will not.
 
-**Removing a grade in Canvas will not remove it in Genesis.** Grades are copied over to Genesis during a sync, but blanks do not. If you delete a student’s grade in Canvas, you will also have to delete it in Genesis.
+**Removing a grade in Canvas will not remove it in Genesis.** Grades are copied over to Genesis during a sync, but blanks do not. If you delete a student's grade in Canvas, you will also have to delete it in Genesis.
 
-**Due dates might show as a day later.** Canvas due dates include a time, and the default is 11:59 p.m. Genesis doesn’t do times, so it handles this extra information … uniquely.
+**Due dates might show as a day later.** Canvas due dates include a time, and the default is 11:59 p.m. Genesis doesn't do times, so it handles this extra information … uniquely.
 
-An assignment in Canvas set as due on Sep. 18 at 11:59 p.m. will appear as due Sep. 19 in Genesis. Times earlier in the day seem to be OK, but I’m not sure what the cut-off is.
+An assignment in Canvas set as due on Sep. 18 at 11:59 p.m. will appear as due Sep. 19 in Genesis. Times earlier in the day seem to be OK, but I'm not sure what the cut-off is.
 
 > Added 10/27/25: The above is a huge problem with items due on the last day of the marking period. I recommend changing the default due time to 3:00 p.m., which seems to preserve the actual date. You can change this in Canvas by going to **Settings** in each of your courses.
 
@@ -48,7 +48,7 @@ An assignment in Canvas set as due on Sep. 18 at 11:59 p.m. will appear as due S
 
 ## Getting Started
 
-For the four of you that made it this far, here’s how to actually use this.
+For the four of you that made it this far, here's how to actually use this.
 
 1. **Set up categories in both grade books**. They should be identical. Same names are helpful, and weighting should be the same if you want calculations to make sense.
 

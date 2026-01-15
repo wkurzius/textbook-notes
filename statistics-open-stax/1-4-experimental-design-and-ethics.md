@@ -26,7 +26,7 @@ next-link: ./2-1-stem-and-leaf-graphs-stemplots-line-graphs-and-bar-graphs.html
 ## Variables
 
 - In a randomized experiment, the researcher manipulates the **explanatory variable** and then observes the **response variable**
-- A group of people who take vitamin E are healthier and group that doesn’t, isn’t as healthy
+- A group of people who take vitamin E are healthier and group that doesn't, isn't as healthy
 - Does that mean vitamin E is good for you?
 - The group that takes vitamin E likely also does other healthy things
 - Variables that can cloud a study are **lurking variables**
@@ -35,7 +35,7 @@ next-link: ./2-1-stem-and-leaf-graphs-stemplots-line-graphs-and-bar-graphs.html
 
 - Experiments must be designed to isolate the explanatory variable
 - Lurking variables spoil this
-- You can’t get rid of them, but you can average them out
+- You can't get rid of them, but you can average them out
 - ! Need adequate **experimental units** (subjects)
 - ! Need **random assignment** of subjects to treatment groups
 
@@ -46,17 +46,17 @@ next-link: ./2-1-stem-and-leaf-graphs-stemplots-line-graphs-and-bar-graphs.html
 > McClung, M. and Collins, D. (2007 June). "Because I know it will!" Placebo effects of an ergogenic aid on athletic performance. Journal of Sport & Exercise Psychology, 29(3), 382-94.
 > <https://pubmed.ncbi.nlm.nih.gov/17876973/>
 
-- Power of suggestion can’t be ignored
+- Power of suggestion can't be ignored
 - To combat this, **control groups** are given a **placebo** treatment, an inert substitute
-- If you don’t tell them, they are **blinded**
-- If you also don’t tell the researchers, it’s **double-blind**
+- If you don't tell them, they are **blinded**
+- If you also don't tell the researchers, it's **double-blind**
 
 ## Ethics
 
 - Studies shape policy and human behavior
-- Don’t manipulate data
+- Don't manipulate data
 - Be transparent
-- And don’t harm your subjects
+- And don't harm your subjects
 - Want to see how malnutrition affects children?
 - Set up an **observational study**
-- You won’t be able to control your variable, but careful planning and sorting can yield the what you are looking for
+- You won't be able to control your variable, but careful planning and sorting can yield the what you are looking for

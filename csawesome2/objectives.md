@@ -124,7 +124,7 @@
 
 - Develop code to represent compound Boolean expressions and determine the result of these expressions
 
-## 2.6 Comparing Boolean Expressions (De Morgan’s Laws)
+## 2.6 Comparing Boolean Expressions (De Morgan's Laws)
 
 2-6-comparing-boolean-expressions
 

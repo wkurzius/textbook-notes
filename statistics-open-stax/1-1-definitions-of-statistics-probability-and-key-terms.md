@@ -27,7 +27,7 @@ next-link: ./1-2-data-sampling-and-variation-in-data-and-sampling.html
 ## Some advice
 
 - These slides are available through Canvas (or my site)
-- Don’t copy the slides
+- Don't copy the slides
 - Write down key ideas *with a pen or pencil*
 - At the end, summarize what we covered *with a pen or pencil*
 
@@ -51,7 +51,7 @@ next-link: ./1-2-data-sampling-and-variation-in-data-and-sampling.html
 - Mathematical tool used to study randomness
 - Will look at this later in the course
 - For now, determining the probability of rolling a 7 on a pair of dice is simple
-- Determining the probability of someone being affected by a drug’s side-effect is insanely hard
+- Determining the probability of someone being affected by a drug's side-effect is insanely hard
 - Need to rely on statistics and experiments, and those are used to generate probabilities and predictions
 
 ## Some Key Terms

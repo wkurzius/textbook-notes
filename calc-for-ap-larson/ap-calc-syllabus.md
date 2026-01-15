@@ -13,7 +13,7 @@ course: AP Calc
 
 ## Course Description
 
-Explore the concepts, methods, and applications of differential and integral calculus. You’ll work to understand the theoretical basis and solve problems by applying your knowledge and skills. You’ll learn how to determine expressions and values using mathematical procedures and rules; connect representations; justify reasoning and solutions; and use correct notation, language, and mathematical conventions to communicate results or solutions.
+Explore the concepts, methods, and applications of differential and integral calculus. You'll work to understand the theoretical basis and solve problems by applying your knowledge and skills. You'll learn how to determine expressions and values using mathematical procedures and rules; connect representations; justify reasoning and solutions; and use correct notation, language, and mathematical conventions to communicate results or solutions.
 
 ## AP Exam
 
@@ -43,7 +43,7 @@ We will use the book Calculus for AP (2nd ed.) as reference and for homework ass
 
 And here are the related College Board resources.
 
-- [College Board’s Course and Exam Description](https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf)
+- [College Board's Course and Exam Description](https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf)
 - [Additional exam information](https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment)
 
 ## Grading

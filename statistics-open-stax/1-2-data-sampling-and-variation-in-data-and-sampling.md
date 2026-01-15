@@ -29,7 +29,7 @@ next-link: ./1-3-frequency-tables.html
 - Also known as **categorical** data
 - Describes attributes
 - e.g., hair color, blood type, place of birth
-- Easy to work since there’s less math involved
+- Easy to work since there's less math involved
 
 ## Quantitative Data
 
@@ -39,7 +39,7 @@ next-link: ./1-3-frequency-tables.html
 - e.g., number of people in a household
 - Continuous quantitative data is data where all numbers in a range are valid
 - e.g., height, weight, time
-- **! Limited accuracy doesn’t imply discrete !**
+- **! Limited accuracy doesn't imply discrete !**
 
 ## Discrete or Continuous?
 
