@@ -26,3 +26,18 @@ next-link: ./3-4-contingency-tables.html
 
 - {: .document}[PowerPoint slides](https://1drv.ms/p/c/c4097c61e06a2b97/EXd3XVG3uD1AmuykRjsDFMwBW3xM4mltQItVYmf73huvaA?e=Y9zVar){: target="_blank"}
 {: .icon-list}
+
+> ### Basic Rules of probability
+>
+> The multiplication rule for AND events.
+>
+> $$\begin{align}
+> P(A \text{ and } B) &= P(A|B)\cdot P(B) \\
+> \end{align}$$
+>
+> The addition rule for OR events.
+>
+> $$\begin{align}
+> P(A \text{ or } B)  &= P(A) + P(B) - P(A \text{ and } B)
+> \end{align}$$
+{: .definition}
