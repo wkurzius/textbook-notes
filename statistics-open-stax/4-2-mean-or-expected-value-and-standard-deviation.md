@@ -75,7 +75,14 @@ $$\begin{align*}
 
 So, to get the expected value, sum up the products of each outcome multiplied by its probability.
 
-$$E(X)=\Sigma xP(x)$$
+> ### Expected Value or Mean of a Discrete Probability Distribution
+>
+> Where $x$ is the value and $P(x)$ the probability of that value occurring, sum all the products of the two.
+>
+> $$\begin{align}
+> \mu &= \sum xP(x)
+> \end{align}$$
+{: .definition}
 
 ## Standard deviation and probability distributions
 
@@ -95,7 +102,14 @@ This way shows us that each squared difference is multiplied by $\frac{1}{n}$. I
 
 Outcomes in a probability distribution shouldn't have equal shares, but instead a share based on the likelihood of it occuring. That means we get this instead.
 
-$$ \sigma = \sqrt{\Sigma(x-\mu)^2P(x)} $$
+> ### Standard Deviation of a Discrete Probability Distribution
+>
+> Where $x$ is the value, $P(x)$ the probability of that value occurring, and $\mu$ the mean,
+>
+> $$\begin{align}
+> \sigma &= \sqrt{\sum P(x)(x-\mu)^2 }
+> \end{align}$$
+{: .definition}
 
 Now, each squared difference is multiplied by it's probability, and then all of it is summed and rooted. Also, the mean in these situations is the expected value.
 
