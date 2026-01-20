@@ -52,7 +52,7 @@ cal-x: "Jan. 26<br>(MP Exam)"
 
 ## Schedule
 
-I am available for extra help every day in the library during LF1, as well as before school on most days.
+I am available for extra help every day in room 31 during LF1, as well as before school on most days.
 
 | Block | A Days                 | B Days                 |
 | :---: | ---------------------- | ---------------------- |
