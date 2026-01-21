@@ -8,7 +8,7 @@ course: Intro to Web Dev
 >
 > Room 31
 >
-> Period B1 (S1 only), 2025–26
+> Period B1, S1 2025–26
 {: .blockquote-to-flex}
 
 ## Course Description

@@ -266,7 +266,7 @@ h2#extra-practice {
     color: #007d9f;
 }
 
-.this-week-table .day {
+#this-week-table .day {
     display: inline-block;
     width: 1.2rem;
 }
@@ -348,7 +348,9 @@ img.icon {
 // minima block table override
 
 @media screen and (max-width: 800px) {
-    #schedule-table {
+
+    #schedule-table,
+    #this-week-table {
         display: table;
         // overflow-x:;
         // -webkit-overflow-scrolling: initial;
@@ -427,11 +429,11 @@ footer .last-reviewed {
 
 // This week icons and links
 
-.this-week-table .fa-solid {
+#this-week-table .fa-solid {
     padding-right: 0.5em;
     color: var(--minima-text-color);
 }
 
-.this-week-table .fa-solid:hover {
+#this-week-table .fa-solid:hover {
     color: var(--minima-link-hover-color);
 }

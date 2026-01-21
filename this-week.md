@@ -48,7 +48,7 @@ cal-x: "Jan. 26<br>(MP Exam)"
 | {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-3}} | {{page.sta-x}} |
 | {{page.dev-h}} | {{page.dev-1}}                                     | {{page.dev-x}} |
 | {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |
-{: .this-week-table}
+{: #this-week-table}
 
 ## Schedule
 
