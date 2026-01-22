@@ -437,3 +437,34 @@ footer .last-reviewed {
 #this-week-table .fa-solid:hover {
     color: var(--minima-link-hover-color);
 }
+
+// course cards
+
+#course-cards, .course-card {
+    @include blockquote-suppress;
+}
+
+#course-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    // align-content: space-between;
+    // justify-content: space-between;
+    align-items: flex-start;
+}
+
+.course-card {
+    flex: 1 0 45%;
+    // border: 1px solid var(--minima-text-color) ;
+    padding: 1rem;
+    background-color: var(--minima-border-color-01);
+    border-radius: 1rem;
+}
+
+.course-card h3 {
+    margin-top: 0;
+}
+
+blockquote em {
+    font-style: italic;
+}

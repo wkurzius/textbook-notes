@@ -6,39 +6,61 @@ layout: page
 - {: .calendar}[This week](./this-week.md)
 {: .icon-list}
 
-## AP Computer Science A
+## Courses
 
-- [Syllabus](./csawesome2/ap-csa-syllabus.md)
-- [*CSAwesome2* by Runestone online curriculum](https://runestone.academy/){: target="_blank"}
-- [*CSAwesome2* notes and assignments](./csawesome2/)
-
-## Concepts of Algebra
-
-- [Syllabus](./syllabi/concepts-of-algebra-syllabus.md)
-- [*Algebra Basics* on Khan Academy](https://www.khanacademy.org/math/algebra-basics){: target="_blank"}
-
-## Probability & Statistics
-
-- [Syllabus](./statistics-open-stax/prob-and-stats-syllabus.md)
-- [*Statistics* by OpenStax online book](https://openstax.org/details/books/statistics){: target="_blank"}
-- [*Statistics* notes and assignments](./statistics-open-stax/)
-
-## Intro to Web Development
-
-- [Syllabus](./intro-to-web-dev/intro-to-web-dev-syllabus.md)
-- [*freeCodeCamp* Responsive Web Design curriculum](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target="_blank"}
-- [Certification Projects](./intro-to-web-dev/)
-
-## AP Calculus
-
-- [Syllabus](./calc-for-ap-larson/ap-calc-syllabus.md)
-- [*Calculus for AP* 2e notes](./calc-for-ap-larson/)
-
-<!--
-- [Differentiation cheat sheet](./misc/differentiation-cheat-sheet.pdf)
-- [Integration cheat sheet](./misc/integration-cheat-sheet.pdf)
-- [Cram Sheet](./pdfs/ap-calc-cram-sheet.pdf)
--->
+> > ### AP Calculus
+> >
+> > [Syllabus](./calc-for-ap-larson/ap-calc-syllabus.md)
+> >
+> > [Notes and assignments](./calc-for-ap-larson/)
+> {: .course-card}
+>
+> > ### AP Computer Science A
+> >
+> > [Syllabus](./csawesome2/ap-csa-syllabus.md)
+> >
+> > [Notes and assignments](./csawesome2/)
+> >
+> > [*CSAwesome2*](https://runestone.academy/){: target="_blank"}<br>
+> > Online curriculum provided by Runestone
+> {: .course-card}
+>
+> > ### Concepts of Algebra
+> >
+> > [Syllabus](./syllabi/concepts-of-algebra-syllabus.md)
+> >
+> > [*Algebra Basics* on Khan Academy](https://www.khanacademy.org/math/algebra-basics){: target="_blank"}<br>
+> > Online curriculum provided by Khan Academy
+> {: .course-card}
+>
+> > ### Probability & Statistics
+> >
+> > [Syllabus](./statistics-open-stax/prob-and-stats-syllabus.md)
+> >
+> > [Notes and assignments](./statistics-open-stax/)
+> >
+> > [*Statistics: High School*](https://openstax.org/details/books/statistics){: target="_blank"}<br>
+> > Online book provided by OpenStax
+> {: .course-card}
+>
+> > ### Intro to Programming
+> >
+> > [Syllabus](./syllabi/intro-to-programming-syllabus.md)
+> >
+> > [*CS1: Intro to Programming*](https://academy.cs.cmu.edu/course){: target="_blank"}<br>
+> > Online curriculum provided by Carnegie Mellon's Computer Science Academy
+> {: .course-card}
+>
+> > ### Intro to Web Development
+> >
+> > [Syllabus](./intro-to-web-dev/intro-to-web-dev-syllabus.md)
+> >
+> > [Certification Project assignment details](./intro-to-web-dev/)
+> >
+> > [*Responsive Web Design*](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target="_blank"}<br>
+> > Online curriculum provided by freeCodeCamp
+> {: .course-card}
+{: #course-cards}
 
 ## General
 
