@@ -434,13 +434,18 @@ footer .last-reviewed {
     color: var(--minima-text-color);
 }
 
+#this-week-table a strong {
+    color: var(--minima-text-color);
+}
+
 #this-week-table .fa-solid:hover {
     color: var(--minima-link-hover-color);
 }
 
 // course cards
 
-#course-cards, .course-card {
+#course-cards,
+.course-card {
     @include blockquote-suppress;
 }
 
