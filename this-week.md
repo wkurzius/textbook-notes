@@ -1,5 +1,5 @@
 ---
-title: "This Week (Jan. 27–30)"
+title: "This Week (Jan. 28–30)"
 layout: this-week
 
 csc-h: "**AP Comp Sci A**<br>
