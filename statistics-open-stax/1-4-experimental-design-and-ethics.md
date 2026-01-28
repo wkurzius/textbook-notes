@@ -16,7 +16,7 @@ next-link: ./2-1-stem-and-leaf-graphs-stemplots-line-graphs-and-bar-graphs.html
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/1-key-terms){: target="_blank"} for definitions)
 - [1.4 Homework](https://openstax.org/books/statistics/pages/1-homework#fs-idm36883600){: target="_blank"} 91–94
-  - [Solutions](https://manville.instructure.com/courses/5660/files?preview=780645){: target="_blank"}
+  - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 
 ---
 

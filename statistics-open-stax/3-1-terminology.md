@@ -19,7 +19,7 @@ next-link: ./3-2-independent-and-mutually-exclusive-events.html
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/3-key-terms) for definitions)
 - [3.1 Homework](https://openstax.org/books/statistics/pages/3-homework#fs-idm3746928){: target="_blank"} 66–67
-  - [Solutions](https://manville.instructure.com/courses/5660/files?preview=780645){: target="_blank"}
+  - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 - Read the next section in the book
 
 ---

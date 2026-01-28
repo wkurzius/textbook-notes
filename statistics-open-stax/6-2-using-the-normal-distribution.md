@@ -16,7 +16,7 @@ next-link: ./7-1-the-central-limit-theorem-for-sample-means.html
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/1-key-terms) for definitions)
 - [6.2 Homework](https://openstax.org/books/statistics/pages/6-homework#eip-8660){: target="_blank"} 68–72 all, 73–87 odd
-  - [Solutions](https://manville.instructure.com/courses/5660/files?preview=780645){: target="_blank"}
+  - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 - Read the next section in the book
 
 ---
