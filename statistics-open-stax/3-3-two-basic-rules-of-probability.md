@@ -19,7 +19,7 @@ next-link: ./3-4-contingency-tables.html
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/3-key-terms) for definitions)
 - [3.3 Homework](https://openstax.org/books/statistics/pages/3-homework#fs-idm12466720){: target="_blank"} 81–99 odds
-  - [Solutions](https://manville.instructure.com/courses/5660/files?preview=780645){: target="_blank"}
+  - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 - Read the next section in the book
 
 ---

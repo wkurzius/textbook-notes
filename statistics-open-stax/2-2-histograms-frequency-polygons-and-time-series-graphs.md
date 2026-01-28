@@ -17,7 +17,7 @@ next-link: ./2-3-measures-of-the-location-of-the-data.html
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/2-key-terms){: target="_blank"} for definitions)
 - [2.2 Homework](https://openstax.org/books/statistics/pages/2-homework#fs-idp52790224){: target="_blank"} 80–85
-  - [Solutions](https://manville.instructure.com/courses/5660/files?preview=780645){: target="_blank"}
+  - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 - Read the next section in the book
 
 ---
