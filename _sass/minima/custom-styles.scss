@@ -372,11 +372,6 @@ img.icon {
     display: inline-block;
 }
 
-#color-toggle {
-    // margin-left: 1rem;
-    // cursor: pointer;
-}
-
 #color-toggle:hover {
     color: color-mix(in srgb, var(--minima-text-color) 70%, var(--minima-background-color) 30%);
 }

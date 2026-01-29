@@ -2,7 +2,7 @@
 title: 4.1 Antiderivatives and Indefinite Integration
 layout: page
 course: AP Calc
-last-reviewed:
+last-reviewed: 2026-01-29 18:16:26
 prev-link: "./3-6-optimization-problems.html"
 next-link: "./4-2-area.html"
 ---
@@ -36,21 +36,21 @@ We've dealt with derivatives for a while, but now we will start working backward
 
 > Just to clear the air, there is no proper notation for an antiderivative. The most common way to note it is with the function's uppercase version. So, the antiderivative of $f(x)$ is $F(x)$.
 
-Also, note that in our definition, it says "*an* antiderivative". There is never just one, because of constants. The derivative of both $x^2$ and $x^2 + 3$ is $2x$, and so both are antiderivatives of $2x$. Generally, we refer to that constant as $C$, so if you wanted to talk about *the* antiderivative of $2x$, it would be $x^2+C$.
+Also, note that in our definition, it says "*an* antiderivative" because there is never just one. The derivative of both $x^2$ and $x^2 + 3$ is $2x$, and so both are antiderivatives of $2x$. Generally, we refer to that constant as $C$, so if you wanted to talk about *the* antiderivative of $2x$, it would be $x^2+C$.
 
 ### Solving a Differential Equation
 
-The first example in the book shows how to solve the differential equation (an equation involving derivatives) $dy/dx = 2$. What you are being asked to solve, or find, is the function $y$ that would satisfy the equation. Perhaps more helpful, we want to solve for $y$ in this equation.
+A differential equation is an equation that involves derivatives, and the first example in the book shows how to solve the differential equation $dy/dx = 2$. What you are being asked to solve, or find, is the function $y$ that would satisfy the equation. Perhaps more helpful, we want to solve for $y$ in this equation.
 
 $$\begin{align}
 \frac{d}{dx}[y] = 2
 \end{align}$$
 
-What function when derived, results in a 2? In this case, our solution is $y = 2x + C$.
+What function when derived, results in a $2$? In this case, our solution is $y = 2x + C$.
 
 ### The Integral Sign
 
-For various reasons, the typical way differential equations are set up is in differential form, rather than what we saw above. So, the more common approach is $dy=2\,dx$. From there we can apply our new operation of **antidifferentiation**, which uses the integral symbol $\int$.
+For various reasons, the typical way differential equations are set up is in **differential form**, rather than what we saw above. So, the more common approach is $dy=2\,dx$. From there we can apply our new operation of **antidifferentiation**, which uses the integral symbol $\int$.
 
 $$\begin{align}
 \int dy = \int 2 \, dx
@@ -67,20 +67,29 @@ Technically we should have a $C$ on the left side as well, but since it stands f
 
 ## Basic Integration Rules
 
-Just like when learning derivatives, there are a lot of rules that need to be digested. Luckily, these are all just the inverses of the derivative rules. Here's a [cheat sheet]({{site.baseurl}}/misc/integration-cheat-sheet.pdf) for reference, but remember that you do no get access to anything like this on the AP exam.
+Just like when learning derivatives, there are a lot of rules that need to be digested. Luckily, these are all just the inverses of the derivative rules. Here's a [cheat sheet](../pdfs/differentiation-cheat-sheet.pdf) for reference, but remember that you do not get access to anything like this on the AP exam.
 
-Work through the examples in this section so you can see the various ways to work through integration problems.
+There are lots of examples in the book, all of which you should look through. I won't highlight any here since they are pretty straightforward.
 
 ## Initial Conditions and Particular Solutions
 
-So far, each solution we've found for a differential equation has been the general solution, meaning we didn't know the constant and just put $C$ in its place. A **particular solution** means that you also know some initial condition that will allow you to determine the constant.
+In the differential equation above, we found the **general solution** for a differential equation. This just means we didn't know the constant and just put a $C$ in its place. A **particular solution**, on the other hand, means that you also know some extra information that will allow you to determine the constant. This extra information is called the **initial condition**.
 
-For example, if have $\frac{dy}{dx}=3x^2-1$ and we know that our solution has to pass through the point $(4,2)$, then
+> ## Initial Condition Example
+>
+> Find the particular solution to $F'(x)=3x^2-1$ given the initial condition $F(2)=4$.
+{: .example}
+
+First, we need the general solution. Once we have that, we can use the initial condition to find the value of $C$.
 
 $$\begin{align}
-y  &= \int 3x^2 -1 \, dx \\
+F'(x) &= 3x^2 - 1 \\
+F(x)  &= \int 3x^2 -1 \, dx \\
    &= x^3 - x + C    && \text{General solution} \\[1em]
 4  &= (2)^3 - 2 + C  && \text{Substitute initial condition} \\
 -2 &= C \\[1em]
 y  &= x^3 - x - 2    && \text{Particular solution}
 \end{align}$$
+
+■
+{: .qed}
