@@ -8,7 +8,7 @@ layout: page
 - [Differentiation cheat sheet](../pdfs/differentiation-cheat-sheet.pdf){: target="_blank"}
 - [Cram Sheet](../pdfs/ap-calc-cram-sheet.pdf){: target="_blank"}
 - [Derivative calculator](https://www.derivative-calculator.net/){: target="_blank"}
-- [Integration cheat sheet](./misc/integration-cheat-sheet.pdf)
+- [Integration cheat sheet](../pdfs/integration-cheat-sheet.pdf)
 - [Integral calculator](https://www.integral-calculator.com/){: target="_blank"} Shows steps for integrating
 
 ## P Preparation for Calculus
