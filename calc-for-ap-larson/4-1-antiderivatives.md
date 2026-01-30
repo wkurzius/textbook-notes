@@ -67,7 +67,7 @@ Technically we should have a $C$ on the left side as well, but since it stands f
 
 ## Basic Integration Rules
 
-Just like when learning derivatives, there are a lot of rules that need to be digested. Luckily, these are all just the inverses of the derivative rules. Here's a [cheat sheet](../pdfs/differentiation-cheat-sheet.pdf) for reference, but remember that you do not get access to anything like this on the AP exam.
+Just like when learning derivatives, there are a lot of rules that need to be digested. Luckily, these are all just the inverses of the derivative rules. Here's a [cheat sheet](../pdfs/integration-cheat-sheet.pdf) for reference, but remember that you do not get access to anything like this on the AP exam.
 
 There are lots of examples in the book, all of which you should look through. I won't highlight any here since they are pretty straightforward.
 
