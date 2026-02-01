@@ -1,13 +1,13 @@
 ---
-title: "This Week (Jan. 28–30)"
+title: "This Week (Feb. 2–6)"
 layout: this-week
 
 csc-h: "[**AP Comp Sci A**](./csawesome2/ap-csa-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./csawesome2/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
-csc-1: "**R**{: .day}MP Exam"
-csc-2: ""
-csc-3: ""
+csc-1: "**M**{: .day}Virtual Pet Lab"
+csc-2: "**W**{: .day}Virtual Pet Lab"
+csc-3: "**F**{: .day}[4.1 Ethical and Social Issues Around Data Collection](./csawesome2/4-1-ethical-and-social-issues-around-data-collection.html) and<br>[4.2 Data Sets](./csawesome2/4-2-data-sets.html)"
 csc-x: "Feb. 24"
 
 con-h: "[**Concepts of Algebra**](./syllabi/concepts-of-algebra-syllabus.html){: title=\"Course Syllabus\"}<br>
@@ -27,26 +27,26 @@ pro-x: "–"
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/prob-and-stats-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./statistics-open-stax/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**W**{: .day}[1.1 Definitions of Statistics, Probability, and Key Terms](./statistics-open-stax/1-1-definitions-of-statistics-probability-and-key-terms.html)"
-sta-2: "**F**{: .day}[1.2 Data, Sampling, and Variation in Data and Sampling](./statistics-open-stax/1-2-data-sampling-and-variation-in-data-and-sampling.html)"
+sta-1: "**T**{: .day}[1.3 Frequency, Frequency Tables, and Levels of Measurement](./statistics-open-stax/1-3-frequency-tables.html)"
+sta-2: "**R**{: .day}[1.4 Experimental Design and Ethics](./statistics-open-stax/1-4-experimental-design-and-ethics.html)"
 sta-3: ""
 sta-x: "Feb. 13"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/ap-calc-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./calc-for-ap-larson/){: title=\"Notes and HW\"}"
-cal-1: "**W**{: .day}MP Exam"
-cal-2: "**F**{: .day}[4.1 Antiderivatives and Indefinite Integration](./calc-for-ap-larson/4-1-antiderivatives.html)"
+cal-1: "**T**{: .day}Finish [4.1](./calc-for-ap-larson/4-1-antiderivatives.html) and start [4.2 Area](./calc-for-ap-larson/4-2-area.html)"
+cal-2: "**R**{: .day}[4.2 Area](./calc-for-ap-larson/4-2-area.html)"
 cal-3: ""
 cal-x: "Feb. 23"
 ---
 
-| Course Links   | New Material                                              | Next Exam      |
-| -------------- | --------------------------------------------------------- | -------------- |
-| {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}}<!--<br>{{page.csc-3}}--> | {{page.csc-x}} |
-| {{page.con-h}} | {{page.con-1}}                                            | {{page.con-x}} |
-| {{page.pro-h}} | {{page.pro-1}}                                            | {{page.pro-x}} |
-| {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-3}}        | {{page.sta-x}} |
-| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}}        | {{page.cal-x}} |
+| Course Links   | New Material                                       | Next Exam      |
+| -------------- | -------------------------------------------------- | -------------- |
+| {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}}<br>{{page.csc-3}} | {{page.csc-x}} |
+| {{page.con-h}} | {{page.con-1}}                                     | {{page.con-x}} |
+| {{page.pro-h}} | {{page.pro-1}}                                     | {{page.pro-x}} |
+| {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-3}} | {{page.sta-x}} |
+| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |
 {: #this-week-table}
 
 Intro to Development Links:
