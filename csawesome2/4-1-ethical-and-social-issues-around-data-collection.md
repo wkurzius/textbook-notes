@@ -18,3 +18,4 @@ next-link: ./4-2-data-sets.html
 
 ---
 
+This is mostly a reading section, with the topics discussed not likely affecting your own programs, at least for some time. The majority of direct AP practice for this topic will come from your Progress Check, but the exercises in the book are good thought experiments.

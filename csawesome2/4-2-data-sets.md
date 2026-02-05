@@ -16,3 +16,4 @@ next-link: ./4-3-array-creation-and-access.html
 
 ---
 
+Another mostly reading section, with oddly even fewer exercises than the previous one. The two that are there highlight the basic algorithm that will be featured throughout the unit.
