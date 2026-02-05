@@ -94,8 +94,6 @@ We can do the same for left endpoints with one little change. Since the left end
 
 ## Finding Area by the Limit Definition
 
-> This section was rewritten for 2/10/25.
-
 What we did above was find two approximate sums for the area under a curve, one an underestimate and the other an over. The book refers to these as upper and lower sums.
 
 > Which sum corresponds to which endpoints will vary depending on the curve. Generally, increasing curves have the left endpoint as the smaller rectangle, and right endpoints are the smaller in decreasing curves. When a curve switches between the two … we'll be doing this a different way by the time we get there.
