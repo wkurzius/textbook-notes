@@ -21,6 +21,7 @@ next-link: "./4-3-reimann-sums-and-definite-integrals.html"
 
 - AP Topics: 6.1
 - Khan Academy
+  - [Summation Notation](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-3/e/sigma-notation){: target="_blank"} (this is one specific exercise, rather than a lesson with a collection of them)
   - [Exploring accumulations of change](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-1/v/introduction-to-integral-calculus){: target="_blank"}
 
 ---
