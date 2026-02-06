@@ -1,5 +1,5 @@
 ---
-title: 4.3 Reimann Sums and Definite Integrals
+title: 4.3 Riemann Sums and Definite Integrals
 layout: page
 course: AP Calc
 last-reviewed:

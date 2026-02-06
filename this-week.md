@@ -1,13 +1,13 @@
 ---
-title: "This Week (Feb. 2–6)"
+title: "This Week (Feb. 9–13)"
 layout: this-week
 
 csc-h: "[**AP Comp Sci A**](./csawesome2/ap-csa-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./csawesome2/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
-csc-1: "**M**{: .day}Virtual Pet Lab"
-csc-2: "**W**{: .day}Virtual Pet Lab"
-csc-3: "**F**{: .day}[4.1 Ethical and Social Issues Around Data Collection](./csawesome2/4-1-ethical-and-social-issues-around-data-collection.html) and<br>[4.2 Data Sets](./csawesome2/4-2-data-sets.html)"
+csc-1: "**T**{: .day}[4.3 Array Creation and Access](./csawesome2/4-3-array-creation-and-access.html)"
+csc-2: "**R**{: .day}[4.4 Array Traversals](./csawesome2/4-4-array-traversals.html)"
+csc-3: ""
 csc-x: "Feb. 24"
 
 con-h: "[**Concepts of Algebra**](./syllabi/concepts-of-algebra-syllabus.html){: title=\"Course Syllabus\"}<br>
@@ -15,7 +15,7 @@ con-h: "[**Concepts of Algebra**](./syllabi/concepts-of-algebra-syllabus.html){:
 con-1: "[Unit 4: Graphing lines and slope](https://www.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope){: target=\"_blank\"}"
 con-2: ""
 con-3: ""
-con-x: "–"
+con-x: "Feb. 12"
 
 pro-h: "[**Intro to Programming**](./syllabi/intro-to-programming-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://academy.cs.cmu.edu/){: target=\"_blank\" title=\"CS Academy Online Curriculum\"}"
@@ -27,16 +27,16 @@ pro-x: "–"
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/prob-and-stats-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./statistics-open-stax/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**T**{: .day}[1.3 Frequency, Frequency Tables, and Levels of Measurement](./statistics-open-stax/1-3-frequency-tables.html)"
-sta-2: "**R**{: .day}[1.4 Experimental Design and Ethics](./statistics-open-stax/1-4-experimental-design-and-ethics.html)"
-sta-3: ""
+sta-1: "**M**{: .day}1.6 Sampling Experiment"
+sta-2: "**W**{: .day}Review"
+sta-3: "**F**{: .day}Chapter 1 Quiz"
 sta-x: "Feb. 13"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/ap-calc-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./calc-for-ap-larson/){: title=\"Notes and HW\"}"
-cal-1: "**T**{: .day}Finish [4.1](./calc-for-ap-larson/4-1-antiderivatives.html) and start [4.2 Area](./calc-for-ap-larson/4-2-area.html)"
-cal-2: "**R**{: .day}[4.2 Area](./calc-for-ap-larson/4-2-area.html)"
-cal-3: ""
+cal-1: "**M**{: .day}[4.3 Riemann Sums and Definite Integrals](./calc-for-ap-larson/4-3-reimann-sums-and-definite-integrals.html)"
+cal-2: "**W**{: .day}[4.3 Riemann Sums and Definite Integrals](./calc-for-ap-larson/4-3-reimann-sums-and-definite-integrals.html)"
+cal-3: "**F**{: .day}[4.4 The Fundamental Theorem of Calculus](./calc-for-ap-larson/4-4-the-fundamental-theorem-of-calculus.html)"
 cal-x: "Feb. 23"
 ---
 
@@ -48,11 +48,6 @@ cal-x: "Feb. 23"
 | {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-3}} | {{page.sta-x}} |
 | {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |
 {: #this-week-table}
-
-Intro to Development Links:
-
-- [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target="_blank"}
-- [Certification guidelines](./intro-to-web-dev/index.html)
 
 ## Schedule
 
