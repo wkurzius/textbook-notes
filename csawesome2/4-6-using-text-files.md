@@ -11,8 +11,8 @@ next-link: ./4-7-wrapper-classes-integer-and-double.html
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [xxx activities](){: target="_blank"}
-- [CodingPractice](){: target="_blank"}
+- All [4.6 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-4-6-input-files.html){: target="_blank"}
+- [4.33 Code Practice with ArrayLists][(](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/ArrayListPractice.html)){: target="_blank"}
 
 ---
 

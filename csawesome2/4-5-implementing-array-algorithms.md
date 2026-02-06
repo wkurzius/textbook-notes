@@ -11,8 +11,8 @@ next-link: ./4-6-using-text-files.html
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [xxx activities](){: target="_blank"}
-- [CodingPractice](){: target="_blank"}
+- All [4.5 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-4-5-array-algorithms.html){: target="_blank"}
+- [4.20 Arrays Code Practice](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/ArrayPractice.html){: target="_blank"}
 
 ---
 

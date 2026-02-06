@@ -11,8 +11,8 @@ next-link: ./4-17-recursive-searching-and-sorting.html
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [xxx activities](){: target="_blank"}
-- [CodingPractice](){: target="_blank"}
+- All [4.16 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-4-16-recursion.html){: target="_blank"}
+- [4.58 Code Practice for Recursion](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/recursionCodePractice.html){: target="_blank"}
 
 ---
 

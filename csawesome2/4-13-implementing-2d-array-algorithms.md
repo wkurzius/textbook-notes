@@ -11,8 +11,8 @@ next-link: ./4-14-searching-algorithms.html
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [xxx activities](){: target="_blank"}
-- [CodingPractice](){: target="_blank"}
+- All [4.13 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-4-13-2Darray-algorithms.html){: target="_blank"}
+- [4.48 Code Practice with 2D Arrays](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/Array2dCodePractice.html){: target="_blank"}
 
 ---
 
