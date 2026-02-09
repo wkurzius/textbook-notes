@@ -27,7 +27,7 @@ pro-x: "–"
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/prob-and-stats-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./statistics-open-stax/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**M**{: .day}1.6 Sampling Experiment"
+sta-1: "**M**{: .day}[1.6 Sampling Experiment](https://openstax.org/books/statistics/pages/1-6-sampling-experiment)"
 sta-2: "**W**{: .day}Review"
 sta-3: "**F**{: .day}Chapter 1 Quiz"
 sta-x: "Feb. 13"
