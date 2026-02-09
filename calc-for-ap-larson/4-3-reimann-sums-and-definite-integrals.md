@@ -31,9 +31,35 @@ next-link: "./4-4-the-fundamental-theorem-of-calculus.html"
 
 ---
 
-This section is an extension of the previous one, and will introduce some new (old?) notation along with another way to estimate area under a curve.
+## Trapezoidal Rule
 
-## Riemann Sums
+Before we get into the meat of this section, we're going to jump back to approximating area, but this time with trapezoids.
+
+> ![](./img/4.3-figure-2.png)
+>
+> **Figure 4.3.1** The area under a curve approximated by trapezoids.
+{: .figure}
+
+You can see from the picture, this leads to better estimates, though when an estimate is over or under now depends on its concavity. Trapezoids give overestimates when the curve is concave up and underestimates when it's concave down. You'll likely get a question or two about these estimates, so make sure you draw pictures before guessing.
+
+As for finding the area, summation notation doesn't really help here. Even when the width (height) of each trapezoid is same, the area still depends on two variables: the two bases. Most questions you see will tell you to use a certain number of trapezoids to estimate the area and you'll just have to work it out.
+
+Since the area of a trapezoid is $\frac{1}{2}h(b_1+b_2)$, that means four trapezoids will look like this.
+
+$$\begin{align}
+A &\approx \frac{h}{2}(b_1+b_2) + \frac{h}{2}(b_2+b_3) + \frac{h}{2}(b_3+b_4) + \frac{h}{2}(b_4+b_5) \\
+  &\approx \frac{h}{2}((b_1+b_2)+(b_2+b_3)+(b_3+b_4)+(b_4+b_5)) \\
+  &\approx \frac{h}{2}(b_1 + 2b_2 + 2b_3 + 2b_4 + b_5)
+\end{align}$$
+
+You have a sum of all your bases, but the interior ones are doubled up. Then it's just a matter of multiplying by half the height.
+
+## Riemann Sums (WIP)
+
+We are going rehash the limit definition from last section. For all intents and purposes, nothing has changed, but a few things do need to be addressed.
+
+First, we worked with only consistent rectangle widths, but that's not necessary. 
+
 
 Last section, rectangle widths were consistent, but that is not necessary and sometimes isn't desired. For instance, finding the area under $\sqrt{x}$. Trying it with our old method leads to a problem.
 
@@ -128,17 +154,4 @@ $$\begin{align}
 \int_a^b f(x)\, dx = - \int_b^a f(x)\, dx
 \end{align}$$
 
-## Trapezoidal Rule
 
-Along with breaking an area into rectangles, there is another method for estimation that uses trapezoids. The area of a trapezoid is $\frac{1}{2}h(b_1+b_2)$, but since our trapezoids are vertical our height is really the width $\frac{b-a}{n}$, and the bases are our heights, or $y$ values.
-
-![4.3 Figure 2](./img/4.3-figure-2.png)
-
-Through a little algebra manipulation, as we start adding up our areas, we arrive at this formula.
-
-$$\begin{align}
-\frac{b-a}{2n}\left[f(x_0) + f(x_1)\right] + \frac{b-a}{2n}\left[f(x_1) + f(x_2)\right] + \dots + \frac{b-a}{2n}\left[f(x_{n-1}) + f(x_n)\right] = \\
-\frac{b-a}{2n}\left[f(x_0) + 2f(x_1) + 2f(x_2) + \dots + 2f(x_{n-1}) + f(x_n)\right]
-\end{align}$$
-
-Note that the inner bases are all doubled up, while the two outer ones are not. This is because each inner base is shared with two trapezoids.
