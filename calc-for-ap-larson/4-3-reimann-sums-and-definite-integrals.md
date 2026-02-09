@@ -54,29 +54,40 @@ A &\approx \frac{h}{2}(b_1+b_2) + \frac{h}{2}(b_2+b_3) + \frac{h}{2}(b_3+b_4) + 
 
 You have a sum of all your bases, but the interior ones are doubled up. Then it's just a matter of multiplying by half the height.
 
-## Riemann Sums (WIP)
+## Riemann Sums
 
 In the previous section, we summed up products that existed on an interval. This is known as a Riemann sum, and **does not require the use of sigma notation**. I stress that because there was a strong emphasis on using sigma notation last section. Although you will have to read and write sigma notation, you don't need to use it. If you need to approximate an area, just do the calculations and skip the notation.
 
-Anyway, one of the uses of Riemann sums is approximating the area under a curve. One slight difference between what we did last section Riemann sums proper is that the latter allows for subintervals of varying length.
+Anyway, one of the uses of Riemann sums is approximating the area under a curve. One slight difference between what we did last section and Riemann sums proper is that the latter allows for subintervals of varying length. If you're given a table of values, like the one below, and asked to approximate the sum using a left Riemann sum, the fact that the subintervals are different lengths doesn't matter.
 
+> |        |      |      |      |      |
+> | :----: | :--: | :--: | :--: | :--: |
+> | $x$    | $10$ | $12$ | $15$ | $16$ |
+> | $g(x)$ | $5$  | $1$  | $7$  | $7$  |
+> {: .headless-table .min-width}
+>
+> **Figure 4.3.1** A function split into three unequal subdivisions. Using a left Riemann sums yields an approximation of $20$, while a right Riemann produces $30$.
+{: .figure}
 
-
-We are going rehash the limit definition from last section. For all intents and purposes, nothing has changed, but a few things do need to be addressed.
-
-First, we worked with only consistent rectangle widths, but that's not necessary. Our definition will still work if we alter it slightly.
+This allowance for varying length does have an effect on the general formula. Our, width was $\Delta x$, but since it can vary it becomes $\Delta x_i$.
 
 $$\begin{align}
 \sum^n_{i=1} f(c_i)\,\Delta x_i
 \end{align}$$
 
+Not a huge deal in the grand scheme of things, but the big perspective switch comes with the limit version.
+
+$$\begin{align}
+\lim_{\Vert\Delta\Vert\to 0} \sum^n_{i=1} f(c_i)\,\Delta x_i
+\end{align}$$
+
 Instead of trying to pump as many rectangles as we can into the interval, we reduce their widths to zero. The $\Vert\Delta\Vert$ symbol references the width of the widest rectangle, so as long as that one gets down to zero, the others go with it.
 
-Example 1 in the book goes over finding a sum using varying widths. Like other problems where you are asked to evaluate a sum, this isn't necessary knowledge for the AP exam. Although, you will be asked to approximate sums, but using those replacement
+Again, this won't have a significant impact on the problems you'll be working out, just a little shift in the underlying logic of how it all works.
 
 ## Definite Integral
 
-Our notation for finding the area under a curve is getting a bit wild, so we're going to start writing it a different way. Here is our full Riemann sum formula, along with the new notation.
+The general formula for finding the area under a curve is getting a bit wild, so we're going to condense it. Here is our new general form for what's called the **definite integral**.
 
 $$\begin{align}
 \lim_{\Vert\Delta\Vert\to 0} \sum_{i=1}^n f(c_i) \Delta x_i = \int_a^b f(x) \, dx

@@ -134,6 +134,11 @@ h2#extra-practice {
     max-height: 500px;
 }
 
+.figure table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .figure video {
     margin-bottom: 15px;
 }
@@ -467,4 +472,8 @@ footer .last-reviewed {
 
 blockquote em {
     font-style: italic;
+}
+
+table.min-width {
+    width: initial;
 }
