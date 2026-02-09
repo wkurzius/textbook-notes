@@ -2,7 +2,7 @@
 title: 4.2 Area
 layout: page
 course: AP Calc
-last-reviewed:
+last-reviewed: 2026-02-09 10:51:23
 prev-link: "./4-1-antiderivatives.html"
 next-link: "./4-3-reimann-sums-and-definite-integrals.html"
 ---
@@ -50,7 +50,11 @@ $$\begin{align}
 \sum_{i=1}^n a_i = a_1 + a_2 + a_3 + \dots + a_n
 \end{align}$$
 
-There are a few formulas and rules listed under Theorem 4.2 that we'll use when evaluating some summation. Memorizing them is helpful, but not required for the AP exam.
+### Evaluating Sums
+
+> The book spends a significant amount of time on converting sums into explicit functions. This is not covered on the AP exam, so you can skip this part completely if you wish and jump down to [Area](#area).
+
+There are a few formulas and rules listed under Theorem 4.2 that we'll use when evaluating summations. Memorizing them is helpful, but not at all required for the AP exam.
 
 A few other things to keep in mind:
 
@@ -69,51 +73,174 @@ $$\begin{align}
 
 ## Area
 
-I recommend you read through what the book as written here. It does an excellent job of framing what's coming up.
+The tangent line problem, or change at a point, was solved with derivatives. The second problem calculus addresses is the area problem, or how to find area under curves. We'll eventually get there, but for now let's estimate the area under a curve.
 
-## The Area of a Plane Region
+The basic idea is to take the area under a curve and slice it into manageable shapes. This usually means rectangles, but it can be done with other shapes as well.
 
-Now, we'll take this concept of summations and apply it to the areas underneath a curve. First, we'll slice the area into rectangles, and then add up the areas of those rectangles.
+With rectangles, we have to make a decision with how we draw them, specifically what part of the rectangle will touch the curve: the right, left, or middle.
 
-![4.2 Figure 1](./img/4.2-figure-1.png)
+> ![](./img/4-2-right-left-middle.png)
+>
+> **Figure 4.2.1** A comparison of areas drawn with left endpoints, right endpoints, and midpoints.
+{: .figure}
 
-The curve here is $-x^2 + 5$ on the interval $[0,2]$ and we'll use rectangles with their right-side touching the curve. Before we can construct our sum, we'll need to figure out the width and height of each rectangle.
+Once we have the shapes drawn, we can calculate the area of each and add them up. But since that's just adding up lots of things, we can express it with sigma notation.
 
-Width is straightforward. Our interval distance is two and we have five rectangles, so each rectangle's width is $2/5$.
+> ## Right Endpoint Example
+>
+> Use sigma notation to approximate the area under the curve $-x^2 + 5$ using five rectangles drawn with the right endpoint touching the curve.
+{: .example}
 
-In order to get the heights, which are our $y$-values, we'll need the $x$-values for the right side of each rectangle. The width of each is the same and we know where the interval starts, so they are predictable. If you remember how to construct linear expressions, this is just $0+\frac{2}{5}i$.
+Pictures are always helpful.
 
-Now we that we have an expression for our $x$-values, we can plug it into our function to generate our $y$-values (heights). To construct our summation, we state that our bounds are from 1 to 5, and the expression we are summing is the height multiplied by the width.
+> ![](./img/4.2-figure-1.png)
+>
+> **Figure 4.2.2** The area under $-x^2+5$ divided into five rectangles using the right endpoint.
+{: .figure}
+
+To find the area of a rectangle, we need widths and heights. We could do this individually, the goal is to write a summation. Let's start with something simple.
 
 $$\begin{align}
-\sum_{i=1}^{5} \left[f\left(\frac{2}{5}i\right)\right]\left(\frac{2}{5}\right) = \sum_{i=1}^{5} \left[-\left(\frac{2}{5}i\right)^2+5\right]\left(\frac{2}{5}\right)
+\sum_{i=1}^5 w_i\cdot h_i
 \end{align}$$
 
-![4.2 Figure 2](./img/4.2-figure-2.png)
+So, multiply the width and height of each rectangle and add them all up. Let's start replacing things with actual values. Width is a good place to start. Since the interval we are looking at is $[0,2]$, it has a total width of $2$. We have five subdivisions (rectangles), meaning the width of each one is $2/5$.
 
-We can do the same for left endpoints with one little change. Since the left endpoints lag behind by one, our $f(2/5 \cdot i)$ becomes $f(2/5 \cdot (i-1))$. Or, if you prefer the linear equation way of thinking, $-1+\frac{2}{5}i$.
+$$\begin{align}
+\sum_{i=1}^5 \left(\frac{2}{5}\right)\cdot h_i
+\end{align}$$
+
+The height is a bit tricker since it changes based on the curve itself. Plus, it's dependent on the $x$-value.
+
+$$\begin{align}
+\sum_{i=1}^5 \left(\frac{2}{5}\right)(-x_i^2+5)
+\end{align}$$
+
+OK, now we need do something with that $x_i$. Since we have a nice labeled picture, let's write our $x$-values along with the number rectangle they correspond with.
+
+|  $i$  |  $x$   |
+| :---: | :----: |
+|  $1$  | $2/5$  |
+|  $2$  | $4/5$  |
+|  $3$  | $6/5$  |
+|  $4$  | $8/5$  |
+|  $5$  | $10/5$ |
+
+Our widths being the same make this relationship linear, meaning it can be expressed in slope-intercept form. Our slope is how much it changes, and intercept where it starts, or when $i=0$. We don't have that row, so let's add it in.
+
+|  $i$  |  $x$  |
+| :---: | :---: |
+|  $0$  |  $0$  |
+|  $1$  | $2/5$ |
+|  $2$  | $4/5$ |
+|  $3$  | $6/5$ |
+|  $4$  | $8/5$ |
+|  $5$  |  $2$  |
+
+So, the expression $0+\frac{2}{5}i$ represents our $x$-value. Plugging into our sum gives us this.
+
+$$\begin{align}
+\sum_{i=1}^5 \left(\frac{2}{5}\right)\left(-\left(\frac{2}{5}i\right)^2+5\right)
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
+
+> ## Left Endpoint Example
+>
+> Same problem, but now do it with left endpoints.
+{: .example}
+
+New picture.
+
+> ![](./img/4.2-figure-2.png)
+>
+> **Figure 4.2.3** The area under $-x^2+5$ divided into five rectangles using the left endpoint.
+{: .figure}
+
+Most of our work is done already. We just need to adjust the heights slightly. If we do our table again, we get this for our $x$-values.
+
+|  $i$  |  $x$   |
+| :---: | :----: |
+|  $0$  | $-2/5$ |
+|  $1$  |  $0$   |
+|  $2$  | $2/5$  |
+|  $3$  | $4/5$  |
+|  $4$  | $6/5$  |
+|  $5$  | $8/5$  |
+
+Our new expression for $x$ is $-\frac{2}{5}+\frac{2}{5}i$, giving us a summation of
+
+$$\begin{align}
+\sum_{i=1}^5 \left(\frac{2}{5}\right)\left(-\left(-\frac{2}{5}+\frac{2}{5}i\right)^2+5\right)
+\end{align}$$
+
+That works, and there's not a damn thing wrong with it, but there's a cleaner way to do this. Note that we are still pulling from the same list of $x$ values, just one earlier. Meaning if this sum uses the right end points
+
+$$\begin{align}
+\sum_{i=1}^5 \left(\frac{2}{5}\right)\left(-\left(\frac{2}{5}i\right)^2+5\right)
+\end{align}$$
+
+then this sum would use the left endpoints.
+
+$$\begin{align}
+\sum_{i=0}^4 \left(\frac{2}{5}\right)\left(-\left(\frac{2}{5}i\right)^2+5\right)
+\end{align}$$
+
+No need to rewrite expressions, just start and stop counting one earlier.
+
+$\blacksquare$
+{: .qed}
+
+I mentioned using midpoints earlier, instead of the left or right endpoints. The process for that is the same, but it's not an easy jump from one to the other.
 
 ## Finding Area by the Limit Definition
 
-What we did above was find two approximate sums for the area under a curve, one an underestimate and the other an over. The book refers to these as upper and lower sums.
+What we did above was find two approximate sums for the area under a curve, and if you take a look at the pictures, one is an underestimate and the other an overestimate. The book refers to these as upper and lower sums.
 
-> Which sum corresponds to which endpoints will vary depending on the curve. Generally, increasing curves have the left endpoint as the smaller rectangle, and right endpoints are the smaller in decreasing curves. When a curve switches between the two … we'll be doing this a different way by the time we get there.
+> Generally, left endpoints produce underestimates in increasing curves, while right endpoints produce overestimates. Naturally, this switches when it's a decreasing curve. When a curve switches between the two … we'll be doing this a different way by the time we get there.
 
-Also in that sum, we also only used five rectangles. If we used more, we'd have a better estimate and those two approximate sums would get closer to both each other and the actual value. If you remember the Squeeze Theorem from back in [section 1.3](./1-limits-and-their-properties/1.3-evaluating-limit-analytically.md), if we push $n\to \infty$ for both, then the actual sum, which lies between the two, would have to be equal to those approximate sums.
+Also in those sums, we also only used five rectangles. If we used more, we'd have a better estimate and those two approximate sums would get closer to both each other and the actual value. If you remember the Squeeze Theorem from back in [section 1.3](./1-limits-and-their-properties/1.3-evaluating-limit-analytically.md), if we push $n\to \infty$ for both, then the actual sum, which lies between the two, would have to be equal to those approximate sums.
 
-In other words, if you want to find the actual area of the area under a curve, add up all the rectangles using either the right or left-hand method.
+In other words, if you want to find the actual area of the area under a curve, slice it up into an infinite number of rectangles, using either method (or midpoint for that matter) and add them all together.
 
 $$\begin{align}
 \text{Area} = \lim_{n\to\infty} \sum^n_{i=1} f(c_i)\,\Delta x
 \end{align}$$
 
-The book shifts some of the notation and variables to get the definition above. The width of each rectangle is defined as $\Delta x$ and $c_i$ represents any $x$ value in the rectangle. The former is a benefit from the Squeeze Theorem; both limits approach each other, so use whatever $x$ from the rectangle you want (e.g. left or right-hand summations).
+The book shifts some of the notation and variables to get the definition above. The width of each rectangle is defined as $\Delta x$ and $c_i$ represents any $x$ value in the rectangle.
 
-Let's apply to this $x^2$ on the interval $[0,2]$. Since we are writing a summation based on $n$ rectangles, our width will be $\frac{2}{n}$ and our width is $f\left(\frac{2}{n}i\right)$. Since this curve is increasing on that interval, our right endpoints will the larger sum.
+> ## Area Using Limit Definition Example 1
+>
+> Find the area of the region bounded by $y=x^2, y=0, x=0$ and $x=2$.
+{: .example}
+
+OK, so that it just another way to find the area under $x^2$ on the interval $[0,2]$. The extra part about $y=0$ is often implied when saying "find the area under a curve", but it will be included in some problems.
+
+For the summation, let's start with our definition.
 
 $$\begin{align}
-S(n) &= \lim_{n\to\infty}\sum_{i=1}^n f(c_i) \Delta x \\
-     &= \lim_{n\to\infty}\sum_{i=1}^n \left(\frac{2}{n}i\right)^2\left(\frac{2}{n}\right)\\
+\lim_{n\to\infty} \sum^n_{i=1} f(c_i)\,\Delta x
+\end{align}$$
+
+Width, as usual, is the simpler one. Our interval width is $2$ and the number of rectangles is $n$. I'll also plug our function.
+
+$$\begin{align}
+\lim_{n\to\infty} \sum^n_{i=1} \left(x_i\right)^2\left(\frac{2}{n}\right)
+\end{align}$$
+
+Now, a table is going to be ~~difficult~~ impossible since we have an infinite number of numbers, but we can use the same slope-intercept principle. We need a place to start and a change. This is simpler than it sounds. We start at the beginning of our interval, and increase by the width. So, $0 + \frac{2}{n}i$/
+
+That gives us a sum of
+
+$$\begin{align}
+\lim_{n\to\infty} \sum^n_{i=1} \left(\frac{2}{n}i\right)^2\left(\frac{2}{n}\right)
+\end{align}$$
+
+> The rest of this example is if you wish to evaluate this sum. Again, not covered on the exam but the book goes into it and I already spent the time writing it.
+
+$$\begin{align}
+S(n) &= \lim_{n\to\infty}\sum_{i=1}^n \left(\frac{2}{n}i\right)^2\left(\frac{2}{n}\right)\\
      &= \lim_{n\to\infty}\frac{8}{n^3}\sum_{i=1}^n i^2 \\
      &= \lim_{n\to\infty}\frac{8}{n^3} \left[\frac{n(n+1)(2n+1)}{6}\right]\\
      &= \lim_{n\to\infty}\frac{16n^3+24n^2+8n}{6n^3} \\
@@ -121,27 +248,44 @@ S(n) &= \lim_{n\to\infty}\sum_{i=1}^n f(c_i) \Delta x \\
      &= \frac{8}{3}
 \end{align}$$
 
-If the area in question doesn't start at $0$, you'll have to compensate. Example 6 has $f(x) = 4 - x^2$ and an interval of $[1,2]$. The set up is below, but see the book for all the steps.
+$\blacksquare$
+{: .qed}
+
+> ## Area Using Limit Definition Example 2 
+>
+> Express the area under $(x-4)^2$ on the interval $[1,2]$ using sigma notation.
+{: .example}
+
+OK, summation with the width and function first.
 
 $$\begin{align}
-\text{Area} &=\lim_{n\to\infty} \sum_{i=1}^n f\left(1+\frac{i}{n}\right)\left(\frac{1}{n}\right) \\
-                   &= \lim_{n\to\infty} \sum_{i=1}^n \left[4 - \left(1+\frac{i}{n}\right)^2\right]\left(\frac{1}{n}\right) \\
-                   & \dots \\
-                   &= \lim_{n\to\infty} \left[3-\left(1+\frac{1}{n}\right)-\left(\frac{1}{3}+\frac{1}{2n}+\frac{1}{6n^2}\right)\right] \\
-                   &= 3 - 1 - \frac{1}{3} \\
-                   &= \frac{5}{3}
+\sum_{i=1}^n (x_i - 4)^2 \left(\frac{1}{n}\right)
 \end{align}$$
+
+Again, starting point and change for the $x$ values, so we look to the beginning of the interval for our start and the width for the change. That gives us $1+\frac{i}{n}$.
+
+$$\begin{align}
+\sum_{i=1}^n \left(\left(1+\frac{i}{n}\right) - 4\right)^2 \left(\frac{1}{n}\right)
+\end{align}$$
+
+$$\begin{align}
+\sum_{i=1}^n \left(\frac{i}{n} - 3\right)^2 \left(\frac{1}{n}\right)
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
 
 ### Region Bounded the $y$-Axis
 
 When you run into problems where we want area bounded by a function of $y$ instead of $x$, nothing actually changes. You still divide your interval by $n$ to get the width, and then multiply that by $i$ to get the summation terms.
 
-![4.2 Figure 3](./img/4.2-figure-3.png)
+> ![](./img/4.2-figure-3.png)
+>
+> **Figure 4.2.4** The area to the left of a function in terms of $y$.
+{: .figure}
 
-### Approximating with midpoint
-
-The last part of the section deals with approximating with midpoint, instead of the left or right endpoint. Your $i$ terms will now be the average of the left and right endpoints.
+The sum of this one is identical to the example using $x^2$ above, save for the difference in the interval.
 
 $$\begin{align}
-\sum_{i=1}^n f\left(\frac{x_{i-1} + x_i}{2}\right)\Delta x
+\lim_{n\to\infty} \sum^n_{i=1} \left(\frac{1}{n}i\right)^2\left(\frac{1}{n}\right)
 \end{align}$$
