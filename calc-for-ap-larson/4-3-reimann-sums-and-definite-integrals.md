@@ -56,55 +56,23 @@ You have a sum of all your bases, but the interior ones are doubled up. Then it'
 
 ## Riemann Sums (WIP)
 
+In the previous section, we summed up products that existed on an interval. This is known as a Riemann sum, and **does not require the use of sigma notation**. I stress that because there was a strong emphasis on using sigma notation last section. Although you will have to read and write sigma notation, you don't need to use it. If you need to approximate an area, just do the calculations and skip the notation.
+
+Anyway, one of the uses of Riemann sums is approximating the area under a curve. One slight difference between what we did last section Riemann sums proper is that the latter allows for subintervals of varying length.
+
+
+
 We are going rehash the limit definition from last section. For all intents and purposes, nothing has changed, but a few things do need to be addressed.
 
-First, we worked with only consistent rectangle widths, but that's not necessary. 
-
-
-Last section, rectangle widths were consistent, but that is not necessary and sometimes isn't desired. For instance, finding the area under $\sqrt{x}$. Trying it with our old method leads to a problem.
+First, we worked with only consistent rectangle widths, but that's not necessary. Our definition will still work if we alter it slightly.
 
 $$\begin{align}
-\lim_{n \to \infty} \sum_{i=1}^n \frac{1}{n} \left( \sqrt{\frac{i}{n}} \right) = \lim_{n \to \infty} \frac{1}{n\sqrt{n}} \sum_{i=1}^n \sqrt{i}
+\sum^n_{i=1} f(c_i)\,\Delta x_i
 \end{align}$$
 
-We haven't touched how to replace $\sum \sqrt{i}$ and won't (because [harmonic numbers](https://math.stackexchange.com/questions/938225/calculate-summation-of-square-roots){: target="_blank"} are way beyond our scope).
+Instead of trying to pump as many rectangles as we can into the interval, we reduce their widths to zero. The $\Vert\Delta\Vert$ symbol references the width of the widest rectangle, so as long as that one gets down to zero, the others go with it.
 
-But what would be really helpful is a $\sqrt{i^2/n^2}$ instead of $\sqrt{i/n}$. This would lead to rectangles of varying width, but because we want $n \to \infty$ the widest rectangle will still have a width approaching zero.
-
-Speaking of width, we do have to deal with that since it will no longer be $1/n$. To find it, we subtract the left endpoint from the right one. With equal width, that looked like
-
-$$\begin{align}
-\frac{i}{n} - \frac{i-1}{n} = \frac{1}{n}
-\end{align}$$
-
-but since we've switched to a different value for our function, we need to recompute it.
-
-$$\begin{align}
-\frac{i^2}{n^2} - \frac{(i-1)^2}{n^2} = \frac{2i - 1}{n^2}
-\end{align}$$
-
-So our new summation is
-
-$$\begin{align}
-\lim_{n \to \infty} \sum_{i=1}^n \frac{2i-1}{n^2} \cdot \sqrt{\frac{i^2}{n^2}}
-\end{align}$$
-
-What we found above, and in the previous section, is called a Riemann sum. Riemann sums can be used for more than just finding area, so a more general definition is needed.
-
-$$\begin{align}
-\sum^n_{i=1} f(c_i)\, \Delta x_i
-\end{align}$$
-
-This is almost identical to what we dealt with last section, with a couple notable exceptions.
-
-1. The width of a partition can vary, hence $\Delta x_i$ instead of $\Delta x$.
-2. $f$ does not need to be continuous and nonnegative
-
-The last point you might not have noticed, but last section we only dealt with continuous and nonnegative functions to keep things simple.
-
-One thing this does is change how we approach the limit of our sum. Because our widths can be inconsistent, $n\to\infty$ does not necessarily mean that our widths will approach zero. So, our limit definition will have to shift to $\lVert\Delta\rVert\to 0$, where $\Vert\Delta\Vert$ is the width of the largest partition.
-
-With that said, $n\to\infty$ and $\lVert\Delta\rVert\to 0$ are basically equivalent for everything we'll do here, so they can be used interchangeably.
+Example 1 in the book goes over finding a sum using varying widths. Like other problems where you are asked to evaluate a sum, this isn't necessary knowledge for the AP exam. Although, you will be asked to approximate sums, but using those replacement
 
 ## Definite Integral
 
@@ -153,5 +121,3 @@ Examples 4 through 7 highlight the various properties of definite integrals, but
 $$\begin{align}
 \int_a^b f(x)\, dx = - \int_b^a f(x)\, dx
 \end{align}$$
-
-
