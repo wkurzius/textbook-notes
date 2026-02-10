@@ -35,7 +35,7 @@ next-link: "./4-4-the-fundamental-theorem-of-calculus.html"
 
 Before we get into the meat of this section, we're going to jump back to approximating area, but this time with trapezoids.
 
-> ![](./img/4.3-figure-2.png)
+> ![The area under a curve approximated by trapezoids.](./img/4.3-figure-2.png)
 >
 > **Figure 4.3.1** The area under a curve approximated by trapezoids.
 {: .figure}
@@ -87,18 +87,56 @@ Again, this won't have a significant impact on the problems you'll be working ou
 
 ## Definite Integral
 
-The general formula for finding the area under a curve is getting a bit wild, so we're going to condense it. Here is our new general form for what's called the **definite integral**.
+The Riemann sum limit above has so much utility that it has it's own name and notation: the **definite integral**.
 
 $$\begin{align}
 \lim_{\Vert\Delta\Vert\to 0} \sum_{i=1}^n f(c_i) \Delta x_i = \int_a^b f(x) \, dx
 \end{align}$$
 
-That new notation looks a lot like what we did with antidifferentiation. The difference though, is this is a **definite integral** and produces a value, whereas before we dealt with indefinite integrals, which only produced families of functions. For instance
+The sigma becomes an elongated 'S', $\Delta x$ becomes $dx$, the limit is just assumed, and rather than counting rectangles with $i$ and $n$, we state the beginning and end of the interval with $a$ and $b$.
+
+> This new notation looks a lot like what we did with antidifferentiation and indefinite integrals in 4.1. While those produced functions, definite integrals produce values. There is a connection between the two, but we're not there quite yet.
+
+For now, this new notation doesn't change anything. It's just an abbreviated way of stating things we've already been doing. The area under the curve $x^2$ on the interval $[3,7]$ can now be written as
 
 $$\begin{align}
-\int x^2 \, dx &= \frac{x^3}{3} + C \\
-\int_0^1 x^2 \, dx &= \frac{1}{3}
+\int_3^7 x^2\, dx
 \end{align}$$
+
+> ## Example 
+>
+> Write the definite integral as Riemann sum limit and  (optionally) evaluate it.
+>
+> $$\begin{align}
+> \int_{-2}^1 2x \, dx
+> \end{align}$$
+{: .example}
+
+Start with your form and then fill in the function and width.
+
+$$\begin{align}
+& \lim_{n \to \infty} \sum_{i=1}^{n} f(c_i) \Delta x_i \\
+& \lim_{n \to \infty} \sum_{i=1}^{n} (2x_i) \left(\frac{3}{n}\right)
+\end{align}$$
+
+Our interval begins at $-2$, so for $x_i$ we end up with $-2+\frac{3i}{n}$.
+
+$$\begin{align}
+& \lim_{n \to \infty} \sum_{i=1}^{n} f(c_i) \Delta x_i \\
+& \lim_{n \to \infty} \sum_{i=1}^{n} \left(2\left(-2+\frac{3i}{n}\right)\right) \left(\frac{3}{n}\right)
+\end{align}$$
+
+The book has the steps to reduce this down, and I encourage you to go through them, but for the sake of getting an answer, we'll use Demos.
+
+$$\begin{align}
+\int_3^7 x^2\, dx = -3
+\end{align}$$
+
+Here's a link if you don't believe me: <https://www.desmos.com/calculator/qwzspvcnd9>
+
+$\blacksquare$
+{: .qed}
+
 
 Let's try one out and determine the value of $\int_{-2}^1 2x \, dx$. Before we begin, we need to determine our widths and what $x$-value we'll use to determine the heights.
 
