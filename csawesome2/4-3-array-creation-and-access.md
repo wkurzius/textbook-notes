@@ -32,7 +32,7 @@ nums[3] = 16;                   // last index in array of length 4
 
 Arrays are objects, so they can be initialized with `new`. As for access, they behave similar to strings in that the first entry has index 0 and the last is the length minus 1.
 
-Along with that "arrays are objects" bit, the length of the array is a field rather than a method.
+Along with that "arrays are objects" bit, the **length of the array** is a field rather than a method.
 
 ```java
 int l = nums.length;
@@ -41,3 +41,9 @@ System.out.println(nums[4]);    // ArrayIndexOutOfBoundsException
 ```
 
 Don't worry if you add the `()` on the exam. There is a specific rule in the scoring guidelines to not deduct points for that.
+
+There is also another way to initialize an array which involves setting the value of each entry from the beginning.
+
+```java
+boolean[] b = {false, true, false, true};
+```
