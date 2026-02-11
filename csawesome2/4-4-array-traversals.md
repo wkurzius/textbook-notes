@@ -16,3 +16,20 @@ next-link: ./4-5-implementing-array-algorithms.html
 
 ---
 
+## Traversal with `for` Loops
+
+Loops are good for repeating things. Traversing an array is an example of a repeated action. Loops are good for traversing arrays.
+
+```java
+String[] names = {"Jamal", "Emily", "Destiny", "Mateo", "Sofia"};
+
+for (int i = 0; i < names.length; i++) {
+    System.out.println(names[i]);
+}
+```
+
+The text has a slew of example and exercises that show different ways to mess with this basic structure, but the basic idea doesn't change much.
+
+## The Enhanced `for` Loop
+
+If you want to type even less, you can use an enhanced `for` loop.
