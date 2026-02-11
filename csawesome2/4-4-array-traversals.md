@@ -33,3 +33,15 @@ The text has a slew of example and exercises that show different ways to mess wi
 ## The Enhanced `for` Loop
 
 If you want to type even less, you can use an enhanced `for` loop.
+
+```java
+String[] names = {"Jamal", "Emily", "Destiny", "Mateo", "Sofia"};
+
+for (String name : names) {
+    System.out.println(name);
+}
+```
+
+This shorthand version will go through each element and grant you _read-only_ access to the values. That's the trade-off. And that it has to process each element. No starting somewhere in the middle.
+
+So, this does have drawbacks, but it is technically quicker to write, and more importantly, less prone to errors. Use what you want, but you need to be able to read and write the enhanced version.
