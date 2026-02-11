@@ -2,7 +2,7 @@
 title: 4.3 Riemann Sums and Definite Integrals
 layout: page
 course: AP Calc
-last-reviewed:
+last-reviewed: 2026-02-10 20:27:12
 prev-link: "./4-2-area.html"
 next-link: "./4-4-the-fundamental-theorem-of-calculus.html"
 ---
@@ -103,7 +103,7 @@ $$\begin{align}
 \int_3^7 x^2\, dx
 \end{align}$$
 
-> ## Example 
+> ## Example
 >
 > Write the definite integral as Riemann sum limit and  (optionally) evaluate it.
 >
@@ -137,35 +137,15 @@ Here's a link if you don't believe me: <https://www.desmos.com/calculator/qwzspv
 $\blacksquare$
 {: .qed}
 
+OK, so the negative number is new because everything we've done up until this point has been above the $x$-axis. Since $2x$ is negative left of the $y$-axis, the heights of our infinitely narrow rectangles are negative, meaning their "areas" are negative.
 
-Let's try one out and determine the value of $\int_{-2}^1 2x \, dx$. Before we begin, we need to determine our widths and what $x$-value we'll use to determine the heights.
+I know that doesn't make much sense, but that means the definite integral won't necessarily give you the area under a curve. It can, but it will require a little manipulation, but that's for later.
 
-![4.3 Figure 1](./img/4.3-figure-1.png)
-
-The function is a straightforward linear function, so we'll use the tried and true consistent-width intervals, which means $\frac{3}{n}$ in this case.
-
-For our $x$-values, we have three choices: right endpoint, left endpoint and midpoint. For what we are doing here, right endpoint is typically the best choice as its the simplest.
-
-> It's worth noting that throughout your entire math education, you've been given pretty problems that evaluate nicely. This is done for the sake of teaching you the material, but reality can be much different. These multiple definitions and choice of endpoints are incredibly useful outside of the classroom where flexibility is needed, and efficiency is prioritized over accuracy (how many decimal points of accuracy do we really need?).
->
-> One quick example: imagine you have to find the area under a curve, but the curve is not actually a curve but a collection of data points. You don't have a function to work with, just a bunch of dots on a graph.
-
-With our point chosen, we arrive at $(-2+\frac{3}{n}i)$ for our $x$-values and we can start work.
-
-$$\begin{align}
-\int_{-2}^1 2x \, dx &= \lim_{n\to\infty} \sum_{i=1}^n 2\left(-2 +\frac{3i}{n}\right) \frac{3}{n} \\
-                     & \dots \\
-                     &= \lim_{n\to\infty} \left(-12+9+\frac{9}{n}\right) \\
-                     &= -3
-\end{align}$$
-
-A negative number is something new and shows the problem with the new lax definition. The function $2x$ is continuous, but it is negative left of 0. So although we got a value, it does not represent the area under the curve. This is something we will eventually tackles, but just keep it in mind for now.
-
-You also might have noticed there is another way to find the area under this curve: find the area of the triangles. While the summation technique will work, sometimes it's easier to use what you know from geometry to evaluate certain definite integrals. Constant functions will give you rectangles, linear functions produce triangles and trapezoids, and you'll even see some semicircles with $\sqrt{a^2 - x^2}$.
+Also, you might have noticed there is another way to find the area under this curve: find the area of the triangles. While the summation technique will work, sometimes it's easier to use what you know from geometry to evaluate certain definite integrals. Constant functions will give you rectangles, linear functions produce triangles and trapezoids, and you'll even see some semicircles.
 
 ## Properties of Definite Integrals
 
-Examples 4 through 7 highlight the various properties of definite integrals, but I won't cover them here since they are essentially the same as the summations. The one notable addition is the negative definite integral, where the interval can be reversed.
+Examples 4 through 7 highlight the various properties of definite integrals, but I won't cover them here. The one notable exception is the negative definite integral, where the interval can be reversed.
 
 $$\begin{align}
 \int_a^b f(x)\, dx = - \int_b^a f(x)\, dx
