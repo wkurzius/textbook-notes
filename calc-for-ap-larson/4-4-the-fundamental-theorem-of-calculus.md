@@ -2,8 +2,8 @@
 title: 4.4 The Fundamental Theorem of Calculus
 layout: page
 course: AP Calc
-last-reviewed:
-prev-link: "./4-3-reimann-sums-and-definite-integrals.html"
+last-reviewed: 2026-02-11 10:48:00
+prev-link: "./4-3-riemann-sums-and-definite-integrals.html"
 next-link: "./4-5-the-net-change-theorem.html"
 ---
 
@@ -33,26 +33,33 @@ next-link: "./4-5-the-net-change-theorem.html"
 
 ## The Fundamental Theorem of Calculus
 
-> **Disclaimer**: The fundamental theorem of calculus has two parts. Our book goes through the two parts in the opposite order of most other sources. I am sticking with what everyone else does as I think it's the easier way to grasp the concept.
+> **Disclaimer**: The fundamental theorem of calculus has two parts and our book covers them in the opposite order of most other sources. I am sticking with what everyone else does since I think that's the easier way to grasp the concept.
 >
 > And for clarification, here is how the two parts are referenced in different sources. I'll try to use the AP names to avoid complication.
 >
-> | Book   | AP Course Description   | Everywhere Else |
-> | ------ | ----------------------- | --------------- |
-> | Second | Accumulation (6.4)      | First           |
-> | First  | Definite Integral (6.7) | Second          |
+> | AP Course Description        | Ordinal Description | Our Book |
+> | ---------------------------- | ------------------- | -------- |
+> | Accumulation Functions (6.4) | First               | Second   |
+> | Definite Integral (6.7)      | Second              | First    |
 
-### The Accumulation Part
+## The Accumulation Part
 
-Let's create a function, $A(x)$, that will produce the area under a curve, but $x$ will be the right bound of the interval. These area functions are also called **accumulation functions** since the area accumulates as $x$ increases.
+Let's create a function $A(x)$ that will represent the area under a curve bounded by the $y$-axis and $x$. These area functions are also called **accumulation functions** since the area accumulates as $x$ increases.
 
 Now, what if we increased that area and wanted to find out how much it increased? This is represented by the red strip in the image below. You start off with some set amount of area $A(x)$ (which is the blue area), and we want to just slightly move to the right $h$ units.
 
-![Geometric representation of the FTC from Wikipedia](./img/4.4-figure-1.png)
+> ![Geometric representation of the FTC from Wikipedia](./img/4.4-figure-1.png)
+>
+> **Figure 4.4.1** Geometric representation of the first fundamental theorem of calculus. Credit [Wikipedia](https://commons.wikimedia.org/wiki/File:FTC_geometric.svg){: target="_blank"}.
+{: .figure}
 
-That would make the new area $A(x+h)$. Since we're just interested in the change in area, the new area, we can subtract what was there to begin with, so $A(x+h) - A(x)$.
+That makes the new total area $A(x+h)$. We're interested in the change in area, the part we just added on, which we can represent with the expression below.
 
-We can also estimate that area as a rectangle. The width is $h$ and we can use $f(x)$ as our height, because this is just an estimation. There is some amount of excess to account for, so we shouldn't forget about it.
+$$\begin{align}
+A(x+h) - A(x)
+\end{align}$$
+
+We can also represent that new slice as a rectangle. The width is $h$ and we can use $f(x)$ as our height. Though, this leads to a little bit of excess that we can't forget about.
 
 $$\begin{align}
 f(x) \cdot h + \text{Excess}
@@ -64,10 +71,10 @@ $$\begin{align}
 f(x) \cdot h + \text{Excess} = A(x+h) - A(x)
 \end{align}$$
 
-Rearranging, and accounting for the fact we want $h$ to be as small as possible, we get
+Rearranging—and adding a limit to account for the fact we want $h$ to be as small as possible—we get
 
 $$\begin{align}
-f(x) = \lim_{h \to 0} \left(\frac{A(x+h) - A(x)}{h} + \frac{\text{Excess}}{h}\right)
+f(x) = \lim_{h \to 0} \left(\frac{A(x+h) - A(x)}{h} - \frac{\text{Excess}}{h}\right)
 \end{align}$$
 
 That excess term will go to zero as $h \to 0$, so we ultimately end up with
@@ -76,16 +83,16 @@ $$\begin{align}
 f(x) = \lim_{h \to 0} \frac{A(x+h) - A(x)}{h}
 \end{align}$$
 
-Well, the right-hand side is literally the definition of a derivative.
+Well, the right-hand side of that is literally the definition of a derivative.
 
 $$\begin{align}
 f(x) &= A'(x) \label{eq:1}\\
 F(x) &= A(x) \label{eq:2}
 \end{align}$$
 
-Recall that in this situation, $f(x)$ was the curve and $A(x)$ is the area under that curve. So, if the derivative of an area function is its original function (equation $\ref{eq:1}$), that means the area function is equal to the antiderivative of the original function (equation $\ref{eq:2}$). This is *commonly* known as the first part of the fundamental theorem and can be expressed a couple of different ways.
+Recall that in this situation, $f(x)$ was the curve above the area, and $A(x)$ is the area itself. So, the derivative of an area function is the curve that bounds it (equation $\ref{eq:1}$), which means the area function is equal to the antiderivative of that curve (equation $\ref{eq:2}$). This is *commonly* known as the first part of the fundamental theorem and can be expressed a couple of different ways.
 
-> ##### First Fundamental Theorem of Calculus (Accumulation)
+> ### Definition: First Fundamental Theorem of Calculus (Accumulation)
 >
 > $$\begin{align}
 > F(x) = \int_a^x f(t) \, dt \label{eq:fun-1a} \\[1em]
@@ -97,7 +104,30 @@ First thing to note is the use of $t$ as the variable of integration. This is on
 
 Also, the beginning of the interval doesn't make it over to the other side. It's a bit easier to picture in equation \ref{eq:fun-1b}. Since the derivative of the integral shows you how the area is changing (accumulating) at $x$, where the interval begins is irrelevant.
 
-### The Definite Integral Part
+> ### Example: Derivative of Accumulation Function
+>
+> Let $\displaystyle f(x)= \int_0^x \sqrt{t^2 + 1} \, dt$. What is $f'(5)$?
+{: .example}
+
+By the accumulation part of the fundamental theorem ...
+
+$$\begin{align}
+f(x) &= \int_0^x \sqrt{t^2 + 1} \, dt \\
+f'(x) &= \sqrt{x^2 + 1} \\
+\end{align}$$
+
+... which means ...
+
+$$\begin{align}
+f'(x) &= \sqrt{x^2 + 1} \\
+f'(5) &= \sqrt{5^2 + 1} \\
+      &= \sqrt{26}
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
+
+## The Definite Integral Part
 
 Now we can take idea behind the first part and apply it an area with constant endpoints, our definite integrals. We'll need two accumulation functions though, since we'll have to subtract them to find the area of the interval in question. We'll also drop the $t$ since we don't have $x$ in the interval anymore.
 
@@ -108,14 +138,17 @@ $$\begin{align}
 
 This gives us the second part of the theorem. To find the area under a curve, evaluate the antiderivative of the upper bound minus the antiderivative of the lower bound.
 
-> ##### Second Fundamental Theorem of Calculus (Definite Integral)
+> ### Definition: Second Fundamental Theorem of Calculus (Definite Integral)
 >
 > $$\begin{align}
 > \int_a^b f(x) \, dx &= F(b) - F(a)
 > \end{align}$$
 {: .definition}
 
-#### Evaluating Definite Integrals
+> ### Example: Evaluating Definite Integrals
+>
+> Evaluate $\displaystyle \int_1^2 (x^2-3)\,dx$.
+{: .example}
 
 Applying the fundamental theorem is straightforward, provided you can come up with the antiderivative.
 
@@ -128,13 +161,39 @@ $$\begin{align}
 
 It's sometimes helpful to work with similar terms when doing the arithmetic at the end. Above, I combined the $8/3$ and $1/3$, while combining the integer terms.
 
-Integrals involving absolute values require an extra step since there is no antiderivative rule for them. Instead, find the vertex and split the integral into two, one for each part of the absolute value.
+$\blacksquare$
+{: .qed}
 
-To find that split, set your absolute value equal to $0$. The reason for this is that the original vertex has an $x$ value of $0$, so we are looking for how to undo any transformation applied to it.
+> ### Example: Definite Integral with an Absolute Value
+>
+> Evaluate $\int_0^2 \|2x-1\|\,dx$.
+{: .example}
+
+When working with any absolute value, finding the vertex is important. This allows you to treat it like two separate non-absolute value functions. Since absolute values make all negatives positive, they "bounce" off the $x$-axis. So you can find the vertex by finding where it equals $0$.
+
+In this case $2x-1=0$ yields $x=\frac{1}{2}$.
 
 $$\begin{align}
 \int_0^2 |2x-1|\,dx &= \int_0^\frac{1}{2} -(2x-1)\,dx + \int_\frac{1}{2}^2 2x-1\,dx
 \end{align}$$
+
+I'll negate the first one so I only need to worry about one anti-derivative.
+
+$$\begin{align}
+\int_0^2 |2x-1|\,dx &= \int_0^\frac{1}{2} -(2x-1)\,dx + \int_\frac{1}{2}^2 2x-1\,dx \\
+                    &= \int_\frac{1}{2}^0 2x-1\,dx + \int_\frac{1}{2}^2 2x-1\,dx \\
+                    &= \left[ x^2 -x \right]_\frac{1}{2}^0 + \left[ x^2 -x \right]_\frac{1}{2}^2 \\
+                    &= \left[0 - \left(\left(\frac{1}{2}\right)^2 - \frac{1}{2}\right)\right] +
+                    \left[\left(\left(2\right)^2 - 2\right) - \left(\left(\frac{1}{2}\right)^2 - \frac{1}{2}\right)\right]
+                     \\
+                    &= \frac{1}{4} + \left(2 + \frac{1}{4} \right) \\
+                    &= \frac{5}{2}
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
+
+You can check your work with Desmos. The keyword `int` will give you the integration symbol, then you can enter the bounds and the function. Make sure you include the variable of integration, usually $dx$.
 
 ## The Mean Value Theorem for Integrals
 
@@ -142,7 +201,7 @@ When we first started estimating area with rectangles, we saw overestimates with
 
 So, given an interval $[a,b]$, there must exist some $c$ that would produce the exact height needed to accurately calculate the area.
 
-> ##### Mean Value Theorem for Integrals
+> ### Definition: Mean Value Theorem for Integrals
 >
 > $$\begin{align}
 > \int_a^b f(x) \, dx = f(c) \cdot (b-a)
@@ -151,9 +210,9 @@ So, given an interval $[a,b]$, there must exist some $c$ that would produce the 
 
 ## Average Value of a Function
 
-The average value of a function on an interval can be thought of two ways.
+The average value of a function over an interval can be thought of two ways.
 
-1. Add up all the $y$ values on the interval and divide by how many (infinite in this case). The book has a proof of how this summation equals what we have in equation $\ref{eq:average}$.
+1. Add up all the $y$ values on the interval and divide by how many (infinite in this case). The book has a proof of how this summation equals what we have in equation $\ref{eq:average}$ below.
 2. Take the area for that interval and reshape it into a rectangle with the same width as the interval. Its height is the average value.
 
 If point 2 isn't convincing, imagine the ocean with all the waves flattened out and you would have sea level.
@@ -162,7 +221,7 @@ If point 2 isn't convincing, imagine the ocean with all the waves flattened out 
 
 It turns out that the mean value theorem for integrals produced the average for us already: $f(c)$. That value, when multiplied by the interval, gave us the exact same area we started with.
 
-> ##### Average Value of a Function
+> ### Definition: Average Value of a Function
 >
 > $$\begin{align}
 > \frac{1}{b-a} \int_a^b f(x) \, dx \label{eq:average}
@@ -171,8 +230,18 @@ It turns out that the mean value theorem for integrals produced the average for 
 
 ## Accumulation Functions and the Chain Rule
 
-In the accumulation functions we've seen so far, we had $x$ as an upper bound. Complications arise when the upper bound is no longer just $x$. The chain rule can solve this problem, as all you need to do is derive like normal, but then multiply by the inner function. So, continue to substitute the upper bound in for $t$, but remember to multiply by its derivative at the end.
+The accumulation functions from earlier all had $x$ as an upper bound, but it can be functions other than that, like $x^2$ or $\sin x$. Oddly enough, the chain rule applies when differentiating accumulation functions too.
+
+Chain rule works by differentiating like normal, but including the inner function, then multiplying by the derivative of that inner function. And the same happens here. Substitute the upper bound in for $t$, but remember to multiply by its derivative at the end.
+
+> ### Example: Accumulation Functions and the Chain Rule
+>
+> Evaluate $\displaystyle \frac{d}{dx}\left[\int_{\pi/2}^{x^3} \cos t \, dt\right]$
+{: .example}
 
 $$\begin{align}
 \frac{d}{dx} \left[ \int_{\pi/2}^{x^3} \cos t \, dt \right] = \left( \cos x^3 \right) \left( 3x^2 \right )
 \end{align}$$
+
+$\blacksquare$
+{: .qed}

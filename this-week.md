@@ -34,8 +34,8 @@ sta-x: "Feb. 13"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/ap-calc-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./calc-for-ap-larson/){: title=\"Notes and HW\"}"
-cal-1: "**M**{: .day}[4.3 Riemann Sums and Definite Integrals](./calc-for-ap-larson/4-3-reimann-sums-and-definite-integrals.html)"
-cal-2: "**W**{: .day}[4.3 Riemann Sums and Definite Integrals](./calc-for-ap-larson/4-3-reimann-sums-and-definite-integrals.html)"
+cal-1: "**M**{: .day}[4.3 Riemann Sums and Definite Integrals](./calc-for-ap-larson/4-3-riemann-sums-and-definite-integrals.html)"
+cal-2: "**W**{: .day}[4.3 Riemann Sums and Definite Integrals](./calc-for-ap-larson/4-3-riemann-sums-and-definite-integrals.html)"
 cal-3: "**F**{: .day}[4.4 The Fundamental Theorem of Calculus](./calc-for-ap-larson/4-4-the-fundamental-theorem-of-calculus.html)"
 cal-x: "Feb. 23"
 ---
