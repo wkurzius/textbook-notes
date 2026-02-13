@@ -15,7 +15,7 @@ con-h: "[**Concepts of Algebra**](./syllabi/concepts-of-algebra-syllabus.html){:
 con-1: "[Unit 4: Graphing lines and slope](https://www.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope){: target=\"_blank\"}"
 con-2: ""
 con-3: ""
-con-x: "Feb. 12"
+con-x: "–"
 
 pro-h: "[**Intro to Programming**](./syllabi/intro-to-programming-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://academy.cs.cmu.edu/){: target=\"_blank\" title=\"CS Academy Online Curriculum\"}"
@@ -27,17 +27,17 @@ pro-x: "–"
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/prob-and-stats-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./statistics-open-stax/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**R**{: .day}[2.1 Stemplots, Line Graphs, and Bar Graphs](./statistics-open-stax/2-1-stem-and-leaf-graphs-stemplots-line-graphs-and-bar-graphs.html)"
+sta-1: "**R**{: .day}[2.1 Stemplots, Line Graphs, and Bar Graphs](./statistics-open-stax/2-1-stem-and-leaf-graphs-stemplots-line-graphs-and-bar-graphs.html) and [2.2 Histograms, Frequency Polygons, and Time Series Graphs](./statistics-open-stax/2-2-histograms-frequency-polygons-and-time-series-graphs.html)"
 sta-2: ""
 sta-3: ""
-sta-x: "Feb. 13"
+sta-x: "Mar. 10"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/ap-calc-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./calc-for-ap-larson/){: title=\"Notes and HW\"}"
 cal-1: "**R**{: .day}[4.4 The Fundamental Theorem of Calculus](./calc-for-ap-larson/4-4-the-fundamental-theorem-of-calculus.html)"
 cal-2: ""
 cal-3: ""
-cal-x: "Feb. 23"
+cal-x: "Feb. 25"
 ---
 
 | Course Links   | New Material                                       | Next Exam      |
