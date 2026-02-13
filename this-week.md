@@ -1,12 +1,12 @@
 ---
-title: "This Week (Feb. 9–13)"
+title: "This Week (Feb. 18–20)"
 layout: this-week
 
 csc-h: "[**AP Comp Sci A**](./csawesome2/ap-csa-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./csawesome2/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
-csc-1: "**T**{: .day}[4.3 Array Creation and Access](./csawesome2/4-3-array-creation-and-access.html)"
-csc-2: "**R**{: .day}[4.4 Array Traversals](./csawesome2/4-4-array-traversals.html)"
+csc-1: "**W**{: .day}[4.5 Implementing Array Algorithms](./csawesome2/4-5-implementing-array-algorithms.html)"
+csc-2: "**F**{: .day}Unit 4 Progress Check Part A"
 csc-3: ""
 csc-x: "Feb. 24"
 
@@ -27,16 +27,16 @@ pro-x: "–"
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/prob-and-stats-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./statistics-open-stax/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**M**{: .day}[1.6 Sampling Experiment](https://openstax.org/books/statistics/pages/1-6-sampling-experiment)"
-sta-2: "**W**{: .day}Review"
-sta-3: "**F**{: .day}Chapter 1 Quiz"
+sta-1: "**R**{: .day}[2.1 Stemplots, Line Graphs, and Bar Graphs](./statistics-open-stax/2-1-stem-and-leaf-graphs-stemplots-line-graphs-and-bar-graphs.html)"
+sta-2: ""
+sta-3: ""
 sta-x: "Feb. 13"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/ap-calc-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./calc-for-ap-larson/){: title=\"Notes and HW\"}"
-cal-1: "**M**{: .day}[4.3 Riemann Sums and Definite Integrals](./calc-for-ap-larson/4-3-riemann-sums-and-definite-integrals.html)"
-cal-2: "**W**{: .day}[4.3 Riemann Sums and Definite Integrals](./calc-for-ap-larson/4-3-riemann-sums-and-definite-integrals.html)"
-cal-3: "**F**{: .day}[4.4 The Fundamental Theorem of Calculus](./calc-for-ap-larson/4-4-the-fundamental-theorem-of-calculus.html)"
+cal-1: "**R**{: .day}[4.4 The Fundamental Theorem of Calculus](./calc-for-ap-larson/4-4-the-fundamental-theorem-of-calculus.html)"
+cal-2: ""
+cal-3: ""
 cal-x: "Feb. 23"
 ---
 
@@ -45,8 +45,8 @@ cal-x: "Feb. 23"
 | {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}}<br>{{page.csc-3}} | {{page.csc-x}} |
 | {{page.con-h}} | {{page.con-1}}                                     | {{page.con-x}} |
 | {{page.pro-h}} | {{page.pro-1}}                                     | {{page.pro-x}} |
-| {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-3}} | {{page.sta-x}} |
-| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |
+| {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<!--<br>{{page.sta-3}}--> | {{page.sta-x}} |
+| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<!--<br>{{page.cal-3}}--> | {{page.cal-x}} |
 {: #this-week-table}
 
 ## Schedule
