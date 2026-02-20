@@ -42,7 +42,7 @@ next-link: "./4-5-the-net-change-theorem.html"
 > | Accumulation Functions (6.4) | First               | Second   |
 > | Definite Integral (6.7)      | Second              | First    |
 
-## The Accumulation Part v2
+## The Accumulation Part
 
 Let's create a function $A(x)$ that will represent the area under a curve bounded by the $y$-axis and $x$. These area functions are also called **accumulation functions** since the area accumulates as $x$ increases.
 
@@ -60,10 +60,56 @@ Instead of finding the area, this time we're going to focus on how the area *cha
 > **Figure 4.4.2** The accumulation of area as $x$ increases.
 {: .figure}
 
+This implies that how the accumulation functions changes is dictated by the curve that bounds it. If the curve is close to the $x$-axis, only a little area is added. If it's higher, more is added. If it's at zero, nothing is added, and below the $x$-axis means area is taken away.
 
-## The Accumulation Part
+> Remember that integrating only gives you true area if the curve is positive. What it always gives you is **signed area**, which provides a sign indicating its orientation relative to the $x$-axis.
 
-Let's create a function $A(x)$ that will represent the area under a curve bounded by the $y$-axis and $x$. These area functions are also called **accumulation functions** since the area accumulates as $x$ increases.
+To put the above in terms of calculus, the derivative of the accumulation function is the curve that it is integrating.
+
+$$\begin{align}
+\frac{d}{dx}\left[\int_a^x f(t)\, dt\right] = f(x)
+\end{align}$$
+
+Notice that $a$ is listed as the beginning of the integral. Since we are only dealing with change, where the integral begins is irrelevant.
+
+> ### Example: Derivative of Accumulation Function
+>
+> Let $\displaystyle f(x)= \int_0^x \sqrt{t^2 + 1} \, dt$. What is $f'(5)$?
+{: .example}
+
+By the accumulation part of the fundamental theorem ...
+
+$$\begin{align}
+f(x) &= \int_0^x \sqrt{t^2 + 1} \, dt \\
+f'(x) &= \sqrt{x^2 + 1} \\
+\end{align}$$
+
+... which means ...
+
+$$\begin{align}
+f'(x) &= \sqrt{x^2 + 1} \\
+f'(5) &= \sqrt{5^2 + 1} \\
+      &= \sqrt{26}
+\end{align}$$
+
+$\blacksquare$
+{: .qed}
+
+This leads us to the real definition which connects integrals to antiderivatives.
+
+> ### Definition: First Fundamental Theorem of Calculus (Accumulation)
+>
+> $$\begin{align}
+> F(x)  &= \int_a^x f(t) \, dt \label{eq:fun-1a} \\[1em]
+> F'(x) &= f(x) \label{eq:fun-1b}
+> \end{align}$$
+>
+> Therefore, $F$ (the integral) is equivalent to the antiderivative of $f$.
+{: .definition}
+
+### A Slightly Rigorous Proof
+
+In case Let's create a function $A(x)$ that will represent the area under a curve bounded by the $y$-axis and $x$. These area functions are also called **accumulation functions** since the area accumulates as $x$ increases.
 
 Now, what if we increased that area and wanted to find out how much it increased? This is represented by the red strip in the image below. You start off with some set amount of area $A(x)$ (which is the blue area), and we want to just slightly move to the right $h$ units.
 
@@ -111,40 +157,13 @@ F(x) &= A(x) \label{eq:2}
 
 Recall that in this situation, $f(x)$ was the curve above the area, and $A(x)$ is the area itself. So, the derivative of an area function is the curve that bounds it (equation $\ref{eq:1}$), which means the area function is equal to the antiderivative of that curve (equation $\ref{eq:2}$). This is *commonly* known as the first part of the fundamental theorem and can be expressed a couple of different ways.
 
-> ### Definition: First Fundamental Theorem of Calculus (Accumulation)
->
-> $$\begin{align}
-> F(x) = \int_a^x f(t) \, dt \label{eq:fun-1a} \\[1em]
-> \frac{d}{dx}\left[\int_a^x f(t) \, dt \right] = f(x) \label{eq:fun-1b}
-> \end{align}$$
-{: .definition}
+
 
 First thing to note is the use of $t$ as the variable of integration. This is only done since $x$ is already in use as the upper limit of integration.
 
 Also, the beginning of the interval doesn't make it over to the other side. It's a bit easier to picture in equation \ref{eq:fun-1b}. Since the derivative of the integral shows you how the area is changing (accumulating) at $x$, where the interval begins is irrelevant.
 
-> ### Example: Derivative of Accumulation Function
->
-> Let $\displaystyle f(x)= \int_0^x \sqrt{t^2 + 1} \, dt$. What is $f'(5)$?
-{: .example}
 
-By the accumulation part of the fundamental theorem ...
-
-$$\begin{align}
-f(x) &= \int_0^x \sqrt{t^2 + 1} \, dt \\
-f'(x) &= \sqrt{x^2 + 1} \\
-\end{align}$$
-
-... which means ...
-
-$$\begin{align}
-f'(x) &= \sqrt{x^2 + 1} \\
-f'(5) &= \sqrt{5^2 + 1} \\
-      &= \sqrt{26}
-\end{align}$$
-
-$\blacksquare$
-{: .qed}
 
 ## The Definite Integral Part
 
