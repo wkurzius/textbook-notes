@@ -46,11 +46,19 @@ next-link: "./4-5-the-net-change-theorem.html"
 
 Let's create a function $A(x)$ that will represent the area under a curve bounded by the $y$-axis and $x$. These area functions are also called **accumulation functions** since the area accumulates as $x$ increases.
 
-> <iframe src="https://www.desmos.com/calculator/9rt2aw5bvb?embed" width="500" height="350" style="border: 1px solid #ccc" frameborder=0></iframe>
+> <iframe src="https://www.desmos.com/calculator/wel1wpydvf?embed" width="500" height="350" style="border: 1px solid #ccc" frameborder=0></iframe>
 >
 > **Figure 4.4.1** An accumulation function $A(x)$.
 {: .figure}
 
+This is a just another way to represent the area under a curve, which we've been looking at for a while. The only difference is that we turned it into a function so the area changes as $x$ changes.
+
+Instead of finding the area, this time we're going to focus on how the area *changes*. As $x$ increases, more area is added, but not the same amount each time. Early on, only a little area is added since the curve isn't as high off the $x$-axis. Later on, larger chunks are added as the curve peaks. After the peak, more area is still added, but not as much as before.
+
+> <iframe src="https://www.desmos.com/calculator/d58sht7zm3?embed" width="500" height="350" style="border: 1px solid #ccc" frameborder=0></iframe>
+>
+> **Figure 4.4.2** The accumulation of area as $x$ increases.
+{: .figure}
 
 
 ## The Accumulation Part
