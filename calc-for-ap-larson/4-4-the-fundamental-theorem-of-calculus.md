@@ -35,12 +35,23 @@ next-link: "./4-5-the-net-change-theorem.html"
 
 > **Disclaimer**: The fundamental theorem of calculus has two parts and our book covers them in the opposite order of most other sources. I am sticking with what everyone else does since I think that's the easier way to grasp the concept.
 >
-> And for clarification, here is how the two parts are referenced in different sources. I'll try to use the AP names to avoid complication.
+> College Board/AP is more descriptive with naming each part, so here is how each is referenced in different sources. I'll try to use the AP names to avoid confusion.
 >
 > | AP Course Description        | Ordinal Description | Our Book |
 > | ---------------------------- | ------------------- | -------- |
 > | Accumulation Functions (6.4) | First               | Second   |
 > | Definite Integral (6.7)      | Second              | First    |
+
+## The Accumulation Part v2
+
+Let's create a function $A(x)$ that will represent the area under a curve bounded by the $y$-axis and $x$. These area functions are also called **accumulation functions** since the area accumulates as $x$ increases.
+
+> <iframe src="https://www.desmos.com/calculator/9rt2aw5bvb?embed" width="500" height="350" style="border: 1px solid #ccc" frameborder=0></iframe>
+>
+> **Figure 4.4.1** An accumulation function $A(x)$.
+{: .figure}
+
+
 
 ## The Accumulation Part
 
