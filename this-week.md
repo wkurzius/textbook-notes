@@ -6,7 +6,7 @@ csc-h: "[**AP Comp Sci A**](./csawesome2/ap-csa-syllabus.html){: title=\"Course 
         [<i class=\"fa-solid fa-file-pen\"></i>](./csawesome2/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
 csc-1: "**T**{: .day}4.1–4.5 Exam"
-csc-2: "**R**{: .day}[4.6](./csawesome2/4-6-using-text-files.html)"
+csc-2: "**R**{: .day}[4.6 Using Text Files](./csawesome2/4-6-using-text-files.html)"
 csc-3: ""
 csc-x: "Feb. 24"
 
