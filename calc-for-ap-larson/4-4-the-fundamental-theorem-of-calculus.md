@@ -2,7 +2,7 @@
 title: 4.4 The Fundamental Theorem of Calculus
 layout: page
 course: AP Calc
-last-reviewed: 2026-02-11 10:48:00
+last-reviewed: 2026-02-21 07:44:49
 prev-link: "./4-3-riemann-sums-and-definite-integrals.html"
 next-link: "./4-5-the-net-change-theorem.html"
 ---
@@ -53,7 +53,7 @@ Let's create a function $A(x)$ that will represent the area under a curve bounde
 
 This is a just another way to represent the area under a curve, which we've been looking at for a while. The only difference is that we turned it into a function so the area changes as $x$ changes.
 
-Instead of finding the area, this time we're going to focus on how the area *changes*. As $x$ increases, more area is added, but not the same amount each time. Early on, only a little area is added since the curve isn't as high off the $x$-axis. Later on, larger chunks are added as the curve peaks. After the peak, more area is still added, but not as much as before.
+Today though, we're going to focus on how the area *changes*. As $x$ increases, more area is added, but not the same amount each time. Early on, only a little area is added since the curve isn't as high off the $x$-axis. Later on, larger chunks are added as the curve peaks. After the peak, more area is still added, but not as much as before.
 
 > <iframe src="https://www.desmos.com/calculator/d58sht7zm3?embed" width="500" height="350" style="border: 1px solid #ccc" frameborder=0></iframe>
 >
@@ -70,7 +70,21 @@ $$\begin{align}
 \frac{d}{dx}\left[\int_a^x f(t)\, dt\right] = f(x)
 \end{align}$$
 
+Or more formally ...
+
+> ### Definition: First Fundamental Theorem of Calculus (Accumulation)
+>
+> $$\begin{align}
+> F(x)  &= \int_a^x f(t) \, dt \label{eq:fun-1a} \\[1em]
+> F'(x) &= f(x) \label{eq:fun-1b}
+> \end{align}$$
+>
+> Therefore, $F$ (the integral) is equivalent to the antiderivative of $f$.
+{: .definition}
+
 Notice that $a$ is listed as the beginning of the integral. Since we are only dealing with change, where the integral begins is irrelevant.
+
+There is also a switch from $f(t)$ to $f(x)$. The $t$ is only there to begin with since $x$ is used as the upper bound in the integral and we needed another variable. We're able to use the $x$ again once the integral is gone.
 
 > ### Example: Derivative of Accumulation Function
 >
@@ -95,23 +109,13 @@ f'(5) &= \sqrt{5^2 + 1} \\
 $\blacksquare$
 {: .qed}
 
-This leads us to the real definition which connects integrals to antiderivatives.
-
-> ### Definition: First Fundamental Theorem of Calculus (Accumulation)
->
-> $$\begin{align}
-> F(x)  &= \int_a^x f(t) \, dt \label{eq:fun-1a} \\[1em]
-> F'(x) &= f(x) \label{eq:fun-1b}
-> \end{align}$$
->
-> Therefore, $F$ (the integral) is equivalent to the antiderivative of $f$.
-{: .definition}
-
 ### A Slightly Rigorous Proof
 
-In case Let's create a function $A(x)$ that will represent the area under a curve bounded by the $y$-axis and $x$. These area functions are also called **accumulation functions** since the area accumulates as $x$ increases.
+Above, we took the fact that the amount of area added depends on the curve being integrated, and jumped right to a conclusion. So, here is a justification for the accumulation part of the fundamental theorem.
 
-Now, what if we increased that area and wanted to find out how much it increased? This is represented by the red strip in the image below. You start off with some set amount of area $A(x)$ (which is the blue area), and we want to just slightly move to the right $h$ units.
+---
+
+Let $A(x)$ be an accumulation function representing the area under a curve bounded by the $y$-axis and $x$. An increase in that area is represented by the red strip in the image below. You start off with some set amount of area $A(x)$ (the blue area), and we want to just slightly move to the right $h$ units.
 
 > ![Geometric representation of the FTC from Wikipedia](./img/4.4-figure-1.png)
 >
@@ -148,26 +152,15 @@ $$\begin{align}
 f(x) = \lim_{h \to 0} \frac{A(x+h) - A(x)}{h}
 \end{align}$$
 
-Well, the right-hand side of that is literally the definition of a derivative.
+The right-hand side is the definition of a derivative, giving us our justification for the accumulation part of the fundamental theorem of a calculus.
 
 $$\begin{align}
 f(x) &= A'(x) \label{eq:1}\\
-F(x) &= A(x) \label{eq:2}
 \end{align}$$
-
-Recall that in this situation, $f(x)$ was the curve above the area, and $A(x)$ is the area itself. So, the derivative of an area function is the curve that bounds it (equation $\ref{eq:1}$), which means the area function is equal to the antiderivative of that curve (equation $\ref{eq:2}$). This is *commonly* known as the first part of the fundamental theorem and can be expressed a couple of different ways.
-
-
-
-First thing to note is the use of $t$ as the variable of integration. This is only done since $x$ is already in use as the upper limit of integration.
-
-Also, the beginning of the interval doesn't make it over to the other side. It's a bit easier to picture in equation \ref{eq:fun-1b}. Since the derivative of the integral shows you how the area is changing (accumulating) at $x$, where the interval begins is irrelevant.
-
-
 
 ## The Definite Integral Part
 
-Now we can take idea behind the first part and apply it an area with constant endpoints, our definite integrals. We'll need two accumulation functions though, since we'll have to subtract them to find the area of the interval in question. We'll also drop the $t$ since we don't have $x$ in the interval anymore.
+Now we can take idea behind the first part and apply it definite integrals, or area with constant endpoints. We'll need two accumulation functions though, since we'll have to subtract them to find the area of the interval in question. We'll also drop the $t$ since we don't have $x$ in the interval anymore.
 
 $$\begin{align}
 \int_a^b f(x) \, dx &= \int_0^b f(x) \, dx - \int_0^a f(x) \, dx \\[1em]
@@ -198,6 +191,17 @@ $$\begin{align}
 \end{align}$$
 
 It's sometimes helpful to work with similar terms when doing the arithmetic at the end. Above, I combined the $8/3$ and $1/3$, while combining the integer terms.
+
+> You might have noticed that $C$ is missing from the antiderivative calculations. For the sake of completion, here are the calculations above, but without omitting the constant of integration.
+>
+> $$\begin{align}
+> \int_1^2 (x^2-3)\,dx &= \left[ \frac{x^3}{3} - 3x + C \right]_1^2 \\
+>                      &= \left(\frac{8}{3}-6+C\right)-\left(\frac{1}{3}-3+C\right) \\
+>                      &= \left( \frac{7}{3}-3 \right) \\
+>                      &= -\frac{2}{3}
+> \end{align}$$
+>
+> Yes, we don't know the value of $C$, but it would be the same in both evaluations, so it cancels out. Another way to think of it is that we are finding the difference between two points on a curve (the antiderivative). The location of that curve (dictated by C) doesn't impact that calculation.
 
 $\blacksquare$
 {: .qed}
