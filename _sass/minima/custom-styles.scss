@@ -68,7 +68,10 @@ h3 code.highlighter-rouge {
 }
 
 hr {
-    border: 1px solid var(--minima-border-color-01);
+    border-top: 1px solid var(--hr-line-color);
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
     margin-bottom: 1rem;
 }
 
@@ -85,6 +88,7 @@ blockquote.definition {
     color: var(--definition-text-color);
 }
 
+blockquote.definition h2,
 blockquote.definition h3,
 blockquote.definition h4,
 blockquote.definition h5 {
@@ -170,6 +174,8 @@ h2#extra-practice {
 .qed {
     color: var(--example-heading-color);
     text-align: right;
+    border-bottom: 1px solid var(--hr-line-color);
+    padding-bottom: 1rem;
 }
 
 .list-headless {

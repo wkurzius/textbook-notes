@@ -52,8 +52,8 @@ Again, this was going on behind the scenes, but not worth mentioning before. Sor
 
 Now with all that out in the open, let's do some implicit differentiation.
 
-### Example 1
-
+> ## Example 1
+>
 > Find the derivative of $y^2=x$.
 {: .example}
 
@@ -69,7 +69,7 @@ $\blacksquare$
 
 There's a general strategy for implicit differentiation on page 175 in the book that I'll include here as well.
 
-> #### Guidelines for Implicit Differentiation
+> ## Guidelines for Implicit Differentiation
 >
 > 1. Differentiate both sides with respect to $x$.
 > 2. Collect all terms involving $\frac{dy}{dx}$ on one side, with the rest going on the other.
@@ -77,8 +77,8 @@ There's a general strategy for implicit differentiation on page 175 in the book 
 > 4. Solve for $\frac{dy}{dx}$.
 {: .definition}
 
-### Example 2
-
+> ## Example 2
+>
 > Find $dy/dx$ given that $y^3+y^2-5y-x^2=-4$.
 {: .example}
 
@@ -95,8 +95,8 @@ $\blacksquare$
 
 When finding higher order derivatives, you can substitute in early ones when needed.
 
-### Example 3
-
+> ## Example 3
+>
 >  Find the second derivative of $x^2+y^2 = 25$.
 {: .example}
 

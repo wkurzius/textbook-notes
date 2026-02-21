@@ -113,8 +113,6 @@ $\blacksquare$
 
 Above, we took the fact that the amount of area added depends on the curve being integrated, and jumped right to a conclusion. So, here is a justification for the accumulation part of the fundamental theorem.
 
----
-
 Let $A(x)$ be an accumulation function representing the area under a curve bounded by the $y$-axis and $x$. An increase in that area is represented by the red strip in the image below. You start off with some set amount of area $A(x)$ (the blue area), and we want to just slightly move to the right $h$ units.
 
 > ![Geometric representation of the FTC from Wikipedia](./img/4.4-figure-1.png)
