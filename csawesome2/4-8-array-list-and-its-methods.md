@@ -12,7 +12,7 @@ next-link: ./4-9-array-list-traversals.html
 
 - All **vocabulary**{: .apcsa-vocab}
 - All [4.8 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-4-8-arraylists.html){: target="_blank"}
-- [4.33 Code Practice with ArrayLists][(](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/ArrayListPractice.html)){: target="_blank"}
+- [4.33 Code Practice with ArrayLists](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/ArrayListPractice.html){: target="_blank"}
 
 ---
 

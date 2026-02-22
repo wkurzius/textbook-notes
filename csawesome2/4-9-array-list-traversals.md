@@ -12,7 +12,7 @@ next-link: ./4-10-implementing-array-list-algorithms.html
 
 - All **vocabulary**{: .apcsa-vocab}
 - All [4.9 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-4-9-arraylist-traversal.html){: target="_blank"}
-- [4.33 Code Practice with ArrayLists][(](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/ArrayListPractice.html)){: target="_blank"}
+- [4.33 Code Practice with ArrayLists](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/ArrayListPractice.html){: target="_blank"}
 
 ---
 
