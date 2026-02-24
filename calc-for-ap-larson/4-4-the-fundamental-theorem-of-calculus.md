@@ -70,22 +70,6 @@ $$\begin{align}
 \frac{d}{dx}\left[\int_a^x f(t)\, dt\right] = f(x)
 \end{align}$$
 
-Or more formally ...
-
-> ### Definition: First Fundamental Theorem of Calculus (Accumulation)
->
-> $$\begin{align}
-> F(x)  &= \int_a^x f(t) \, dt \label{eq:fun-1a} \\[1em]
-> F'(x) &= f(x) \label{eq:fun-1b}
-> \end{align}$$
->
-> Therefore, $F$ (the integral) is equivalent to the antiderivative of $f$.
-{: .definition}
-
-Notice that $a$ is listed as the beginning of the integral. Since we are only dealing with change, where the integral begins is irrelevant.
-
-There is also a switch from $f(t)$ to $f(x)$. The $t$ is only there to begin with since $x$ is used as the upper bound in the integral and we needed another variable. We're able to use the $x$ again once the integral is gone.
-
 > ### Example: Derivative of Accumulation Function
 >
 > Let $\displaystyle f(x)= \int_0^x \sqrt{t^2 + 1} \, dt$. What is $f'(5)$?
@@ -108,6 +92,22 @@ f'(5) &= \sqrt{5^2 + 1} \\
 
 $\blacksquare$
 {: .qed}
+
+Here is the more formal definition, which connects accumulation functions to the antiderivative.
+
+> ### Definition: First Fundamental Theorem of Calculus (Accumulation)
+>
+> $$\begin{align}
+> F(x)  &= \int_a^x f(t) \, dt \label{eq:fun-1a} \\[1em]
+> F'(x) &= f(x) \label{eq:fun-1b}
+> \end{align}$$
+>
+> Therefore, $F$ (the integral) is an antiderivative of $f$.
+{: .definition}
+
+Notice that $a$ is listed as the beginning of the integral. Since we are only dealing with change, where the integral begins is irrelevant.
+
+There is also a switch from $f(t)$ to $f(x)$. The $t$ is only there to begin with since $x$ is used as the upper bound in the integral and we needed another variable. We're able to use the $x$ again once the integral is gone.
 
 ### A Slightly Rigorous Proof
 
