@@ -19,8 +19,8 @@ con-x: "–"
 
 pro-h: "[**Intro to Programming**](./syllabi/intro-to-programming-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://academy.cs.cmu.edu/){: target=\"_blank\" title=\"CS Academy Online Curriculum\"}"
-pro-1: "Unit 1 Exercises"
-pro-2: ""
+pro-1: "**< B**{:. day} Continue working through Unit 1"
+pro-2: "**≥ B**{:. day} Start on Unit 2"
 pro-3: ""
 pro-x: "–"
 
@@ -44,7 +44,7 @@ cal-x: "Mar. 13"
 | -------------- | -------------------------------------------------- | -------------- |
 | {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}}<br>{{page.csc-3}} | {{page.csc-x}} |
 | {{page.con-h}} | {{page.con-1}}                                     | {{page.con-x}} |
-| {{page.pro-h}} | {{page.pro-1}}                                     | {{page.pro-x}} |
+| {{page.pro-h}} | {{page.pro-1}}<br>{{page.pro-2}}                   | {{page.pro-x}} |
 | {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-3}} | {{page.sta-x}} |
 | {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |
 {: #this-week-table}
