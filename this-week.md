@@ -27,8 +27,8 @@ pro-x: "–"
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/prob-and-stats-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./statistics-open-stax/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**T**{: .day}[2.3 Measures of Location](./statistics-open-stax/2-3-measures-of-the-location-of-the-data.html)"
-sta-2: "**R**{: .day}[2.4 Box Plots](./statistics-open-stax/2-4-box-plots.html)"
+sta-1: "**T**{: .day}Review"
+sta-2: "**R**{: .day}[2.3 Measures of Location](./statistics-open-stax/2-3-measures-of-the-location-of-the-data.html)"
 sta-3: ""
 sta-x: "Mar. 13"
 
