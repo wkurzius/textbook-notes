@@ -62,6 +62,5 @@ These `try-catch` blocks must be used with what is covered in this section. You'
 
 > The book highlights an easy way to handle checked exceptions: append `throws NameOfTheException` to your method declaration. There is nothing wrong with this, but the authors leave out a lot of context about why this is done.
 >
-> The keyword `throws` indicates to the calling method that there is an exception that needs to be handled. Except their example is the `main` method, so there's nothing to handle it and just crashes anyway.
->
-> Again, nothing wrong with this, but we need context. The only reason to use `throws` with your `main` method is if you want the program to crash when something goes wrong and you need the stack trace. For our purposes here, this is good approach.
+> The keyword `throws` indicates to the calling method that there is an exception that needs to be handled. Except their example is the `main` method, so there's nothing to handle it and just crashes anyway. In this case, we want the program to crash. A crash and a full stack trace allow for easier debugging and is perfect for what we are doing.
+
