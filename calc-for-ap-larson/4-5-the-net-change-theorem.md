@@ -2,7 +2,7 @@
 title: 4.5 The Net Change Theorem
 layout: page
 course: AP Calc
-last-reviewed:
+last-reviewed: 2026-02-26 09:13:49
 prev-link: "./4-4-the-fundamental-theorem-of-calculus.html"
 next-link: "./4-6-integration-by-substitution.html"
 ---
@@ -47,9 +47,10 @@ This reframing of the fundamental theorem is helpful for understanding what the 
 
 With that said, this section focuses on applying the net change theorem, mostly in the form of problems where you are given a rate and you want to find either accumulation or displacement.
 
-## Chemical Flow
-
-You have a chemical flowing into a tank at a rate of $180 + 3t$ liters per minute. How many liters are in the tank after 20 minutes?
+> ## Chemical Flow Example
+>
+> You have a chemical flowing into a tank at a rate of $180 + 3t$ liters per minute. How many liters are in the tank after 20 minutes?
+{: .example}
 
 Before hopping into this one, let's look at derivatives and units. When we dealt with position, velocity and acceleration, we saw the units change from meters to meters per second, and then to meters per second per second (meters per second squared). The degree of the independent variable, which will always be in the denominator, increased.
 
@@ -59,19 +60,27 @@ $$\begin{align}
 \int_0^{20} 180 + 3t \, dt = \left[ 180t + \frac{3}{2}t^2 \right]_0^{20} = 4200
 \end{align}$$
 
-## Particle Motion
+$\blacksquare$
+{: .qed}
+
+> ## Particle Motion Example
+>
+> A particle's velocity (measured in meters per second) is modeled by the function below.
+>
+> $$\begin{align}
+> v(t) = t^3 -10t^2 + 29t - 20
+> \end{align}$$
+>
+> Find both the displacement and total distance traveled over the interval $[1,5]$.
+{: .example}
 
 If you remember when we first looked at particle motion, there is a difference between moving left and moving right. One will be regarded as positive (typically moving right) and the other negative.
 
-With this in mind, there is a difference between finding the displacement and total distance traveled. Displacement is how far away from the start. Two steps forward and one step back is just one step forward. Total distance, on the other hand, would be three steps.
+With this in mind, there is a difference between finding the displacement and total distance traveled. If you move one step forward and three steps back, your displacement is $-2$. Total distance, on the other hand, would be $4$.
 
-So, let's look at a particle's velocity in meters per second over the interval $[1,5]$.
+So, let's look at this particle's velocity.
 
-$$\begin{align}
-v(t) = t^3 -10t^2 + 29t - 20
-\end{align}$$
-
-Finding displacement is the easier of the two. Integrating can produce negative results, so any time spent moving in the negative direction will be accounted for. A straight integration over the interval will give us displacement. I'm skipping most of the steps here, but I'll address why a bit further down.
+Definite integrals use signed area, so negative accumulation is accounted for. This means a definite integral can give you displacement. I'll skip most of the steps when working this out, but I'll address why a bit further down.
 
 $$\begin{align}
 \int_1^5 t^3 -10t^2 + 29t - 20 \, dt &= \left[ \frac{1}{4}t^4 - \frac{10}{3}t^3 +\frac{29}{2}t^2 -20t \right]_1^5 \\[1em]
@@ -95,7 +104,7 @@ $$\begin{align}
 &\qquad+ \left[ \left(\frac{(4)^4}{4} - \frac{10(4)^3}{3}+\frac{29(4)^2}{2} - 20(4) \right) - \left(\frac{(5)^4}{4} - \frac{10(5)^3}{3}+\frac{29(5)^2}{2} - 20(5) \right)\right]_1^4 \\
 \end{align}$$
 
-And I'm stopping at this point. Obviously, this is a lot of arithmetic. The one video provided for an exercise this section is 10 minutes long ... and the interval on that problem starts at zero which eliminates a huge chunk of work.
+And I'm stopping at this point. Obviously, this is a lot of arithmetic. The book has one video example in this section, and it's 10 minutes long. And the interval on that problem starts at zero, which eliminates a huge chunk of work.
 
 So, use a calculator once you get beyond setting up the problem. The AP questions that don't involve a calculator are more analytical than computational.
 
@@ -104,3 +113,8 @@ And with the lid off of the calculator thing, using absolute value will give you
 $$\begin{align}
 \int_1^5 |t^3 -10t^2 + 29t - 20| \, dt &= 11.8\overline{3}
 \end{align}$$
+
+Here is [this problem worked out in Desmos](https://www.desmos.com/calculator/yjegsui1mn).
+
+$\blacksquare$
+{: .qed}
