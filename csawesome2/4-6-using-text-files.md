@@ -64,3 +64,48 @@ These `try-catch` blocks must be used with what is covered in this section. You'
 >
 > The keyword `throws` indicates to the calling method that there is an exception that needs to be handled. Except their example is the `main` method, so there's nothing to handle it and just crashes anyway. In this case, we want the program to crash. A crash and a full stack trace allow for easier debugging and is perfect for what we are doing.
 
+## Files and Scanners
+
+We're going to utilize two classes we haven't looked at before: `File` and `Scanner`. The first is for accessing the filesystem and latter for reading text. Neither are loaded by default, so they need to be imported. Then instances can be created like any other object.
+
+```java
+import java.io.File;
+import java.util.Scanner;
+
+...
+
+File f = new File("filename.txt");
+Scanner s = new Scanner(f);
+
+...
+
+s.close();
+```
+
+When creating a `File` object, you need to indicate which file you are opening, and just as important, where it is. If your text file is in the same folder as your Java file, then you can just put the file name.
+
+> If it's not, then things can get complicated quickly. You'll need to prepend the filename with the path, which is the directories (i.e., folders) that must be traversed to get there. You can choose to start at the system root (e.g., the C drive in Windows) or from the folder where your program resides, and then move to next directory with a slash.
+>
+> So `C:/Users/wkurzius/Downloads/someFile.txt` would be for a file sitting in my Downloads folder on my work PC. This is an example of an absolute path, because it will work no matter where the program exists in the filesystem.
+>
+> A relative path starts with where the program sits. `res/somefile.txt` is for a file in a subfolder. If it's in a parent directory, meaning you have to go up a level then `../someFile.txt`.
+>
+> And that's as far as I'm going here. It's an oversimplification, but should be enough to get you started on paths when you need them. And to be clear, you don't here. Put the text file in the same folder so you just have to put the name. And don't put spaces in the file name.
+
+A `Scanner` object is then used to read the file, with a call to `close()` to free up system resources. Omitting a `close()` won't trigger any errors, but is good practice and is specifically mentioned in the AP Comp Sci A course guide.
+
+> One of the exercises in the book uses a `Scanner` object to read `System.in` instead of a file. This is done to read text input, like giving commands to a program that is already running. Since this is also not on the AP exam, we're going to gloss over it.
+
+## Reading the File
+
+A `Scanner` object reads a text file like you would: left to right and top to bottom. It always starts at the beginning of the file and does not work backwards. You control how it reads through a series of methods that all involve the word `next` that read until it hits whitespace.
+
+Depending on what is read, you have options. The `next()` method always works and returns whatever is read as a `String`. If you know you are dealing with other data types, you have `nextInt()`, `nextDouble()`, and `nextBoolean()`. Each time any of these are called, the scanner moves forward. So three calls to `next()` will read the next three "words".
+
+> ```java
+> String wordOne = s.next();
+> String wordTwo = s.next();
+> String wordThree = s.next();
+> ```
+>
+> **Figure 4.6.3** Reads the next three "words" in the file.
