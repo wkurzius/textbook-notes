@@ -116,7 +116,7 @@ Depending on what is read, you have options. The `next()` method always works an
 
 The other functions only work if the data type matches, else you'll get more exceptions (unchecked at least).
 
-There is also the `nextLine()` method which returns from the current character up until the next newline. The newline is read, but returned.
+There is also the `nextLine()` method which returns from the current character up until the next newline. The newline is read, but not returned.
 
 > ```java
 > System.out.print(s.nextLine());
@@ -159,4 +159,4 @@ This is useful for processing text files, but can also be applied to earlier pro
 
 > The `split()` method technically takes a regular expression as an argument, which is a way of expressing patterns. For example, `str.split("\\s|\\.")` would split at any whitespace or any period. `str.split("[aeiou]")` splits it by vowels.
 >
-> They are tough to wrap your head around at first, but are incredibly useful when needing process lots of items at once.
+> They are tough to wrap your head around at first, but are incredibly useful when needing process lots of items at once. [RegexLearn](https://regexlearn.com/) is a good place to start trying these out if you're curious.
