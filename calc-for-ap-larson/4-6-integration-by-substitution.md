@@ -28,35 +28,49 @@ next-link:  "./4-7-the-natural-logarithmic-function-integration.html"
 
 ## Pattern Recognition
 
+With the fundamental theorem now in our tool belt, definite integrals will be a focus for a while, and we need to move past the basic rules introduced in [4.1](./4-1-antiderivatives.md). The first hurdle we'll tackle is dealing with unwrapping the chain rule.
+
 Differentiating something like $\sin \left(x^2\right)$ requires use of the chain rule, and in this case results in $\cos \left(x^2\right) \cdot 2x$. You need to differentiate the outer function, then multiply it by the derivative of the inner function.
 
 $$\begin{align}
 \frac{d}{dx} F(g(x)) = F'(g(x)) \cdot g'(x)
 \end{align}$$
 
-Since we are now dealing with integration and antidifferentiation, we will look for this pattern so we can work backwards: a composite function multiplied by the derivative of the inner function.
+When finding antiderivatives, that pattern on the right is something we need to look for: a composite function multiplied by the derivative of the inner function. Find it, and you can work backwards from there.
+
+> ### Substitution Example
+>
+> Find $\displaystyle \int (x^2 + 1)^2 \cdot 2x \, dx$
+{: .example}
+
+
+In the integral, we have composite function with $(x^2 + 1)^2$, and it's multiplied by the inner's derivative, $2x$. Since the pattern we're looking for exists, we can move on, but we're going to use substitution to make our lives easier.
+
+First, we're going to let $u = x^2 + 1$. By differentiating that, we get $\frac{du}{dx} = 2x$, which we can rewrite as ${du = 2x \, dx}$. Now we can substitute and rewrite our integral.
 
 $$\begin{align}
-\int (x^2 + 1)^2 \cdot 2x \, dx
+&\int (x^2 + 1)^2 \cdot 2x \, dx \\
+&\int (u)^2 \, du
 \end{align}$$
 
-Our composite function is $(x^2 + 1)^2$, and it's multiplied by the inner's derivative, $2x$ in this case. Since the pattern exists, we can move on, and we're going to use some substitution to make our lives easier. First, we're going to let $u = x^2 + 1$. Then, we can say $\frac{du}{dx} = 2x$, which we can rewrite as $du = 2x \, dx$. Now our integral can be rewritten
-
-$$\begin{align}
-\int &(x^2 + 1)^2 &2x \, dx \\
-\int &(u)^2 &\, du
-\end{align}$$
-
-After antidifferentiating, we can substitute back in our originals.
+That's much more manageable. After antidifferentiating, we can substitute back so our antiderivative is back in terms of $x$.
 
 $$\begin{align}
 \int u^2 \, du &= \frac{1}{3}u^3 + C \\
 &=\frac{1}{3}(x^2+1)^3 + C
 \end{align}$$
 
-### Multiplying by a Constant
+$\blacksquare$
+{: .qed}
 
-So, this pattern is very specific, and obviously it won't always be there, but we can cast a wider net by multiplying by a constant. The integral below is close to what we need, but requires $2x$ where it only has an $x$. If we multiply by $2$, and by $1/2$ at the same time, we'll get the $2$ that we need without changing the value of the integral.
+So this pattern is very specific, and obviously it won't always be there, but we can cast a wider net by multiplying by a constant.
+
+> ### Multiplying by a Constant Example 1
+>
+> Find $\displaystyle \int x(x^2 + 1)^2 \, dx$
+{: .example}
+
+The integral above is close to what we need, but requires $2x$ where it only has an $x$. If we multiply by $2$, and by $1/2$ at the same time, we'll get the $2$ that we need without changing the value of the integral.
 
 $$\begin{align}
 \int x(x^2 + 1)^2 \, dx &= \int \frac{1}{2} \cdot 2 \cdot x(x^2 + 1)^2 \, dx \\
@@ -65,13 +79,17 @@ $$\begin{align}
       &= \frac{(x^2+1)^3}{6}  + C  &&\text{Substitute in for } u
 \end{align}$$
 
-Note that $C$ is still just $C$ even though it was multiplied by $\frac{1}{2}$. Since it's a stand-in for *all* constants, whether or not it was halved is irrelevant in this context.
+$\blacksquare$
+{: .qed}
 
-$$\begin{align}
-\int \sin^2 3x \cos  3x \, dx
-\end{align}$$
+Note that $C$ is still just $C$ even though it was multiplied by $\frac{1}{2}$. It's a stand-in for *all* constants, so whether or not it was halved is irrelevant.
 
-Here, our inner function will be $u=\sin3x$, making $du=(\cos3x) (3)\, dx$. We need to add a three $3$ to our original, so that means $\frac{1}{3}$ on the outside to compensate.
+> ### Multiplying by a Constant Example 2
+>
+> Find $\displaystyle \int \sin^2 3x \cos  3x \, dx$
+{: .example}
+
+Here, our inner function will be $u=\sin3x$, making $du=(\cos3x) (3)\, dx$. We need to add a $3$ to our original, so that means $\frac{1}{3}$ on the outside to compensate.
 
 $$\begin{align}
 \int \sin^2 3x \cos  3x \, dx &= \frac{1}{3}\int u^2\, du \\
@@ -79,9 +97,19 @@ $$\begin{align}
 &= \frac{\sin^33x}{9}+C
 \end{align}$$
 
+$\blacksquare$
+{: .qed}
+
 ## Change of Variables for Definite Integrals
 
-So far, we've dealt with indefinite integrals. Definite integrals, however, require that we adjust our interval bounds when we change our variable. When you decide what $u$ will equal, you need to run your old interval bounds though that equation. Below, $u=x^2+1$ so our old interval of $[0,1]$ becomes $[1,2]$ because $(0)^2 + 1 = 1$ and $(1)^2 + 1 = 2$.
+So far, we've dealt with indefinite integrals. Definite integrals, however, require that we adjust our interval bounds when we change our variable. When you decide what $u$ will equal, you need to run your old interval bounds though that equation. 
+
+> ### Definite Integral Change of Variable Example
+>
+> Find $\displaystyle \int_0^1 x(x^2+1)^3 \, dx$.
+{: .example}
+
+We'll let $u=x^2+1$, meaning our old interval of $[0,1]$ becomes $[1,2]$ because $(0)^2 + 1 = 1$ and $(1)^2 + 1 = 2$.
 
 $$\begin{align}
 \int_0^1 x(x^2+1)^3 \, dx &= \frac{1}{2}\int_0^1  2x(x^2+1)^3 \, dx \\
@@ -90,6 +118,9 @@ $$\begin{align}
   &= \frac{1}{2} \left(4 - \frac{1}{4}\right) \\
   &= \frac{15}{8}
 \end{align}$$
+
+$\blacksquare$
+{: .qed}
 
 Note that we don't need to substitute our equation back in for $u$ since we already adjusted the interval. Changing the variable to $u$ doesn't change the result of the integral, as long as the interval is adjusted properly.
 
