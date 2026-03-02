@@ -27,4 +27,24 @@ Integer i = 5;  // autoboxing
 int j = i;      // unboxing
 ```
 
-You can still use the new keyword if you wish, but there's no need (and is actually depreciated as of a Java 9 almost 10 years ago).
+You can still use the new keyword if you wish, but there's no need (and it's actually depreciated as of a Java 9 almost 10 years ago).
+
+Also, wrapper classes are part of a `java.lang` meaning they are loaded by default and don't require an import statement.
+
+## Parsing Methods
+
+Like any other class, wrappers come with methods, but the only two you need to worry about are
+
+- `static int parseInt(String s)`
+- `static double parseDouble(String s)`
+
+Both will convert a string to the appropriate number, provided the string can actually be converted. Note they are static, so remember to put the class name in front.
+
+```java
+String str = "53";
+int i = Integer.parseInt(str);
+```
+
+## Remember MAX_VALUE and MIN_VALUE?
+
+Of course you do. Go look at [1.5 Casting and Ranges of Values](./1-5-casting-and-ranges-of-values.md) for a refresher. Both of those are fields in the `Integer` class.

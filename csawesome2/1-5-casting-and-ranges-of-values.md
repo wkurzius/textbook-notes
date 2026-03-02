@@ -1,5 +1,5 @@
 ---
-title:  1.5 Casting and Ranges Of Values
+title:  1.5 Casting and Ranges of Values
 layout: page
 course: AP CSA
 prev-link: "./1-4-assignment-and-input.html"
