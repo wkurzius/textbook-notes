@@ -40,7 +40,7 @@ When finding antiderivatives, that pattern on the right is something we need to 
 
 > ### Substitution Example
 >
-> Find $\displaystyle \int (x^2 + 1)^2 \cdot 2x \, dx$
+> Find $\displaystyle \int (x^2 + 1)^2 \cdot 2x \, dx$.
 {: .example}
 
 
@@ -67,7 +67,7 @@ So this pattern is very specific, and obviously it won't always be there, but we
 
 > ### Multiplying by a Constant Example 1
 >
-> Find $\displaystyle \int x(x^2 + 1)^2 \, dx$
+> Find $\displaystyle \int x(x^2 + 1)^2 \, dx$.
 {: .example}
 
 The integral above is close to what we need, but requires $2x$ where it only has an $x$. If we multiply by $2$, and by $1/2$ at the same time, we'll get the $2$ that we need without changing the value of the integral.
@@ -86,7 +86,7 @@ Note that $C$ is still just $C$ even though it was multiplied by $\frac{1}{2}$. 
 
 > ### Multiplying by a Constant Example 2
 >
-> Find $\displaystyle \int \sin^2 3x \cos  3x \, dx$
+> Find $\displaystyle \int \sin^2 3x \cos  3x \, dx$.
 {: .example}
 
 Here, our inner function will be $u=\sin3x$, making $du=(\cos3x) (3)\, dx$. We need to add a $3$ to our original, so that means $\frac{1}{3}$ on the outside to compensate.
@@ -124,9 +124,12 @@ $\blacksquare$
 
 Note that we don't need to substitute our equation back in for $u$ since we already adjusted the interval. Changing the variable to $u$ doesn't change the result of the integral, as long as the interval is adjusted properly.
 
-### Alternate Example 9
-
-The book evaluates example 9 one way, but here is another that is more in line with what we've done so far. Both versions introduce what to do if you have extra $x$ terms lying around after you perform your substitution.
+> ### Alternate Example 9
+>
+> Evaluate $ \displaystyle \int_1^5 \frac{x}{\sqrt{2x-1}} \, dx$.
+>
+> > The book evaluates example 9 one way, but below is a method more in line with what we've done so far. Both versions introduce how to handle extra $x$ terms after you perform your substitution. I still recommend looking through the book's version, as their way may be helpful in some problems.
+{: .example}
 
 $$\begin{align}
 \int_1^5 \frac{x}{\sqrt{2x-1}} \, dx &= \frac{1}{2} \int_1^5 2x(2x-1)^{-1/2} \, dx  && \text{In anticipation of }u=2x - 1, du = 2\, dx \\
@@ -137,8 +140,17 @@ $$\begin{align}
   &= \frac{16}{3}
 \end{align}$$
 
-## The General Power Rule for Integration and Integration of Even and Odd Functions
+$\blacksquare$
+{: .qed}
 
-Two parts of this section deal with shortcuts that can make your life easier. The General Power Rule you will likely pick up on as you complete problems involving integrating powers. Use it as you see fit.
+## The Rest
 
-The even and odd shortcut has you taking advantage of symmetry in certain functions. Even functions are mirrored over the $y$-axis, so you can just integrate one side and double it. Odd functions have symmetry with respect to the origin, so the areas end up cancelling each other out. Just watch your intervals when you are using these.
+Two parts of this section deal with shortcuts that can make your life easier.
+
+### The General Power Rule for Integration
+
+You'll likely pick up on this pattern as you complete problems involving integrating powers. Use it as you see fit.
+
+### Integration of Even and Odd Functions
+
+The even and odd shortcut has you taking advantage of symmetry in certain functions. Even functions are mirrored over the $y$-axis, so you can just integrate one side and double it. Odd functions have symmetry with respect to the origin, meaning the areas end up cancelling each other out. Just watch your intervals since they need to be symmetrical in both cases.
