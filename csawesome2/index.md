@@ -65,7 +65,7 @@ layout: page
 - [Array Traversals](./4-4-array-traversals.md)
 - [Implementing Array Algorithms](./4-5-implementing-array-algorithms.md)
 - [Using Text Files](./4-6-using-text-files.md)
-- [Wrapper Classes - Integer and Double](./4-7-wrapper-classes-integer-and-double.md)
+- [Wrapper Classes: Integer and Double](./4-7-wrapper-classes-integer-and-double.md)
 - [ArrayList and its Methods](./4-8-array-list-and-its-methods.md)
 - [ArrayList Traversals](./4-9-array-list-traversals.md)
 - [Implementing ArrayList Algorithms](./4-10-implementing-array-list-algorithms.md)
