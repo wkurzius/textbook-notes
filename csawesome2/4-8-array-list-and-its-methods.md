@@ -75,4 +75,8 @@ Not only do we have methods for adding elements to an `ArrayList`, we also have 
 
 ### `E remove(int index)`
 
-Removes the element from the provided index and returns it. Like with adding an element, indices are adjusted 
+Removes the element from the provided index and returns it. Like with adding an element, indices are adjusted accordingly, this time decreasing their indices (i.e., left shift).
+
+### Others
+
+You'll find lots more if you head over to [Java's official documentation](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html), including overloaded versions of ones listed above. You are only required to know how to use the ones I listed above, but they also appear on the reference sheet.
