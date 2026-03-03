@@ -20,16 +20,16 @@ Believe it or not, objects are sometime preferable to primitives. That means hav
 
 > One quick reason why (as others won't make sense at the moment) is that the absence of data is best represented by `null`, which primitives can't ever be.
 
-Enter wrapper classes, which take primitives and wrap them in objects. While there is a wrapper class for each primitive, you only need to worry about `Integer` and `Double`. Working with them is straightforward since Java will do something called **autoboxing** and **unboxing**.
+Enter **wrapper classes**, which take primitives and wrap them in objects. While there is a wrapper class for each primitive, you only need to worry about `Integer` and `Double`. Working with them is straightforward since Java will do something called **autoboxing** and **unboxing**, meaning it automatically converts one to the other.
 
 ```java
 Integer i = 5;  // autoboxing
 int j = i;      // unboxing
 ```
 
-You can still use the new keyword if you wish, but there's no need (and it's actually depreciated as of a Java 9 almost 10 years ago).
+You can still use the `new` keyword if you wish, but there's no need (and it's actually depreciated as of a Java 9 almost 10 years ago).
 
-Also, wrapper classes are part of a `java.lang` meaning they are loaded by default and don't require an import statement.
+Also, wrapper classes are part of a `java.lang` so they are loaded by default and don't require an import statement.
 
 ## Parsing Methods
 
