@@ -65,5 +65,14 @@ These two methods add items to the `ArrayList`, and it will grow to accommodate 
 
 > Oh, and one returns `boolean` while the other is `void`. Digging into this requires understanding the hierarchy of classes (and also wrapping your head around interfaces). The shortest answer I can give you is that `add(E element)` was designed for broader use, like when duplicates are not allowed, so a `boolean` return is helpful. The overloaded version was not designed for that, so there is no need to return anything. A simple exception for a bad index is enough.
 
-### `E get()`
+### `E get(int index)`
 
+Gone are the square brackets, now we have a method. No funny business here, just returns the element at the stated position.
+
+### `E set(int index, E element)`
+
+Not only do we have methods for adding elements to an `ArrayList`, we also have one for replacing one. Provide an index and the new element, and this will very handily both replace it and return the old one to you.
+
+### `E remove(int index)`
+
+Removes the element from the provided index and returns it. Like with adding an element, indices are adjusted 
