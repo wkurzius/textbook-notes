@@ -33,10 +33,11 @@ next-link: ./2-6-skewness-and-the-mean-median-and-mode.html
 - Median: find the middle number (or 50th percentile)
 - Mode: Most frequent value
 
-## $\mu$ vs $\bar{x}$
+## The Law of Large Numbers and the Mean
 
 - $\mu$ (the Greek letter mu) represents the population mean
 - $\bar{x}$ represents the sample mean
+- If you take samples of larger and larger size from a population, then $\bar{x}$ will get closer and closer to $\mu$.
 
 ## Mean of Grouped Frequency Tables
 
