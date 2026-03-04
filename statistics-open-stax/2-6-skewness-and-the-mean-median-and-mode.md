@@ -36,14 +36,9 @@ next-link: ./2-7-measures-of-the-spread-of-the-data.html
 - Mean and the median are the same
 - Skewed data is where the bulk of the data is off to the side
 
-> ![Let skewed distribution](./img/2-6-left-skew.png){: width="300"}
+> ![Let skewed distribution](./img/2-6-skew-compared.png){: width="400"}
 >
-> **Figure 2.6.2** A left skewed, or negative skewed, distribution.
-{: .figure}
-
-> ![Let skewed distribution](./img/2-6-right-skew.png){: width="300"}
->
-> **Figure 2.6.2** A right skewed, or positive skewed, distribution.
+> **Figure 2.6.2** A or negative (left) skewed distribution and a positive (right) skewed distribution.
 {: .figure}
 
 - Name is based on where the tail is
