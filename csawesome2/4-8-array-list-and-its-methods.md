@@ -71,7 +71,7 @@ Gone are the square brackets, now we have a method. No funny business here, just
 
 ### `E set(int index, E element)`
 
-Not only do we have methods for adding elements to an `ArrayList`, we also have one for replacing one. Provide an index and the new element, and this will very handily both replace it and return the old one to you.
+Not only do we have methods for adding elements to an `ArrayList`, we also have one for replacing one. Provide an index and the new element and this will replace it, and also conveniently return the old one to you.
 
 ### `E remove(int index)`
 
@@ -79,4 +79,4 @@ Removes the element from the provided index and returns it. Like with adding an 
 
 ### Others
 
-You'll find lots more if you head over to [Java's official documentation](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html), including overloaded versions of ones listed above. You are only required to know how to use the ones I listed above, but they also appear on the reference sheet.
+You'll find lots more if you head over to [Java's official documentation](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html), including overloaded versions of ones listed above. You are only required to know how to use the ones I listed above, and each appears on the reference sheet.
