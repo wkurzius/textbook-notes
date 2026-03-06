@@ -1,14 +1,14 @@
 ---
-title: "This Week (Mar. 2–5)"
+title: "This Week (Mar. 9–13)"
 layout: this-week
 
 csc-h: "[**AP Comp Sci A**](./csawesome2/ap-csa-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./csawesome2/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
-csc-1: "**T**{: .day}[4.7 Wrapper Classes](./csawesome2/4-7-wrapper-classes-integer-and-double.html)"
-csc-2: "**R**{: .day}[4.8 ArrayLists](./csawesome2/4-8-array-list-and-its-methods.html)"
+csc-1: "**T**{: .day}[4.9 ArrayList Traversals](./csawesome2/4-9-array-list-traversals.html)"
+csc-2: "**R**{: .day}[4.10 Implementing ArrayList Algorithms](./csawesome2/4-10-implementing-array-list-algorithms.html)"
 csc-3: ""
-csc-x: "Mar. 18"
+csc-x: "Mar. ~~18~~ 26"
 
 con-h: "[**Concepts of Algebra**](./syllabi/concepts-of-algebra-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://www.khanacademy.org/math/algebra-basics){: target=\"_blank\" title=\"KhanAcademy.org\"}"
@@ -27,16 +27,16 @@ pro-x: "–"
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/prob-and-stats-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./statistics-open-stax/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**M**{: .day}[2.4 Box Plots](./statistics-open-stax/2-4-box-plots.html)"
-sta-2: "**W**{: .day}[2.5 Measures of Center](./statistics-open-stax/2-5-measures-of-the-center-of-the-data.html) and [2.6 Skewness](./statistics-open-stax/2-6-skewness-and-the-mean-median-and-mode.html)"
-sta-3: ""
+sta-1: "**M**{: .day}[2.7 Measures of the Spread of the Data](./statistics-open-stax/2-7-measures-of-the-spread-of-the-data.html)"
+sta-2: "**W**{: .day}Review"
+sta-3: "**F**{: .day}Quiz"
 sta-x: "Mar. 13"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/ap-calc-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./calc-for-ap-larson/){: title=\"Notes and HW\"}"
-cal-1: "**M**{: .day}[4.6 Integration by Substitution](./calc-for-ap-larson/4-6-integration-by-substitution.html)"
-cal-2: "**W**{: .day}[4.7 The Natural Logarithmic Function: Integration](./calc-for-ap-larson/4-7-the-natural-logarithmic-function-integration.html)"
-cal-3: ""
+cal-1: "**M**{: .day}[4.8 Inverse Trigonometric Functions: Integration](./calc-for-ap-larson/4-8-inverse-trigonometric-function-integration.html)"
+cal-2: "**W**{: .day}[7.1 Basic Integration Rules](./calc-for-ap-larson/7-1-basic-integration-rules.html) / Review"
+cal-3: "**F**{: .day}Quiz"
 cal-x: "Mar. 13"
 ---
 
