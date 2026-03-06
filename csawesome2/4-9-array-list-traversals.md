@@ -16,3 +16,8 @@ next-link: ./4-10-implementing-array-list-algorithms.html
 
 ---
 
+Save for one caveat, this is a practice section. You've used loops before traversed arrays before, so little here is new.
+
+The one catch is that you have to be careful when adding for removing items while looping through an `ArrayList`. Doing either will both change the size of the array and move items around, which you need to account for so you avoid any errors.
+
+Also because of this, enhanced `for` loops can't used if you plan on doing anything that changes the size of the `ArrayList`.
