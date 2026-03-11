@@ -21,7 +21,11 @@ next-link: "./2-1-the-derivative-and-the-tangent-line-problem.html"
 ## Additional Resources
 
 - AP Topics: 1.9, 1.15
-- After this section, you can complete **Unit 1 Progress Checks MCQ Parts B and C, and FRQ Parts A and B**
+- After this section, you can complete these Progress Checks on AP Classroom
+  - **Unit 1 MCQ Part B**
+  - **Unit 1 MCQ Part C**
+  - **Unit 1 FRQ Part A**
+  - **Unit 1 FRQ Part B**
 - Khan Academy
   - [Connecting limits at infinity and horizontal asymptotes](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-15/v/introduction-to-limits-at-infinity){: target="_blank"}
 

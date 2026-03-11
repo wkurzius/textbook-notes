@@ -18,7 +18,10 @@ next-link: "./6-1-area-of-a-region-between-two-curves.html"
 ## Additional Resources
 
 - AP Topics: 7.6, 7.7
-- After this section, you can complete **Unit 7 Progress Checks MCQ, and FRQ Parts A and B**
+- After this section, you can complete these Progress Checks on AP Classroom
+  - **Unit 7 MCQ**
+  - **Unit 7 FRQ Part A**
+  - **Unit 7 FRQ Part B**
 - Khan Academy
   - [Finding general solutions using separation of variables](https://www.khanacademy.org/math/ap-calculus-ab/ab-differential-equations-new/ab-7-6/v/separable-differential-equations-introduction){: target="_blank"}
   - [Finding particular solutions using initial conditions and separation of variables](https://www.khanacademy.org/math/ap-calculus-ab/ab-differential-equations-new/ab-7-7/v/finding-constant-of-integration-rational){: target="_blank"}

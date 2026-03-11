@@ -24,7 +24,8 @@ next-link: "./2-3-product-and-quotient-rules-and-higher-order-derivatives.html"
 
 - [Differentiation Cheat Sheet](../pdfs/differentiation-cheat-sheet.pdf)
 - AP Topics: 2.1, 2.5, 2.6, 2.7, 4.1, 4.2
-- After this section, you can complete **Unit 2 Progress Check MCQ Part A**
+- After this section, you can complete these Progress Checks on AP Classroom
+  - **Unit 2 MCQ Part A**
 - Khan Academy
   - [Defining average and instantaneous rates of change at a point](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-1/v/newton-leibniz-and-usain-bolt){: target="_blank"}
   - [Applying the power rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-5/v/power-rule){: target="_blank"}

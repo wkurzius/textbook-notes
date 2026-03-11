@@ -17,7 +17,9 @@ next-link: "./4-6-integration-by-substitution.html"
 ## Additional Resources
 
 - AP Topics: 6.1, 8.2, 8.3
-- After this section, you can complete **Unit 6 Progress Check MCQ Part A** and **Unit 8 Progress Check FRQ Part A**
+- After this section, you can complete these Progress Checks on AP Classroom
+  - **Unit 6 MCQ Part A**
+  - **Unit 8 FRQ Part A**
 - Khan Academy
   - [Exploring accumulations of change](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-1/v/introduction-to-integral-calculus){: target="_blank"}
   - [Connecting position, velocity, and acceleration functions using integrals](https://www.khanacademy.org/math/ap-calculus-ab/ab-applications-of-integration-new/ab-8-2/v/motion-problems-with-integrals){: target="_blank"}

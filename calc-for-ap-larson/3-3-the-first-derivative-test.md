@@ -18,7 +18,8 @@ next-link: "./3-4-concavity-and-the-second-derivative-test.html"
 ## Additional Resources
 
 - AP Topics: 5.3
-- After this section, you can complete **Unit 5 Progress Check MCQ Part A**
+- After this section, you can complete these Progress Checks on AP Classroom
+  - **Unit 5 MCQ Part A**
 - Khan Academy
   - [Determining intervals on which a function is increasing or decreasing](https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new/ab-5-3/v/increasing-decreasing-intervals-given-the-function){: target="_blank"}
 

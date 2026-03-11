@@ -22,7 +22,10 @@ next-link: "./2-5-implicit-differentiation.html"
 ## Additional Resources
 
 - AP Topics: 2.7, 3.1, 3.5
-- After this section, you can complete **Unit 2 Progress Checks MCQ Part B, and FRQ Parts A and B**
+- After this section, you can complete these Progress Checks on AP Classroom
+  - **Unit 2 MCQ Part B**
+  - **Unit 2 FRQ Part A**
+  - **Unit 2 FRQ Part B**
 - Khan Academy
   - [Derivatives of cos(x), sin(x), 𝑒ˣ, and ln(x)](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-7/v/derivatives-of-sinx-and-cosx){: target="_blank"}
   - [The chain rule: introduction](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/v/chain-rule-introduction){: target="_blank"}

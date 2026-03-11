@@ -17,7 +17,10 @@ next-link: ./5-1-slope-fields-and-eulers-method.html
 ## Additional Resources
 
 - AP Topics: 6.9, 6.10, 6.14
-- After this section, you can complete **Unit 6 Progress Checks MCQ Part A, and FRQ Parts A and B**
+- After this section, you can complete these Progress Checks on AP Classroom
+  - **Unit 6 MCQ Part B**
+  - **Unit 6 FRQ Part A**
+  - **Unit 6 FRQ Part B**
 - Khan Academy
   - [Integrating using substitution](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-9/v/u-substitution){: target="_blank"}
   - [Integrating functions using long division and completing the square](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-10/v/integral-partial-fraction){: target="_blank"}

@@ -58,7 +58,7 @@ We will cover 3-7 and 7-7 at this point, before moving to 3-1.
 
 - [Antiderivatives and Indefinite Integration](./4-1-antiderivatives.md)
 - [Area](./4-2-area.md)
-- [Riemann Sums and Definite Integrals](./4-3-reimann-sums-and-definite-integrals.md)
+- [Riemann Sums and Definite Integrals](./4-3-riemann-sums-and-definite-integrals.md)
 - [The Fundamental Theorem of Calculus](./4-4-the-fundamental-theorem-of-calculus.md)
 - [The Net Change Theorem](./4-5-the-net-change-theorem.md)
 - [Integration by Substitution](./4-6-integration-by-substitution.md)

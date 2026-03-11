@@ -17,7 +17,9 @@ next-link: "./3-6-optimization-problems.html"
 ## Additional Resources
 
 - AP Topics: 5.8, 5.9
-- After this section, you can complete **Unit 5 Progress Checks MCQ Part B and FRQ Part A**
+- After this section, you can complete these Progress Checks on AP Classroom
+  - **Unit 5 MCQ Part B**
+  - **Unit 5 FRQ Part A**
 - Khan Academy
   - [Sketching curves of functions and their derivatives](https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new/ab-5-8/v/calculus-graphing-using-derivatives){: target="_blank"}
   - [Connecting a function, its first derivative, and its second derivative](https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new/ab-5-9/v/calculus-based-justification-for-function-increasing){: target="_blank"}

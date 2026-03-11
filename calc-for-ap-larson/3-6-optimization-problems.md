@@ -17,7 +17,9 @@ next-link: "./4-1-antiderivatives.html"
 ## Additional Resources
 
 - AP Topics: 5.10, 5.11
-- After this section, you can complete **Unit 5 Progress Checks MCQ Part C and FRQ Part B**
+- After this section, you can complete these Progress Checks on AP Classroom
+  - **Unit 5 MCQ Part C**
+  - **Unit 5 FRQ Part B**
 - Khan Academy
   - [Solving optimization problems](https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new/ab-5-11/v/minimizing-sum-of-squares){: target="_blank"}
 

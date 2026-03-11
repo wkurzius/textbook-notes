@@ -18,7 +18,10 @@ next-link: "./2-7-related-rates.html"
 ## Additional Resources
 
 - AP Topics: 3.3, 3.4, 3.5
-- After this section, you can complete **Unit 3 Progress Checks MCQ, and FRQ Parts A and B**
+- After this section, you can complete these Progress Checks on AP Classroom
+  - **Unit 3 MCQ**
+  - **Unit 3 FRQ Part A**
+  - **Unit 3 FRQ Part B**
 - Khan Academy
   - [Differentiating inverse functions](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-3/v/derivatives-of-inverse-functions){: target="_blank"}
   - [Differentiating inverse trigonometric functions](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-4/v/derivative-inverse-sine){: target="_blank"}

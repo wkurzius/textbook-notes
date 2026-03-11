@@ -25,7 +25,8 @@ next-link: "./1-5-infinite-limits.html"
 ## Additional Resources
 
 - AP Topics: 1.3, 1.5, 1.10, 1.11, 1.12, 1.13, 1.16
-- After this section, you can complete **Unit 1 Progress Check MCQ Part A**
+- After this section, you can complete these Progress Checks on AP Classroom
+  - **Unit 1 MCQ Part A**
 - Khan Academy
   - [Estimating limit values from graphs](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-3/v/limits-from-graphs){: target="_blank"}
   - [Determining limits using algebraic properties of limits: limit properties](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-5a/v/limit-properties){: target="_blank"}
