@@ -41,7 +41,7 @@ y'+2y &= 0 \\
 
 And, it turns out that anything in the form ${y=Ce^{-2x}}$ is a solution to the differential equation above. This is called the **general solution**, and the general solution to a differential equation will have a number of constants equal to its **order**. Order is determined by the highest-order derivative present in the equation. Our example above has an order of one, and so its general solution ends up having one constant in it.
 
-> You were introduced to differential equations [back in 4.1](./4.1-antiderivatives.md). Only $x$ and $y'$ were involved, like $y'=2x+4$, so solving only required antidifferentiating both sides. Now $y$ will enter the mix and new strategies for solving will be introduced over the next few sections. For now, don't worry too much about where these general solutions come from. We'll get there.
+> You were introduced to differential equations [back in 4.1](./4-1-antiderivatives.md). Only $x$ and $y'$ were involved, like $y'=2x+4$, so solving only required antidifferentiating both sides. Now $y$ will enter the mix and new strategies for solving will be introduced over the next few sections. For now, don't worry too much about where these general solutions come from. We'll get there.
 >
 > Also, this is the likely the first time you've seen $C$ appear in a position other than added on at the end. This a consequence of $y$ now being being part of the equation. Again, how this happens is coming in later sections.
 

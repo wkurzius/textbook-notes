@@ -1,52 +1,52 @@
 ---
-title: "This Week (Mar. 9–13)"
+title: "This Week (Mar. 16–20)"
 layout: this-week
 
 csc-h: "[**AP Comp Sci A**](./csawesome2/ap-csa-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./csawesome2/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
-csc-1: "**T**{: .day}[4.9 ArrayList Traversals](./csawesome2/4-9-array-list-traversals.html)"
-csc-2: "**R**{: .day}[4.10 Implementing ArrayList Algorithms](./csawesome2/4-10-implementing-array-list-algorithms.html)"
+csc-1: "Review"
+csc-2: ""
 csc-3: ""
-csc-x: "Mar. ~~18~~ 26"
+csc-x: "Mar. 26"
 
 con-h: "[**Concepts of Algebra**](./syllabi/concepts-of-algebra-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://www.khanacademy.org/math/algebra-basics){: target=\"_blank\" title=\"KhanAcademy.org\"}"
 con-1: "[Unit 4: Graphing lines and slope](https://www.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope){: target=\"_blank\"}"
 con-2: ""
 con-3: ""
-con-x: "–"
+con-x: "Mar. 20"
 
 pro-h: "[**Intro to Programming**](./syllabi/intro-to-programming-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://academy.cs.cmu.edu/){: target=\"_blank\" title=\"CS Academy Online Curriculum\"}"
-pro-1: "**< B**{:. day} Continue working through Unit 1"
-pro-2: "**≥ B**{:. day} Start on Unit 2"
-pro-3: ""
+pro-1: "**≥ A**{:. day} Finish Unit 2"
+pro-2: "**≥ B**{:. day} Continue working on Unit 2"
+pro-3: "**< B**{:. day} Reach end of Unit 1 exercises"
 pro-x: "–"
 
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/prob-and-stats-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./statistics-open-stax/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**M**{: .day}[2.7 Measures of the Spread of the Data](./statistics-open-stax/2-7-measures-of-the-spread-of-the-data.html)"
-sta-2: "**W**{: .day}Review"
+sta-1: "Review"
+sta-2: ""
 sta-3: "**F**{: .day}Quiz"
-sta-x: "Mar. 13"
+sta-x: "Apr. 14"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/ap-calc-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./calc-for-ap-larson/){: title=\"Notes and HW\"}"
-cal-1: "**M**{: .day}[4.8 Inverse Trigonometric Functions: Integration](./calc-for-ap-larson/4-8-inverse-trigonometric-function-integration.html)"
-cal-2: "**W**{: .day}[7.1 Basic Integration Rules](./calc-for-ap-larson/7-1-basic-integration-rules.html) / Review"
+cal-1: "Review"
+cal-2: ""
 cal-3: "**F**{: .day}Quiz"
-cal-x: "Mar. 13"
+cal-x: "Apr. 14"
 ---
 
 | Course Links   | New Material                                       | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
-| {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}}<br>{{page.csc-3}} | {{page.csc-x}} |
+| {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}}                   | {{page.csc-x}} |
 | {{page.con-h}} | {{page.con-1}}                                     | {{page.con-x}} |
-| {{page.pro-h}} | {{page.pro-1}}<br>{{page.pro-2}}                   | {{page.pro-x}} |
-| {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-3}} | {{page.sta-x}} |
-| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |
+| {{page.pro-h}} | {{page.pro-1}}<br>{{page.pro-2}}<br>{{page.pro-3}} | {{page.pro-x}} |
+| {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}                   | {{page.sta-x}} |
+| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}                   | {{page.cal-x}} |
 {: #this-week-table}
 
 ## Schedule
