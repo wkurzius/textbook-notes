@@ -5,9 +5,9 @@ layout: this-week
 csc-h: "[**AP Comp Sci A**](./csawesome2/ap-csa-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./csawesome2/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
-csc-1: "Review"
-csc-2: ""
-csc-3: ""
+csc-1: "**M**{: .day}[Coin Flip Analysis](./csawesome2/coin-flip-sequence-analyzer.html)"
+csc-2: "**W**{: .day}Review"
+csc-3: "**F**{: .day}Review"
 csc-x: "Mar. 26"
 
 con-h: "[**Concepts of Algebra**](./syllabi/concepts-of-algebra-syllabus.html){: title=\"Course Syllabus\"}<br>
@@ -42,7 +42,7 @@ cal-x: "Apr. 14"
 
 | Course Links   | New Material                                       | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
-| {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}}                   | {{page.csc-x}} |
+| {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}}<br>{{page.csc-3}} | {{page.csc-x}} |
 | {{page.con-h}} | {{page.con-1}}                                     | {{page.con-x}} |
 | {{page.pro-h}} | {{page.pro-1}}<br>{{page.pro-2}}<br>{{page.pro-3}} | {{page.pro-x}} |
 | {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}                   | {{page.sta-x}} |
