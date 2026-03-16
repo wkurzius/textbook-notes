@@ -3,6 +3,8 @@ title: Coin Flip Sequence Analyzer
 layout: page
 ---
 
+> Check out [*Calculating pi from coin flips* by Matt Parker](https://www.youtube.com/watch?v=kahGSss6SsU) for the video that inspired this.
+
 Your task is to write a program that will analyze a series of about 10,000[^1] coin flips from a CSV file. Specifically, you are looking for sequences where the number of heads is greater than the number of tails. 
 
 As an example, the results of 16 coin flips are below, along with the sequences where the number of heads is greater than the number of tails.
