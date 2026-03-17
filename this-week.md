@@ -27,13 +27,12 @@ pro-x: "–"
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/prob-and-stats-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-file-pen\"></i>](./statistics-open-stax/){: title=\"Notes and HW\"}
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "Review"
+sta-1: "Moneyball"
 sta-2: ""
 sta-3: "**F**{: .day}Quiz"
 sta-x: "Apr. 14"
 
-cal-h: "[**AP Calc**](./calc-for-ap-larson/ap-calc-syllabus.html){: title=\"Course Syllabus\"}<br>
-        [<i class=\"fa-solid fa-file-pen\"></i>](./calc-for-ap-larson/){: title=\"Notes and HW\"}"
+cal-h: "[**AP Calc**](./calc-for-ap-larson/){: title=\"Course Page\"}"
 cal-1: "Review"
 cal-2: ""
 cal-3: "**F**{: .day}Quiz"
