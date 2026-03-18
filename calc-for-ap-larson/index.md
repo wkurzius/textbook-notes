@@ -6,13 +6,6 @@ layout: page
 - Table of Contents
 {:toc}
 
-## Links
-
-- [Syllabus](./ap-calc-syllabus.md)
-- [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="_blank"}
-- **Reference sheets**: [Differentiation rules](../pdfs/differentiation-cheat-sheet.pdf){: target="_blank"} \| [Integration rules](../pdfs/integration-cheat-sheet.pdf){: target="_blank"} \| [AP Calc Cram Sheet](../pdfs/ap-calc-cram-sheet.pdf){: target="_blank"}
-- **Calculators**: [Demos](https://www.desmos.com/calculator){: target="_blank"} \| [Derivative calculator](https://www.derivative-calculator.net/){: target="_blank"} \| [Integral calculator](https://www.integral-calculator.com/){: target="_blank"}
-
 ## Marking Period 1
 
 ### Quiz 1, Sep. 18
@@ -93,3 +86,10 @@ layout: page
 
 - [6.1 Area of a Region Between Two Curves](./6-1-area-of-a-region-between-two-curves.md)
 - [6.2 Volume: The Disk and Washer Methods](./6-2-volume-the-disk-and-washer-methods.md)
+
+## Links
+
+- [Syllabus](./ap-calc-syllabus.md)
+- [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="_blank"}
+- **Reference sheets**: [Differentiation rules](../pdfs/differentiation-cheat-sheet.pdf){: target="_blank"} \| [Integration rules](../pdfs/integration-cheat-sheet.pdf){: target="_blank"} \| [AP Calc Cram Sheet](../pdfs/ap-calc-cram-sheet.pdf){: target="_blank"}
+- **Calculators**: [Demos](https://www.desmos.com/calculator){: target="_blank"} \| [Derivative calculator](https://www.derivative-calculator.net/){: target="_blank"} \| [Integral calculator](https://www.integral-calculator.com/){: target="_blank"}
