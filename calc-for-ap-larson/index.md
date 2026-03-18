@@ -1,7 +1,9 @@
 ---
 title: "AP Calculus"
-layout: page
+layout: course-index
 ---
+
+<h2>Course Schedule</h2>
 
 - Table of Contents
 {:toc}

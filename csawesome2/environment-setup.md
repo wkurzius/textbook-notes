@@ -15,7 +15,7 @@ _Short version: You need a text editor and a JDK._
 
 If you want that Linux feel on a Windows machine, use `winget` to install software. The two commands below will get you VS Code and a JDK.
 
-```
+```psh
 winget install Microsoft.VisualStudioCode
 winget install EclipseAdoptium.Temurin.21.JDK
 ```
@@ -45,14 +45,17 @@ _Short version: `javac` to compile your `.java` file and `java ClassName` to run
 
 The keyboard shortcut `` Ctrl + ` `` (that's a backtick and next to the 1 in the top-left of the keyboard) will swap to a terminal in that folder, and hitting it again will bring you back to your editor. While in the terminal window, you can execute commands that will compile and run your code. The two you need are
 
-`javac ClassName.java`
-
-`java ClassName`
+```psh
+javac ClassName.java
+java ClassName
+```
 
 The first will compile your Java file into something that can be run on that machine. The second command will actually run it.
 
 If you want to work a little quicker, you can do both at the same time with
 
-`javac ClassName.java; java ClassName`
+```psh
+javac ClassName.java; java ClassName
+```
 
 and then hit the up arrow key to rerun a previous command.

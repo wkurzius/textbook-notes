@@ -2,8 +2,7 @@
 title: "This Week (Mar. 16–20)"
 layout: this-week
 
-csc-h: "[**AP Comp Sci A**](./csawesome2/ap-csa-syllabus.html){: title=\"Course Syllabus\"}<br>
-        [<i class=\"fa-solid fa-file-pen\"></i>](./csawesome2/){: title=\"Notes and HW\"}
+csc-h: "[**AP Comp Sci A**](./csawesome2/){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
 csc-1: "**M**{: .day}[Coin Flip Analysis](./csawesome2/coin-flip-sequence-analyzer.html)"
 csc-2: "**W**{: .day}Review"

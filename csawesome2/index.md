@@ -1,12 +1,16 @@
 ---
 title: "AP Computer Science A"
-layout: page
+layout: course-index
 ---
+
+<h2>Course Schedule</h2>
 
 - Table of Contents
 {:toc}
 
 ---
+
+{: #apcsa-index}
 
 ## Marking Period 1
 
@@ -43,12 +47,12 @@ layout: page
 - [2.5 Compound Boolean Expressions](./2-5-compound-boolean-expressions.md)
 - [2.6 Comparing Boolean Expressions (De Morgan's Laws)](./2-6-comparing-boolean-expressions.md)
 
-### Misc. Marking Period Work
+### Labs and Code Practice
 
 - [1.18 Coding Practice 1a (1.1–1.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/unit1a-practice-coding.html){: target="_blank" }
 - [1.22 Coding Practice 1b (1.7–1.15)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/unit1b-practice-coding.html){: target="_blank"}
 - Unit 1 Lab: Receipt
-- [2.15 Selection Coding Pracitce (2.1–2.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/selection-practice-coding.html){: target="_blank"}
+- [2.15 Selection Coding Practice (2.1–2.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/selection-practice-coding.html){: target="_blank"}
 
 ---
 
@@ -78,7 +82,7 @@ layout: page
 - [3.8 Scope and Access](./3-8-scope-and-access.md)
 - [3.9 `this` Keyword](./3-9-this-keyword.md)
 
-### Misc. Marking Period Work
+### Labs and Code Practice
 
 - [2.22 Loops Coding Practice (2.7–2.12)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/loops-practice-coding.html){: target="_blank"}
 - Lab: Magpie 2.0
@@ -104,7 +108,7 @@ layout: page
 - [4.9 ArrayList Traversals](./4-9-array-list-traversals.md)
 - [4.10 Implementing ArrayList Algorithms](./4-10-implementing-array-list-algorithms.md)
 
-### Misc. Marking Period Work
+### Labs and Code Practice
 
 - Lab: Virtual Pet
 - [4.20 Arrays Code Practice (4.1–4.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/ArrayPractice.html){: target="_blank"}
@@ -124,7 +128,7 @@ layout: page
 - [4.16 Recursion](./4-16-recursion.md)
 - [4.17 Recursive Searching and Sorting](./4-17-recursive-searching-and-sorting.md)
 
-### Misc. Marking Period Work
+### Labs and Code Practice
 
 - [4.48 Code Practice with 2D Arrays (4.11–4.13)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/Array2dCodePractice.html){: target="_blank"}
 - [4.58 Code Practice for Recursion (4.14–4.17)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/recursionCodePractice.html){: target="_blank"}
