@@ -6,6 +6,8 @@ layout: page
 - Table of Contents
 {:toc}
 
+---
+
 ## Marking Period 1
 
 ### Quiz 1, Sep. 18
@@ -34,6 +36,8 @@ layout: page
 - [2.2 Basic Differentiation Rules and Rates of Change](./2-2-basic-differentiation-rules-and-rates-of-change.md)
 - [2.3 Product and Quotient Rules and Higher-Order Derivatives](./2-3-product-and-quotient-rules-and-higher-order-derivatives.md)
 
+---
+
 ## Marking Period 2
 
 ### Quiz 4, Nov. 24
@@ -60,6 +64,8 @@ layout: page
 - [3.5 A Summary of Curve Sketching](./3-5-a-summary-of-curve-sketching.md)
 - [3.6 Optimization Problems](./3-6-optimization-problems.md)
 
+---
+
 ## Marking Period 3
 
 ### Quiz 7, Mar. 13
@@ -80,12 +86,16 @@ layout: page
 - [5.2 Growth and Decay](./5-2-growth-and-decay.md)
 - [5.3 Separation of Variables](./5-3-separation-of-variables.md)
 
+---
+
 ## Marking Period 4
 
 ### Quiz 8
 
 - [6.1 Area of a Region Between Two Curves](./6-1-area-of-a-region-between-two-curves.md)
 - [6.2 Volume: The Disk and Washer Methods](./6-2-volume-the-disk-and-washer-methods.md)
+
+---
 
 ## Links
 
