@@ -12,7 +12,7 @@ next-link: "./4-1-antiderivatives.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p262 2, 5, 9–23 odd, 29, 31 *37, 41, 48, 54–56*{: .ap-problems}
+- p262 (18 problems) 2, 5, 9–23 odd, 29, 31, 37, 41, 48, 54–56
 
 ## Additional Resources
 

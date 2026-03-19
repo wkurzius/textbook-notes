@@ -14,9 +14,7 @@ next-link: "./2-1-the-derivative-and-the-tangent-line-problem.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p115 8–22 even, 23–41 odd, 47, 48, 54, 59, 60, 72 *81, 83–86*{: .ap-problems}
-
-*The vertical bar indicates the AP cut-off. Problems after the bar are recommended for AP prep, but not required for the assignment.*{: .small}
+- p115 (29 problems) 8–22 even, 23–41 odd, 47, 48, 54, 59, 60, 72, 81, 83–86
 
 ## Additional Resources
 

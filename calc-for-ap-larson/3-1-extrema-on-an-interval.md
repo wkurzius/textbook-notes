@@ -14,7 +14,7 @@ next-link: ./3-2-rolles-theorem-and-the-mean-value-theorem.html
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p217 2, 5, 11, 14, 17, 20, 23, 26, 29, 32, 35, 38, 41, 44, 45, 48, 49 *62, 68, 75–78*{: .ap-problems}
+- p217 (23 problems) 2, 5, 11, 14, 17, 20, 23, 26, 29, 32, 35, 38, 41, 44, 45, 48, 49, 62, 68, 75–78
 
 ## Additional Resources
 

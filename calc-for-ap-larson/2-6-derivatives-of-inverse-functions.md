@@ -13,7 +13,7 @@ next-link: "./2-7-related-rates.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p187 1, 5, 8, 10, 11, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40–45, 48, 52, 59, 61 *76, 85–88*{: .ap-problems}
+- p187 (29 problems) 1, 5, 8, 10, 11, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40–45, 48, 52, 59, 61, 76, 85–88
 
 ## Additional Resources
 

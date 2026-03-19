@@ -15,7 +15,7 @@ next-link: "./4-5-the-net-change-theorem.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p326 5–25 odd, 29, 32, 35–39 odd, 44, 45, 48, 50, 59, 65, 67, 70–72, 75, 76, 79 *80, 83, 84, 89–91*{: .ap-problems}
+- p326 (35 problems) 5–25 odd, 29, 32, 35–39 odd, 44, 45, 48, 50, 59, 65, 67, 70–72, 75, 76, 79, 80, 83, 84, 89–91
 
 ## Additional Resources
 

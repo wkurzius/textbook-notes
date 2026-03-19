@@ -12,7 +12,7 @@ next-link: ./5-1-slope-fields-and-eulers-method.html
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p461 2, 3, 6, 8, 9, 11, 14, 17, 20, 23, 26, 29, 32, 35, 38, 41, 44, 48 *52–64 even, 72, 81–84, 94–98*{: .ap-problems}
+- p461 (35 problems) 2, 3, 6, 8, 9, 11, 14, 17, 20, 23, 26, 29, 32, 35, 38, 41, 44, 48, 52–64 even, 72, 81–84, 94–98
 
 ## Additional Resources
 

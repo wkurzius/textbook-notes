@@ -14,7 +14,7 @@ next-link: ./7-1-basic-integration-rules.html
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p361 1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 33–36, 45, 47, 54, 55, 59, 62 *70, 74–77*{: .ap-problems}
+- p361 (26 problems) 1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 33–36, 45, 47, 54, 55, 59, 62, 70, 74–77
 
 ## Additional Resources
 

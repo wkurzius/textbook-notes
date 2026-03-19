@@ -14,7 +14,7 @@ next-link: "./4-2-area.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p287 2, 3, 9–11, 14, 17, 20, 23, 26, 29, 32, 35, 38, 39, 42, 44, 48 *52, 53, 57, 65, 67, 74–77*{: .ap-problems}
+- p287 (27 problems) 2, 3, 9–11, 14, 17, 20, 23, 26, 29, 32, 35, 38, 39, 42, 44, 48, 52, 53, 57, 65, 67, 74–77
 
 ## Additional Resources
 

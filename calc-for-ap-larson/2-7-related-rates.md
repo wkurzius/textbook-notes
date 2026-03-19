@@ -13,7 +13,7 @@ next-link: "./3-7-linear-approximation-and-differentials.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p195 2, 3, 7, 10–12, 14, 15–19 odd, 20, 23, 24, 28 *35, 36, 40, 45–47*{: .ap-problems}
+- p195 (20 problems) 2, 3, 7, 10–12, 14, 15–19 odd, 20, 23, 24, 28, 35, 36, 40, 45–47
 
 ## Additional Resources
 

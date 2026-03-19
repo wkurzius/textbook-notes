@@ -15,7 +15,7 @@ next-link: "./2-2-basic-differentiation-rules-and-rates-of-change.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p132 3, 4, 6, 7, 13–25 odd, 28–30, 33–36, 39, 40, 45–50, 56, 57 *62, 63, 66, 69, 71–83 odd, 87–89*{: .ap-problems}
+- p132 (42 problems) 3, 4, 6, 7, 13–25 odd, 28–30, 33–36, 39, 40, 45–50, 56, 57, 62, 63, 66, 69, 71–83 odd, 87–89
 
 ## Additional Resources
 

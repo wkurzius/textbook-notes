@@ -13,7 +13,7 @@ next-link: "./5-3-separation-of-variables.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p384 1, 6, 9, 11, 12, 14, 15, 19, 23, 25, 31, 38, 39 *42, 45, 48, 54, 59–61*{: .ap-problems}
+- p384 (20 problems) 1, 6, 9, 11, 12, 14, 15, 19, 23, 25, 31, 38, 39, 42, 45, 48, 54, 59–61
 
 ## Additional Resources
 

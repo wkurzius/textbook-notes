@@ -16,7 +16,7 @@ next-link: "./0-2-linear-models-and-rates-of-change.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p10, 1–4, 19–22, 24, 29, 30, 34, 36, 42, 43, 46, 51, 53, 59, 60, 64, 69, 72, 83, 84
+- p10 (25 problems) 1–4, 19–22, 24, 29, 30, 34, 36, 42, 43, 46, 51, 53, 59, 60, 64, 69, 72, 83, 84
 
 ---
 

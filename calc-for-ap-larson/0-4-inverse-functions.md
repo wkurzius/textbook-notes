@@ -14,7 +14,7 @@ next-link: "./0-5-exponential-and-logarithmic-functions.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p42 2, 8, 14, 17, 22, 26, 32, 34, 48, 52, 65, 66, 80, 84, 93, 94, 95–101 odd, 111, 113, 119, 122
+- p42 (25 problems) 2, 8, 14, 17, 22, 26, 32, 34, 48, 52, 65, 66, 80, 84, 93, 94, 95–101 odd, 111, 113, 119, 122
 
 ---
 

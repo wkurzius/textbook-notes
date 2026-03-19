@@ -15,7 +15,7 @@ next-link: "./2-4-the-chain-rule.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p155 2–22 even, 23–26, 31, 33, 36, 37–51 odd, 54–68 even, 71, 75, 78, 81–83, 85, 93–95 *100–103, 110, 111, 119, 128, 135, 142–145*{: .ap-problems}
+- p155 (57 problems) 2–22 even, 23–26, 31, 33, 36, 37–51 odd, 54–68 even, 71, 75, 78, 81–83, 85, 93–95, 100–103, 110, 111, 119, 128, 135, 142–145
 
 ## Additional Resources
 

@@ -13,7 +13,7 @@ next-link: "./3-4-concavity-and-the-second-derivative-test.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p233 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49, 52, 55, 57, 58, 59–65 odd,75, 76, 80, 81–86, 90 *97, 99, 101, 115–117*{: .ap-problems}
+- p233 (37 problems) 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49, 52, 55, 57, 58, 59–65 odd,75, 76, 80, 81–86, 90, 97, 99, 101, 115–117
 
 ## Additional Resources
 

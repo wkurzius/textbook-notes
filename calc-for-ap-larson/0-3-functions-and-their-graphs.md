@@ -16,7 +16,7 @@ next-link: ./0-4-inverse-functions.html
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p31 2, 3, 5, 12, 16, 17, 19, 24, 26, 27, 32, 33, 41, 41–55 odd, 58, 63, 74, 75, 81, 83, 84, 92
+- p31 (28 problems) 2, 3, 5, 12, 16, 17, 19, 24, 26, 27, 32, 33, 41, 42–54 even, 58, 63, 74, 75, 81, 83, 84, 92
 
 ---
 

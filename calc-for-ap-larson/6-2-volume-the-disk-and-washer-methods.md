@@ -14,7 +14,7 @@ next-link:
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p427 6–9, 11, 17, 22, 25, 29–31, 35, 39, 41, 50, 51 *64, 65, 76, 80, 81, 83–85*{: .ap-problems}
+- p427 (24 problems) 6–9, 11, 17, 22, 25, 29–31, 35, 39, 41, 50, 51, 64, 65, 76, 80, 81, 83–85
 
 ## Additional Resources
 

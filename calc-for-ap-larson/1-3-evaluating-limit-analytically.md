@@ -16,9 +16,7 @@ next-link: "./1-4-continuity-and-one-sided-limits.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p84 2, 6, 8, 9–25 odd, 29–32, 34-86 even, 95, 98 *101, 104, 108, 113, 123–125*{: .ap-problems}
-
-*The vertical bar indicates the AP cut-off. Problems after the bar are recommended for AP prep, but not required for the assignment.*{: .small}
+- p84 (26 problems) 2, 6, 8, 9–25 odd, 29–32, 34-86 even, 95, 98, 101, 104, 108, 113, 123–125
 
 ## Additional Resources
 

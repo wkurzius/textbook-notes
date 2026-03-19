@@ -16,7 +16,7 @@ next-link:  "./4-7-the-natural-logarithmic-function-integration.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p343 1–4, 5, 8, 11, 14, 17, 20, 23, 26, 29, 32, 35, 38, 41, 44, 47, 50, 53, 59, 63, 67–79 odd, 82, 86 *91–95 odd, 117–120*{: .ap-problems}
+- p343 (39 problems) 1–4, 5, 8, 11, 14, 17, 20, 23, 26, 29, 32, 35, 38, 41, 44, 47, 50, 53, 59, 63, 67–79 odd, 82, 86, 91–95 odd, 117–120
 
 ## Additional Resources
 

@@ -12,7 +12,7 @@ next-link: "./4-6-integration-by-substitution.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p332 1, 4–6, 10, 11, 14, 15, 17, 18 *22, 25–27*{: .ap-problems}
+- p332 (14 problems) 1, 4–6, 10, 11, 14, 15, 17, 18, 22, 25–27
 
 ## Additional Resources
 

@@ -16,7 +16,7 @@ next-link: "./4-4-the-fundamental-theorem-of-calculus.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p312 1–5 odd, 9–14, 18, 20, 25, 30, 31–35 odd, 40–50 even, 51, 53, 54, 57, 61–65 odd *74, 75, 89, 92, 94, 114–117*{: .ap-problems}
+- p312 (38 problems) 1–5 odd, 9–14, 18, 20, 25, 30, 31–35 odd, 40–50 even, 51, 53, 54, 57, 61–65 odd, 74, 75, 89, 92, 94, 114–117
 
 ## Additional Resources
 

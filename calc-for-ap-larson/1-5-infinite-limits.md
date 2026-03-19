@@ -13,9 +13,7 @@ next-link: "./1-6-limits-at-infinity.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p105 1, 4, 6, 7, 12, 14, 16–34 even, 35–39, 42, 45–67 odd *75, 81, 84, 87–89*{: .ap-problems}
-
-*The vertical bar indicates the AP cut-off. Problems after the bar are recommended for AP prep, but not required for the assignment.*{: .small}
+- p105 (40 problems) 1, 4, 6, 7, 12, 14, 16–34 even, 35–39, 42, 45–67 odd, 75, 81, 84, 87–89
 
 ## Additional Resources
 

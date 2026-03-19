@@ -14,7 +14,7 @@ next-link: "./6-2-volume-the-disk-and-washer-methods.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p416 3, 6, 7, 10, 11, 13, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48 *53–57 odd, 66, 78, 83–85*{: .ap-problems}
+- p416 (26 problems) 3, 6, 7, 10, 11, 13, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 53–57 odd, 66, 78, 83–85
 
 ## Additional Resources
 

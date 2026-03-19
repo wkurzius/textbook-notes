@@ -13,7 +13,7 @@ next-link: "./4-8-inverse-trigonometric-function-integration.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- pp353 1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 43, 44, 47–49, 53, 55, 58, 68, 70, 71–77 odd *81, 92, 94, 104–107*{: .ap-problems}
+- p353 (32 problems) 1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 43, 44, 47–49, 53, 55, 58, 68, 70, 71–77 odd, 81, 92, 94, 104–107
 
 ## Additional Resources
 

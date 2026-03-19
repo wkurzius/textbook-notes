@@ -18,7 +18,7 @@ next-link: "./2-3-product-and-quotient-rules-and-higher-order-derivatives.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p144 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 41, 49–51, 54–72 even, 73, 75, 82, 85 *94, 96, 100–109, 119–122*{: .ap-problems}
+- p144 (47 problems) 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 41, 49–51, 54–72 even, 73, 75, 82, 85, 94, 96, 100–109, 119–122
 
 ## Additional Resources
 

@@ -13,7 +13,7 @@ next-link: "./3-1-extrema-on-an-interval.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p513 1, 4, 5, 8–11, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 65 *69–72, 80–82, 101, 102, 113–115*{: .ap-problems}
+- p513 (37 problems) 1, 4, 5, 8–11, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 65, 69–72, 80–82, 101, 102, 113–115
 
 ## Additional Resources
 

@@ -15,7 +15,7 @@ next-link: "./7-7-indeterminate-forms-and-lhopitals-rule.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p272 3–5, 9, 11, 14, 16–19, 25–28, 35 *40, 52–55*{: .ap-problems}
+- p272 (20 problems) 3–5, 9, 11, 14, 16–19, 25–28, 35, 40, 52–55
 
 ## Additional Resources
 

@@ -12,7 +12,7 @@ next-link: "./3-6-optimization-problems.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p253 1, 12, 15, 22, 27, 31, 35, 36, 42, 43, 49, 53, 57, 64 *90, 99–102*{: .ap-problems}
+- p253 (19 problems) 1, 12, 15, 22, 27, 31, 35, 36, 42, 43, 49, 53, 57, 64, 90, 99–102
 
 ## Additional Resources
 

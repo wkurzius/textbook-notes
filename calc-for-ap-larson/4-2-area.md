@@ -15,7 +15,7 @@ next-link: "./4-3-riemann-sums-and-definite-integrals.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p299 1, 4, 7–35 odd, 41, 45, 48, 53, 58, 61, 68, 69 *75, 76, 78, 81–83*{: .ap-problems}
+- p299 (31 problems) 1, 4, 7–35 odd, 41, 45, 48, 53, 58, 61, 68, 69, 75, 76, 78, 81–83
 
 ## Additional Resources
 

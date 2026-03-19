@@ -1,5 +1,5 @@
 ---
-title: 5.1 Slope Fields and Euler's Method
+title: 5.1 Slope Fields ~~and Euler's Method~~
 layout: page
 course: AP Calc
 last-reviewed:
@@ -15,7 +15,7 @@ next-link: "./5-2-growth-and-decay.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p375 1–4, 9, 11, 29, 32, 33, 37, 39, 44, 46, 50, 52, 55–57, 59–64 *89–93 odd, 99, 101*{: .ap-problems}
+- p375 (29 problems) 1–4, 9, 11, 29, 32, 33, 37, 39, 44, 46, 50, 52, 55–57, 59–64, 89–93 odd, 99, 101
 
 ## Additional Resources
 
@@ -31,7 +31,9 @@ next-link: "./5-2-growth-and-decay.html"
 
 ## General and Particular Solutions
 
-We'll be working with **differential equations** these next few sections, which involve $x$, $y$ and the derivatives of $y$. A function is a solution to a differential equation when it, and its derivatives, can be substituted in without issue. For example, ${y'+2y = 0}$ is a differential equation, and its solution is ${y=e^{-2x}}$. We can verify this by substituting in for $y$, then finding its derivative and substituting that in as well.
+Over the next few sections, we'll be working with **differential equations**, which are equations that involve $x$, $y$ and the derivatives of $y$. Like any other equation, if you can plug something into it and it evaluates to true, then it's a solution. Unlike other equations you've worked with before, solutions to differential equations are often functions.
+
+For example, ${y'+2y = 0}$ is a differential equation, and one of its solution is ${y=e^{-2x}}$. We can verify this by substituting in for $y$, then finding its derivative and substituting that in for $y'$.
 
 $$\begin{align}
 y'+2y &= 0 \\
@@ -39,7 +41,23 @@ y'+2y &= 0 \\
 0 &= 0
 \end{align}$$
 
-And, it turns out that anything in the form ${y=Ce^{-2x}}$ is a solution to the differential equation above. This is called the **general solution**, and the general solution to a differential equation will have a number of constants equal to its **order**. Order is determined by the highest-order derivative present in the equation. Our example above has an order of one, and so its general solution ends up having one constant in it.
+You might have picked up on that I said "one of its solutions". Lots of other work.
+
+$$\begin{align}
+\text{Let }y &= 3e^{-2x} \\[1em]
+y'+2y &= 0 \\
+\left(-6e^{-2x}\right) + 2\left(3e^{-2x}\right) &= 0 \\
+0 &= 0
+\end{align}$$
+
+$$\begin{align}
+\text{Let }y &= -5e^{-2x} \\[1em]
+y'+2y &= 0 \\
+\left(10e^{-2x}\right) + 2\left(-5e^{-2x}\right) &= 0 \\
+0 &= 0
+\end{align}$$
+
+In fact, anything in the form ${y=Ce^{-2x}}$ is a solution to that differential equation. This is called the **general solution**, and the general solution to a differential equation will have a number of constants equal to its **order**. Order is determined by the highest-order derivative in the equation. Our example includes a first derivative, so its order is one, and so the general solution ends up having one constant.
 
 > You were introduced to differential equations [back in 4.1](./4-1-antiderivatives.md). Only $x$ and $y'$ were involved, like $y'=2x+4$, so solving only required antidifferentiating both sides. Now $y$ will enter the mix and new strategies for solving will be introduced over the next few sections. For now, don't worry too much about where these general solutions come from. We'll get there.
 >
@@ -72,23 +90,28 @@ It's going to appear that you can just integrate both sides—in fact all the pr
 
 ## Slope Fields
 
-Since general solutions represent every possible particular solution of a differential equation, we use **slope fields** to help visualize an infinite number of curves.
+When you solved equations with one variable (e.g. $3x +2 = 7$), you got a single solution. One point on a number line (or coordinate plane). When you were introduced to equations with two variables, you now had an infinite number of solutions. Visualizing them was trickier, but you eventually learned that they could be drawn as curves. Some equations produced lines (technically still a curve), others parabolas, or sine waves, the list goes on and on.
 
-Slope fields are created by first putting the differential in the form ${y'=F(x,y)}$ (solving for $y'$), then plugging points into ${F(x,y)}$ to get the slope at that point. The points in question will either be given to you, or you can choose them similar to how you learned to graph functions. You'll only do this once or twice by hand in the homework, just so you get the hang of how they are generated, because it is friggin' tedious.
+Differential equations throw a new wrinkle into this visualization problem. We still have an infinite number of solutions, but instead of each solution being a singular point, each solution is a function (or curve). We are now tasked with trying to visualize an infinite number of curves, each with it's own infinite number of points. If if you tried drawing this on a coordinate plane, the preferred method would be a paint bucket.
 
-Using the technology we can create slope fields pretty easily. My recommendation is [GeoGebra](https://www.geogebra.org/calculator){: target="_blank"}. It's similar to Desmos, but with a lot more power and complexity. Also, Desmos can't do slope fields.
-
-Let's use the differential from earlier, ${xy' - 3y = 0}$. We'll need to solve for $y'$ first, and that gives us ${y'=3y/x}$. In GeoGebra enter `SlopeField(3y/x)` to generate your slope field. Then, you can enter the particular solution on the next line to see how it matches up with the field.
+So we have **slope fields** to help visualize solutions to differential equations. Rather than trying to draw every point on every curve, a selection of points is chosen, and the slopes of the curve that passes through that point is drawn.
 
 > ![GeoGebra image](./img/5.1.slope-field-geogebra.png)
 >
-> **Figure 5.1.1** The slope field for a differential equation along with a particular solution [graphed in GeoGebra](https://www.geogebra.org/calculator/fywn9rxh){: target="_blank"}.
+> **Figure 5.1.1** The slope field for ${xy' - 3y = 0}$ along with the particular solution ${y = \frac{2}{27}x^3}$. You can view [this graph in GeoGebra](https://www.geogebra.org/calculator/fywn9rxh){: target="_blank"}.
 {: .figure}
 
-Now that we can "see" the general solution of ${y=Cx^3}$, it's worth pointing out that the constant isn't added on to the end like it normally is when integrating. Instead, the constant is acting as a scaler in the solution, and you can see that in the slope field where only stretches appear, without any translations.
+Slope fields are created by first putting the differential in the form ${y'=F(x,y)}$ (i.e, solving for $y'$, or the slope), then plugging points into ${F(x,y)}$ to get the slope at that point. Short lines representing those slope are then drawn at the points that produced them.
+
+You'll only need create these once or twice by hand in the homework, just so you get used to the process. Once you get the hang of it, switch to using technology to make any others. My recommendation for that is [GeoGebra](https://www.geogebra.org/calculator){: target="_blank"}. It's similar to Desmos, but with a lot more power and complexity. Also, Desmos can't do slope fields without a lot of work.[^2]
+
+Let's use the differential from earlier, ${xy' - 3y = 0}$. We'll need to solve for $y'$ first, and that gives us ${y'=3y/x}$. In GeoGebra enter `SlopeField(3y/x)` to generate your slope field. Then, you can enter the particular solution on the next line to see how it matches up with the field.
+
+Now that we can "see" the general solution of ${y=Cx^3}$, it's worth pointing out that the constant isn't added on to the end like it normally is when integrating. Instead, the constant is acting as a scaler in the solution. You can see that a bit better by adding a few more particular solutions.
 
 ### Identifying Slope Fields for Differential Equations
 
 Example 4 provides three slope fields to match with three given differential equations. I have no general advice for you besides looking for patterns in the slopes. I suggest practicing a fair bit with these, and [Khan Academy has an exercise for it](https://www.khanacademy.org/math/ap-calculus-ab/ab-differential-equations-new/ab-7-3/e/slope-fields){: target="_blank"}.
 
 [^1]: Euler's method is an AP Calc BC topic, so we'll only be looking at slope fields.
+[^2]: If you insist on Desmos, here's a [template that won't be very helpful for the AP exam](https://www.desmos.com/calculator/vyurathgr4){: target="_blank"}.

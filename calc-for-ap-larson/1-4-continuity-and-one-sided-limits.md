@@ -15,12 +15,10 @@ next-link: "./1-5-infinite-limits.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p96 1–19 odd, 26, 29, 31, 37–59 odd, 63–66, 69, 70, 77, 80, 81, 90–104 even *105, 108–114, 127–130*{: .ap-problems}
+- p96 (54 problems) 1–19 odd, 26, 29, 31, 37–59 odd, 63–66, 69, 70, 77, 80, 81, 90–104 even, 105, 108–114, 127–130
 - Recommended watches:
   - [Limits of composite functions: internal limit doesn't exist](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-5a/v/limits-of-composite-functions-internal-limit-doesn-t-exist){: target="_blank"}
   - [Limits of composite functions: external limit doesn't exist](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-5a/v/limits-of-composite-functions-external-limit-doesn-t-exist){: target="_blank"}
-
-*The vertical bar indicates the AP cut-off. Problems after the bar are recommended for AP prep, but not required for the assignment.*{: .small}
 
 ## Additional Resources
 
