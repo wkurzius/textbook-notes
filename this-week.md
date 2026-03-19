@@ -23,8 +23,7 @@ pro-2: "**≥ B**{:. day} Continue working on Unit 2"
 pro-3: "**< B**{:. day} Reach end of Unit 1 exercises"
 pro-x: "–"
 
-sta-h: "[**Prob. & Stats**](./statistics-open-stax/prob-and-stats-syllabus.html){: title=\"Course Syllabus\"}<br>
-        [<i class=\"fa-solid fa-file-pen\"></i>](./statistics-open-stax/){: title=\"Notes and HW\"}
+sta-h: "[**Prob. & Stats**](./statistics-open-stax/){: title=\"Course Page\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
 sta-1: "Moneyball"
 sta-2: ""
