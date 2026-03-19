@@ -109,9 +109,11 @@ Let's use the differential from earlier, ${xy' - 3y = 0}$. We'll need to solve f
 
 Now that we can "see" the general solution of ${y=Cx^3}$, it's worth pointing out that the constant isn't added on to the end like it normally is when integrating. Instead, the constant is acting as a scaler in the solution. You can see that a bit better by adding a few more particular solutions.
 
-### Identifying Slope Fields for Differential Equations
+## Identifying Slope Fields for Differential Equations
 
-Example 4 provides three slope fields to match with three given differential equations. I have no general advice for you besides looking for patterns in the slopes. I suggest practicing a fair bit with these, and [Khan Academy has an exercise for it](https://www.khanacademy.org/math/ap-calculus-ab/ab-differential-equations-new/ab-7-3/e/slope-fields){: target="_blank"}.
+Reading slope fields and trying to determine what differential equation it represents is tricker. Example 4 in the book highlights what you can look for to make these easier. Generally, undefined slopes and slopes of $0$, $1$, or $-1$ are helpful, along with the points that run along the $x$- and $y$-axis. The points along $y=x$ and $y=-x$ are good place to look as well.
+
+I suggest practicing a fair bit with these. [Khan Academy has an exercise for it](https://www.khanacademy.org/math/ap-calculus-ab/ab-differential-equations-new/ab-7-3/e/slope-fields){: target="_blank"}.
 
 [^1]: Euler's method is an AP Calc BC topic, so we'll only be looking at slope fields.
 [^2]: If you insist on Desmos, here's a [template that won't be very helpful for the AP exam](https://www.desmos.com/calculator/vyurathgr4){: target="_blank"}.
