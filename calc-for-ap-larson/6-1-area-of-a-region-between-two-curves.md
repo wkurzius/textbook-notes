@@ -21,8 +21,6 @@ next-link: "./6-2-volume-the-disk-and-washer-methods.html"
 - AP Topics: 8.4, 8.5, 8.6
 - After this section, you can complete these Progress Checks on AP Classroom
   - **Unit 8 MCQ Part A**
-  - **Unit 8 MCQ Part B**
-  - **Unit 8 FRQ Part B**
 - Khan Academy
   - [Finding the area between curves expressed as functions of x](https://www.khanacademy.org/math/ap-calculus-ab/ab-applications-of-integration-new/ab-8-4/v/evaluating-simple-definite-integral){: target="_blank"}
   - [Finding the area between curves expressed as functions of y](https://www.khanacademy.org/math/ap-calculus-ab/ab-applications-of-integration-new/ab-8-5/v/area-between-curve-and-y-axis){: target="_blank"}

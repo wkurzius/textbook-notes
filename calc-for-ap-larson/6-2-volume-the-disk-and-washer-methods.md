@@ -19,6 +19,9 @@ next-link:
 ## Additional Resources
 
 - AP Topics: 8.7, 8.8, 8.9, 8.10, 8.11, 8.12
+- After this section, you can complete these Progress Checks on AP Classroom
+  - **Unit 8 MCQ Part B**
+  - **Unit 8 FRQ Part B**
 - Khan Academy
   - [Volumes with cross sections: squares and rectangles](https://www.khanacademy.org/math/ap-calculus-ab/ab-applications-of-integration-new/ab-8-7/v/volume-with-cross-sections-intro){: target="_blank"}
   - [Volumes with cross sections: triangles and semicircles](https://www.khanacademy.org/math/ap-calculus-ab/ab-applications-of-integration-new/ab-8-8/v/volume-solid-semicircle-cross-section){: target="_blank"}

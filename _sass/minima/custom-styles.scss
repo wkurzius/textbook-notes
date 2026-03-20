@@ -511,11 +511,15 @@ table.min-width {
 
 .progress-check::before {
     display: inline-block;
-    height: 1.75rem;
-    width: 1.75rem;
+    height: 20px;
+    width: 20px;
     content: "";
     background: url("/assets/img/progress-check.svg") no-repeat 0 0;
     background-size: 100%;
-    vertical-align: -35%;
+    vertical-align: text-bottom;
     margin-right: 0.5rem;
+}
+
+.progress-check-list {
+    margin-top: -15px;
 }

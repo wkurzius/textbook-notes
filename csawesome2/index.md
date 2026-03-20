@@ -19,7 +19,7 @@ layout: course-index
 - [1.3 Expressions and Output](./1-3-expressions-and-output.md)
 - [1.4 Assignment and Input](./1-4-assignment-and-input.md)
 
-AP Progress Check Unit 1 Part A
+Unit 1 Part A
 {: .progress-check}
 
 ### Quiz 2, Sep. 25
@@ -31,7 +31,7 @@ AP Progress Check Unit 1 Part A
 - [1.9 Method Signatures](./1-9-method-signatures.md)
 - [1.10 Calling Class Methods](./1-10-calling-class-methods.md)
 
-AP Progress Check Unit 1 Part B
+Unit 1 Part B
 {: .progress-check}
 
 ### Quiz 3, Oct. 14
@@ -42,7 +42,7 @@ AP Progress Check Unit 1 Part B
 - [1.14 Calling Instance Methods](./1-14-calling-instance-methods.md)
 - [1.15 Strings](./1-15-strings.md)
 
-AP Progress Check Unit 1 Part C
+Unit 1 Part C
 {: .progress-check}
 
 ### MP1 Exam, Nov. 5
@@ -54,7 +54,7 @@ AP Progress Check Unit 1 Part C
 - [2.5 Compound Boolean Expressions](./2-5-compound-boolean-expressions.md)
 - [2.6 Comparing Boolean Expressions (De Morgan's Laws)](./2-6-comparing-boolean-expressions.md)
 
-AP Progress Check Unit 2 Part A
+Unit 2 Part A
 {: .progress-check}
 
 ### Labs and Code Practice
@@ -77,7 +77,7 @@ AP Progress Check Unit 2 Part A
 - [2.11 Nested Iteration](./2-11-nested-iteration.md)
 - [2.12 Informal Runtime Analysis of Loops](./2-12-informal-runtime-analysis-of-loops.md)
 
-AP Progress Check Unit 2 Part B
+Unit 2 Part B
 {: .progress-check}
 
 ### Quiz 5, Dec. 23
@@ -95,7 +95,7 @@ AP Progress Check Unit 2 Part B
 - [3.8 Scope and Access](./3-8-scope-and-access.md)
 - [3.9 `this` Keyword](./3-9-this-keyword.md)
 
-AP Progress Check Unit 3
+Unit 3
 {: .progress-check}
 
 ### Labs and Code Practice
@@ -116,7 +116,7 @@ AP Progress Check Unit 3
 - [4.4 Array Traversals](./4-4-array-traversals.md)
 - [4.5 Implementing Array Algorithms](./4-5-implementing-array-algorithms.md)
 
-AP Progress Check Unit 4 Part A
+Unit 4 Part A
 {: .progress-check}
 
 ### Quiz 7, Mar. 26
@@ -127,7 +127,7 @@ AP Progress Check Unit 4 Part A
 - [4.9 ArrayList Traversals](./4-9-array-list-traversals.md)
 - [4.10 Implementing ArrayList Algorithms](./4-10-implementing-array-list-algorithms.md)
 
-AP Progress Check Unit 4 Part B
+Unit 4 Part B
 {: .progress-check}
 
 ### Labs and Code Practice
@@ -150,7 +150,7 @@ AP Progress Check Unit 4 Part B
 - [4.16 Recursion](./4-16-recursion.md)
 - [4.17 Recursive Searching and Sorting](./4-17-recursive-searching-and-sorting.md)
 
-AP Progress Check Unit 4 Part C
+Unit 4 Part C
 {: .progress-check}
 
 ### Labs and Code Practice
