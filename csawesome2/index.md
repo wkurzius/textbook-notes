@@ -20,7 +20,7 @@ layout: course-index
 - [1.4 Assignment and Input](./1-4-assignment-and-input.md)
 
 AP Progress Check Unit 1 Part A
-{: .progress-check-marker}
+{: .progress-check}
 
 ### Quiz 2, Sep. 25
 
@@ -32,7 +32,7 @@ AP Progress Check Unit 1 Part A
 - [1.10 Calling Class Methods](./1-10-calling-class-methods.md)
 
 AP Progress Check Unit 1 Part B
-{: .progress-check-marker}
+{: .progress-check}
 
 ### Quiz 3, Oct. 14
 
@@ -43,7 +43,7 @@ AP Progress Check Unit 1 Part B
 - [1.15 Strings](./1-15-strings.md)
 
 AP Progress Check Unit 1 Part C
-{: .progress-check-marker}
+{: .progress-check}
 
 ### MP1 Exam, Nov. 5
 
@@ -55,7 +55,7 @@ AP Progress Check Unit 1 Part C
 - [2.6 Comparing Boolean Expressions (De Morgan's Laws)](./2-6-comparing-boolean-expressions.md)
 
 AP Progress Check Unit 2 Part A
-{: .progress-check-marker}
+{: .progress-check}
 
 ### Labs and Code Practice
 
@@ -78,7 +78,7 @@ AP Progress Check Unit 2 Part A
 - [2.12 Informal Runtime Analysis of Loops](./2-12-informal-runtime-analysis-of-loops.md)
 
 AP Progress Check Unit 2 Part B
-{: .progress-check-marker}
+{: .progress-check}
 
 ### Quiz 5, Dec. 23
 
@@ -96,7 +96,7 @@ AP Progress Check Unit 2 Part B
 - [3.9 `this` Keyword](./3-9-this-keyword.md)
 
 AP Progress Check Unit 3
-{: .progress-check-marker}
+{: .progress-check}
 
 ### Labs and Code Practice
 
@@ -117,7 +117,7 @@ AP Progress Check Unit 3
 - [4.5 Implementing Array Algorithms](./4-5-implementing-array-algorithms.md)
 
 AP Progress Check Unit 4 Part A
-{: .progress-check-marker}
+{: .progress-check}
 
 ### Quiz 7, Mar. 26
 
@@ -128,7 +128,7 @@ AP Progress Check Unit 4 Part A
 - [4.10 Implementing ArrayList Algorithms](./4-10-implementing-array-list-algorithms.md)
 
 AP Progress Check Unit 4 Part B
-{: .progress-check-marker}
+{: .progress-check}
 
 ### Labs and Code Practice
 
@@ -151,7 +151,7 @@ AP Progress Check Unit 4 Part B
 - [4.17 Recursive Searching and Sorting](./4-17-recursive-searching-and-sorting.md)
 
 AP Progress Check Unit 4 Part C
-{: .progress-check-marker}
+{: .progress-check}
 
 ### Labs and Code Practice
 

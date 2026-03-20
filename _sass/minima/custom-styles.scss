@@ -505,12 +505,17 @@ table.min-width {
     list-style-type: lower-roman;
 }
 
-.progress-check-marker {
-    display: list-item;
+.progress-check {
     font-style: italic;
-    background-size: 20px;
 }
 
-.progress-check-marker::before {
-    background-image: url("/assets/img/progress-check.svg");
+.progress-check::before {
+    display: inline-block;
+    height: 1.75rem;
+    width: 1.75rem;
+    content: "";
+    background: url("/assets/img/progress-check.svg") no-repeat 0 0;
+    background-size: 100%;
+    vertical-align: -35%;
+    margin-right: 0.5rem;
 }
