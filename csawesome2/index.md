@@ -10,8 +10,6 @@ layout: course-index
 
 ---
 
-{: #apcsa-index}
-
 ## Marking Period 1
 
 ### Quiz 1, Sep. 11
@@ -20,6 +18,9 @@ layout: course-index
 - [1.2 Variables and Data Types](./1-2-variables-and-data-types.md)
 - [1.3 Expressions and Output](./1-3-expressions-and-output.md)
 - [1.4 Assignment and Input](./1-4-assignment-and-input.md)
+
+AP Progress Check Unit 1 Part A
+{: .progress-check-marker}
 
 ### Quiz 2, Sep. 25
 
@@ -30,6 +31,9 @@ layout: course-index
 - [1.9 Method Signatures](./1-9-method-signatures.md)
 - [1.10 Calling Class Methods](./1-10-calling-class-methods.md)
 
+AP Progress Check Unit 1 Part B
+{: .progress-check-marker}
+
 ### Quiz 3, Oct. 14
 
 - [1.11 Using the `Math` Class](./1-11-using-the-math-class.md)
@@ -37,6 +41,9 @@ layout: course-index
 - [1.13 Creating and Initializing Objects: Constructors](./1-13-creating-and-initializing-objects.md)
 - [1.14 Calling Instance Methods](./1-14-calling-instance-methods.md)
 - [1.15 Strings](./1-15-strings.md)
+
+AP Progress Check Unit 1 Part C
+{: .progress-check-marker}
 
 ### MP1 Exam, Nov. 5
 
@@ -46,6 +53,9 @@ layout: course-index
 - [2.4 Nested `if` Statements](./2-4-nested-if-statements.md)
 - [2.5 Compound Boolean Expressions](./2-5-compound-boolean-expressions.md)
 - [2.6 Comparing Boolean Expressions (De Morgan's Laws)](./2-6-comparing-boolean-expressions.md)
+
+AP Progress Check Unit 2 Part A
+{: .progress-check-marker}
 
 ### Labs and Code Practice
 
@@ -67,6 +77,9 @@ layout: course-index
 - [2.11 Nested Iteration](./2-11-nested-iteration.md)
 - [2.12 Informal Runtime Analysis of Loops](./2-12-informal-runtime-analysis-of-loops.md)
 
+AP Progress Check Unit 2 Part B
+{: .progress-check-marker}
+
 ### Quiz 5, Dec. 23
 
 - [3.1 Abstraction and Program Design](./3-1-abstraction-and-program-design.md)
@@ -81,6 +94,9 @@ layout: course-index
 - [3.7 Class (static) Variables and Methods](./3-7-class-variables-and-methods.md)
 - [3.8 Scope and Access](./3-8-scope-and-access.md)
 - [3.9 `this` Keyword](./3-9-this-keyword.md)
+
+AP Progress Check Unit 3
+{: .progress-check-marker}
 
 ### Labs and Code Practice
 
@@ -100,6 +116,9 @@ layout: course-index
 - [4.4 Array Traversals](./4-4-array-traversals.md)
 - [4.5 Implementing Array Algorithms](./4-5-implementing-array-algorithms.md)
 
+AP Progress Check Unit 4 Part A
+{: .progress-check-marker}
+
 ### Quiz 7, Mar. 26
 
 - [4.6 Using Text Files](./4-6-using-text-files.md)
@@ -107,6 +126,9 @@ layout: course-index
 - [4.8 ArrayList and its Methods](./4-8-array-list-and-its-methods.md)
 - [4.9 ArrayList Traversals](./4-9-array-list-traversals.md)
 - [4.10 Implementing ArrayList Algorithms](./4-10-implementing-array-list-algorithms.md)
+
+AP Progress Check Unit 4 Part B
+{: .progress-check-marker}
 
 ### Labs and Code Practice
 
@@ -127,6 +149,9 @@ layout: course-index
 - [4.15 Sorting Algorithms](./4-15-sorting-algorithms.md)
 - [4.16 Recursion](./4-16-recursion.md)
 - [4.17 Recursive Searching and Sorting](./4-17-recursive-searching-and-sorting.md)
+
+AP Progress Check Unit 4 Part C
+{: .progress-check-marker}
 
 ### Labs and Code Practice
 

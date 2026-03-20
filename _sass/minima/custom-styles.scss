@@ -504,3 +504,13 @@ table.min-width {
 .course-index #markdown-toc ul ul {
     list-style-type: lower-roman;
 }
+
+.progress-check-marker {
+    display: list-item;
+    font-style: italic;
+    background-size: 20px;
+}
+
+.progress-check-marker::before {
+    background-image: url("/assets/img/progress-check.svg");
+}
