@@ -46,6 +46,8 @@ cal-x: "Apr. 14"
 | {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |
 {: #this-week-table}
 
+- Tuesday is an early dismissal day for students.
+
 ## Schedule
 
 I am available for extra help every day in room 31 during LF1, as well as before school on most days.
