@@ -119,7 +119,7 @@ Unit 6 MCQ Part A; Unit 8 FRQ Part A
 Unit 6 MCQ Part B; Unit 6 FRQ Parts A and B
 {: .progress-check}
 
-### MP3 Exam, Apr. 14
+### Quiz 8, Apr. 14
 
 - [5.1 Slope Fields and Euler's Method](./5-1-slope-fields-and-eulers-method.md)
 - [5.2 Growth and Decay](./5-2-growth-and-decay.md)
