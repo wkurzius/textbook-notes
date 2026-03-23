@@ -30,44 +30,63 @@ next-link: "./6-1-area-of-a-region-between-two-curves.html"
 
 ## Separation of Variables
 
-We looked at this for the first time in [last section](./5.2-growth-and-decay.md), but we'll look at more varied examples here. In general, you can separate variables if it can be written in the form below.
+We saw this for the first time in the [last section](./5.2-growth-and-decay.md), but we'll look at more varied examples here. In general, you can separate variables if it can be written in the form below.
 
 $$\begin{align}
-M(x) + N(y) \frac{dy}{dx} = 0
+\frac{dy}{dx} = f(x)g(y)
 \end{align}$$
 
-This form might not be immediately obvious, so some working out might be required.
+This means the separated form is
 
-### Example 1
+$$\begin{align}
+\frac{dy}{g(y)} = f(x)dx
+\end{align}$$
 
+With $g(y)$ being in the denominator, you need to check if $g(y)=0$ works in the original differential. Little changes either way, but it needs to be noted since dividing by zero is frowned upon.
+
+> ### Example: Find a General Solution
+>
 > Find the general solution of $(x^2+4)\frac{dy}{dx} = xy$.
 {: .example}
+
+Solving for $\frac{dy}{dx}$ gives us $\frac{dy}{dx}=\frac{xy}{x^2+4}$. So, $f(x)=\frac{x}{x^2+4}$ and $g(y)=y$. From there, if $g(y)=0$ then $y=0$, so we have at least one constant solution. Now we need to find the rest.
 
 $$\begin{align}
 (x^2+4)\frac{dy}{dx} &= xy \\
 (x^2+4)\,dy &= xy\,dx \\
 \frac{1}{y}\,dy &= \frac{x}{x^2+4}\,dx \\
-\int \frac{1}{y}\,dy &= \int \frac{x}{x^2+4}\,dx \\
-\ln |y| &= \frac{1}{2}\ln(x^2 + 4) + C \\
-|y| &= e^C\sqrt{x^2+4} \cdot e^C \\
 \end{align}$$
 
-At this point, there are two things that need addressing. The first is the absolute value, which we can deal with by rewriting with $\pm$.
+Now we can start integrating.
+
+$$\begin{align}
+\int \frac{1}{y}\,dy &= \int \frac{x}{x^2+4}\,dx \\
+\ln |y| &= \frac{1}{2}\ln(x^2 + 4) + C \\
+\ln |y| &= e^{\frac{1}{2}\ln(x^2 + 4) + C} \\
+\ln |y| &= e^{\frac{1}{2}\ln(x^2 + 4)}e^C \\
+\ln |y| &= e^{\ln\sqrt{x^2 + 4}}e^C \\
+|y| &= e^C\sqrt{x^2+4} \\
+\end{align}$$
+
+> There's a lot of exponent and log rules happening in those last few steps. Make sure you review them if you're not sure how each step came about.
+
+At this point, there are some things that need addressing. First is the absolute value. Ideally we want $y=$, so to get that we can rewrite $e^C$ with a $\pm$.
 
 $$\begin{align}
 y &= \pm e^C\sqrt{x^2+4} \\
 \end{align}$$
 
-Next is the fact that $e^C>0$, meaning we can't rewrite this is as $C$ ... at least not yet. The $\pm$ allows us to have negatives, so we are left with a $C$ that can be anything *but* zero.
-
-Something you can check easily—and should check for each differential—is if $y=0$ is a solution. Remember that you need $y$ and $y'$ to check if a function is a solution The derivative of $y=0$ is $y'=0$, so this is an easy solution to check. And it turns out that yes, $y=0$ is a solution in this case, so since we have everything covered, we can now safely say the general solution is
+Next, it would be nice if we could just put $C$ instead of $e^C$, but we can't do that on a whim. Especially in this situation, since $e^C$ can never be $0$. Luckily, we already found that $y=0$ was a solution so we can write our general solution as
 
 $$\begin{align}
 y &= C\sqrt{x^2+4} \\
 \end{align}$$
 
-### Example 2: Particular Solutions
+$\blacksquare$
+{: .qed}
 
+> ### Example 2: Particular Solutions
+>
 > Given the initial solution of $y(0)=1$, find the particular solution of the equation
 > $$\begin{align}
 > xy\, dx + e^{-x^2}\left(y^2-1\right)\, dy = 0
@@ -102,6 +121,7 @@ $$\begin{align}
 y^2 - \ln y^2 + e^{x^2} &= 2
 \end{align}$$
 
----
+$\blacksquare$
+{: .qed}
 
 Make sure you look through the remaining examples in the book. We'll go through a few more in class, too.

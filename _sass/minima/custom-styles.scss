@@ -523,3 +523,7 @@ table.min-width {
 .progress-check-list {
     margin-top: -15px;
 }
+
+mjx-container:not([display]) {
+    line-height: 1rem;
+}
