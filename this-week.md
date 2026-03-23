@@ -18,9 +18,9 @@ con-x: "Mar. 26"
 
 pro-h: "[**Intro to Programming**](./syllabi/intro-to-programming-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://academy.cs.cmu.edu/){: target=\"_blank\" title=\"CS Academy Online Curriculum\"}"
-pro-1: "**≥ A**{:. day}Work on Unit 3"
-pro-2: "**≥ B**{:. day}Begin Unit 2 Creative Task"
-pro-3: "**< B**{:. day}Begin Unit 1 Creative Task"
+pro-1: "**≥ A**{:. day} Work on Unit 3"
+pro-2: "**≥ B**{:. day} Begin Unit 2 Creative Task"
+pro-3: "**< B**{:. day} Begin Unit 1 Creative Task"
 pro-x: "–"
 
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/){: title=\"Course Page\"}<br>
