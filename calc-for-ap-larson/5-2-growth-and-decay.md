@@ -2,7 +2,7 @@
 title: 5.2 Growth and Decay
 layout: page
 course: AP Calc
-last-reviewed:
+last-reviewed: 2026-03-23 10:15:12
 prev-link: "./5-1-slope-fields-and-eulers-method.html"
 next-link: "./5-3-separation-of-variables.html"
 ---
@@ -27,29 +27,41 @@ next-link: "./5-3-separation-of-variables.html"
 
 ## Differential Equations
 
-Now that we've introduced differential equations involving both $x$ and $y$, it's time to start solving them. The technique we'll use is called **separation of variables**, and it involves $\frac{dy}{dx}$ behaving like a fraction, even though it isn't.
+Now that we've introduced differential equations involving both $x$ and $y$, it's time to start solving them. The technique we'll use is called **separation of variables**, and revolves around $\frac{dy}{dx}$ behaving like a fraction (even though it isn't).
 
-> I prefer Leibniz notation, which uses $\frac{dy}{dx}$, while the book introduces the concept using Lagrange notation, which uses $y'$. Either is fine.
+> ### Solving a Differential Example
+>
+> Find the general solution of the differential equation.
+>
+> $$\begin{align}
+> \frac{dy}{dx} &= \frac{2x}{y} \\
+> \end{align}$$
+{: .example}
+
+We'll want to get all the $y$ terms on one side and the $x$ terms on the other. This means splitting up $dy$ and $dx$.
 
 $$\begin{align}
 \frac{dy}{dx} &= \frac{2x}{y} \\
-y\, dy &= 2x \, dx & \text{All $y$'s on one side, and all $x$'s on the other.}\\
-\int y\, dy &= \int 2x \, dx \\
+       y\, dy &= 2x \, dx \\
+  \int y\, dy &= \int 2x \, dx \\
 \frac{1}{2}y^2 &= x^2 + C \\
 y^2 - 2x^2 &= C
 \end{align}$$
 
-We'll eventually get into how to solve the more complicated ones, like what we saw when looking at slope fields.
+$\blacksquare$
+{: .qed}
+
+We'll eventually get into how to solve the more complicated ones, but this is enough to get us through the next part.
 
 ## Growth and Decay Models
 
-You've likely worked with exponential models before, but now we'll look at them from the perspective of their rate of change, which is often proportional to the amount in question.
+In an exponential growth or decay function you see a pattern of repeated multiplication. In other words, the rate of change is just taking the current value and multiplying by the base. Think  doubling or tripling an amount.
 
 $$\begin{align}
 \frac{dy}{dt} = ky
 \end{align}$$
 
-We can integrate this using separation of variables.
+Now that we know how to solve simple differentials, we can find a general solution to this.
 
 $$\begin{align}
 \frac{dy}{dt} &= ky \\
@@ -72,20 +84,14 @@ Steps \ref{exp-prop} and \ref{const} are common with separation of variables, an
 > where $C$ is the **initial value**, $k$ the **constant of proportionality**.
 {: .definition}
 
-### A Simple Example Stretched Out
+Let's apply this to a few examples.
 
-When $t=0$, $y=2$. And when $t=2$, $y=4$. If the rate of change is proportional to $y$, then we can model this easily.
+> ### Example: Exponential Growth
+>
+> When $t=0$, $y=2$. And when $t=2$, $y=4$. If the rate of change is proportional to $y$, then write an expression for $y(t)$.
+{: .example}
 
-First off, since we get $t=0$, we get the initial condition $C$ for free. Just in case you forget that $C$ is the initial condition, you can always find it yourself.
-
-$$\begin{align}
-y &= Ce^{kt} \\
-2 &= Ce^{k\cdot0} \\
-2 &= Ce^{0} \\
-2 &= C
-\end{align}$$
-
-We still need $k$, but we'll need to use our other point to find that.
+First off, since we get $t=0$, we get the initial condition $C$ for free. We still need $k$, but we'll use our other point to find that.
 
 $$\begin{align}
 y &= 2e^{kt} \\
@@ -95,20 +101,15 @@ y &= 2e^{kt} \\
 y&\approx 2e^{0.3466t}
 \end{align}$$
 
-Though, if you know your logarithm properties you can write this using the exact value of $k$.
+$\blacksquare$
+{: .qed}
 
-$$\begin{align}
-y &= 2e^{\frac{1}{2}\ln 2 \cdot t} \\
-y &= 2e^{\ln \sqrt{2} \cdot t} \\
-y &= 2\sqrt{2}^t \\
-t&= 2\cdot2^{\frac{t}{2}}
-\end{align}$$
+> ### Example: Population Growth
+>
+> An experimental population of fruit flies increases according to the law of exponential growth. There were 100 flies after the second day of the experiment and 300 flies after the fourth day. Approximately how many flies were in the original population?
+{: .example}
 
-Oh, we could have done this with our old exponential modeling rules. We knew the initial amount, $C=2$, and we technically knew the rate of growth, though it wasn't called out by name. We went from $2$ to $4$, so it doubled, but it took two ticks of $t$ leading to $\frac{t}{2}$ as the exponent.
-
-### Population Growth
-
-In this problem, you won't have the initial condition. Instead, you know there are 100 flies after day two of an experiment and 300 after four days. We'll use these to create what is essentially a system of equations, solving one for $C$ and then substituting into the other.
+No initial condition this time, so we'll have to get creative. We have two points, so we can solve for one variable using one point, then substitute when using the other point. (If you remember trying to slope-intercept form from two points, it's a similar strategy.)
 
 $$\begin{align}
 y &= Ce^{kt} \\
@@ -133,21 +134,17 @@ $$\begin{align}
 C&\approx 33
 \end{align}$$
 
-So our model is $y=33e^{0.5493t}$.
+Although we just needed the initial condition, for completion's sake our model is $y=33e^{0.5493t}$.
 
-But I want to write this using the exact value again.
+$\blacksquare$
+{: .qed}
 
-$$\begin{align}
-y &= 33 e^{\frac{1}{2}\ln3\cdot t} \\
-y &= 33 \sqrt{3}^t \\
-y &= 33 \cdot 3^\frac{t}{2}
-\end{align}$$
+> ### Example: Newton's Law of Cooling
+>
+> Let $y$ represent the temperature (in °F) of an object in a room whose temperature is kept at a constant 60°F. The object cools from 100°F to 90°F in 10 minutes. How much longer will it take for the temperature of the object to decrease to 80°F?
+{: .example}
 
-That just means it tripled every two days, and we knew that from the beginning: 100 flies on day 2, and 300 on day 4. We could have set up ${y=C\cdot 3^{\frac{t}{2}}}$ and solved for $C$ using one of the points.
-
-### Newton's Law of Cooling
-
-An object cools proportional to the ambient temperature, so how can we model an object that is initially 100ºF, but cools to 90ºF in 10 minutes in a 60ºF room? We'll have to start with our initial definition of the proportional rate of change, but modified to account for the difference in temperature of the room.
+An object cools proportional to the ambient temperature (which you don't need to know and instead will be given to you if needed). We'll start with our initial definition of the proportional rate of change, but modified to account for the difference in temperature of the room.
 
 $$\begin{align}
 \frac{dy}{dt} &= k(y-60) \\
@@ -156,25 +153,97 @@ $$\begin{align}
 y &= Ce^{kt}+60
 \end{align}$$
 
-And now, like before, we can use our two points to calculate $C$ and $k$.
+OK, so we have a slightly different model to work with. We'll keep the same strategy, but adjust if we need to. First up is finding $C$
 
 $$\begin{align}
 100 &= Ce^{0k} + 60 \\
 40 &= C \\[1em]
+\end{align}$$
 
+Turns out that $C$ is not the initial condition. Remember, different model. Old assumptions are out the window.
+
+$$\begin{align}
 90 &= 40e^{10k} + 60 \\
 \ln\frac{3}{4} &= \ln e^{10k} \\
-\frac{1}{10}\ln\frac{3}{4} &=k \\
+\frac{1}{10}\ln\frac{3}{4} &=k \label{newton-nocalc}\\
 -0.0288 &\approx k \\[1em]
 
 y&= 40e^{-0.0288t}+60
 \end{align}$$
 
-And if you go through with the exact value of $k$ and rewrite the base
+You can find out when this will be 80°F through a little calculator work, which I'll skip here. The mechanics of solving these is the important bit, and most AP problems involving this topic are not in the calculator portion. That just means your multiple choice solutions will look like what's in equation $\ref{newton-nocalc}$.
+
+$\blacksquare$
+{: .qed}
+
+## An Alternative Approach
+
+So, you can technically do each of those examples above with what you learned in algebra. Exponential models can be built if you know the initial condition $C$, the growth (or decay) rate $a$, and how frequently that growth happens $t$.
+
+> ### Alternate Example: Exponential Growth
+>
+> When $t=0$, $y=2$. And when $t=2$, $y=4$. If the rate of change is proportional to $y$, then write an expression for $y(t)$.
+{: .example}
+
+Using our old exponential modeling rules, we knew the initial amount of $y=2$, and we technically knew the rate of growth, though it wasn't called out by name. We went from $2$ to $4$, so it doubled, but it took two ticks of $t$ leading to $\frac{t}{2}$ as the exponent.
 
 $$\begin{align}
-y&= 40e^{\frac{t}{10}\ln\frac{3}{4}}+60 \\
-y&= 40\cdot\left(\frac{3}{4}\right)^\frac{t}{10}+60 \\
+y = 2\cdot2^{t/2}
 \end{align}$$
 
-You can pull each part of the original problem out of this version, to the point where you can skip the calculus just like the others. I don't advise that, since the exam will find ways to trip you up, but being able to see the relationship between the problem and the model help to spot check common errors.
+Of course, AP Calculus assumes you use calculus, so the bases will be almost exclusively $e$. But you can rewrite it. Just find what power you need to make $e$ to be $2$.
+
+$$\begin{align}
+e^x &= 2 \\
+x &= \ln 2
+\end{align}$$
+
+That gives us $y=2e^{\ln2 \cdot t/2}$, meaning $k=\frac{1}{2}\ln2$, which matches what we got earlier.
+
+$\blacksquare$
+{: .qed}
+
+> ### Alternate Example: Population Growth
+>
+> An experimental population of fruit flies increases according to the law of exponential growth. There were 100 flies after the second day of the experiment and 300 flies after the fourth day. Approximately how many flies were in the original population?
+{: .example}
+
+Going from 100 to 300 over two days means it tripled every two days, so we already have this.
+
+$$\begin{align}
+y = C3^{t/2}
+\end{align}$$
+
+Now we can plug in a point to find $C$.
+
+$$\begin{align}
+100 &= C3^{2/2} \\
+\frac{100}{3} &= C \\[1em]
+
+y = 33.\overline{3} \cdot 3^{t/2}
+\end{align}$$
+
+Again, you can rewrite the base like above and end up with $k=\frac{1}{2}\ln3$.
+
+$\blacksquare$
+{: .qed}
+
+> ### Alternate Example: Newton's Law of Cooling
+>
+> Let $y$ represent the temperature (in °F) of an object in a room whose temperature is kept at a constant 60°F. The object cools from 100°F to 90°F in 10 minutes. How much longer will it take for the temperature of the object to decrease to 80°F?
+{: .example}
+
+Knowing that something won't cool below the temperature of the room, we can look at this a different way. An object is 40°F above the room temp and cools to 30°F above room temp in 10 minutes.
+
+$$\begin{align}
+y = 40\cdot \frac{3}{4}^{t/10} + 60
+\end{align}$$
+
+We add 60 at the end to adjust our floor. The original growth/decay model assumes that to be zero, so we need to adjust accordingly.
+
+And like the others, you can rewrite in the base you need and we get $k= \frac{1}{10}\ln\frac{3}{4}$.
+
+$\blacksquare$
+{: .qed}
+
+This alternative approach can save you time depending on the problem, but it's not always helpful. One type of problem where this won't help (though it can get you close) is if you get the rate of change instead of a growth rate. In that case you need to rely on $\frac{dy}{dt}=kt$.
