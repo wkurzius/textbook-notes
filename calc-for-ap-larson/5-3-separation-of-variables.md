@@ -36,30 +36,18 @@ $$\begin{align}
 \frac{dy}{dx} = f(x)g(y)
 \end{align}$$
 
-This means the separated form is
-
-$$\begin{align}
-\frac{dy}{g(y)} = f(x)dx
-\end{align}$$
-
-With $g(y)$ being in the denominator, you need to check if $g(y)=0$ works in the original differential. Little changes either way, but it needs to be noted since dividing by zero is frowned upon.
+If you can get it in this form (and I do suggest it), you should check when $g(y)=0$. This will give you your constant solutions since if $g(y)=0$ then $\frac{dy}{dx}=0$.
 
 > ### Example: Find a General Solution
 >
 > Find the general solution of $(x^2+4)\frac{dy}{dx} = xy$.
 {: .example}
 
-Solving for $\frac{dy}{dx}$ gives us $\frac{dy}{dx}=\frac{xy}{x^2+4}$. So, $f(x)=\frac{x}{x^2+4}$ and $g(y)=y$. From there, if $g(y)=0$ then $y=0$, so we have at least one constant solution. Now we need to find the rest.
+Solving for $\frac{dy}{dx}$ gives us $\frac{dy}{dx}=\frac{xy}{x^2+4}$. So, $f(x)=\frac{x}{x^2+4}$ and $g(y)=y$. From there, if $g(y)=0$ then $y=0$, so we have at least one constant solution. Now we can move on to our general solution.
 
 $$\begin{align}
-(x^2+4)\frac{dy}{dx} &= xy \\
-(x^2+4)\,dy &= xy\,dx \\
+\frac{dy}{dx}&=\frac{xy}{x^2+4} \\
 \frac{1}{y}\,dy &= \frac{x}{x^2+4}\,dx \\
-\end{align}$$
-
-Now we can start integrating.
-
-$$\begin{align}
 \int \frac{1}{y}\,dy &= \int \frac{x}{x^2+4}\,dx \\
 \ln |y| &= \frac{1}{2}\ln(x^2 + 4) + C \\
 \ln |y| &= e^{\frac{1}{2}\ln(x^2 + 4) + C} \\
@@ -68,7 +56,7 @@ $$\begin{align}
 |y| &= e^C\sqrt{x^2+4} \\
 \end{align}$$
 
-> There's a lot of exponent and log rules happening in those last few steps. Make sure you review them if you're not sure how each step came about.
+> There's a lot of exponent and log rules happening in those last few steps. Make sure you review them if you're not sure how each step one about.
 
 At this point, there are some things that need addressing. First is the absolute value. Ideally we want $y=$, so to get that we can rewrite $e^C$ with a $\pm$.
 
@@ -76,7 +64,7 @@ $$\begin{align}
 y &= \pm e^C\sqrt{x^2+4} \\
 \end{align}$$
 
-Next, it would be nice if we could just put $C$ instead of $e^C$, but we can't do that on a whim. Especially in this situation, since $e^C$ can never be $0$. Luckily, we already found that $y=0$ was a solution so we can write our general solution as
+Now, we could put $C$ instead of $\pm e^C$, but we have to verify that every constant is covered first. In this case, ${\pm e^C \neq 0}$, but we already found that $y=0$ is a solution, so we're in the clear.
 
 $$\begin{align}
 y &= C\sqrt{x^2+4} \\
@@ -87,17 +75,24 @@ $\blacksquare$
 
 > ### Example 2: Particular Solutions
 >
-> Given the initial solution of $y(0)=1$, find the particular solution of the equation
+> Given the initial solution of $y(0)=1$, find the particular solution of the differential equation.
+>
 > $$\begin{align}
 > xy\, dx + e^{-x^2}\left(y^2-1\right)\, dy = 0
 > \end{align}$$
 {: .example}
 
-This looks intimidating, but $dy$ and $dx$ are already split into two terms, so we can move them to opposite sides and start moving things as needed.
+Finding a particular solution just means an extra step after getting the general one. So, we'll work this one out like before. Rearrange so we can find constant solutions, then separate and integrate.
 
 $$\begin{align}
-e^{-x^2}\left(y^2-1\right)\, dy &= -xy\, dx \\
-e^{-x^2}\left(y^2-1\right)\, dy &= -xy\, dx \\
+xy\, dx + e^{-x^2}\left(y^2-1\right)\, dy = 0 \\
+e^{-x^2}\left(y^2-1\right)\, dy = -xy\, dx \\
+\frac{dy}{dx} = -\frac{xy}{e^{-x^2}\left(y^2-1\right)}dx \\
+\end{align}$$
+
+$g(x)=\frac{y}{y^2-1}$, so $y=0$ is a solution again. Also, we can quickly see that $y\neq\pm1$.
+
+$$\begin{align}
 \frac{y^2-1}{y}\, dy &= -xe^{x^2}\, dx \\
 \int \frac{y^2-1}{y}\, dy &= \int -xe^{x^2}\, dx \\
 \int y - \frac{1}{y}\, dy &= \int -xe^{x^2}\, dx \\
