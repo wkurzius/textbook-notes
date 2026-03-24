@@ -27,7 +27,7 @@ layout: course-index
 - [1.3 Evaluating Limits Analytically](./1-3-evaluating-limit-analytically.md)
 - [1.4 Continuity and One-Sided Limits](./1-4-continuity-and-one-sided-limits.md)
 
-Unit 1 MCQ Part A
+[Unit 1 MCQ Part A](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
 ### Quiz 3, Oct. 15
@@ -35,7 +35,7 @@ Unit 1 MCQ Part A
 - [1.5 Infinite Limits](./1-5-infinite-limits.md)
 - [1.6 Limits at Infinity](./1-6-limits-at-infinity.md)
 
-Unit 1 MCQ Parts B and C; Unit 1 FRQ Parts A, B, and C
+[Unit 1 MCQ Parts B and C; Unit 1 FRQ Parts A, B, and C](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
 ### MP1 Exam, Nov. 4
@@ -43,7 +43,7 @@ Unit 1 MCQ Parts B and C; Unit 1 FRQ Parts A, B, and C
 - [2.1 The Derivative and the Tangent Line Problem](./2-1-the-derivative-and-the-tangent-line-problem.md)
 - [2.2 Basic Differentiation Rules and Rates of Change](./2-2-basic-differentiation-rules-and-rates-of-change.md)
 
-Unit 2 MCQ Part A
+[Unit 2 MCQ Part A](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
 - [2.3 Product and Quotient Rules and Higher-Order Derivatives](./2-3-product-and-quotient-rules-and-higher-order-derivatives.md)
@@ -56,13 +56,13 @@ Unit 2 MCQ Part A
 
 - [2.4 The Chain Rule](./2-4-the-chain-rule.md)
 
-Unit 2 MCQ Part B; Unit 2 FRQ Parts A and B
+[Unit 2 MCQ Part B; Unit 2 FRQ Parts A and B](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
 - [2.5 Implicit Differentiation](./2-5-implicit-differentiation.md)
 - [2.6 Derivatives of Inverse Functions](./2-6-derivatives-of-inverse-functions.md)
 
-Unit 3 MCQ; Unit 3 FRQ Parts A and B
+[Unit 3 MCQ; Unit 3 FRQ Parts A and B](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
 ### Quiz 5, Dec. 10
@@ -71,7 +71,7 @@ Unit 3 MCQ; Unit 3 FRQ Parts A and B
 - [3.7 Linear Approximation and Differentials](./3-7-linear-approximation-and-differentials.md)
 - [7.7 Indeterminate Forms and L'Hôpital's Rule](./7-7-indeterminate-forms-and-lhopitals-rule.md)
 
-Unit 4 MCQ; Unit 4 FRQ Parts A and B
+[Unit 4 MCQ; Unit 4 FRQ Parts A and B](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
 ### Quiz 6, Dec. 22
@@ -80,7 +80,7 @@ Unit 4 MCQ; Unit 4 FRQ Parts A and B
 - [3.2 Rolle's Theorem and the Mean Value Theorem](./3-2-rolles-theorem-and-the-mean-value-theorem.md)
 - [3.3 Increasing and Decreasing Functions and the First Derivative Test](./3-3-the-first-derivative-test.md)
 
-Unit 5 MCQ Part A
+[Unit 5 MCQ Part A](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
 ### MP2 Exam, Jan. 27
@@ -88,12 +88,12 @@ Unit 5 MCQ Part A
 - [3.4 Concavity and the Second Derivative Test](./3-4-concavity-and-the-second-derivative-test.md)
 - [3.5 A Summary of Curve Sketching](./3-5-a-summary-of-curve-sketching.md)
 
-Unit 5 MCQ Part B; Unit 5 FRQ Part A
+[Unit 5 MCQ Part B; Unit 5 FRQ Part A](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
 - [3.6 Optimization Problems](./3-6-optimization-problems.md)
 
-Unit 5 MCQ Part C; Unit 5 FRQ Part B
+[Unit 5 MCQ Part C; Unit 5 FRQ Part B](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
 ---
@@ -108,7 +108,7 @@ Unit 5 MCQ Part C; Unit 5 FRQ Part B
 - [4.4 The Fundamental Theorem of Calculus](./4-4-the-fundamental-theorem-of-calculus.md)
 - [4.5 The Net Change Theorem](./4-5-the-net-change-theorem.md)
 
-Unit 6 MCQ Part A; Unit 8 FRQ Part A
+[Unit 6 MCQ Part A; Unit 8 FRQ Part A](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
 - [4.6 Integration by Substitution](./4-6-integration-by-substitution.md)
@@ -116,7 +116,7 @@ Unit 6 MCQ Part A; Unit 8 FRQ Part A
 - [4.8 Inverse Trigonometric Functions: Integration](./4-8-inverse-trigonometric-function-integration.md)
 - [7.1 Basic Integration Rules](./7-1-basic-integration-rules.md)
 
-Unit 6 MCQ Part B; Unit 6 FRQ Parts A and B
+[Unit 6 MCQ Part B; Unit 6 FRQ Parts A and B](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
 ### Quiz 8, Apr. 14
@@ -125,7 +125,7 @@ Unit 6 MCQ Part B; Unit 6 FRQ Parts A and B
 - [5.2 Growth and Decay](./5-2-growth-and-decay.md)
 - [5.3 Separation of Variables](./5-3-separation-of-variables.md)
 
-Unit 7 MCQ; Unit 7 FRQ Parts A and B
+[Unit 7 MCQ; Unit 7 FRQ Parts A and B](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
 ---
@@ -136,12 +136,12 @@ Unit 7 MCQ; Unit 7 FRQ Parts A and B
 
 - [6.1 Area of a Region Between Two Curves](./6-1-area-of-a-region-between-two-curves.md)
 
-Unit 8 MCQ Part A
+[Unit 8 MCQ Part A](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
 - [6.2 Volume: The Disk and Washer Methods](./6-2-volume-the-disk-and-washer-methods.md)
 
-Unit 8 MCQ Part B; Unit 8 FRQ Part B
+[Unit 8 MCQ Part B; Unit 8 FRQ Part B](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
 ---
