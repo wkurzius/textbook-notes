@@ -282,7 +282,8 @@ h2#course-schedule {
 
 #this-week-table .day {
     display: inline-block;
-    width: 1.2rem;
+    min-width: 1rem;
+    padding-right: 0.4rem;
 }
 
 table.rouge-table,
@@ -535,4 +536,8 @@ sup:has(.footnote) {
 
 a.footnote {
     font-size: smaller;
+}
+
+#this-week-table td:has(strong.day) {
+    text-indent: 1.4rem hanging each-line;
 }

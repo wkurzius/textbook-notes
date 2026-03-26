@@ -18,16 +18,16 @@ con-x: "Mar. 26"
 
 pro-h: "[**Intro to Programming**](./syllabi/intro-to-programming-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://academy.cs.cmu.edu/){: target=\"_blank\" title=\"CS Academy Online Curriculum\"}"
-pro-1: "**≥ A**{:. day} Work on Unit 3"
-pro-2: "**≥ B**{:. day} Begin Unit 2 Creative Task"
-pro-3: "**< B**{:. day} Begin Unit 1 Creative Task"
+pro-1: "**≥ A**{: .day}Work on Unit 3"
+pro-2: "**≥ B**{: .day}Begin Unit 2 Creative Task"
+pro-3: "**< B**{: .day}Begin Unit 1 Creative Task"
 pro-x: "–"
 
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/){: title=\"Course Page\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
 sta-1: "**M**{: .day}Review"
 sta-2: "**W**{: .day}[3.1 Probability Terminology](./statistics-open-stax/3-1-terminology.html)"
-sta-3: "**F**{: .day}[3.2 Independent and Mutually Exclusive Events](./statistics-open-stax/3-2-independent-and-mutually-exclusive-events.html) and<br>[3.3 Two Basic Rules of Probability](./statistics-open-stax/3-3-two-basic-rules-of-probability.html)"
+sta-3: "**F**{: .day}[3.2 Independent and Mutually Exclusive Events](./statistics-open-stax/3-2-independent-and-mutually-exclusive-events.html) and [3.3 Two Basic Rules of Probability](./statistics-open-stax/3-3-two-basic-rules-of-probability.html)"
 sta-x: "Apr. 14"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/){: title=\"Course Page\"}"
@@ -45,8 +45,6 @@ cal-x: "Apr. 14"
 | {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-3}} | {{page.sta-x}} |
 | {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |
 {: #this-week-table}
-
-- Tuesday is an early dismissal day for students.
 
 ## Schedule
 
