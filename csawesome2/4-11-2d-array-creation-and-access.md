@@ -24,7 +24,7 @@ Arrays can hold primitives, objects, and even other arrays.
 int[][] arrays = { {1,2,3}, {10,20,30} };
 ```
 
-This leads to a tabular structure made up of rows and columns. The example above can be looked at as having two rows and three columns where the first row contains `{1, 2, 3}` and the second row has `{10, 20, 30}`.[^1] The usual indexing rules still apply, so both the first row and column have an index of `0`.
+This leads to something that can be looked at as a table of rows and columns. The example above would have two rows and three columns, where the first row contains `{1, 2, 3}` and the second has `{10, 20, 30}`.[^1] The usual indexing rules still apply, so both the first row and column have an index of `0`, meaning you could access the `1` with `arrays[0][0]`. The expression `arrays[1][2]` would get you the `30`.
 
 If you want to create an empty 2D array (i.e., full of default values), it looks like this.
 
@@ -45,6 +45,6 @@ And if want the length of an inner array (or the length of a row, or the number 
 System.out.println(ints[0].length);
 ```
 
-That last one technically only tells you the length of the first array (or row), and completely ignores the other ones. For the AP exam, assume that all 2D arrays are rectangular, meaning each inner array (row) is the same length. Non-rectangular arrays are possible, but beyond the scope of the course.
+That last one technically only tells you the length of the first array (or row), and completely ignores the others. For the AP exam, assume that all 2D arrays are rectangular, meaning each inner array (row) is the same length. Non-rectangular arrays are possible, but beyond the scope of the course.
 
 [^1]: The row by column distinction is more for human visualization than anything. How a 2D array is displayed is completely arbitrary, but row by column is is the accepted way of visualizing them in Java, and AP follows this as well.
