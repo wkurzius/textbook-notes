@@ -157,7 +157,7 @@ layout: course-index
 
 - [4.48 Code Practice with 2D Arrays (4.11–4.13)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/Array2dCodePractice.html){: target="_blank"}
 - [4.58 Code Practice for Recursion (4.14–4.17)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/recursionCodePractice.html){: target="_blank"}
-- Lab: Data Set
+- Lab: Data Set ([cereal.csv](./data/cereal.csv))
 
 ---
 
