@@ -1,5 +1,5 @@
 ---
-title: "4.12 2D Array Traversals: Nested Loops"
+title: "4.12 2D Array Traversals"
 layout: page
 course: AP CSA
 prev-link: ./4-11-2d-array-creation-and-access.html
