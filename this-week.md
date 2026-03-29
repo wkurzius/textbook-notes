@@ -1,39 +1,39 @@
 ---
-title: "This Week (Mar. 23–27)"
+title: "This Week (Mar. 30–Apr. 2)"
 layout: this-week
 
 csc-h: "[**AP Comp Sci A**](./csawesome2/){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
-csc-1: "**T**{: .day}Unit 4 Progress Check Part B / Review"
-csc-2: "**R**{: .day}Quiz"
+csc-1: "**M**{: .day}[4.11 2D Array Creation and Access](./csawesome2/4-11-2d-array-creation-and-access.html) and [4.12 2D Array Traversals](./csawesome2/4-12-2d-array-traversals-nested-loops.html)"
+csc-2: "**W**{: .day}[4.13 Implementing 2D Array Algorithms](./csawesome2/4-13-implementing-2d-array-algorithms.html)"
 csc-3: ""
-csc-x: "Mar. 26"
+csc-x: "–"
 
 con-h: "[**Concepts of Algebra**](./syllabi/concepts-of-algebra-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://www.khanacademy.org/math/algebra-basics){: target=\"_blank\" title=\"KhanAcademy.org\"}"
-con-1: "[Unit 4: Graphing lines and slope](https://www.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope){: target=\"_blank\"}"
+con-1: "[Unit 5: Systems of Equations](https://www.khanacademy.org/math/algebra-basics/alg-basics-systems-of-equations){: target=\"_blank\"}"
 con-2: ""
 con-3: ""
-con-x: "Mar. 26"
+con-x: "–"
 
 pro-h: "[**Intro to Programming**](./syllabi/intro-to-programming-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://academy.cs.cmu.edu/){: target=\"_blank\" title=\"CS Academy Online Curriculum\"}"
-pro-1: "**≥ A**{: .day}Work on Unit 3"
-pro-2: "**≥ B**{: .day}Begin Unit 2 Creative Task"
-pro-3: "**< B**{: .day}Begin Unit 1 Creative Task"
+pro-1: "**≥ A**{: .day}Finish Unit 3 Creative Task and Quizzes"
+pro-2: "**≥ B**{: .day}Finish Unit 2 Creative Task and Quizzes"
+pro-3: "**< B**{: .day}Finish Unit 1 Creative Task and Quizzes"
 pro-x: "–"
 
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/){: title=\"Course Page\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**M**{: .day}Review"
-sta-2: "**W**{: .day}[3.1 Probability Terminology](./statistics-open-stax/3-1-terminology.html)"
-sta-3: "**F**{: .day}[3.2 Independent and Mutually Exclusive Events](./statistics-open-stax/3-2-independent-and-mutually-exclusive-events.html) and [3.3 Two Basic Rules of Probability](./statistics-open-stax/3-3-two-basic-rules-of-probability.html)"
+sta-1: "**T**{: .day}[3.4 Contingency Tables](./statistics-open-stax/3-4-contingency-tables.html) and [3.5 Tree and Venn Diagrams](./statistics-open-stax/3-5-tree-and-venn-diagrams.html)"
+sta-2: "**R**{: .day}Review"
+sta-3: ""
 sta-x: "Apr. 14"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/){: title=\"Course Page\"}"
-cal-1: "**M**{: .day}Review"
-cal-2: "**W**{: .day}[5.1 Slope Fields](./calc-for-ap-larson/5-1-slope-fields-and-eulers-method.html)"
-cal-3: "**F**{: .day}[5.2 Growth and Decay](./calc-for-ap-larson/5-2-growth-and-decay.html)"
+cal-1: "**T**{: .day}[5.3 Separation of Variables](./calc-for-ap-larson/5-3-separation-of-variables.html)"
+cal-2: "**R**{: .day}Review"
+cal-3: ""
 cal-x: "Apr. 14"
 ---
 
