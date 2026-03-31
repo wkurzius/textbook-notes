@@ -113,5 +113,7 @@ $$\begin{align}
 y^2 - 2\ln{|y|} + e^{x^2} &= 2
 \end{align}$$
 
+[Here's the slope field and general solution in GeoGebra](https://www.geogebra.org/calculator/z9d2kb4h){: target="_blank"}. Desmos struggles with graphing this one a bit, which isn't uncommon with the more complicated implicit functions.
+
 $\blacksquare$
 {: .qed}
