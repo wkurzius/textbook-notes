@@ -25,8 +25,8 @@ pro-x: "–"
 
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/){: title=\"Course Page\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**T**{: .day}[3.4 Contingency Tables](./statistics-open-stax/3-4-contingency-tables.html) and [3.5 Tree and Venn Diagrams](./statistics-open-stax/3-5-tree-and-venn-diagrams.html)"
-sta-2: "**R**{: .day}Review"
+sta-1: "**T**{: .day}[3.4 Contingency Tables](./statistics-open-stax/3-4-contingency-tables.html)"
+sta-2: "**R**{: .day}[3.5 Tree and Venn Diagrams](./statistics-open-stax/3-5-tree-and-venn-diagrams.html)"
 sta-3: ""
 sta-x: "Apr. 14"
 
