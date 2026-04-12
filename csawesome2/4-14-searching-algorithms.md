@@ -22,4 +22,4 @@ Binary searches are much different, but they have a catch: the data must be sort
 
 The halving portion is critical, because it ends up saving a lot a time (again, assuming the data is sorted). For an array of 1000 items you only need 10 loops[^1], which you can predict using $\log_2 n$. If you haven't yet, spend some time getting familiar with the powers of $2$.
 
-[^1]: Depending on implementation, it might be 10 or 11 loops/calls/comparisons. I bring this up because of one AP problem I saw asked how many times the search ran, and the answer was one more than predicted. In this particular problem, it was searching for something not in the array and the way the code was written meant it ran one extra time. And of course, both options were present.
+[^1]: Depending on implementation, it might be 10 or 11 loops/calls/comparisons. I bring this up because one AP problem I saw asked how many times the search ran, and the answer was one more than predicted. And of course, both options were present.
