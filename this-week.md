@@ -28,13 +28,13 @@ sta-h: "[**Prob. & Stats**](./statistics-open-stax/){: title=\"Course Page\"}<br
 sta-1: "**T**{: .day}Review"
 sta-2: "**R**{: .day}Quiz"
 sta-3: ""
-sta-x: "Apr. 14"
+sta-x: "Apr. 16"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/){: title=\"Course Page\"}"
 cal-1: "**T**{: .day}Review"
 cal-2: "**R**{: .day}Quiz"
 cal-3: ""
-cal-x: "Apr. 14"
+cal-x: "Apr. 16"
 ---
 
 | Course Links   | New Material                                       | Next Exam      |
