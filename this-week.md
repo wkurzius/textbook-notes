@@ -25,14 +25,14 @@ pro-x: "–"
 
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/){: title=\"Course Page\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**T**{: .day}Quiz"
-sta-2: "**R**{: .day}[4.1 Probability Distribution Function (PDF) for a Discrete Random Variable](./statistics-open-stax/4-1-probability-distribution-function-for-a-discrete-random-variable.html)"
+sta-1: "**T**{: .day}Review"
+sta-2: "**R**{: .day}Quiz"
 sta-3: ""
 sta-x: "Apr. 14"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/){: title=\"Course Page\"}"
-cal-1: "**T**{: .day}Quiz"
-cal-2: "**R**{: .day}[6.1 Area of a Region Between Two Curves](./calc-for-ap-larson/6-1-area-of-a-region-between-two-curves.html)"
+cal-1: "**T**{: .day}Review"
+cal-2: "**R**{: .day}Quiz"
 cal-3: ""
 cal-x: "Apr. 14"
 ---
