@@ -20,6 +20,6 @@ $$\begin{align*}
 \left(\frac{2}{3} + \frac{3}{5} + \frac{1}{1} + \frac{4}{7}\right) \cdot \frac{1}{4} \approx 0.7095
 \end{align*}$$
 
-The file for analysis is here: [coinflip-stats.csv](./coinflip-stats.csv).
+The file for analysis is here: [coinflip-stats.csv](./data/coinflip-stats.csv).
 
 [^1]:The actual number is 9,986 because I removed the 14 times it landed on its edge.
