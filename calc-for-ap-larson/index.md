@@ -119,7 +119,7 @@ layout: course-index
 [Unit 6 MCQ Part B; Unit 6 FRQ Parts A and B](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### Quiz 8, Apr. 14
+### Quiz 8, Apr. 16
 
 - [5.1 Slope Fields and Euler's Method](./5-1-slope-fields-and-eulers-method.md)
 - [5.2 Growth and Decay](./5-2-growth-and-decay.md)
