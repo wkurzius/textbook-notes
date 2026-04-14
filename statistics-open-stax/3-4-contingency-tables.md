@@ -42,7 +42,7 @@ This lesson is applying the probability rules you've learned to two-way tables, 
 
 3. Find _P_(Person had no violation in the last year AND uses a cell phone while driving).
 
-    You can do this with the formula for "and" events $P(A)P(B\|A)$. The probability of no violations we found already, and using a cell phone while also not getting a violation is $280/685$. Multiplying the two you get about $0.37$.
+    You can do this with the formula for "and" events $P(A)\cdotP(B\|A)$. The probability of no violations we found already, and using a cell phone while also not getting a violation is $280/685$. Multiplying the two you get about $0.37$.
 
     But the nice thing about contingency tables is that "and" events can be found directly. Out of the 755 people, 280 fall into both categories. $280/755\approx0.37$.
 
