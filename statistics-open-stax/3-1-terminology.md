@@ -83,7 +83,7 @@ P(A) &= \frac{\text{Number of times event } 𝐴 \text{ occurs}}{\text{Total num
 - $P(A\|B)$ asks the probability of rolling an even, given that you rolled a number over 3
 - There are three numbers over 3, and two are even, so $P(A\|B) = 2/3$
 
-> ### Mutual Exclusion
+> ### Conditional Probability
 >
 > To find the probability of event $A$ given that event $B$ has already happened,
 >
