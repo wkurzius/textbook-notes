@@ -49,22 +49,40 @@ public static int factorialRecursion(int n) {
 }
 ```
 
-The factorial version is built on the fact that $5!=5\cdot4!$, and $4! = 4 *3!$, and so on. At each point, we can break the problem down into a smaller version of the same problem. And since we can define factorial as ${n! = n \cdot (n-1)!}$, that is literally what we program into our code in line 3.
+The factorial version is built on the idea that $5!=5\cdot4!$, and $4! = 4 \cdot 3!$, and so on. At each point, we can break the problem down into a smaller version of the same problem. And since we can define factorial as
 
-But we still need this loop to stop at some point, and that's where line 2 comes into play. This is referred to as the **base case**, which is the point where we stop repeating the method call. If this base case doesn't exist—or doesn't work for whatever reason—you end up with a infinite recursion and a **`StackOverflowError`**.
+$${n! = n \cdot (n-1)!}$$
 
-In Java, the stack is a list of the all the currently running methods, listed in their order of execution. The catch with recursion is that none of the methods actually finish (or close) until you hit that base case. The `return` statement on line 3 won't actually return anything until the `factorialRecursion(n-1)` completes. And that new one won't finish until the next one finishes, which also won't finish until the next one does, and you get the idea. The base case is needed to end this repetition.
+that is literally what we program into our code in line 3.
 
-So, a `StackOverflowError` occurs when the base case doesn't halt the process and the stack becomes too large and the program crashes. The stack limit is somewhere in the 10000s, but it depends on the methods in the stack.
+## Breaking the Pattern
+
+We need the recursion to stop at some point, and that's where line 2 comes into play. This is referred to as the **base case**, which is the point where we stop repeating the method call. If this base case doesn't exist—or doesn't work for whatever reason—you end up with a infinite recursion and a **`StackOverflowError`**.
+
+In Java, the stack is a list of the all the currently running methods, listed in their order of execution. The catch with recursion is that none of the methods actually finish (or close) until you hit that base case. The `return` statement on line 3 won't actually return anything until the `factorialRecursion(n-1)` completes and is multiplied by `n`. And that new one won't finish until the next one finishes, which also won't finish until the next one does, and you get the idea. The base case is needed to end this pattern.
+
+A `StackOverflowError` occurs when the stack becomes too large and the program crashes. The limit is very high, tens of thousands of method calls, which is nothing you have to worry about as long your base case is working properly.
+
+## Recursion Closing
+
+The two examples below highlight this quirk of a method not finishing until it's actually done. If you run the two, the first will print out numbers from `1` to `n`, while the second will count down from `n` to `1`.
 
 ```java
 public static void countUp(int n) {
-    if (n > 1) countUp(n - 1);
+    if (n > 1)
+        countUp(n - 1);
     System.out.println(n);
 }
 
 public static void countDown(int n) {
     System.out.println(n);
-    if (n > 1) countDown(n - 1);
+    if (n > 1)
+        countDown(n - 1);
 }
 ```
+
+I suggest tracing these two methods. They'll give you some insight into how recursion works.
+
+## Coding Practice
+
+Yeah, the AP exam is clear that you don't have to actually write any recursive code on the exam, but you learn best by doing. This is optional, but try out the [recursive exercises on CodingBat](https://codingbat.com/java/Recursion-1).
