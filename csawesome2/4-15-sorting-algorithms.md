@@ -16,3 +16,8 @@ next-link: ./4-16-recursion.html
 
 ---
 
+This section covers two sorting algorithms. A third comes later after we've covered recursion.
+
+1. **Selection sort**. Find the smallest item and move it to the first spot in the collection. Then find the next smallest item and move it to position two, and keep repeating that pattern.
+
+2. **Insertion sort**. Move through the list until you find an item out of order, then move that item to it's correct spot. If you keep track of the portion of the list that is sorted (and you should), you won't have to start at the beginning each time.
