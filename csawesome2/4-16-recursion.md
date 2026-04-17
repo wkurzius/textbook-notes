@@ -68,16 +68,16 @@ A `StackOverflowError` occurs when the stack becomes too large and the program c
 The two examples below highlight this quirk of a method not finishing until it's actually done. If you run the two, the first will print out numbers from `1` to `n`, while the second will count down from `n` to `1`.
 
 ```java
-public static void countUp(int n) {
-    if (n > 1)
-        countUp(n - 1);
-    System.out.println(n);
-}
-
 public static void countDown(int n) {
     System.out.println(n);
     if (n > 1)
         countDown(n - 1);
+}
+
+public static void countUp(int n) {
+    if (n > 1)
+        countUp(n - 1);
+    System.out.println(n);
 }
 ```
 
