@@ -12,11 +12,10 @@ next-link: ./4-2-mean-or-expected-value-and-standard-deviation.html
 
 ## Assignment
 
-> **!! You're not going to the HW section this time !!**
+**!! You're not going to the HW section this time !!**
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/1-key-terms) for definitions)
 - [4 Practice](https://openstax.org/books/statistics/pages/4-practice){: target="_blank"} 1–3, 5–8, 10–17
-  - Or if you prefer, 1–17 and skip 4 and 9
   - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 - Read the next section in the book
 

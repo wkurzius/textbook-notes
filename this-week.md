@@ -1,12 +1,12 @@
 ---
-title: "This Week (Apr. 13–17)"
+title: "This Week (Apr. 20–24)"
 layout: this-week
 
 csc-h: "[**AP Comp Sci A**](./csawesome2/){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
-csc-1: "**M**{: .day}[4.14 Searching Algorithms](./csawesome2/4-14-searching-algorithms.html)"
-csc-2: "**W**{: .day}[4.15 Sorting Algorithms](./csawesome2/4-15-sorting-algorithms.html)"
-csc-3: "**F**{: .day}[4.16 Recursion](./csawesome2/4-16-recursion.html)"
+csc-1: "**T**{: .day}[4.17 Recursive Searching and Sorting](./csawesome2/4-17-recursive-searching-and-sorting.html)"
+csc-2: "**R**{: .day}Review"
+csc-3: ""
 csc-x: "–"
 
 con-h: "[**Concepts of Algebra**](./syllabi/concepts-of-algebra-syllabus.html){: title=\"Course Syllabus\"}<br>
@@ -25,17 +25,19 @@ pro-x: "–"
 
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/){: title=\"Course Page\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**T**{: .day}Review"
-sta-2: "**R**{: .day}Quiz"
-sta-3: ""
-sta-x: "Apr. 16"
+sta-1: "**M**{: .day}[4.1 Probability Distribution Functions](./statistics-open-stax/4-1-probability-distribution-function-for-a-discrete-random-variable.html)"
+sta-2: "**W**{: .day}[4.2 Mean or Expected Value and Standard Deviation](./statistics-open-stax/4-2-mean-or-expected-value-and-standard-deviation.html)"
+sta-3: "**F**{: .day}[5.1 Continuous Probability Functions](./statistics-open-stax/5-1-continuous-probability-functions.html)"
+sta-x: "–"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/){: title=\"Course Page\"}"
-cal-1: "**T**{: .day}Review"
-cal-2: "**R**{: .day}Quiz"
+cal-1: "**M/W**{: .day}[6.1 Area of a Region Between Two Curves](./calc-for-ap-larson/6-1-area-of-a-region-between-two-curves.html)"
+cal-2: "**F**{: .day}[6.2 Volume: The Disk and Washer Methods](./calc-for-ap-larson/6-2-volume-the-disk-and-washer-methods.html)"
 cal-3: ""
-cal-x: "Apr. 16"
+cal-x: "–"
 ---
+
+- AP Mock Exam this Saturday at 8:30
 
 | Course Links   | New Material                                       | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
