@@ -168,3 +168,4 @@ layout: course-index
 - [Java Quick Reference](../pdfs/ap-csa-java-quick-reference.pdf)
 - [AP Scoring Guidelines](./ap-scoring-guidelines.md)
 - [Setting up a Local Java Environment](./environment-setup.md)
+- [AP Exam Review](./ap-exam-review.md)

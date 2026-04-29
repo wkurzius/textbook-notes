@@ -1,17 +1,17 @@
 ---
-title: "This Week (Apr. 20–24)"
+title: "This Week (Apr. 27–May 1)"
 layout: this-week
 
 csc-h: "[**AP Comp Sci A**](./csawesome2/){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
-csc-1: "**T**{: .day}[4.17 Recursive Searching and Sorting](./csawesome2/4-17-recursive-searching-and-sorting.html)"
-csc-2: "**R**{: .day}Review"
+csc-1: "[AP Exam Review](./csawesome2/ap-exam-review.html)"
+csc-2: ""
 csc-3: ""
-csc-x: "–"
+csc-x: "AP Exam<br>May 15 at 12 p.m."
 
 con-h: "[**Concepts of Algebra**](./syllabi/concepts-of-algebra-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://www.khanacademy.org/math/algebra-basics){: target=\"_blank\" title=\"KhanAcademy.org\"}"
-con-1: "[Unit 5: Systems of Equations](https://www.khanacademy.org/math/algebra-basics/alg-basics-systems-of-equations){: target=\"_blank\"}"
+con-1: "[Unit 6: Expressions with exponents](https://www.khanacademy.org/math/algebra-basics/alg-basics-expressions-with-exponents){: target=\"_blank\"}"
 con-2: ""
 con-3: ""
 con-x: "–"
@@ -25,25 +25,26 @@ pro-x: "–"
 
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/){: title=\"Course Page\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**M**{: .day}[4.1 Probability Distribution Functions](./statistics-open-stax/4-1-probability-distribution-function-for-a-discrete-random-variable.html)"
-sta-2: "**W**{: .day}[4.2 Mean or Expected Value and Standard Deviation](./statistics-open-stax/4-2-mean-or-expected-value-and-standard-deviation.html)"
-sta-3: "**F**{: .day}[5.1 Continuous Probability Functions](./statistics-open-stax/5-1-continuous-probability-functions.html)"
-sta-x: "–"
+sta-1: "**T**{: .day}[5.1 Continuous Probability Functions
+](./statistics-open-stax/5-1-continuous-probability-functions.html)"
+sta-2: "**R**{: .day}[5.2 The Uniform Distribution](./statistics-open-stax/5-2-the-uniform-distribution.html)"
+sta-3: ""
+sta-x: "May 4"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/){: title=\"Course Page\"}"
-cal-1: "**M/W**{: .day}[6.1 Area of a Region Between Two Curves](./calc-for-ap-larson/6-1-area-of-a-region-between-two-curves.html)"
-cal-2: "**F**{: .day}[6.2 Volume: The Disk and Washer Methods](./calc-for-ap-larson/6-2-volume-the-disk-and-washer-methods.html)"
+cal-1: "[6.2 Volume: The Disk and Washer Methods](./calc-for-ap-larson/6-2-volume-the-disk-and-washer-methods.html)"
+cal-2: ""
 cal-3: ""
-cal-x: "–"
+cal-x: "AP Exam<br>May 11 at 8 a.m."
 ---
 
 | Course Links   | New Material                                       | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
-| {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}}<br>{{page.csc-3}} | {{page.csc-x}} |
+| {{page.csc-h}} | {{page.csc-1}}                                     | {{page.csc-x}} |
 | {{page.con-h}} | {{page.con-1}}                                     | {{page.con-x}} |
 | {{page.pro-h}} | {{page.pro-1}}<br>{{page.pro-2}}<br>{{page.pro-3}} | {{page.pro-x}} |
 | {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-3}} | {{page.sta-x}} |
-| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |
+| {{page.cal-h}} | {{page.cal-1}}                                     | {{page.cal-x}} |
 {: #this-week-table}
 
 ## Schedule
