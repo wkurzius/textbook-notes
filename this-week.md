@@ -37,8 +37,6 @@ cal-3: ""
 cal-x: "–"
 ---
 
-- AP Mock Exam this Saturday at 8:30
-
 | Course Links   | New Material                                       | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
 | {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}}<br>{{page.csc-3}} | {{page.csc-x}} |
