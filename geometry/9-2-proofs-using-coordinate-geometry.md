@@ -1,7 +1,7 @@
 ---
-title: 
+title: 9.2 Proofs Using Coordinate Geometry
 layout: page
 course: Geometry
-prev-link: 
-next-link: 
+prev-link: ./9-1-polygons-in-the-coordinate-plane.html
+next-link: ./9-3-circles-in-the-coordinate-plane.html
 ---
