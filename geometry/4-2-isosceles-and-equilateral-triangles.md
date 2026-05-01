@@ -5,3 +5,6 @@ course: Geometry
 prev-link: ./4-1-congruence.html
 next-link: ./4-3-proving-and-applying-sas-and-sss.html
 ---
+
+- Use properties and theorems about isosceles and equilateral triangles to solve problems
+- Identify congruent triangles using properties of isosceles and equilateral triangles
