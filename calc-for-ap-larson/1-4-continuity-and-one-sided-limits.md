@@ -48,6 +48,7 @@ Here it is in more formal language.
 > 1. $f(c)$ is defined
 > 2. $\lim_{x\to c} f(x)$ exists
 > 3. $\lim_{x\to c} f(x) = f(c)$
+{: .definition}
 
 When those conditions are met for every point on an open interval, then the interval is continuous. And an entire function is continuous if that open interval is $(-\infty,\infty)$.
 
@@ -84,6 +85,7 @@ Let's get the formal definition out of the way first.
 > If $f$ is continuous on the closed interval $[a,b]$, $f(a)\neq f(b)$, and $k$ is any real number between $f(a)$ and $f(b)$, then there is at least one number $c$ in $[a,b]$ such that
 >
 > $$f(c)=k$$
+{: .definition}
 
 In other words, if you have a continuous function—which means every value between $a$ and $b$ exists—then every value between $f(a)$ and $f(b)$ also exists.
 

@@ -1,7 +1,10 @@
 ---
-title: 
+title: 10.2 Tangent Lines to a Circle
 layout: page
 course: Geometry
-prev-link: 
-next-link: 
+prev-link: ./10-1-arcs-and-sectors.html
+next-link: ./10-3-chords.html
 ---
+
+- Identify lines that are tangent to a circle using angle measures and segment lengths
+- Solve problems involving tangent lines
