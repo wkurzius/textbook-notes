@@ -41,7 +41,7 @@ I've mentioned continuity briefly, but here's the full definition. A graph is co
 
 Here it is in more formal language.
 
-> **Continuity at a Point**
+> ## Continuity at a Point
 >
 > A function $f$ is continuous at $c$ when these three conditions are met.
 >
@@ -80,7 +80,7 @@ The book goes into some other definitions and properties of continuity that are 
 
 Let's get the formal definition out of the way first.
 
-> **Intermediate Value Theorem**
+> ### Intermediate Value Theorem
 >
 > If $f$ is continuous on the closed interval $[a,b]$, $f(a)\neq f(b)$, and $k$ is any real number between $f(a)$ and $f(b)$, then there is at least one number $c$ in $[a,b]$ such that
 >
