@@ -5,3 +5,5 @@ course: Geometry
 prev-link: ./12-5-expected-value.html
 next-link: 
 ---
+
+- Analyze decisions and evaluate fairness using probability concepts
