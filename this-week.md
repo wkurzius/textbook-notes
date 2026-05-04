@@ -1,10 +1,10 @@
 ---
-title: "This Week (Apr. 27–May 1)"
+title: "This Week (May 4–May 8)"
 layout: this-week
 
 csc-h: "[**AP Comp Sci A**](./csawesome2/){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
-csc-1: "[AP Exam Review](./csawesome2/ap-exam-review.html)"
+csc-1: "[AP Exam Review](./csawesome2/ap-csa-exam-review.html)"
 csc-2: ""
 csc-3: ""
 csc-x: "AP Exam<br>May 15 at 12 p.m."
@@ -14,25 +14,25 @@ con-h: "[**Concepts of Algebra**](./syllabi/concepts-of-algebra-syllabus.html){:
 con-1: "[Unit 6: Expressions with exponents](https://www.khanacademy.org/math/algebra-basics/alg-basics-expressions-with-exponents){: target=\"_blank\"}"
 con-2: ""
 con-3: ""
-con-x: "–"
+con-x: "May 7"
 
 pro-h: "[**Intro to Programming**](./syllabi/intro-to-programming-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://academy.cs.cmu.edu/){: target=\"_blank\" title=\"CS Academy Online Curriculum\"}"
-pro-1: "**≥ A**{: .day}Start working on Unit 4"
-pro-2: "**≥ B**{: .day}Start working on Unit 3"
-pro-3: "**< B**{: .day}Start working on Unit 2"
+pro-1: "**≥ A**{: .day}Start working on Unit 5"
+pro-2: "**≥ B**{: .day}Finish Unit 3"
+pro-3: "**< B**{: .day}Continue working on Unit 2"
 pro-x: "–"
 
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/){: title=\"Course Page\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**T**{: .day}[5.1 Continuous Probability Functions
+sta-1: "**M**{: .day}[5.1 Continuous Probability Functions
 ](./statistics-open-stax/5-1-continuous-probability-functions.html)"
-sta-2: "**R**{: .day}[5.2 The Uniform Distribution](./statistics-open-stax/5-2-the-uniform-distribution.html)"
-sta-3: ""
-sta-x: "May 4"
+sta-2: "**W**{: .day}[5.2 The Uniform Distribution](./statistics-open-stax/5-2-the-uniform-distribution.html)"
+sta-3: "**F**{: .day}Ch 4/5 Quiz"
+sta-x: "May 8"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/){: title=\"Course Page\"}"
-cal-1: "[6.2 Volume: The Disk and Washer Methods](./calc-for-ap-larson/6-2-volume-the-disk-and-washer-methods.html)"
+cal-1: "[AP Exam Review](./calc-for-ap-larson/ap-calc-exam-review.html)"
 cal-2: ""
 cal-3: ""
 cal-x: "AP Exam<br>May 11 at 8 a.m."
