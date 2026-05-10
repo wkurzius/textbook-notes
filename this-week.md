@@ -1,5 +1,5 @@
 ---
-title: "This Week (May 4–May 8)"
+title: "This Week (May 11–May 15)"
 layout: this-week
 
 csc-h: "[**AP Comp Sci A**](./csawesome2/){: title=\"Course Syllabus\"}<br>
@@ -11,10 +11,10 @@ csc-x: "AP Exam<br>May 15 at 12 p.m."
 
 con-h: "[**Concepts of Algebra**](./syllabi/concepts-of-algebra-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://www.khanacademy.org/math/algebra-basics){: target=\"_blank\" title=\"KhanAcademy.org\"}"
-con-1: "[Unit 6: Expressions with exponents](https://www.khanacademy.org/math/algebra-basics/alg-basics-expressions-with-exponents){: target=\"_blank\"}"
+con-1: "[Unit 8: Equations and geometry](https://www.khanacademy.org/math/algebra-basics/alg-basics-equations-and-geometry){: target=\"_blank\"}"
 con-2: ""
 con-3: ""
-con-x: "May 7"
+con-x: "–"
 
 pro-h: "[**Intro to Programming**](./syllabi/intro-to-programming-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://academy.cs.cmu.edu/){: target=\"_blank\" title=\"CS Academy Online Curriculum\"}"
@@ -25,14 +25,13 @@ pro-x: "–"
 
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/){: title=\"Course Page\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**M**{: .day}[5.1 Continuous Probability Functions
-](./statistics-open-stax/5-1-continuous-probability-functions.html)"
-sta-2: "**W**{: .day}[5.2 The Uniform Distribution](./statistics-open-stax/5-2-the-uniform-distribution.html)"
-sta-3: "**F**{: .day}Ch 4/5 Quiz"
-sta-x: "May 8"
+sta-1: "[High School Statistics on Khan Academy](https://www.khanacademy.org/math/probability){: target=\"_blank\"}"
+sta-2: ""
+sta-3: ""
+sta-x: "–"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/){: title=\"Course Page\"}"
-cal-1: "[AP Exam Review](./calc-for-ap-larson/ap-calc-exam-review.html)"
+cal-1: "AP Exam and then switch to [College Algebra](https://www.khanacademy.org/math/college-algebra){: target=\"_blank\"}"
 cal-2: ""
 cal-3: ""
 cal-x: "AP Exam<br>May 11 at 8 a.m."
@@ -43,7 +42,7 @@ cal-x: "AP Exam<br>May 11 at 8 a.m."
 | {{page.csc-h}} | {{page.csc-1}}                                     | {{page.csc-x}} |
 | {{page.con-h}} | {{page.con-1}}                                     | {{page.con-x}} |
 | {{page.pro-h}} | {{page.pro-1}}<br>{{page.pro-2}}<br>{{page.pro-3}} | {{page.pro-x}} |
-| {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-3}} | {{page.sta-x}} |
+| {{page.sta-h}} | {{page.sta-1}}                                     | {{page.sta-x}} |
 | {{page.cal-h}} | {{page.cal-1}}                                     | {{page.cal-x}} |
 {: #this-week-table}
 
