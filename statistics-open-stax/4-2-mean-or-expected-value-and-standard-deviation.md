@@ -80,7 +80,7 @@ So, to get the expected value, sum up the products of each outcome multiplied by
 > Where $x$ is the value and $P(x)$ the probability of that value occurring, sum all the products of the two.
 >
 > $$\begin{align}
-> \mu &= \sum xP(x)
+> \mu &= \Sigma xP(x)
 > \end{align}$$
 {: .definition}
 

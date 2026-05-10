@@ -5,3 +5,6 @@ course: Geometry
 prev-link: ./9-1-polygons-in-the-coordinate-plane.html
 next-link: ./9-3-circles-in-the-coordinate-plane.html
 ---
+
+- Plan a method of proof using coordinate geometry
+- Prove theorems using algebra and the coordinate plane
