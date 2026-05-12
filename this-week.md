@@ -25,7 +25,7 @@ pro-x: "–"
 
 sta-h: "[**Prob. & Stats**](./statistics-open-stax/){: title=\"Course Page\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "[High School Statistics on Khan Academy](https://www.khanacademy.org/math/probability){: target=\"_blank\"}"
+sta-1: "[High School Statistics on Khan Academy](./statistics-open-stax/khan-academy-eoy-work.html)"
 sta-2: ""
 sta-3: ""
 sta-x: "–"
