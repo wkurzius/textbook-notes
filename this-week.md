@@ -4,9 +4,9 @@ layout: this-week
 
 csc-h: "[**AP Comp Sci A**](./csawesome2/){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
-csc-1: "[AP Exam Review](./csawesome2/ap-csa-exam-review.html)"
-csc-2: ""
-csc-3: ""
+csc-1: "[Install BlueBook](https://bluebook.app.collegeboard.org/){: target=\"_blank\"}"
+csc-2: "or"
+csc-3: "`winget install collegeboard.bluebook`"
 csc-x: "AP Exam<br>May 15 at 12 p.m."
 
 con-h: "[**Concepts of Algebra**](./syllabi/concepts-of-algebra-syllabus.html){: title=\"Course Syllabus\"}<br>
@@ -39,7 +39,7 @@ cal-x: "AP Exam<br>May 11 at 8 a.m."
 
 | Course Links   | New Material                                       | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
-| {{page.csc-h}} | {{page.csc-1}}                                     | {{page.csc-x}} |
+| {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}}<br>{{page.csc-3}} | {{page.csc-x}} |
 | {{page.con-h}} | {{page.con-1}}                                     | {{page.con-x}} |
 | {{page.pro-h}} | {{page.pro-1}}<br>{{page.pro-2}}<br>{{page.pro-3}} | {{page.pro-x}} |
 | {{page.sta-h}} | {{page.sta-1}}                                     | {{page.sta-x}} |
