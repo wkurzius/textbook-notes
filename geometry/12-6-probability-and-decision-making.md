@@ -7,3 +7,9 @@ next-link:
 ---
 
 - Analyze decisions and evaluate fairness using probability concepts
+
+## Assignment
+
+- **p542**{: .envision-hw-blue} 11--24 (14 problems)
+
+---

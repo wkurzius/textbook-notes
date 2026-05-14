@@ -8,3 +8,10 @@ next-link: ./12-6-probability-and-decision-making.html
 
 - Calculate the expected value in situations involving chance
 - Weigh the possible outcomes of a decision by comparing expected values and finding expected payoffs
+
+## Assignment
+
+- Two **vocabulary**{: .envision-vocab-purple} definitions
+- **p535**{: .envision-hw-blue} 11--27 (17 problems)
+
+---

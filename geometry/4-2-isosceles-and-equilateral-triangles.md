@@ -8,3 +8,9 @@ next-link: ./4-3-proving-and-applying-sas-and-sss.html
 
 - Use properties and theorems about isosceles and equilateral triangles to solve problems
 - Identify congruent triangles using properties of isosceles and equilateral triangles
+
+## Assignment
+
+- **p164**{: .envision-hw-blue} 12--20, 22--31 (19 problems)
+
+---

@@ -10,3 +10,11 @@ next-link: "./1-2-basic-constructions.html"
 - Use absolute value and the segment addition postulate
 - Use the protractor postulate and angle addition postulate
 - Identify congruent segments and congruent angles
+
+## Assignment
+
+- Five **vocabulary**{: .envision-vocab-purple} definitions
+- **p12**{: .envision-hw-blue} 9–27, 30–41 (31 problems)
+
+---
+

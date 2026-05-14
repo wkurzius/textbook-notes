@@ -8,3 +8,10 @@ next-link: ./9-1-polygons-in-the-coordinate-plane.html
 
 - Distinguish between angles of elevation and depression
 - Use trigonometric ratios and the law of sines and law of cosine to solve problems
+
+## Assignment
+
+- Two **vocabulary**{: .envision-vocab-purple} definition
+- **p378**{: .envision-hw-blue} 10--20, 22--28 (18 problems)
+
+---

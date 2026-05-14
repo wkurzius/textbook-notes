@@ -8,3 +8,9 @@ next-link: ./6-1-the-polygon-angle-sum-theorems.html
 
 - Prove the hinge theorem and use it to compare side lengths
 - Prove the converse of the hinge theorem and use the it to compare angle measures
+
+## Assignment
+
+- **p237**{: .envision-hw-blue} 8--11, 13--19 (11 problems)
+
+---

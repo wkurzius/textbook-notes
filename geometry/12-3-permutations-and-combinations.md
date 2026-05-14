@@ -8,3 +8,10 @@ next-link: ./12-4-probability-distributions.html
 
 - Calculate the number of permutations and combinations in mathematical and real-world tasks
 - Use permutations and combinations to compute probabilities of compound events and solve problems
+
+## Assignment
+
+- Four **vocabulary**{: .envision-vocab-purple} definitions
+- **p520**{: .envision-hw-blue} 17--28, 30--36 (19 problems)
+
+---

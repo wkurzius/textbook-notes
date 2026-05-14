@@ -8,3 +8,10 @@ next-link: ./12-1-probability-events.html
 
 - Use Cavalieri's principle to show how the volume of a hemisphere is related to the volume of a cone and a cylinder
 - Calculate volumes and surface areas of spheres and composite figures
+
+## Assignment
+
+- One **vocabulary**{: .envision-vocab-purple} definition
+- **p491**{: .envision-hw-blue} 11--27, 29--35 (24 problems)
+
+---

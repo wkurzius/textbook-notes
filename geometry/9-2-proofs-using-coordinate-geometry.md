@@ -8,3 +8,9 @@ next-link: ./9-3-circles-in-the-coordinate-plane.html
 
 - Plan a method of proof using coordinate geometry
 - Prove theorems using algebra and the coordinate plane
+
+## Assignment
+
+- **p398**{: .envision-hw-blue} 13--23, 25--33 (20 problems)
+
+---

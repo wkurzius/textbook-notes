@@ -8,3 +8,10 @@ next-link: ./1-5-conditional-statements.html
 
 - Use inductive reasoning to identify patterns and make predictions based on data
 - Use inductive reasoning to provide evidence that conjectures are true or provide counterexamples to disprove them
+
+## Assignment
+
+- Three **vocabulary**{: .envision-vocab-purple} definitions
+- **p33**{: .envision-hw-blue} 7–23 (17 problems)
+
+---

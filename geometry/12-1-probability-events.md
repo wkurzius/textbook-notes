@@ -8,3 +8,10 @@ next-link: ./12-2-conditional-probability.html
 
 - Explain independence of events in everyday language and everyday situations
 - Determine the probability of the union of two events ($A$ or $B$)and the intersection of two independent events ($A$ and $B$)
+
+## Assignment
+
+- Three **vocabulary**{: .envision-vocab-purple} definitions
+- **p505**{: .envision-hw-blue} 9--18, 20--26 (17 problems)
+
+---

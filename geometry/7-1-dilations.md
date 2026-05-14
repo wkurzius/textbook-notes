@@ -8,3 +8,10 @@ next-link: ./7-2-similarity-transformations.html
 
 - Dilate figures on and off the coordinate plane
 - Understand how distances and lengths in a dilation are related to the scale factor and center of dilation
+
+## Assignment
+
+- One **vocabulary**{: .envision-vocab-purple} definition
+- **p308**{: .envision-hw-blue} 10--21, 23--28 (18 problems)
+
+---

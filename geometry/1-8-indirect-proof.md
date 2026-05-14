@@ -8,3 +8,10 @@ next-link: ./2-1-properties-of-parallel-lines.html
 
 - Use indirect reasoning to prove theorems about lines and angles
 - Use proof by contradiction and proof by contrapositive to prove conditional statements
+
+## Assignment
+
+- One **vocabulary**{: .envision-vocab-purple} definitions
+- **p62**{: .envision-hw-blue} 11–28 (18 problems)
+
+---

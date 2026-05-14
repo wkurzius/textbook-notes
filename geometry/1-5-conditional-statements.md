@@ -9,3 +9,10 @@ next-link: ./1-6-deductive-reasoning.html
 - Write conditional and biconditional statements
 - Find the contrapositive, converse and inverse of a conditional statement
 - Find truth values for conditional statements and complete truth tables
+
+## Assignment
+
+- Ten **vocabulary**{: .envision-vocab-purple} definitions
+- **p42**{: .envision-hw-blue} 11–31, 33–38 (27 problems)
+
+---

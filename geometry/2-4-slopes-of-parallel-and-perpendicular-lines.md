@@ -8,3 +8,9 @@ next-link: ./3-1-reflections.html
 
 - Show that two lines in the coordinate plane are parallel by comparing their slopes, and use that information to solve problems
 - Show that two lines in the coordinate plane are perpendicular by comparing their slopes, and use that information to solve problems
+
+## Assignment
+
+- **p97**{: .envision-hw-blue} 13--24, 26, 28--33 (19 problems)
+
+---

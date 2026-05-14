@@ -8,3 +8,10 @@ next-link: ./7-5-proportions-in-triangles.html
 
 - Use similarity of right triangles to solve problems
 - Use length relationships of the sides of right triangles, and an altitude drawn to the hypotenuse, to solve problems
+
+## Assignment
+
+- One **vocabulary**{: .envision-vocab-purple} definition
+- **p330**{: .envision-hw-blue} 11--27 (17 problems)
+
+---
