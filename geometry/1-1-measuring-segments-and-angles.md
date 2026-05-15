@@ -24,6 +24,12 @@ Welcome to geometry. We're going to spend a lot of time talking about things tha
 
 A **point** is sort of like a dot, but it's more a location than anything else. It doesn't have a width or a height, so it doesn't take up any space. But we can still point to it and talk about it.
 
+> ![Point P](./img/1-1-point.png)
+>
+> **Figure 1.1.1** Point $P$. Looks like a dot, but doesn't technically occupy any space.
+{: .figure}
+
+
 A **line** is a perfectly straight path that extends to infinity in opposite directions. That means it has a length, but it doesn't have a height (or a thickness).
 
 And lastly a **plane**, which is a flat surface that has an infinite length and an infinite height.
@@ -37,3 +43,4 @@ With points and lines in our pocket, we can start breaking them apart and combin
 With only one endpoint, we get a ray.
 
 And with two rays sharing the same endpoint we get an angle.
+
