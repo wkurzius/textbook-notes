@@ -29,8 +29,12 @@ A **point** is sort of like a dot, but it's more a location than anything else. 
 > **Figure 1.1.1** Point $P$. Looks like a dot, but doesn't technically occupy any space.
 {: .figure}
 
-
 A **line** is a perfectly straight path that extends to infinity in opposite directions. That means it has a length, but it doesn't have a height (or a thickness).
+
+> ![Line l](./img/1-2-line.png)
+>
+> **Figure 1.1.2** Line $\mathscr{l}$, or $\overleftrightarrow{AB}$.
+{: .figure}
 
 And lastly a **plane**, which is a flat surface that has an infinite length and an infinite height.
 
@@ -41,6 +45,8 @@ And lastly a **plane**, which is a flat surface that has an infinite length and 
 With points and lines in our pocket, we can start breaking them apart and combining them into other things. A line extends forever in opposite directions, but if we only want a part of that line, with two clearly defined endpoints, it's a line segment, or just segment.
 
 With only one endpoint, we get a ray.
+
+
 
 And with two rays sharing the same endpoint we get an angle.
 
