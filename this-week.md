@@ -1,20 +1,20 @@
 ---
-title: "This Week (May 11–May 15)"
+title: "This Week (May 18–May 21)"
 layout: this-week
 
 csc-h: "[**AP Comp Sci A**](./csawesome2/){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
-csc-1: "[Install BlueBook](https://bluebook.app.collegeboard.org/){: target=\"_blank\"}"
-csc-2: "or"
-csc-3: "`winget install collegeboard.bluebook`"
-csc-x: "AP Exam<br>May 15 at 12 p.m."
+csc-1: "- [Godot Game Engine](https://godotengine.org/){: target=\"_blank\"}"
+csc-2: "- [Tutorial](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html){: target=\"_blank\"}"
+csc-3: ""
+csc-x: "--"
 
 con-h: "[**Concepts of Algebra**](./syllabi/concepts-of-algebra-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://www.khanacademy.org/math/algebra-basics){: target=\"_blank\" title=\"KhanAcademy.org\"}"
 con-1: "[Unit 8: Equations and geometry](https://www.khanacademy.org/math/algebra-basics/alg-basics-equations-and-geometry){: target=\"_blank\"}"
 con-2: ""
 con-3: ""
-con-x: "–"
+con-x: "--"
 
 pro-h: "[**Intro to Programming**](./syllabi/intro-to-programming-syllabus.html){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-globe\"></i>](https://academy.cs.cmu.edu/){: target=\"_blank\" title=\"CS Academy Online Curriculum\"}"
@@ -31,10 +31,10 @@ sta-3: ""
 sta-x: "–"
 
 cal-h: "[**AP Calc**](./calc-for-ap-larson/){: title=\"Course Page\"}"
-cal-1: "AP Exam and then switch to [College Algebra](https://www.khanacademy.org/math/college-algebra){: target=\"_blank\"}"
+cal-1: "[College Algebra](https://www.khanacademy.org/math/college-algebra){: target=\"_blank\"}"
 cal-2: ""
 cal-3: ""
-cal-x: "AP Exam<br>May 11 at 8 a.m."
+cal-x: "--"
 ---
 
 | Course Links   | New Material                                       | Next Exam      |
