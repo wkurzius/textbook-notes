@@ -195,11 +195,21 @@ $$\begin{align}
 > In the figure below, $m\angle{XWZ}=127^{\circ}$ and $m\angle{XWY}=32^{\circ}$. What is $m\angle{YWV}$?
 >
 > > ![](./img/1-1-congruent-angle-example.png)
->
-> **Figure 1.1.10**
-{: .figure}
- 
+> {: .figure}
 {: .example}
+
+You can view the big angle as being made up of three smaller ones, and those three added together equal the big one.
+
+$$\begin{align}
+m\angle{XWY} + m\angle{YWV} + m\angle{VWZ} = m\angle{XWZ}
+\end{align}$$
+
+The outer two angles are congruent, meaning they are both $32^\circ$, and the whole thing is $127^\circ$.
+
+$$\begin{align}
+32^\circ + m\angle{YWV} + 32^\circ &= 127^\circ \\
+m\angle{YWV} &= 63^\circ
+\end{align}$$
 
 
 
