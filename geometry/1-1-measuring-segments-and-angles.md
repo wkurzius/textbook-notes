@@ -20,7 +20,9 @@ next-link: "./1-2-basic-constructions.html"
 
 ## The Basics
 
-Welcome to geometry. We're going to spend a lot of time talking about things that don't actually exist. Like perfect circles and lines that don't have any thickness. Reality is a lot messier than math will let on, but it's still a very good approximation. Three things that don't exist but we'll talk about a lot are points, lines, and planes. Well, they do exist, but more as concepts rather than something you can pick up and throw.
+Welcome to geometry. We're going to spend a lot of time talking about things that don't actually exist. Like perfect circles and lines that don't have any thickness. Reality is a lot messier than math will let on, but it's still a very good approximation.
+
+Three things that don't exist but we'll talk about a lot are points, lines, and planes. Well, they do exist, but more as concepts rather than something you can pick up and throw.
 
 A **point** is sort of like a dot, but a better description is that it's a location. It doesn't have a width or a height, so it doesn't take up any space, but we can still point to it and talk about it.
 
@@ -142,7 +144,7 @@ $\blacksquare$
 
 ## Measuring Angles
 
-With segments, we could map them to a number line in order to get some numbers to work with. But we can't measure an angle with a ruler, so a number line isn't going to cut it if we still want numbers. Enter degrees, the system where one rotation is divided into 360 equal parts. Half of that you'll see on a protractor, giving us
+With lines, we could map them to a number line or ruler in order to get some numbers to work with. But we can't measure an angle with a ruler, so a number line isn't going to cut it if we still want numbers. Enter degrees, the system where one rotation is divided into 360 equal parts. Half of that you'll see on a protractor, giving us
 
 > ### Protractor Postulate
 >
