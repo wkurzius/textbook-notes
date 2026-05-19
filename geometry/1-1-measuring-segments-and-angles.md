@@ -172,3 +172,34 @@ And like segments, there is postulate about adding them up.
 
 ## Congruence
 
+The last bit of foundational knowledge is the notation for lines and angles that have the same measure, meaning they are **congruent**. In figures, you'll tick marks and arc marks to signify any congruency.
+
+> ![Congruent lines and angles](./img/1-1-congruent.png)
+>
+> **Figure 1.1.9** Congruent lines and angles. Lines with a matching number of tick marks have the same length, and angles with the same number of arc marks have the same degree measure.
+{: .figure}
+
+With symbols, we use the $\cong$ symbol. It looks just like an equals symbol, except with the ~ (tilde) above it. So, from the figure above here are the congruent statements.
+
+$$\begin{align}
+\overline{AB} &\cong \overline{CD} \\
+\overline{EF} &\cong \overline{GH} \\
+\angle{MNO} &\cong \angle{PQR} \\
+\angle{UVW} &\cong \angle{XYZ} \\
+\end{align}$$
+
+> ### Example: Congruent Angles
+>
+> In the figure below, $m\angle{XWZ}=127^{\circ}$ and $m\angle{XWY}=32^{\circ}$. What is $m\angle{YWV}$?
+>
+> > ![](./img/1-1-congruent-angle-example.png)
+>
+> **Figure 1.1.10**
+{: .figure}
+ 
+{: .example}
+
+
+
+$\blacksquare$
+{: .qed}
