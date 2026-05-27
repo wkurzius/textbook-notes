@@ -67,7 +67,7 @@ And with two rays sharing the same endpoint we get an angle.
 
 ## Measuring Segments
 
-Let's measure some things. Lines and points by themselves have no numbers attached to them, but we can treat lines like number lines and then match up the points to numbers. And since a ruler is basically a number line, we get
+Let's measure some things. Lines and points by themselves have no numbers attached to them, but we can treat lines like number lines and then match up the points to numbers. And since a ruler is basically a number line, we get ...
 
 > ### The Ruler Postulate
 >
@@ -75,7 +75,7 @@ Let's measure some things. Lines and points by themselves have no numbers attach
 >
 {: .definition}
 
-> A big part of geometry is proving things, and to prove something you need some basic principles, or **postulates**, that everyone can agree on, like "people need air to breath". The ruler postulate is one example these basic geometry facts we'll use to build bigger ideas.
+A big part of geometry is proving things, and to prove something you need some basic principles, or **postulates**, that everyone can agree on. The ruler postulate is one example of these basic geometry facts we'll use to build bigger ideas.
 
 > ### Example: Find the Length of a Segment
 >
@@ -86,7 +86,7 @@ Let's measure some things. Lines and points by themselves have no numbers attach
 > {: .figure}
 {: .example}
 
-To find the distance between points, all we need to do is subtract.
+**SOLUTION** To find the distance between points, all we need to do is subtract.
 
 $$\begin{align}
 \overline{JK} &= 12 - 5 = 7\\
@@ -99,17 +99,7 @@ Since distance is always positive, just drop the negative if you accidentally re
 $\blacksquare$
 {: .qed}
 
-> ### Example: Distance Between Collinear Points
->
-> Points $F$, $G$, and $H$ are collinear and $\overline{GH}=16$. Find $\overline{FH}$.
->
-> > ![Collinear points](./img/1-1-collinear.png)
-> >
-> > **Figure 1.1.6** Collinear points $F$, $G$, and $H$.
-> {: .figure}
-{: .example}
-
-**Collinear points** are points that lie on the same line, and we have another postulate to go with them.
+The next example features **collinear points**, which are points that lie on the same line. There is also a relevant postulate that goes with it.
 
 > ### Segment Addition Postulate
 >
@@ -120,7 +110,17 @@ $\blacksquare$
 > \end{align}$$
 {: .definition}
 
-For our situation, that means
+> ### Example: Distance Between Collinear Points
+>
+> Points $F$, $G$, and $H$ are collinear and $\overline{GH}=16$. Find $\overline{FH}$.
+>
+> > ![Collinear points](./img/1-1-collinear.png)
+> >
+> > **Figure 1.1.6** Collinear points $F$, $G$, and $H$.
+> {: .figure}
+{: .example}
+
+**SOLUTION** For our situation, that means
 
 $$\begin{align}
 \overline{FH} &= \overline{FG}+\overline{GH} \\
@@ -144,7 +144,7 @@ $\blacksquare$
 
 ## Measuring Angles
 
-With lines, we could map them to a number line or ruler in order to get some numbers to work with. But we can't measure an angle with a ruler, so a number line isn't going to cut it if we still want numbers. Enter degrees, the system where one rotation is divided into 360 equal parts. Half of that you'll see on a protractor, giving us
+With lines, we could map them to a number line or ruler in order to get some numbers to work with. But we can't measure an angle with a ruler, so a number line isn't going to cut it if we still want numbers. Enter degrees, the system where one rotation is divided into 360 equal parts. Half of that you'll see on a protractor, giving us ...
 
 > ### Protractor Postulate
 >
@@ -174,14 +174,14 @@ And like segments, there is postulate about adding them up.
 
 ## Congruence
 
-The last bit of foundational knowledge is the notation for lines and angles that have the same measure, meaning they are **congruent**. In figures, you'll tick marks and arc marks to signify any congruency.
+The last bit of foundational knowledge is the notation for lines and angles that have the same measure, meaning they are **congruent**. In figures, you'll see tick marks and arc marks to signify any congruency.
 
 > ![Congruent lines and angles](./img/1-1-congruent.png)
 >
 > **Figure 1.1.9** Congruent lines and angles. Lines with a matching number of tick marks have the same length, and angles with the same number of arc marks have the same degree measure.
 {: .figure}
 
-With symbols, we use the $\cong$ symbol. It looks just like an equals symbol, except with the ~ (tilde) above it. So, from the figure above here are the congruent statements.
+With symbols, we use the $\cong$ symbol. It looks just like an equals symbol, except with the $\sim$ (tilde) above it. So based on the figure above, here are the congruent statements.
 
 $$\begin{align}
 \overline{AB} &\cong \overline{CD} \\
@@ -198,7 +198,7 @@ $$\begin{align}
 > {: .figure}
 {: .example}
 
-You can view the big angle as being made up of three smaller ones, and those three added together equal the big one.
+**SOLUTION** You can view the big angle as being made up of three smaller ones, and those three added together equal the big one.
 
 $$\begin{align}
 m\angle{XWY} + m\angle{YWV} + m\angle{VWZ} = m\angle{XWZ}

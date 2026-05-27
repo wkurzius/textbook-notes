@@ -16,3 +16,4 @@ next-link: "./1-3-midpoint-and-distance.html"
 - **p20**{: .envision-hw-blue} 10–19, 21–25 (15 problems)
 
 ---
+
