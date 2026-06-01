@@ -1,5 +1,5 @@
 ---
-title: "This Week (May 26–May 29)"
+title: "This Week (Jun. 1–5)"
 layout: this-week
 
 csc-h: "[**AP Comp Sci A**](./csawesome2/){: title=\"Course Syllabus\"}<br>
