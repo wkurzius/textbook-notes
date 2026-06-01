@@ -10,16 +10,16 @@ layout: page
 
 > > ### AP Calculus
 > >
-> > [Syllabus](./calc-for-ap-larson/ap-calc-syllabus.md)
+> > [Syllabus](./ap-calculus/ap-calc-syllabus.md)
 > >
-> > [Notes and assignments](./calc-for-ap-larson/)
+> > [Notes and assignments](./ap-calculus/)
 > {: .course-card}
 >
 > > ### AP Computer Science A
 > >
-> > [Syllabus](./csawesome2/ap-csa-syllabus.md)
+> > [Syllabus](./a-comp-sci-a/ap-csa-syllabus.md)
 > >
-> > [Notes and assignments](./csawesome2/)
+> > [Notes and assignments](./a-comp-sci-a/)
 > >
 > > [*CSAwesome2*](https://runestone.academy/){: target="_blank"}<br>
 > > Online curriculum provided by Runestone
@@ -35,9 +35,9 @@ layout: page
 >
 > > ### Probability & Statistics
 > >
-> > [Syllabus](./statistics-open-stax/prob-and-stats-syllabus.md)
+> > [Syllabus](./prob-and-stats/prob-and-stats-syllabus.md)
 > >
-> > [Notes and assignments](./statistics-open-stax/)
+> > [Notes and assignments](./prob-and-stats/)
 > >
 > > [*Statistics: High School*](https://openstax.org/details/books/statistics){: target="_blank"}<br>
 > > Online book provided by OpenStax

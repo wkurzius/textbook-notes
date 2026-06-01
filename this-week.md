@@ -2,7 +2,7 @@
 title: "This Week (May 26–May 29)"
 layout: this-week
 
-csc-h: "[**AP Comp Sci A**](./csawesome2/){: title=\"Course Syllabus\"}<br>
+csc-h: "[**AP Comp Sci A**](./a-comp-sci-a/){: title=\"Course Syllabus\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
 csc-1: "- [Godot Game Engine](https://godotengine.org/){: target=\"_blank\"}"
 csc-2: "- [Tutorial](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html){: target=\"_blank\"}"
@@ -23,14 +23,14 @@ pro-2: "**≥ B**{: .day}Finish Unit 3"
 pro-3: "**< B**{: .day}Continue working on Unit 2"
 pro-x: "–"
 
-sta-h: "[**Prob. & Stats**](./statistics-open-stax/){: title=\"Course Page\"}<br>
+sta-h: "[**Prob. & Stats**](./prob-and-stats/){: title=\"Course Page\"}<br>
         [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "[High School Statistics on Khan Academy](./statistics-open-stax/khan-academy-eoy-work.html)"
+sta-1: "[High School Statistics on Khan Academy](./prob-and-stats/khan-academy-eoy-work.html)"
 sta-2: ""
 sta-3: ""
 sta-x: "–"
 
-cal-h: "[**AP Calc**](./calc-for-ap-larson/){: title=\"Course Page\"}"
+cal-h: "[**AP Calc**](./ap-calculus/){: title=\"Course Page\"}"
 cal-1: "[College Algebra](https://www.khanacademy.org/math/college-algebra){: target=\"_blank\"}"
 cal-2: ""
 cal-3: ""
