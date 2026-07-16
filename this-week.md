@@ -1,61 +1,71 @@
 ---
-title: "This Week (Jun. 1–5)"
+title: "This Week (Sep. 8–11)"
 layout: this-week
 
-csc-h: "[**AP Comp Sci A**](./a-comp-sci-a/){: title=\"Course Syllabus\"}<br>
-        [<i class=\"fa-solid fa-book\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
-csc-1: "- [Godot Game Engine](https://godotengine.org/){: target=\"_blank\"}"
-csc-2: "- [Tutorial](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html){: target=\"_blank\"}"
-csc-3: ""
-csc-x: "--"
+geo-h: "[**Geometry**](./geometry/){: title=\"Course Page\"}<br>
+        [<i class=\"fa-solid fa-file-lines\"></i>](./geometry/geometry-syllabus.html){: title=\"Course Syllabus\"}"
+geo-1: ""
+geo-2: ""
+geo-3: ""
+geo-x: "--"
 
-con-h: "[**Concepts of Algebra**](./syllabi/concepts-of-algebra-syllabus.html){: title=\"Course Syllabus\"}<br>
-        [<i class=\"fa-solid fa-globe\"></i>](https://www.khanacademy.org/math/algebra-basics){: target=\"_blank\" title=\"KhanAcademy.org\"}"
-con-1: "[Unit 8: Equations and geometry](https://www.khanacademy.org/math/algebra-basics/alg-basics-equations-and-geometry){: target=\"_blank\"}"
-con-2: ""
-con-3: ""
-con-x: "--"
+csa-h: "[**AP Comp Sci A**](./ap-comp-sci-a/){: title=\"Course Page\"}<br>
+        [<i class=\"fa-solid fa-file-lines\"></i>](./ap-comp-sci-a/ap-csa-syllabus.html){: title=\"Course Syllabus\"}
+        [<i class=\"fa-solid fa-globe\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
+csa-1: ""
+csa-2: ""
+csa-3: ""
+csa-x: "--"
 
-pro-h: "[**Intro to Programming**](./syllabi/intro-to-programming-syllabus.html){: title=\"Course Syllabus\"}<br>
+pro-h: "[**Intro to Programming**](./intro-to-programming/){: title=\"Course Page\"}<br>
+        [<i class=\"fa-solid fa-file-lines\"></i>](./intro-to-programming/intro-to-programming-syllabus.html){: title=\"Course Syllabus\"}
         [<i class=\"fa-solid fa-globe\"></i>](https://academy.cs.cmu.edu/){: target=\"_blank\" title=\"CS Academy Online Curriculum\"}"
-pro-1: "**≥ A**{: .day}Start working on Unit 5"
-pro-2: "**≥ B**{: .day}Finish Unit 3"
-pro-3: "**< B**{: .day}Continue working on Unit 2"
+pro-1: "**≥ A**{: .day}Start working on Unit 1"
+pro-2: "**≥ B**{: .day}Start working on Unit 1"
+pro-3: "**< B**{: .day}Start working on Unit 1"
 pro-x: "–"
 
 sta-h: "[**Prob. & Stats**](./prob-and-stats/){: title=\"Course Page\"}<br>
-        [<i class=\"fa-solid fa-book\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "[High School Statistics on Khan Academy](./prob-and-stats/khan-academy-eoy-work.html)"
+        [<i class=\"fa-solid fa-file-lines\"></i>](./prob-and-stats/prob-and-stats-syllabus.html){: title=\"Course Syllabus\"}
+        [<i class=\"fa-solid fa-globe\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
+sta-1: ""
 sta-2: ""
 sta-3: ""
 sta-x: "–"
 
-cal-h: "[**AP Calc**](./ap-calculus/){: title=\"Course Page\"}"
-cal-1: "[College Algebra](https://www.khanacademy.org/math/college-algebra){: target=\"_blank\"}"
+cal-h: "[**AP Calc**](./ap-calculus/){: title=\"Course Page\"}<br>
+        [<i class=\"fa-solid fa-file-lines\"></i>](./ap-calculus/ap-calc-syllabus.html){: title=\"Course Syllabus\"}"
+cal-1: ""
 cal-2: ""
 cal-3: ""
 cal-x: "--"
+
 ---
 
 | Course Links   | New Material                                       | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
-| {{page.csc-h}} | {{page.csc-1}}<br>{{page.csc-2}}<br>{{page.csc-3}} | {{page.csc-x}} |
-| {{page.con-h}} | {{page.con-1}}                                     | {{page.con-x}} |
+| {{page.geo-h}} | {{page.geo-1}}                                     | {{page.geo-x}} |
+| {{page.csa-h}} | {{page.csa-1}}<br>{{page.csa-2}}<br>{{page.csa-3}} | {{page.csa-x}} |
 | {{page.pro-h}} | {{page.pro-1}}<br>{{page.pro-2}}<br>{{page.pro-3}} | {{page.pro-x}} |
 | {{page.sta-h}} | {{page.sta-1}}                                     | {{page.sta-x}} |
 | {{page.cal-h}} | {{page.cal-1}}                                     | {{page.cal-x}} |
 {: #this-week-table}
 
+<div id="this-week-table-legend">
+<p><i class="fa-solid fa-file-lines"></i> - Course Syllabus</p>
+<p><i class="fa-solid fa-globe"></i> - Online Book/Curriculum</p>
+</div>
+
 ## Schedule
 
-I am available for extra help every day in room 31 during LF1, as well as before school on most days.
+I am available for extra help every day in room 31 during ???, as well as before school on most days.
 
-| Block | A Days                 | B Days                 |
-| :---: | ---------------------- | ---------------------- |
-|   1   | AP CS A                | Prob. & Stats          |
-|   2   | Concepts of Algebra    | Prep                   |
-|  LF1  | **HW Help in Room 31** | **HW Help in Room 31** |
-|  LF2  | Flex                   | Flex                   |
-|   3   | Intro to Programming   | AP Calc AB             |
-|   4   | Prep / Bathroom Duty   | Library Duty           |
+| Block | A Days               | B Days         |
+| :---: | -------------------- | -------------- |
+|   1   | Geometry             | Prob. & Stats  |
+|   2   | --                   | AP Calculus AB |
+|  LF1  | --                   | --             |
+|  LF2  | --                   | --             |
+|   3   | Intro to Programming | --             |
+|   4   | Geometry             | --             |
 {: #schedule-table}

@@ -549,3 +549,14 @@ a.footnote {
 .envision-vocab-purple {
     color: #8e177c;
 }
+
+#this-week-table-legend {
+	display: flex;
+	justify-content: center;
+	font-size: smaller;
+	gap: 2rem;
+}
+
+#this-week-table {
+    margin-bottom: 0.25rem;
+}
