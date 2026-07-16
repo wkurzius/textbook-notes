@@ -3,7 +3,7 @@ title: "AP Calculus"
 layout: course-index
 ---
 
-<h2>Course Schedule</h2>
+<h2>Course Schedule 2025–26</h2>
 
 - Table of Contents
 {:toc}
