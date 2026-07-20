@@ -20,7 +20,7 @@ next-link: "./1-2-basic-constructions.html"
 
 ## The Basics
 
-Welcome to geometry. We're going to spend a lot of time talking about things that don't actually exist. Like perfect circles and lines that don't have any thickness. Reality is a lot messier than math will let on, but it's still a very good approximation.
+Welcome to geometry, the field of math that looks at space. That means things like distances, positions, and size. To do that, we're going to spend a lot of time talking about things that don't actually exist. Like perfect circles and lines that don't have any thickness. Reality is a lot messier than math will let on, but it's still a very good approximation.
 
 Three things that don't exist but we'll talk about a lot are points, lines, and planes. Well, they do exist, but more as concepts rather than something you can pick up and throw.
 
@@ -144,7 +144,7 @@ $\blacksquare$
 
 ## Measuring Angles
 
-With lines, we could map them to a number line or ruler in order to get some numbers to work with. But we can't measure an angle with a ruler, so a number line isn't going to cut it if we still want numbers. Enter degrees, the system where one rotation is divided into 360 equal parts. Half of that you'll see on a protractor, giving us ...
+With lines, we could map them to a number line or ruler in order to get some numbers to work with. But we can't measure an angle with a ruler, so we need a different tool. Enter degrees, the system where one rotation is divided into 360 equal parts. Half of that you'll see on a protractor, giving us ...
 
 > ### Protractor Postulate
 >
@@ -181,7 +181,7 @@ The last bit of foundational knowledge is the notation for lines and angles that
 > **Figure 1.1.9** Congruent lines and angles. Lines with a matching number of tick marks have the same length, and angles with the same number of arc marks have the same degree measure.
 {: .figure}
 
-With symbols, we use the $\cong$ symbol. It looks just like an equals symbol, except with the $\sim$ (tilde) above it. So based on the figure above, here are the congruent statements.
+With symbols, we use the $\cong$ symbol. It looks just like an equals symbol, except with the $\sim$ (tilde) above it. So based on the figure above, here are the congruent statements for the figure above.
 
 $$\begin{align}
 \overline{AB} &\cong \overline{CD} \\
