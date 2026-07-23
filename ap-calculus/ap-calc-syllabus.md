@@ -6,9 +6,9 @@ course: AP Calc
 
 > Mr. Kurzius
 >
-> Room 31
+> Room TBD
 >
-> Period B3, 2025–26
+> Period B2, 2026–27
 {: .blockquote-to-flex}
 
 ## Course Description
@@ -17,7 +17,7 @@ Explore the concepts, methods, and applications of differential and integral cal
 
 ## AP Exam
 
-The AP exam is scheduled for Monday, May 11 at 8 a.m. The exam is 3 hours and 15 minutes long and includes 45 multiple-choice questions and 6 free-response questions. A calculator is not permitted on 30 of the multiple-choice questions and 4 of the free-response questions. You can find more details on the [AP Calculus AB exam page](https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment).
+The AP exam is scheduled for **Monday, May 10 at 8 a.m.** The exam is 3 hours and 15 minutes long and includes 45 multiple-choice questions and 6 free-response questions. A calculator is not permitted on 30 of the multiple-choice questions and 4 of the free-response questions. You can find more details on the [AP Calculus AB exam page](https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment).
 
 ## Units of Study
 

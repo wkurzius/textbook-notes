@@ -6,9 +6,9 @@ course: AP CSA
 
 > Mr. Kurzius
 >
-> Room 31
+> Room TBD
 >
-> Period A1, 2025–26
+> Period A3, 2026–27
 {: .blockquote-to-flex}
 
 > College Board significantly revised the AP Computer Science A course for the 2025–26 school year. Be aware of this in case you find yourself doing some extra reading. Here is a list of changes in case you are curious: [AP Computer Science A Revisions for 2025–26](https://apcentral.collegeboard.org/courses/ap-computer-science-a/future-revisions).
@@ -19,7 +19,7 @@ AP Computer Science A introduces students to computer science through programmin
 
 ## AP Exam
 
-The AP CSA exam is Friday, May 15 at 12 p.m. and consists of two 90 minute sections. The first section consists of 42 multiple choice questions and is worth 55% of your exam grade. The second section has four free response questions where you will write code and is worth the remaining 45%. You can find more details on the [AP Computer Science A exam page](https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment).
+The AP CSA exam is **Wednesday, May 12 at 12 p.m.** and consists of two 90 minute sections. The first section consists of 42 multiple choice questions and is worth 55% of your exam grade. The second section has four free response questions where you will write code and is worth the remaining 45%. You can find more details on the [AP Computer Science A exam page](https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment).
 
 ## Units of Study
 
