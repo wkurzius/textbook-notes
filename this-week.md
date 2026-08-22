@@ -58,7 +58,7 @@ cal-x: "Sep. 28"
 
 ## Schedule
 
-I am available for extra help before school most days, and whenever I have duty in the Media Center.
+I am available for extra help before school most days, and whenever I have Media Center Duty.
 
 | Block | A Days                               | B Days                         |
 | :---: | ------------------------------------ | ------------------------------ |
