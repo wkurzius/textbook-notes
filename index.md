@@ -17,35 +17,24 @@ layout: page
 >
 > > ### AP Computer Science A
 > >
-> > [Syllabus](./a-comp-sci-a/ap-csa-syllabus.md)
+> > [Syllabus](./ap-comp-sci-a/ap-csa-syllabus.md)
 > >
-> > [Notes and assignments](./a-comp-sci-a/)
+> > [Notes and assignments](./ap-comp-sci-a/)
 > >
-> > [*CSAwesome2*](https://runestone.academy/){: target="_blank"}<br>
+> > [*CSAwesome2*](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/csawesome2.html){: target="_blank"}<br>
 > > Online curriculum provided by Runestone
 > {: .course-card}
 >
-> > ### Concepts of Algebra
+> > ### Geometry
 > >
-> > [Syllabus](./syllabi/concepts-of-algebra-syllabus.md)
+> > [Syllabus](./geometry/geometry-syllabus.md)
 > >
-> > [*Algebra Basics* on Khan Academy](https://www.khanacademy.org/math/algebra-basics){: target="_blank"}<br>
-> > Online curriculum provided by Khan Academy
-> {: .course-card}
->
-> > ### Probability & Statistics
-> >
-> > [Syllabus](./prob-and-stats/prob-and-stats-syllabus.md)
-> >
-> > [Notes and assignments](./prob-and-stats/)
-> >
-> > [*Statistics: High School*](https://openstax.org/details/books/statistics){: target="_blank"}<br>
-> > Online book provided by OpenStax
+> > [Notes and assignments](./geometry/)
 > {: .course-card}
 >
 > > ### Intro to Programming
 > >
-> > [Syllabus](./syllabi/intro-to-programming-syllabus.md)
+> > [Syllabus](./intro-to-programming/intro-to-programming-syllabus.md)
 > >
 > > [*CS1: Intro to Programming*](https://academy.cs.cmu.edu/course){: target="_blank"}<br>
 > > Online curriculum provided by Carnegie Mellon's Computer Science Academy
@@ -60,11 +49,21 @@ layout: page
 > > [*Responsive Web Design*](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target="_blank"}<br>
 > > Online curriculum provided by freeCodeCamp
 > {: .course-card}
+>
+> > ### Probability & Statistics
+> >
+> > [Syllabus](./prob-and-stats/prob-and-stats-syllabus.md)
+> >
+> > [Notes and assignments](./prob-and-stats/)
+> >
+> > [*Statistics: High School*](https://openstax.org/details/books/statistics){: target="_blank"}<br>
+> > Online book provided by OpenStax
+> {: .course-card}
 {: #course-cards}
 
 ## General
 
 - [Bell Schedule](./misc/bell-schedule.md)
-- [Summer Work 2025](./misc/summer-work.md)
+- [Summer Work](./misc/summer-work.md)
 - [Useful Math Links](./misc/math-links.md)
 - [Kita Notes](https://wkurzius.github.io/kita-notes/){: target="_blank"}

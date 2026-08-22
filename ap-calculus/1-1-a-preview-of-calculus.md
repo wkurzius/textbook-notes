@@ -14,7 +14,7 @@ next-link: "./1-2-finding-limits-graphically-and-numerically.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p63 (11 problems) 5, 6, 10, 13, 16, 17, 19, 20, 22–24
+- **p63**{: .calculus-teal} 5, 6, 10, 13, 16, 17, 19, 20, 22–24 (11 problems)
 
 ## Additional Resources
 

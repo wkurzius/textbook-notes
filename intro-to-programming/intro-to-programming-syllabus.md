@@ -1,5 +1,6 @@
 ---
 title: Intro to Programming Syllabus
+subtitle: Semester 1, 2026–2027
 layout: page
 course: Intro to Programming
 ---
@@ -8,7 +9,7 @@ course: Intro to Programming
 >
 > Room 31
 >
-> Period A3, S2 2025–26
+> Period A3
 {: .blockquote-to-flex}
 
 ## Course Description
@@ -31,7 +32,7 @@ A computer is basically lightning trapped inside a rock and programming is telli
 
 ## Course Format and Grading
 
-This course uses the CS1 curriculum provided by [Carnegie Mellon University's CS Academy](https://academy.cs.cmu.edu). It provides an online version of the lessons, assignments, and resources. The course is mostly self-paced, so students can learn at their own speed. Because of this, grading is based on the amount of the course students complete, with earlier units being worth much more than later ones.
+This course uses the CS1 curriculum provided by [Carnegie Mellon University's CS Academy](https://academy.cs.cmu.edu){: target="_blank"}. It provides an online version of the lessons, assignments, and resources. The course is mostly self-paced, so students can learn at their own speed. Because of this, grading is based on the amount of the course students complete, with earlier units being worth much more than later ones.
 
 The units themselves are graded based on points, with quizzes and major assignments making up the bulk of the grade.
 

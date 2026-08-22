@@ -1,14 +1,15 @@
 ---
 title: "Probability & Statistics Syllabus"
+subtitle: Semesters 1 & 2, 2026–2027
 layout: page
 course: Probability & Statistics
 ---
 
 > Mr. Kurzius
 >
-> Room 31
+> Media Center
 >
-> Period A3 (S1) and B1 (S2), 2025–26
+> Block B1
 {: .blockquote-to-flex}
 
 ## Course Description
@@ -27,9 +28,9 @@ This is the most important math course that isn't required for graduation. The w
 
 ## Text and Resources
 
-We will use the book [*Statistics*](https://openstax.org/details/books/statistics), a high school level textbook provided by OpenStax. This is an online and free-to-use textbook, with a PDF version available alongside the web version.
+We will use the book [*Statistics*](https://openstax.org/details/books/statistics){: target="_blank"}, a high school level textbook provided by OpenStax. This is an online and free-to-use textbook, with a PDF version available alongside the web version.
 
-Outside of that, I recommend Khan Academy as a first stop for any extra practice. They have their own [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) course that that's good for extra practice.
+Outside of that, I recommend Khan Academy as a first stop for any extra practice. They have their own [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability){: target="_blank"} course that that's good for extra practice.
 
 ## Grading
 

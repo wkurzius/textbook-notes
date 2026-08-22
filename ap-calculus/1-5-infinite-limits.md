@@ -13,7 +13,7 @@ next-link: "./1-6-limits-at-infinity.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p105 (40 problems) 1, 4, 6, 7, 12, 14, 16–34 even, 35–39, 42, 45–67 odd, 75, 81, 84, 87–89
+- **p105**{: .calculus-teal} 1, 4, 6, 7, 12, 14, 16–34 even, 35–39, 42, 45–67 odd, 75, 81, 84, 87–89 (40 problems)
 
 ## Additional Resources
 

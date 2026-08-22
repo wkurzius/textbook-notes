@@ -1,5 +1,6 @@
 ---
-title: "AP Computer Science A"
+title: "AP Computer Science A Notes and Assignments"
+subtitle: 2026–2027
 layout: course-index
 ---
 
@@ -12,7 +13,7 @@ layout: course-index
 
 ## Marking Period 1
 
-### Quiz 1, Sep. 11
+### Quiz 1, Sep. 17
 
 - [1.1 Introduction to Algorithms, Programming, and Compilers](./1-1-introduction-to-algorithms-programming-and-compilers.md)
 - [1.2 Variables and Data Types](./1-2-variables-and-data-types.md)
@@ -22,7 +23,7 @@ layout: course-index
 [Unit 1 Part A](https://apclassroom.collegeboard.org/8/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### Quiz 2, Sep. 25
+### Quiz 2, Oct. 1
 
 - [1.5 Casting and Ranges of Values](./1-5-casting-and-ranges-of-values.md)
 - [1.6 Compound Assignment Operators](./1-6-compound-assignment-operators.md)
@@ -34,7 +35,7 @@ layout: course-index
 [Unit 1 Part B](https://apclassroom.collegeboard.org/8/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### Quiz 3, Oct. 14
+### Quiz 3, Oct. 20
 
 - [1.11 Using the `Math` Class](./1-11-using-the-math-class.md)
 - [1.12 Objects - Instances of Classes](./1-12-objects-instances-of-classes.md)
@@ -45,7 +46,7 @@ layout: course-index
 [Unit 1 Part C](https://apclassroom.collegeboard.org/8/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### MP1 Exam, Nov. 5
+### MP1 Exam, Nov. 11
 
 - [2.1 Algorithms with Selection and Repetition](./2-1-algorithms-with-selection-and-repetition.md)
 - [2.2 Boolean Expressions](./2-2-boolean-expressions.md)
@@ -61,14 +62,13 @@ layout: course-index
 
 - [1.18 Coding Practice 1a (1.1–1.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/unit1a-practice-coding.html){: target="_blank" }
 - [1.22 Coding Practice 1b (1.7–1.15)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/unit1b-practice-coding.html){: target="_blank"}
-- Unit 1 Lab: Receipt
 - [2.15 Selection Coding Practice (2.1–2.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/selection-practice-coding.html){: target="_blank"}
 
 ---
 
 ## Marking Period 2
 
-### Quiz 4, Dec. 3
+### Quiz 4, Dec. 7
 
 - [2.7 While Loops](./2-7-while-loops.md)
 - [2.8 For Loops](./2-8-for-loops.md)
@@ -80,14 +80,14 @@ layout: course-index
 [Unit 2 Part B](https://apclassroom.collegeboard.org/8/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### Quiz 5, Dec. 23
+### Quiz 5, Dec. 21
 
 - [3.1 Abstraction and Program Design](./3-1-abstraction-and-program-design.md)
 - [3.2 Impact of Program Design](./3-2-impact-of-program-design.md)
 - [3.3 Anatomy of a Java Class](./3-3-anatomy-of-a-java-class.md)
 - [3.4 Writing Constructors](./3-4-writing-constructors.md)
 
-### MP2 Exam, Jan. 27
+### MP2 Exam, Jan. 22
 
 - [3.5 Methods: How to Write Them](./3-5-methods-how-to-write-them.md)
 - [3.6 Methods: Passing and Returning References of an Object](./3-6-methods-passing-and-returning-references-of-an-object.md)
@@ -103,12 +103,13 @@ layout: course-index
 - [2.22 Loops Coding Practice (2.7–2.12)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/loops-practice-coding.html){: target="_blank"}
 - Lab: Magpie 2.0
 - [3.12 Unit 3 Write Code Practice for Classes](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/classes-write-code.html){: target="_blank"}
+- Lab: Virtual Pet
 
 ---
 
 ## Marking Period 3
 
-### Quiz 6, Feb. 25
+### Quiz 6, Feb. 17
 
 - [4.1 Ethical and Social Issues Around Data Collection](./4-1-ethical-and-social-issues-around-data-collection.md)
 - [4.2 Data Sets](./4-2-data-sets.md)
@@ -119,7 +120,7 @@ layout: course-index
 [Unit 4 Part A](https://apclassroom.collegeboard.org/8/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### Quiz 7, Mar. 26
+### Quiz 7, Mar. 10
 
 - [4.6 Using Text Files](./4-6-using-text-files.md)
 - [4.7 Wrapper Classes: Integer and Double](./4-7-wrapper-classes-integer-and-double.md)
@@ -130,17 +131,7 @@ layout: course-index
 [Unit 4 Part B](https://apclassroom.collegeboard.org/8/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### Labs and Code Practice
-
-- Lab: Virtual Pet
-- [4.20 Arrays Code Practice (4.1–4.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/ArrayPractice.html){: target="_blank"}
-- [4.33 Code Practice with ArrayLists (4.7–4.10)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/ArrayListPractice.html){: target="_blank"}
-
----
-
-## Marking Period 4
-
-### Quiz 8, Apr. 27
+### MP3 Exam 8, Apr. 9
 
 - [4.11 2D Array Creation and Access](./4-11-2d-array-creation-and-access.md)
 - [4.12 2D Array Traversals: Nested Loops](./4-12-2d-array-traversals-nested-loops.md)
@@ -155,6 +146,8 @@ layout: course-index
 
 ### Labs and Code Practice
 
+- [4.20 Arrays Code Practice (4.1–4.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/ArrayPractice.html){: target="_blank"}
+- [4.33 Code Practice with ArrayLists (4.7–4.10)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/ArrayListPractice.html){: target="_blank"}
 - [4.48 Code Practice with 2D Arrays (4.11–4.13)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/Array2dCodePractice.html){: target="_blank"}
 - [4.58 Code Practice for Recursion (4.14–4.17)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/recursionCodePractice.html){: target="_blank"}
 - Lab: Data Set (Full [cereal.csv file](./data/cereal.csv))

@@ -41,6 +41,10 @@ ul {
     padding: 0.05rem 0.2rem;
 }
 
+.calculus-teal {
+    color: #01aaaf;
+}
+
 blockquote {
     letter-spacing: inherit;
     font-size: inherit;
@@ -75,6 +79,15 @@ hr {
     border-right: 0;
     margin-bottom: 1rem;
 }
+
+#schedule-table {
+    table-layout: fixed;
+}
+
+#schedule-table th:first-child {
+    width: 5rem;
+}
+
 
 .bell-schedules-table td:nth-child(2n+1),
 .bell-schedules-table th:nth-child(2n+1) {
@@ -381,6 +394,13 @@ img.icon {
     justify-content: space-evenly;
 }
 
+.blockquote-to-flex p:first-child,
+.blockquote-to-flex p:last-child {
+    flex-grow: 1;
+    flex-basis: 0;
+    text-align: center;
+}
+
 ///// dark toggle
 
 .site-header .nav-items {
@@ -551,12 +571,17 @@ a.footnote {
 }
 
 #this-week-table-legend {
-	display: flex;
-	justify-content: center;
-	font-size: smaller;
-	gap: 2rem;
+    display: flex;
+    justify-content: center;
+    font-size: smaller;
+    gap: 2rem;
 }
 
 #this-week-table {
     margin-bottom: 0.25rem;
+}
+
+.post-subtitle p {
+    margin-bottom: 0;
+    font-weight: bold;
 }

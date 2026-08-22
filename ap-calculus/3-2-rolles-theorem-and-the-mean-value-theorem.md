@@ -13,7 +13,7 @@ next-link: "./3-3-the-first-derivative-test.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p224 (28 problems) 1, 2, 9–21 odd, 24–26, 29, 31, 35, 40–48 even, 52, 53, 64–66, 81–83
+- **p224**{: .calculus-teal} 1, 2, 9–21 odd, 24–26, 29, 31, 35, 40–48 even, 52, 53, 64–66, 81–83 (28 problems)
 
 ## Additional Resources
 

@@ -14,7 +14,7 @@ next-link: "./2-1-the-derivative-and-the-tangent-line-problem.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p115 (29 problems) 8–22 even, 23–41 odd, 47, 48, 54, 59, 60, 72, 81, 83–86
+- **p115**{: .calculus-teal} 8–22 even, 23–41 odd, 47, 48, 54, 59, 60, 72, 81, 83–86 (29 problems)
 
 ## Additional Resources
 

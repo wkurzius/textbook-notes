@@ -13,7 +13,7 @@ next-link: "./6-1-area-of-a-region-between-two-curves.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p393 (21 problems) 5–9 odd, 13–25 odd, 33, 37, 39, 45, 57, 61–63, 79–81
+- **p393**{: .calculus-teal} 5–9 odd, 13–25 odd, 33, 37, 39, 45, 57, 61–63, 79–81 (21 problems)
 
 ## Additional Resources
 

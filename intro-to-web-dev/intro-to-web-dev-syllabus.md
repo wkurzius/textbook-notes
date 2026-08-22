@@ -1,5 +1,6 @@
 ---
 title: "Intro to Web Development Syllabus"
+subtitle: Semester 2, 2026–2027
 layout: page
 course: Intro to Web Dev
 ---
@@ -8,7 +9,7 @@ course: Intro to Web Dev
 >
 > Room 31
 >
-> Period B1, S1 2025–26
+> Period A3
 {: .blockquote-to-flex}
 
 ## Course Description
@@ -27,7 +28,7 @@ Anyone who's anyone has their own website, and this is where you can make yours.
 
 ## Online Curriculum
 
-This course uses the Responsive Web Design curriculum provided by [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/), which serves an online version of the lessons, assignments and resources. If a student completes the full curriculum, freeCodeCamp provides a Responsive Web Design Certificate. We will only cover the first four certification projects, but I encourage those interested to complete the final one on their own.
+This course uses the Responsive Web Design curriculum provided by [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/){: target="_blank"}, which serves an online version of the lessons, assignments and resources. If a student completes the full curriculum, freeCodeCamp provides a Responsive Web Design Certificate. We will only cover the first four certification projects, but I encourage those interested to complete the final one on their own.
 
 ## Grading
 

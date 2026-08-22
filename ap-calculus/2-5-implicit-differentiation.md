@@ -14,7 +14,7 @@ next-link: "./2-6-derivatives-of-inverse-functions.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p180 (34 problems) 1–21 odd, 25, 28–31, 42, 43, 47, 49, 50, 53, 55, 59–61, 63, 68, 80, 81, 84–87
+- **p180**{: .calculus-teal} 1–21 odd, 25, 28–31, 42, 43, 47, 49, 50, 53, 55, 59–61, 63, 68, 80, 81, 84–87 (34 problems)
 
 ## Additional Resources
 

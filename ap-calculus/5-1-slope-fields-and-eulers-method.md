@@ -15,7 +15,7 @@ next-link: "./5-2-growth-and-decay.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p375 (29 problems) 1–4, 9, 11, 29, 32, 33, 37, 39, 44, 46, 50, 52, 55–57, 59–64, 89–93 odd, 99, 101
+- **p375**{: .calculus-teal} 1–4, 9, 11, 29, 32, 33, 37, 39, 44, 46, 50, 52, 55–57, 59–64, 89–93 odd, 99, 101 (29 problems)
 
 ## Additional Resources
 

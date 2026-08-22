@@ -15,7 +15,7 @@ next-link: "./1-3-evaluating-limit-analytically.html"
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p72 (30 problems) 1, 2, 5, 6, 9, 10, 15, 16, 19, 22, 24–27, 29, 30, 51–57 odd, 61, 64–68, 77–80
+- **p72**{: .calculus-teal} 1, 2, 5, 6, 9, 10, 15, 16, 19, 22, 24–27, 29, 30, 51–57 odd, 61, 64–68, 77–80 (30 problems)
 
 ## Additional Resources
 

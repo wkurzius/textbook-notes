@@ -16,7 +16,7 @@ next-link: ./0-3-functions-and-their-graphs.html
 ## Assignment
 
 - **Vocabulary** and **teal boxes**{: .teal-box}
-- p20 (18 problems) 10, 11, 22, 23, 28, 31, 33, 37, 43, 47, 57, 59, 64, 67, 73–75, 77
+- **p20**{: .calculus-teal} 10, 11, 22, 23, 28, 31, 33, 37, 43, 47, 57, 59, 64, 67, 73–75, 77 (18 problems)
 
 ---
 

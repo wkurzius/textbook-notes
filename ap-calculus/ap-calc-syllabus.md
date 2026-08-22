@@ -1,14 +1,15 @@
 ---
 title: AP Calc AB Syllabus
+subtitle: 2026–2027
 layout: page
 course: AP Calc
 ---
 
 > Mr. Kurzius
 >
-> Room TBD
+> Room 31
 >
-> Period B2, 2026–27
+> Block B2
 {: .blockquote-to-flex}
 
 ## Course Description
@@ -17,7 +18,7 @@ Explore the concepts, methods, and applications of differential and integral cal
 
 ## AP Exam
 
-The AP exam is scheduled for **Monday, May 10 at 8 a.m.** The exam is 3 hours and 15 minutes long and includes 45 multiple-choice questions and 6 free-response questions. A calculator is not permitted on 30 of the multiple-choice questions and 4 of the free-response questions. You can find more details on the [AP Calculus AB exam page](https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment).
+The AP exam is scheduled for **Monday, May 10 at 8 a.m.** The exam is 3 hours and 15 minutes long and includes 45 multiple-choice questions and 6 free-response questions. A calculator is not permitted on 30 of the multiple-choice questions and 4 of the free-response questions. You can find more details on the [AP Calculus AB exam page](https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment){: target="_blank"}.
 
 ## Units of Study
 
@@ -39,17 +40,17 @@ The AP exam is scheduled for **Monday, May 10 at 8 a.m.** The exam is 3 hours an
 
 ## Text and Resources
 
-We will use the book Calculus for AP (2nd ed.) as reference and for homework assignments, though I recommend Khan Academy as a first stop for any extra practice. They have both an [AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab) course and a [Get ready for AP Calculus](https://www.khanacademy.org/math/get-ready-for-ap-calc) course. I suggest reviewing the latter prior to any new chapter.
+We will use the book *Calculus for AP* (2nd ed.) as reference and for homework assignments, though I recommend Khan Academy as a first stop for any extra practice. They have both an [AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab){: target="_blank"} course and a [Get ready for AP Calculus](https://www.khanacademy.org/math/get-ready-for-ap-calc){: target="_blank"} course. I suggest reviewing the latter prior to any new chapter.
 
 And here are the related College Board resources.
 
-- [College Board's Course and Exam Description](https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf)
-- [Additional exam information](https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment)
+- [College Board's Course and Exam Description](https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf){: target="_blank"}
+- [Additional exam information](https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment){: target="_blank"}
 
 ## Grading
 
-- The official grade book exists on Canvas, with Genesis only having a (possibly unreliable) copy
-- There are about three quizzes each marking period
-- There is also one exam at the end of each marking period
-- All work is due the day of a quiz or exam and late work will receive only partial credit
-- Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and the marking period exam 50% of your grade
+- The official grade book exists on Canvas, with Genesis only having a (possibly unreliable) copy.
+- All work is due the day of a quiz or exam and late work will receive only partial credit.
+- There are about three quizzes each marking period.
+- There is also one exam at the end of each marking period.
+- Grading is point-based. Assignments are worth roughly 10%, quizzes 40%, and the marking period exam 50% of your grade.

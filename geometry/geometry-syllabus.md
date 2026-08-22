@@ -1,55 +1,51 @@
 ---
-title: AP Calc AB Syllabus
+title: Geometry Syllabus
+subtitle: 2026–2027
 layout: page
-course: AP Calc
+course: Geometry
 ---
 
 > Mr. Kurzius
 >
-> Room 31
+> Media Center
 >
-> Period B3, 2025–26
+> Blocks A1 & A4
 {: .blockquote-to-flex}
 
 ## Course Description
 
-Explore the concepts, methods, and applications of differential and integral calculus. You'll work to understand the theoretical basis and solve problems by applying your knowledge and skills. You'll learn how to determine expressions and values using mathematical procedures and rules; connect representations; justify reasoning and solutions; and use correct notation, language, and mathematical conventions to communicate results or solutions.
-
-## AP Exam
-
-The AP exam is scheduled for Monday, May 11 at 8 a.m. The exam is 3 hours and 15 minutes long and includes 45 multiple-choice questions and 6 free-response questions. A calculator is not permitted on 30 of the multiple-choice questions and 4 of the free-response questions. You can find more details on the [AP Calculus AB exam page](https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment).
+This course develops students’ understanding of shapes, transformations, and spatial reasoning through the exploration of congruence, similarity, right triangle trigonometry, coordinate methods, circles, and three dimensional figures. Students learn to analyze relationships, construct logical arguments, and apply geometric principles to real world and mathematical problems, building a strong foundation for advanced mathematics.
 
 ## Units of Study
 
-1. **Limits and Continuity** Explore how limits allow solving problems involving change and to better understand mathematical reasoning about functions.
+1. **Foundations of Geometry** All the basic vocabulary and concepts needed for the rest of the course.
 
-2. **Differentiation: Definition and Fundamental Properties** Apply limits to define the derivative, become skillful at determining derivatives, and continue to develop mathematical reasoning skills.
+2. **Transformations** Explore how shapes move on the coordinate plane through translations, reflections, rotations, and dilations.
 
-3. **Differentiation: Composite, Implicit, and Inverse Functions** Master using the chain rule, develop new differentiation techniques, and be introduced to higher-order derivatives.
+3. **Triangle Congruence** Learn what's needed to guarantee two triangles are identical in shape and size.
 
-4. **Contextual Applications of Differentiation** Apply derivatives to set up and solve real-world problems involving instantaneous rates of change and use mathematical reasoning to determine limits of certain indeterminate forms
+4. **Polygons and Quadrilaterals** Analyze properties, angles, and relationships within shapes with more than three sides.
 
-5. **Analytical Applications of Differentiation** Explore relationships among the graphs of a function and its derivatives, and learn to apply calculus to solve optimization problems.
+5. **Similarity** Use proportions to work with figures with the same shape, but different size.
 
-6. **Integration and Accumulation of Change** Apply limits to define definite integrals and how the Fundamental Theorem connects integration and differentiation. Apply properties of integrals and practice useful integration techniques.
+6. **Right Triangles and Trigonometry** Finding the unknown parts of a triangle using the special proportional relationships that exist in right triangles.
 
-7. **Differential Equations** Solve certain differential equations and apply that knowledge to further understand exponential growth and decay.
+7. **Coordinate Geometry** Use the coordinate plane to determine the properties of shapes, like distance, midpoint, and slope.
 
-8. **Applications of Integration** Make mathematical connections that will allow solving a wide range of problems involving net change over an interval of time and to find areas of regions or volumes of solids defined using functions.
+8. **Circles** Learn about the angle, arc, chord, tangent, and segment relationships that define the geometry of circles.
+
+9. **Solid Geometry** Examine the properties of three-dimensional shapes, like surface area and volume.
 
 ## Text and Resources
 
-We will use the book Calculus for AP (2nd ed.) as reference and for homework assignments, though I recommend Khan Academy as a first stop for any extra practice. They have both an [AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab) course and a [Get ready for AP Calculus](https://www.khanacademy.org/math/get-ready-for-ap-calc) course. I suggest reviewing the latter prior to any new chapter.
+We will use the book *enVision Geometry* textbook as reference and for homework assignments. Due to low supply, these will stay in the classroom, but an online version exists so you can work at home. You can access that through ClassLink and the Savvas EasyBridge app.
 
-And here are the related College Board resources.
-
-- [College Board's Course and Exam Description](https://apcentral.collegeboard.org/media/pdf/ap-calculus-ab-and-bc-course-and-exam-description.pdf)
-- [Additional exam information](https://apstudents.collegeboard.org/courses/ap-calculus-ab/assessment)
+For extra practice, I recommend Khan Academy. There is a [Geometry course](https://www.khanacademy.org/math/geometry){: target="_blank"}, as well as a [Get ready for Geometry course](https://www.khanacademy.org/math/get-ready-for-geometry){: target="_blank"} that's good for brushing up on old material.
 
 ## Grading
 
-- The official grade book exists on Canvas, with Genesis only having a (possibly unreliable) copy
-- There are about three quizzes each marking period
-- There is also one exam at the end of each marking period
-- All work is due the day of a quiz or exam and late work will receive only partial credit
-- Grading is point-based, though assignments are worth roughly 10%, quizzes 40%, and the marking period exam 50% of your grade
+- The official grade book exists on Canvas, with Genesis only having a (possibly unreliable) copy.
+- All work is due the day of a quiz or exam and late work will receive only partial credit.
+- There are about three quizzes each marking period.
+- There is also one exam at the end of each marking period.
+- Grading is point-based. Assignments are worth roughly 10%, quizzes 40%, and the marking period exam 50% of your grade.
