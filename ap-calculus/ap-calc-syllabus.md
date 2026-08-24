@@ -51,6 +51,6 @@ And here are the related College Board resources.
 
 - The official grade book exists on Canvas, with Genesis only having a (possibly unreliable) copy.
 - All work is due the day of a quiz or exam and late work will receive only partial credit.
-- There are about three quizzes each marking period.
+- There are two or three quizzes each marking period.
 - There is also one exam at the end of each marking period.
 - Grading is point-based. Assignments are worth roughly 10%, quizzes 40%, and the marking period exam 50% of your grade.

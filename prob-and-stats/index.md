@@ -57,4 +57,5 @@ layout: course-index
 
 - [Syllabus](./prob-and-stats-syllabus.md)
 - [Online textbook](https://openstax.org/books/statistics/pages/1-introduction){: target="_blank"}
+- [Standard Normal Probabilities](../pdfs/standard-normal-probabilities.pdf){: target="_blank"}
 - [Formula Review](./formula-review.md)
