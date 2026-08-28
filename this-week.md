@@ -42,13 +42,13 @@ cal-x: "Sep. 28"
 
 ---
 
-| Course Links   | New Material                                       | Next Exam      |
+| Course Links   | This Week's Schedule                               | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
-| {{page.geo-h}} | {{page.geo-1}}<br>{{page.geo-2}}<br>{{page.geo-3}} | {{page.geo-x}} |
+| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}                   | {{page.cal-x}} |
 | {{page.csa-h}} | {{page.csa-1}}<br>{{page.csa-2}}<br>{{page.csa-3}} | {{page.csa-x}} |
+| {{page.geo-h}} | {{page.geo-1}}<br>{{page.geo-2}}<br>{{page.geo-3}} | {{page.geo-x}} |
 | {{page.pro-h}} | {{page.pro-1}}<br>{{page.pro-2}}<br>{{page.pro-3}} | {{page.pro-x}} |
 | {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}                   | {{page.sta-x}} |
-| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}                   | {{page.cal-x}} |
 {: #this-week-table}
 
 <div id="this-week-table-legend">

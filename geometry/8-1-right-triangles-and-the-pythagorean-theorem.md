@@ -12,6 +12,6 @@ next-link: ./8-2-trigonometric-ratios.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p352**{: .envision-hw-blue} 10--17, 19--28 (18 problems)
+- **p352**{: .envision-hw-blue} 10--17, 19--28 (18 problems, [PDF link](./pdf/aga_gm_0801_pps.pdf){: target="_blank"})
 
 ---

@@ -12,6 +12,6 @@ next-link: ./6-4-proving-a-quadrilateral-is-a-parallelogram.html
 
 ## Assignment
 
-- **p269**{: .envision-hw-blue} 13--20, 23--24, 26--29 (14 problems)
+- **p269**{: .envision-hw-blue} 13--20, 23--24, 26--29 (14 problems, [PDF link](./pdf/aga_gm_0603_pps.pdf){: target="_blank"})
 
 ---

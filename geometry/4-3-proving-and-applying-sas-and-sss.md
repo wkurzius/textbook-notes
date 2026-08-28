@@ -11,6 +11,6 @@ next-link: ./4-4-proving-and-applying-asa-and-aas.html
 
 ## Assignment
 
-- **p172**{: .envision-hw-blue} 12--21, 23--28 (16 problems)
+- **p172**{: .envision-hw-blue} 12--21, 23--28 (16 problems, [PDF link](./pdf/aga_gm_0403_pps.pdf){: target="_blank"})
 
 ---

@@ -11,6 +11,6 @@ next-link: ./9-4-parabolas-in-the-coordinate-plane.html
 
 ## Assignment
 
-- **p404**{: .envision-hw-blue} 13--25, 27--31, 34--43 (28 problems)
+- **p404**{: .envision-hw-blue} 13--25, 27--31, 34--43 (28 problems, [PDF link](./pdf/aga_gm_0903_pps.pdf){: target="_blank"})
 
 ---

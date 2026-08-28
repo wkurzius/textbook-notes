@@ -12,6 +12,6 @@ next-link: ./2-1-properties-of-parallel-lines.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definitions
-- **p62**{: .envision-hw-blue} 11–28 (18 problems)
+- **p62**{: .envision-hw-blue} 11–28 (18 problems, [PDF link](./pdf/aga_gm_0108_pps.pdf){: target="_blank"})
 
 ---

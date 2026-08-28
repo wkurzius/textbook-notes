@@ -13,6 +13,6 @@ next-link: ./5-4-inequalities-in-one-triangle.html
 ## Assignment
 
 - Four **vocabulary**{: .envision-vocab-purple} definitions
-- **p224**{: .envision-hw-blue} 10--18, 20--27 (17 problems)
+- **p224**{: .envision-hw-blue} 10--18, 20--27 (17 problems, [PDF link](./pdf/aga_gm_0503_pps.pdf){: target="_blank"})
 
 ---

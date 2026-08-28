@@ -11,6 +11,6 @@ next-link: ./4-5-congruence-in-right-triangles.html
 
 ## Assignment
 
-- **p180**{: .envision-hw-blue} 10--18, 20--25 (15 problems)
+- **p180**{: .envision-hw-blue} 10--18, 20--25 (15 problems, [PDF link](./pdf/aga_gm_0404_pps.pdf){: target="_blank"})
 
 ---

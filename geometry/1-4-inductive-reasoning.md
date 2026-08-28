@@ -12,6 +12,6 @@ next-link: ./1-5-conditional-statements.html
 ## Assignment
 
 - Three **vocabulary**{: .envision-vocab-purple} definitions
-- **p33**{: .envision-hw-blue} 7–23 (17 problems)
+- **p33**{: .envision-hw-blue} 7–23 (17 problems, [PDF link](./pdf/aga_gm_0104_pps.pdf){: target="_blank"})
 
 ---

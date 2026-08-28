@@ -12,6 +12,6 @@ next-link: ./7-2-similarity-transformations.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p308**{: .envision-hw-blue} 10--21, 23--28 (18 problems)
+- **p308**{: .envision-hw-blue} 10--21, 23--28 (18 problems, [PDF link](./pdf/aga_gm_0701_pps.pdf){: target="_blank"})
 
 ---

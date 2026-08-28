@@ -12,6 +12,6 @@ next-link: ./6-6-conditions-of-special-parallelograms.html
 
 ## Assignment
 
-- **p284**{: .envision-hw-blue} 13--20, 22, 24--28, 30--37 (22 problems)
+- **p284**{: .envision-hw-blue} 13--20, 22, 24--28, 30--37 (22 problems, [PDF link](./pdf/aga_gm_0605_pps.pdf){: target="_blank"})
 
 ---

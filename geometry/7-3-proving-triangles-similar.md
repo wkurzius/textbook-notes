@@ -11,6 +11,6 @@ next-link: ./7-4-similarity-in-right-triangles.html
 
 ## Assignment
 
-- **p323**{: .envision-hw-blue} 10--19, 21--27 (17 problems)
+- **p323**{: .envision-hw-blue} 10--19, 21--27 (17 problems, [PDF link](./pdf/aga_gm_0703_pps.pdf){: target="_blank"})
 
 ---

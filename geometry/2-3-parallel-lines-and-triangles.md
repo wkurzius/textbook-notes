@@ -11,6 +11,6 @@ next-link: ./2-4-slopes-of-parallel-and-perpendicular-lines.html
 
 ## Assignment
 
-- **p90**{: .envision-hw-blue} 11--22, 24--25, 28--34 (21 problems)
+- **p90**{: .envision-hw-blue} 11--22, 24--25, 28--34 (21 problems, [PDF link](./pdf/aga_gm_0203_pps.pdf){: target="_blank"})
 
 ---

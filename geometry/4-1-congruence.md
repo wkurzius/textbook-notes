@@ -12,6 +12,6 @@ next-link: ./4-2-isosceles-and-equilateral-triangles.html
 ## Assignment
 
 - Two **vocabulary**{: .envision-vocab-purple} definitions
-- **p155**{: .envision-hw-blue} 10--23 (14 problems)
+- **p155**{: .envision-hw-blue} 10--23 (14 problems, [PDF link](./pdf/aga_gm_0401_pps.pdf){: target="_blank"})
 
 ---

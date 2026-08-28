@@ -12,6 +12,6 @@ next-link: ./7-5-proportions-in-triangles.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p330**{: .envision-hw-blue} 11--27 (17 problems)
+- **p330**{: .envision-hw-blue} 11--27 (17 problems, [PDF link](./pdf/aga_gm_0704_pps.pdf){: target="_blank"})
 
 ---

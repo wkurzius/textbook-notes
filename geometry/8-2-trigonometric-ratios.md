@@ -12,6 +12,6 @@ next-link: ./8-3-law-of-sines.html
 ## Assignment
 
 - Four **vocabulary**{: .envision-vocab-purple} definitions
-- **p359**{: .envision-hw-blue} 16--32, 36--49 (31 problems)
+- **p359**{: .envision-hw-blue} 16--32, 36--49 (31 problems, [PDF link](./pdf/aga_gm_0802_pps.pdf){: target="_blank"})
 
 ---

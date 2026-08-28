@@ -11,6 +11,6 @@ next-link: ./3-1-reflections.html
 
 ## Assignment
 
-- **p97**{: .envision-hw-blue} 13--24, 26, 28--33 (19 problems)
+- **p97**{: .envision-hw-blue} 13--24, 26, 28--33 (19 problems, [PDF link](./pdf/aga_gm_0204_pps.pdf){: target="_blank"})
 
 ---

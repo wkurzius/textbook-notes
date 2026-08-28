@@ -12,6 +12,6 @@ next-link: ./12-1-probability-events.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p491**{: .envision-hw-blue} 11--27, 29--35 (24 problems)
+- **p491**{: .envision-hw-blue} 11--27, 29--35 (24 problems, [PDF link](./pdf/aga_gm_1104_pps.pdf){: target="_blank"})
 
 ---

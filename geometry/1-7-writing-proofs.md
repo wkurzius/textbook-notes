@@ -11,6 +11,6 @@ next-link: ./1-8-indirect-proof.html
 ## Assignment
 
 - Four **vocabulary**{: .envision-vocab-purple} definitions
-- **p56**{: .envision-hw-blue} 9–26 (18 problems)
+- **p56**{: .envision-hw-blue} 9–26 (18 problems, [PDF link](./pdf/aga_gm_0107_pps.pdf){: target="_blank"})
 
 ---

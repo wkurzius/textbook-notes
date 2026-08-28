@@ -10,6 +10,6 @@ next-link: ./7-1-dilations.html
 
 ## Assignment
 
-- **p292**{: .envision-hw-blue} 11--24, 26, 28--30 (18 problems)
+- **p292**{: .envision-hw-blue} 11--24, 26, 28--30 (18 problems, [PDF link](./pdf/aga_gm_0606_pps.pdf){: target="_blank"})
 
 ---

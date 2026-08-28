@@ -12,6 +12,6 @@ next-link: ./10-1-arcs-and-sectors.html
 ## Assignment
 
 - Three **vocabulary**{: .envision-vocab-purple} definition
-- **p411**{: .envision-hw-blue} 19--33, 36--46 (26 problems)
+- **p411**{: .envision-hw-blue} 19--33, 36--46 (26 problems, [PDF link](./pdf/aga_gm_0904_pps.pdf){: target="_blank"})
 
 ---

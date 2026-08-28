@@ -12,6 +12,6 @@ next-link: ./10-4-inscribed-angles.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p442**{: .envision-hw-blue} 12--21, 23--33 (21 problems)
+- **p442**{: .envision-hw-blue} 12--21, 23--33 (21 problems, [PDF link](./pdf/aga_gm_1003_pps.pdf){: target="_blank"})
 
 ---

@@ -13,6 +13,6 @@ next-link: ./12-3-permutations-and-combinations.html
 ## Assignment
 
 - Two **vocabulary**{: .envision-vocab-purple} definitions
-- **p512**{: .envision-hw-blue} 10--29 (20 problems)
+- **p512**{: .envision-hw-blue} 10--29 (20 problems, [PDF link](./pdf/aga_gm_1202_pps.pdf){: target="_blank"})
 
 ---

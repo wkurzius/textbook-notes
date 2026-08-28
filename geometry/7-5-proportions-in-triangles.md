@@ -11,6 +11,6 @@ next-link: ./8-1-right-triangles-and-the-pythagorean-theorem.html
 
 ## Assignment
 
-- **p338**{: .envision-hw-blue} 12--22, 24--31 (19 problems)
+- **p338**{: .envision-hw-blue} 12--22, 24--31 (19 problems, [PDF link](./pdf/aga_gm_0705_pps.pdf){: target="_blank"})
 
 ---

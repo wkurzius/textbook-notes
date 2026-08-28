@@ -12,6 +12,6 @@ next-link: ./11-3-pyramids-and-cones.html
 ## Assignment
 
 - Three **vocabulary**{: .envision-vocab-purple} definitions
-- **p477**{: .envision-hw-blue} 13--14, 16--27 (14 problems)
+- **p477**{: .envision-hw-blue} 13--14, 16--27 (14 problems, [PDF link](./pdf/aga_gm_1102_pps.pdf){: target="_blank"})
 
 ---

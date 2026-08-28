@@ -12,6 +12,6 @@ next-link: ./3-2-translations.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p111**{: .envision-hw-blue} 11--23, 26--35 (23 problems)
+- **p111**{: .envision-hw-blue} 11--23, 26--35 (23 problems, [PDF link](./pdf/aga_gm_0301_pps.pdf){: target="_blank"})
 
 ---

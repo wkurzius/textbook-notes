@@ -12,6 +12,6 @@ next-link: ./1-4-inductive-reasoning.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p26**{: .envision-hw-blue} 9–21, 23–28  (19 problems)
+- **p26**{: .envision-hw-blue} 9–21, 23–28  (19 problems, [PDF link](./pdf/aga_gm_0103_pps.pdf){: target="_blank"})
 
 ---

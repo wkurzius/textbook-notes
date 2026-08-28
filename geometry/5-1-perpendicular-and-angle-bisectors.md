@@ -13,6 +13,6 @@ next-link: ./5-2-bisectors-in-triangles.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p207**{: .envision-hw-blue} 9--15, 17, 19--27 (17 problems)
+- **p207**{: .envision-hw-blue} 9--15, 17, 19--27 (17 problems, [PDF link](./pdf/aga_gm_0501_pps.pdf){: target="_blank"})
 
 ---

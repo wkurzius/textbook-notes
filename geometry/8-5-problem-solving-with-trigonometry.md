@@ -12,6 +12,6 @@ next-link: ./9-1-polygons-in-the-coordinate-plane.html
 ## Assignment
 
 - Two **vocabulary**{: .envision-vocab-purple} definition
-- **p378**{: .envision-hw-blue} 10--20, 22--28 (18 problems)
+- **p378**{: .envision-hw-blue} 10--20, 22--28 (18 problems, [PDF link](./pdf/aga_gm_0805_pps.pdf){: target="_blank"})
 
 ---

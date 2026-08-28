@@ -13,6 +13,6 @@ next-link: ./3-3-rotations.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p119**{: .envision-hw-blue} 11--26, 29--35 (23 problems)
+- **p119**{: .envision-hw-blue} 11--26, 29--35 (23 problems, [PDF link](./pdf/aga_gm_0302_pps.pdf){: target="_blank"})
 
 ---

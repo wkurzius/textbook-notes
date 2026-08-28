@@ -13,6 +13,6 @@ next-link: ./4-1-congruence.html
 ## Assignment
 
 - Three **vocabulary**{: .envision-vocab-purple} definitions
-- **p140**{: .envision-hw-blue} 12--20, 22--30 (18 problems)
+- **p140**{: .envision-hw-blue} 12--20, 22--30 (18 problems, [PDF link](./pdf/aga_gm_0305_pps.pdf){: target="_blank"})
 
 ---

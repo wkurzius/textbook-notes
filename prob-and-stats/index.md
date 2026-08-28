@@ -19,6 +19,7 @@ layout: course-index
 - [1.2 Data, Sampling, and Variation in Data and Sampling](./1-2-data-sampling-and-variation-in-data-and-sampling.md)
 - [1.3 Frequency, Frequency Tables, and Levels of Measurement](./1-3-frequency-tables.md)
 - [1.4 Experimental Design and Ethics](./1-4-experimental-design-and-ethics.md)
+- {: .lab-bullet}[1.6 Sampling Experiment](https://openstax.org/books/statistics/pages/1-6-sampling-experiment){: target="_blank"}
 
 ### Chapter 2 Quiz, Oct. 21
 

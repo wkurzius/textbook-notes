@@ -12,6 +12,6 @@ next-link: ./11-1-three-dimensional-figures-and-cross-sections.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p457**{: .envision-hw-blue} 11--21, 23--30 (19 problems)
+- **p457**{: .envision-hw-blue} 11--21, 23--30 (19 problems, [PDF link](./pdf/aga_gm_1005_pps.pdf){: target="_blank"})
 
 ---

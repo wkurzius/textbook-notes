@@ -13,6 +13,6 @@ next-link: ./5-5-inequalities-in-two-triangles.html
 
 ## Assignment
 
-- **p231**{: .envision-hw-blue} 13--24, 26--27, 30--36 (21 problems)
+- **p231**{: .envision-hw-blue} 13--24, 26--27, 30--36 (21 problems, [PDF link](./pdf/aga_gm_0504_pps.pdf){: target="_blank"})
 
 ---

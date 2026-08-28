@@ -11,6 +11,6 @@ next-link: ./1-7-writing-proofs.html
 ## Assignment
 
 - Three **vocabulary**{: .envision-vocab-purple} definitions
-- **p49**{: .envision-hw-blue} 9–19, 21–28 (19 problems)
+- **p49**{: .envision-hw-blue} 9–19, 21–28 (19 problems, [PDF link](./pdf/aga_gm_0106_pps.pdf){: target="_blank"})
 
 ---

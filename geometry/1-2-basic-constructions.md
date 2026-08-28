@@ -13,7 +13,7 @@ next-link: "./1-3-midpoint-and-distance.html"
 ## Assignment
 
 - Three **vocabulary**{: .envision-vocab-purple} definitions
-- **p20**{: .envision-hw-blue} 10–19, 21–25 (15 problems)
+- **p20**{: .envision-hw-blue} 10–19, 21–25 (15 problems, [PDF link](./pdf/aga_gm_0102_pps.pdf){: target="_blank"})
 
 ---
 

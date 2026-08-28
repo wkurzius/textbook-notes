@@ -11,6 +11,6 @@ next-link: ./4-3-proving-and-applying-sas-and-sss.html
 
 ## Assignment
 
-- **p164**{: .envision-hw-blue} 12--20, 22--31 (19 problems)
+- **p164**{: .envision-hw-blue} 12--20, 22--31 (19 problems, [PDF link](./pdf/aga_gm_0402_pps.pdf){: target="_blank"})
 
 ---

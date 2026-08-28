@@ -11,6 +11,6 @@ next-link: ./9-2-proofs-using-coordinate-geometry.html
 
 ## Assignment
 
-- **p390**{: .envision-hw-blue} 9--24, 26--31 (22 problems)
+- **p390**{: .envision-hw-blue} 9--24, 26--31 (22 problems, [PDF link](./pdf/aga_gm_0901_pps.pdf){: target="_blank"})
 
 ---

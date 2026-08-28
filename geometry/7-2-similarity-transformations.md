@@ -13,6 +13,6 @@ next-link: ./7-3-proving-triangles-similar.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p315**{: .envision-hw-blue} 9--20, 23--29 (19 problems)
+- **p315**{: .envision-hw-blue} 9--20, 23--29 (19 problems, [PDF link](./pdf/aga_gm_0702_pps.pdf){: target="_blank"})
 
 ---

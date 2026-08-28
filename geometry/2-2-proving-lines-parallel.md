@@ -13,6 +13,6 @@ next-link: ./2-3-parallel-lines-and-triangles.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p83**{: .envision-hw-blue} 9--16, 18, 21--25 (14 problems)
+- **p83**{: .envision-hw-blue} 9--16, 18, 21--25 (14 problems, [PDF link](./pdf/aga_gm_0202_pps.pdf){: target="_blank"})
 
 ---

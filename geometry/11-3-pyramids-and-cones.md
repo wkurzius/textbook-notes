@@ -11,6 +11,6 @@ next-link: ./11-4-spheres.html
 
 ## Assignment
 
-- **p485**{: .envision-hw-blue} 12--23, 25--31 (19 problems)
+- **p485**{: .envision-hw-blue} 12--23, 25--31 (19 problems, [PDF link](./pdf/aga_gm_1103_pps.pdf){: target="_blank"})
 
 ---

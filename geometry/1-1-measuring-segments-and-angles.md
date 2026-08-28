@@ -14,7 +14,7 @@ next-link: "./1-2-basic-constructions.html"
 ## Assignment
 
 - Five **vocabulary**{: .envision-vocab-purple} definitions
-- **p12**{: .envision-hw-blue} 9–27, 30–41 (31 problems)
+- **p12**{: .envision-hw-blue} 9–27, 30–41 (31 problems, [PDF link](./pdf/aga_gm_0101_pps.pdf){: target="_blank"})
 
 ---
 

@@ -11,6 +11,6 @@ next-link: ./6-5-properties-of-special-parallelograms.html
 
 ## Assignment
 
-- **p277**{: .envision-hw-blue} 10--21, 23--26 (16 problems)
+- **p277**{: .envision-hw-blue} 10--21, 23--26 (16 problems, [PDF link](./pdf/aga_gm_0604_pps.pdf){: target="_blank"})
 
 ---

@@ -12,6 +12,6 @@ next-link: ./5-3-medians-and-altitudes.html
 ## Assignment
 
 - Six **vocabulary**{: .envision-vocab-purple} definitions
-- **p215**{: .envision-hw-blue} 10--18, 20--21, 23--29 (18 problems)
+- **p215**{: .envision-hw-blue} 10--18, 20--21, 23--29 (18 problems, [PDF link](./pdf/aga_gm_0502_pps.pdf){: target="_blank"})
 
 ---

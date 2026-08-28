@@ -12,6 +12,6 @@ next-link: ./12-6-probability-and-decision-making.html
 ## Assignment
 
 - Two **vocabulary**{: .envision-vocab-purple} definitions
-- **p535**{: .envision-hw-blue} 11--27 (17 problems)
+- **p535**{: .envision-hw-blue} 11--27 (17 problems, [PDF link](./pdf/aga_gm_1205_pps.pdf){: target="_blank"})
 
 ---

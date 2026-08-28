@@ -12,6 +12,6 @@ next-link: ./11-2-volumes-of-prisms-and-cylinders.html
 
 ## Assignment
 
-- **p469**{: .envision-hw-blue} 10--24, 26--31 (21 problems)
+- **p469**{: .envision-hw-blue} 10--24, 26--31 (21 problems, [PDF link](./pdf/aga_gm_1101_pps.pdf){: target="_blank"})
 
 ---

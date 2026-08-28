@@ -11,6 +11,6 @@ next-link: ./4-6-congruence-in-overlapping-triangles.html
 
 ## Assignment
 
-- **p186**{: .envision-hw-blue} 9--17, 19--26 (17 problems)
+- **p186**{: .envision-hw-blue} 9--17, 19--26 (17 problems, [PDF link](./pdf/aga_gm_0405_pps.pdf){: target="_blank"})
 
 ---

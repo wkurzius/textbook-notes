@@ -13,6 +13,6 @@ next-link: ./1-6-deductive-reasoning.html
 ## Assignment
 
 - Ten **vocabulary**{: .envision-vocab-purple} definitions
-- **p42**{: .envision-hw-blue} 11–31, 33–38 (27 problems)
+- **p42**{: .envision-hw-blue} 11–31, 33–38 (27 problems, [PDF link](./pdf/aga_gm_0105_pps.pdf){: target="_blank"})
 
 ---

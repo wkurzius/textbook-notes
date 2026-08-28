@@ -11,6 +11,6 @@ next-link: ./6-2-kites-and-trapezoids.html
 
 ## Assignment
 
-- **p250**{: .envision-hw-blue} 11--23, 25--30 (19 problems)
+- **p250**{: .envision-hw-blue} 11--23, 25--30 (19 problems, [PDF link](./pdf/aga_gm_0601_pps.pdf){: target="_blank"})
 
 ---

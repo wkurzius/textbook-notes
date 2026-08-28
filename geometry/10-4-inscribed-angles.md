@@ -12,6 +12,6 @@ next-link: ./10-5-secant-lines-and-angles.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p449**{: .envision-hw-blue} 17--27, 30--40 (22 problems)
+- **p449**{: .envision-hw-blue} 17--27, 30--40 (22 problems, [PDF link](./pdf/aga_gm_1004_pps.pdf){: target="_blank"})
 
 ---

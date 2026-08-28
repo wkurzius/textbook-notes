@@ -11,6 +11,6 @@ next-link: ./6-1-the-polygon-angle-sum-theorems.html
 
 ## Assignment
 
-- **p237**{: .envision-hw-blue} 8--11, 13--19 (11 problems)
+- **p237**{: .envision-hw-blue} 8--11, 13--19 (11 problems, [PDF link](./pdf/aga_gm_0505_pps.pdf){: target="_blank"})
 
 ---

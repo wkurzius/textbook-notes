@@ -12,6 +12,6 @@ next-link: ./12-2-conditional-probability.html
 ## Assignment
 
 - Three **vocabulary**{: .envision-vocab-purple} definitions
-- **p505**{: .envision-hw-blue} 9--18, 20--26 (17 problems)
+- **p505**{: .envision-hw-blue} 9--18, 20--26 (17 problems, [PDF link](./pdf/aga_gm_1201_pps.pdf){: target="_blank"})
 
 ---

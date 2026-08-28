@@ -11,6 +11,6 @@ next-link: ./3-4-classification-of-rigid-motions.html
 
 ## Assignment
 
-- **p127**{: .envision-hw-blue} 11--19, 22--30 (18 problems)
+- **p127**{: .envision-hw-blue} 11--19, 22--30 (18 problems, [PDF link](./pdf/aga_gm_0303_pps.pdf){: target="_blank"})
 
 ---

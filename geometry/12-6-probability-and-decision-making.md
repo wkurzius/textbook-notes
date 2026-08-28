@@ -10,6 +10,6 @@ next-link:
 
 ## Assignment
 
-- **p542**{: .envision-hw-blue} 11--24 (14 problems)
+- **p542**{: .envision-hw-blue} 11--24 (14 problems, [PDF link](./pdf/aga_gm_1206_pps.pdf){: target="_blank"})
 
 ---

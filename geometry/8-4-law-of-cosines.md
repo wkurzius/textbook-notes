@@ -12,6 +12,6 @@ next-link: ./8-5-problem-solving-with-trigonometry.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p371**{: .envision-hw-blue} 13--26, 28--34 (21 problems)
+- **p371**{: .envision-hw-blue} 13--26, 28--34 (21 problems, [PDF link](./pdf/aga_gm_0804_pps.pdf){: target="_blank"})
 
 ---

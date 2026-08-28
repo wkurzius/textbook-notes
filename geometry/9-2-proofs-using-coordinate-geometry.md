@@ -11,6 +11,6 @@ next-link: ./9-3-circles-in-the-coordinate-plane.html
 
 ## Assignment
 
-- **p398**{: .envision-hw-blue} 13--23, 25--33 (20 problems)
+- **p398**{: .envision-hw-blue} 13--23, 25--33 (20 problems, [PDF link](./pdf/aga_gm_0902_pps.pdf){: target="_blank"})
 
 ---

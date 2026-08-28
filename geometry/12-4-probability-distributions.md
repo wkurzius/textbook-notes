@@ -13,6 +13,6 @@ next-link: ./12-5-expected-value.html
 ## Assignment
 
 - Four **vocabulary**{: .envision-vocab-purple} definitions
-- **p528**{: .envision-hw-blue} 11--21, 23--32 (21 problems)
+- **p528**{: .envision-hw-blue} 11--21, 23--32 (21 problems, [PDF link](./pdf/aga_gm_1204_pps.pdf){: target="_blank"})
 
 ---

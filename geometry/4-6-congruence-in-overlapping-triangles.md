@@ -11,6 +11,6 @@ next-link: ./5-1-perpendicular-and-angle-bisectors.html
 
 ## Assignment
 
-- **p192**{: .envision-hw-blue} 9--19, 21--25 (16 problems)
+- **p192**{: .envision-hw-blue} 9--19, 21--25 (16 problems, [PDF link](./pdf/aga_gm_0406_pps.pdf){: target="_blank"})
 
 ---

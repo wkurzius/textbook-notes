@@ -12,6 +12,6 @@ next-link: ./10-2-lines-tangent-to-a-circle.html
 ## Assignment
 
 - Eight **vocabulary**{: .envision-vocab-purple} definitions
-- **p425**{: .envision-hw-blue} 10--15, 18--32 (21 problems)
+- **p425**{: .envision-hw-blue} 10--15, 18--32 (21 problems, [PDF link](./pdf/aga_gm_1001_pps.pdf){: target="_blank"})
 
 ---
