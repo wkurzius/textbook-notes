@@ -17,20 +17,19 @@ next-link: "./1-3-midpoint-and-distance.html"
 
 ---
 
-If we're going to spend all this time looking and figures and shapes, it'll be helpful to know how to draw them accurately. And we'll draw these basic **constructions** without measuring anything, instead using only a compass and a straightedge.
+If we're going to spend all this time looking and figures and shapes, it'll be helpful to know how to draw basic geometric figures, or **constructions**. The trick is that we'll do it without measuring anything, instead using only a compass and a straightedge.
 
-The more complex stuff, like drawing perfect polygons, we might touch on later in the year.
+We'll only cover four simple constructions and leave the more complex drawings, like polygons, as side activities later in the year.
 
-## Copying Segments and Angles
+> If this ends up being something that piques your interest, [Euclidea](https://www.euclidea.xyz/){: target="_blank"} is a game centered around constructions. You can play in a browser or download it as an app.
 
-The most basic of basic constructions. For copying a line segment, just set the compass to the length of the original, then use it to mark the point for the copy. Here is [an animation to help you out](https://www.mathopenref.com/constcopysegment.html){: target="_blank"}.
+## Pictures over Words
 
-Copying an angle is a bit more involved. First, you need a place to put the copy, so just a plain line somewhere will do. Then, draw an arc that hits both sides of the original angle. Draw that same arc on the new line.
+Since this topic is less conceptual and more of a how-two, I'm not going to bother reinventing the wheel. Directions and accompanying animations for each construction are below. I'll demo them in class, but these should work in case you miss it or need a refresher.
 
-Finally, on the original angle, set the compass 
+> A couple quick definitions: a **bisector** is a line that divided something in half, and **perpendicular** means it forms a right (90°) angle.
 
-## Bisectors
-
-1. Perpendicular bisectors
-2. Angle bisector
-> If you are interested, [Euclidea](https://www.euclidea.xyz/){: target="_blank"} is a game centered around constructions. You can play in a browser or download it as an app.
+1. [Copy a line segment](https://www.mathopenref.com/constcopysegment.html){: target="_blank"}
+2. [Copy an angle](https://www.mathopenref.com/constcopyangle.html){: target="_blank"}
+3. [Construct a perpendicular bisector](https://www.mathopenref.com/constbisectline.html){: target="_blank"}
+4. [Bisect an angle](https://www.mathopenref.com/constbisectangle.html){: target="_blank"}
