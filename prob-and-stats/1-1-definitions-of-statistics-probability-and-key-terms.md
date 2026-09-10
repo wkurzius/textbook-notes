@@ -16,7 +16,6 @@ next-link: ./1-2-data-sampling-and-variation-in-data-and-sampling.html
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/1-key-terms){: target="_blank"} for definitions)
 - [1.1 Homework](https://openstax.org/books/statistics/pages/1-homework#fs-idm57628896){: target="_blank"} 45–56
-  - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 - Read the next section in the book
 
 ---

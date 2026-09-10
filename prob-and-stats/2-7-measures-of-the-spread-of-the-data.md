@@ -17,7 +17,6 @@ next-link: ./3-1-terminology.html
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/2-key-terms){: target="_blank"} for definitions)
 - [2.7 Homework](https://openstax.org/books/statistics/pages/2-homework#fs-idm25848496){: target="_blank"} 98–111
-  - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 - Read the next section in the book
 
 ---

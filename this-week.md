@@ -56,9 +56,9 @@ cal-x: "Sep. 28"
 <p><i class="fa-solid fa-globe"></i> - Online Book/Curriculum</p>
 </div>
 
-## Schedule
+## My Schedule
 
-I am available for extra help before school most days, and whenever I have Media Center Duty.
+I am available for extra help before school most days and whenever I have Media Center Duty.
 
 | Block | A Days                               | B Days                         |
 | :---: | ------------------------------------ | ------------------------------ |

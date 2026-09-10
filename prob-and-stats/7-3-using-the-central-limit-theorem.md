@@ -17,7 +17,6 @@ next-link:
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/1-key-terms) for definitions)
 - [7.3 Homework](fs-idm47834016){: target="_blank"} 76–84, 91, 93
-  - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 - Read the next section in the book
 
 ---

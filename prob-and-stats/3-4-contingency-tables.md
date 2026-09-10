@@ -19,7 +19,6 @@ next-link: ./3-5-tree-and-venn-diagrams.html
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/3-key-terms) for definitions)
 - [3.4 Homework](https://openstax.org/books/statistics/pages/3-homework#fs-idp18062160){: target="_blank"} 101–110
-  - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 - Read the next section in the book
 
 ---

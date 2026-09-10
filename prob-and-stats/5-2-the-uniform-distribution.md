@@ -16,7 +16,6 @@ next-link: ./6-1-the-standard-normal-distribution.html
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/1-key-terms) for definitions)
 - [5.2 Homework](https://openstax.org/books/statistics/pages/5-homework#fs-idp64788688){: target="_blank"} 74–85
-  - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 - Read the next section in the book
 
 ---

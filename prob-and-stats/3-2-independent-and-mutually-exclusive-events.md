@@ -19,7 +19,6 @@ next-link: ./3-3-two-basic-rules-of-probability.html
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/3-key-terms) for definitions)
 - [3.2 Homework](https://openstax.org/books/statistics/pages/3-homework#fs-idm88736){: target="_blank"} 69–79 odds
-  - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 - Read the next section in the book
 
 ---

@@ -17,7 +17,6 @@ next-link: ./2-2-histograms-frequency-polygons-and-time-series-graphs.html
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/2-key-terms){: target="_blank"} for definitions)
 - [2.1 Homework](https://openstax.org/books/statistics/pages/2-homework#fs-idp103158432){: target="_blank"} 78–79
-  - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 - Read the next section in the book
 
 ---

@@ -16,7 +16,6 @@ next-link: ./6-2-using-the-normal-distribution.html
 
 - All six TRY IT problems in [6.1 The Standard Normal Distribution](https://openstax.org/books/statistics/pages/6-1-the-standard-normal-distribution)
 - [6.1 Homework](https://openstax.org/books/statistics/pages/6-homework#fs-idm58670224){: target="_blank"} 60–67
-  - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 - Read the next section in the book
 
 ---

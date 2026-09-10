@@ -19,7 +19,6 @@ next-link: ./4-1-probability-distribution-function-for-a-discrete-random-variabl
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/3-key-terms) for definitions)
 - [3.5 Homework](https://openstax.org/books/statistics/pages/3-homework#fs-idp43118896){: target="_blank"} 113–115
-  - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 - Read the next section in the book
 
 ---

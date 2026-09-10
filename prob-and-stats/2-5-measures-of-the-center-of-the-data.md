@@ -17,7 +17,6 @@ next-link: ./2-6-skewness-and-the-mean-median-and-mode.html
 
 - All **vocabulary** (see [Key Terms](https://openstax.org/books/statistics/pages/2-key-terms){: target="_blank"} for definitions)
 - [2.5 Homework](https://openstax.org/books/statistics/pages/2-homework#fs-idm59277808){: target="_blank"} 95–96
-  - [Solutions](https://manville.instructure.com/courses/5045/files?preview=811475){: target="_blank"}
 - Read the next section in the book
 
 ---
