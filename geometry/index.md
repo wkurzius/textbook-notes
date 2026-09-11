@@ -150,4 +150,4 @@ layout: course-index
 ## Links
 
 - [Syllabus](./geometry-syllabus.md)
-- [Curriculum](./geometry-curriculum.md)
+- [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="_blank"}
