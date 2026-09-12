@@ -10,7 +10,7 @@ next-link: "./1-3-midpoint-and-distance.html"
 - Construct segments, perpendicular bisectors of segments, and bisectors of angles
 - Apply construction to problems involving portions of segments and angles
 
-## Assignment
+## Optional Assignment
 
 - Three **vocabulary**{: .envision-vocab-purple} definitions
 - **p20**{: .envision-hw-blue} 10–19, 21–25 (15 problems, [PDF link](./pdf/aga_gm_0102_pps.pdf){: target="_blank"})

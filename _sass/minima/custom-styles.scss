@@ -115,6 +115,7 @@ blockquote.definition h5 {
 }
 
 h2#assignment,
+h2#optional-assignment,
 h2#additional-resources,
 h2#chapter-objectives,
 h2#objectives,
@@ -588,4 +589,16 @@ a.footnote {
 
 .lab-bullet {
 	list-style-type: "🧪 ";
+}
+
+.this-week-extra {
+    display: block;
+    width: fit-content;
+    font-size: smaller;
+    margin: 0.5rem auto 0 auto;
+    text-align: center;
+    padding: 0.25rem;
+    background-color: var(--minima-text-color);
+    color: var(--minima-background-color);
+    line-height: normal;
 }
