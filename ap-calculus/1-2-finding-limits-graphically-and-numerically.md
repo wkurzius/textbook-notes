@@ -2,7 +2,7 @@
 title: 1.2 Finding Limits Graphically and Numerically
 layout: page
 course: AP Calc
-last-reviewed: 2025-11-14 09:35:10
+last-reviewed: 2026-09-13 12:47:29
 prev-link: "./1-1-a-preview-of-calculus.html"
 next-link: "./1-3-evaluating-limit-analytically.html"
 ---
@@ -61,8 +61,8 @@ Here's the informal definition of a limit (yes, there's a formal version of this
 
 Another way to think of limits is to ask "what does the function look like it's doing?" Let's look at a different case.
 
-### Example 1
-
+> ## Example 1
+>
 > Find the limit of $f(x)$ as $x$ approaches $2$.
 >
 > $$\begin{align}
@@ -73,7 +73,7 @@ Another way to think of limits is to ask "what does the function look like it's 
 > \end{align}$$
 {: .example}
 
-Here, there is difference between $f(2)$ and $\lim_{x\to2}f(x)$. The former is clearly defined—when $x$ is $2$, then $f(x)$ is $2$—but what the function appears to be doing, the limit, as it approaches $x=2$ is $1$.
+**SOLUTION** Here, there is difference between $f(2)$ and $\lim_{x\to2}f(x)$. The former is clearly defined—when $x$ is $2$, then $f(x)$ is $2$—but what the function appears to be doing, the limit, as it approaches $x=2$ is $1$.
 
 > ![Figure 1.6 from text](./img/1.2-figure-1.6.png){: width="200"}
 >
@@ -92,7 +92,7 @@ There are some situations where limits do not exist, where it can't be determine
 > **Figure 1.2.3** The graph of $f(x)=\frac{\|x\|}{x}$. The limit does not exist at $x=0$ since the right- and left-hand behaviors do not agree.
 {: .figure}
 
-Unbounded behavior is example. This is where the graph takes off to infinitely while approaching the value in question.
+Unbounded behavior is another example where a limit fails to exist. This is where the graph takes off to infinitely while approaching the value in question.
 
 > ![Unbounded behavior](./img/1.2-figure-1.8.png){:  width="200"}
 >

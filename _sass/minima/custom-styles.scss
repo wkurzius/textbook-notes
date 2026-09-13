@@ -179,7 +179,9 @@ h2#course-schedule {
 
 .example h2,
 .example h3,
-.example h4 {
+.example h4,
+.example h5,
+.example h6 {
     background: var(--example-heading-color);
     color: var(--minima-background-color);
     padding: 0.25rem 1rem;
