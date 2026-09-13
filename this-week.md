@@ -39,7 +39,7 @@ sta-1: "**M**{: .day}[1.2 Data, Sampling, and Variation in Data and Sampling](./
 sta-2: "**W**{: .day}[1.3 Frequency, Frequency Tables, and Levels of Measurement](./prob-and-stats/1-3-frequency-tables.html)"
 sta-3: "**F**{: .day}[1.4 Experimental Design and Ethics](./prob-and-stats/1-4-experimental-design-and-ethics.html)"
 sta-x: "Sep. 28"
-sta-e: "*Duke Farms permission slips due 9/24*{: .this-week-extra}"
+sta-e: "[*Duke Farms permission slips due 9/24*](./pdfs/field-trip-permission-slip-for-duke-farms.pdf){: .this-week-extra target=\"_blank\"}"
 
 ---
 

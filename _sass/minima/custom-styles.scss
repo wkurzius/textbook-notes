@@ -591,14 +591,20 @@ a.footnote {
 	list-style-type: "🧪 ";
 }
 
-.this-week-extra {
+a.this-week-extra {
     display: block;
     width: fit-content;
     font-size: smaller;
     margin: 0.5rem auto 0 auto;
     text-align: center;
     padding: 0.25rem;
-    background-color: var(--minima-text-color);
-    color: var(--minima-background-color);
     line-height: normal;
+    text-decoration: none;
+
+}
+
+a.this-week-extra::before {
+    font: var(--fa-font-solid);
+    content: "\f0f3";
+    padding-right: 0.5rem;
 }
