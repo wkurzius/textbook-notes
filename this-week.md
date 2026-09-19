@@ -1,55 +1,55 @@
 ---
-title: "This Week (Sep. 14–18)"
+title: "This Week (Sep. 21–25)"
 layout: this-week
 
 cal-h: "[**AP Calc**](./ap-calculus/){: title=\"Course Page\"}<br>
         [<i class=\"fa-solid fa-file-lines\"></i>](./ap-calculus/ap-calc-syllabus.html){: title=\"Course Syllabus\"}"
-cal-1: "**M**{: .day}[1.2 Finding Limits Graphically and Numerically](./ap-calculus/1-2-finding-limits-graphically-and-numerically.html)"
-cal-2: "**W**{: .day}[1.3 Evaluating Limits Analytically](./ap-calculus/1-3-evaluating-limit-analytically.html)"
-cal-3: "**F**{: .day}[1.3 Evaluating Limits Analytically](./ap-calculus/1-3-evaluating-limit-analytically.html)"
+cal-1: "**T**{: .day}[1.4 Continuity and One-Sided Limits](./ap-calculus/1-4-continuity-and-one-sided-limits.html)"
+cal-2: "**R**{: .day}AP Progress Check: Unit 1 MCQ Part A"
+cal-3: ""
 cal-x: "Sep. 28"
 
 csa-h: "[**AP Comp Sci A**](./ap-comp-sci-a/){: title=\"Course Page\"}<br>
         [<i class=\"fa-solid fa-file-lines\"></i>](./ap-comp-sci-a/ap-csa-syllabus.html){: title=\"Course Syllabus\"}
         [<i class=\"fa-solid fa-globe\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}{: title=\"CSAwesome2 Online Book\"}"
-csa-1: "**T**{: .day}Unit 1 Progress Check: MCQ Part A"
-csa-2: "**R**{: .day}Quiz 1"
-csa-3: ""
-csa-x: "Sep. 17"
+csa-1: "**M**{: .day}Quiz 1"
+csa-2: "**W**{: .day}[1.5 Casting and Ranges of Values](./ap-comp-sci-a/1-5-casting-and-ranges-of-values.html) and [1.6 Compound Assignment Operators](./ap-comp-sci-a/1-6-compound-assignment-operators.html)"
+csa-3: "**F**{: .day}[1.7 APIs and Libraries](./ap-comp-sci-a/1-7-apis-and-libraries.html) and [1.8 Documentation with Comments and Preconditions](./ap-comp-sci-a/1-8-documentation-with-comments-and-preconditions.html)"
+csa-x: "Sep. 21/Oct. 5"
 
 geo-h: "[**Geometry**](./geometry/){: title=\"Course Page\"}<br>
         [<i class=\"fa-solid fa-file-lines\"></i>](./geometry/geometry-syllabus.html){: title=\"Course Syllabus\"}"
-geo-1: "**T**{: .day}[1.3 Midpoint and Distance](./geometry/1-3-midpoint-and-distance.html)"
-geo-2: "**R**{: .day}[1.4 Inductive Reasoning](./geometry/1-4-inductive-reasoning.html)"
-geo-3: ""
-geo-x: "Sep. 21"
+geo-1: "**M**{: .day}Benchmark"
+geo-2: "**W**{: .day}[1.3 Midpoint and Distance](./geometry/1-3-midpoint-and-distance.html)"
+geo-3: "**F**{: .day}1.1–1.3 Review/Quiz"
+geo-x: "Sep. 25"
 
 pro-h: "**Intro to Programming**<br>
         [<i class=\"fa-solid fa-file-lines\"></i>](./intro-to-programming/intro-to-programming-syllabus.html){: title=\"Course Syllabus\"}
         [<i class=\"fa-solid fa-globe\"></i>](https://academy.cs.cmu.edu/){: target=\"_blank\" title=\"CS Academy Online Curriculum\"}"
-pro-1: "**≥ A**{: .day}Start working on Unit 1"
-pro-2: "**≥ B**{: .day}Start working on Unit 1"
-pro-3: "**< B**{: .day}Start working on Unit 1"
+pro-1: "**≥ A**{: .day}Continue working on Unit 1"
+pro-2: "**≥ B**{: .day}Continue working on Unit 1"
+pro-3: "**< B**{: .day}Continue working on Unit 1"
 pro-x: "–"
 
 sta-h: "[**Prob. & Stats**](./prob-and-stats/){: title=\"Course Page\"}<br>
         [<i class=\"fa-solid fa-file-lines\"></i>](./prob-and-stats/prob-and-stats-syllabus.html){: title=\"Course Syllabus\"}
         [<i class=\"fa-solid fa-globe\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\" title=\"OpenStax Statistics Online Book\"}"
-sta-1: "**M**{: .day}[1.2 Data, Sampling, and Variation in Data and Sampling](./prob-and-stats/1-2-data-sampling-and-variation-in-data-and-sampling.html)"
-sta-2: "**W**{: .day}[1.3 Frequency, Frequency Tables, and Levels of Measurement](./prob-and-stats/1-3-frequency-tables.html)"
-sta-3: "**F**{: .day}[1.4 Experimental Design and Ethics](./prob-and-stats/1-4-experimental-design-and-ethics.html)"
+sta-1: "**T**{: .day}[1.3 Frequency, Frequency Tables, and Levels of Measurement](./prob-and-stats/1-3-frequency-tables.html)"
+sta-2: "**R**{: .day}[1.4 Experimental Design and Ethics](./prob-and-stats/1-4-experimental-design-and-ethics.html)"
+sta-3: ""
 sta-x: "Sep. 28"
-sta-e: "[*Duke Farms permission slips due 9/24*](./pdfs/field-trip-permission-slip-for-duke-farms.pdf){: .this-week-extra target=\"_blank\"}"
+sta-e: "[*Duke Farms permission slips due 9/28*](./pdfs/field-trip-permission-slip-for-duke-farms.pdf){: .this-week-extra target=\"_blank\"}"
 
 ---
 
-| Course Links   | This Week's Schedule                                                 | Next Exam      |
-| -------------- | -------------------------------------------------------------------- | -------------- |
-| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}}                   | {{page.cal-x}} |
-| {{page.csa-h}} | {{page.csa-1}}<br>{{page.csa-2}}<br>{{page.csa-3}}                   | {{page.csa-x}} |
-| {{page.geo-h}} | {{page.geo-1}}<br>{{page.geo-2}}<br>{{page.geo-3}}                   | {{page.geo-x}} |
-| {{page.pro-h}} | {{page.pro-1}}<br>{{page.pro-2}}<br>{{page.pro-3}}                   | {{page.pro-x}} |
-| {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-3}}<br>{{page.sta-e}} | {{page.sta-x}} |
+| Course Links   | This Week's Schedule                               | Next Exam      |
+| -------------- | -------------------------------------------------- | -------------- |
+| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |
+| {{page.csa-h}} | {{page.csa-1}}<br>{{page.csa-2}}<br>{{page.csa-3}} | {{page.csa-x}} |
+| {{page.geo-h}} | {{page.geo-1}}<br>{{page.geo-2}}<br>{{page.geo-3}} | {{page.geo-x}} |
+| {{page.pro-h}} | {{page.pro-1}}<br>{{page.pro-2}}<br>{{page.pro-3}} | {{page.pro-x}} |
+| {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-e}} | {{page.sta-x}} |
 {: #this-week-table}
 
 <div id="this-week-table-legend">

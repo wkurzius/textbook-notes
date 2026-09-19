@@ -13,7 +13,7 @@ layout: course-index
 
 ## Marking Period 1
 
-### Quiz 1, Sep. 17
+### Quiz 1, Sep. 21
 
 - [1.1 Introduction to Algorithms, Programming, and Compilers](./1-1-introduction-to-algorithms-programming-and-compilers.md)
 - [1.2 Variables and Data Types](./1-2-variables-and-data-types.md)
@@ -23,7 +23,7 @@ layout: course-index
 [Unit 1 Part A](https://apclassroom.collegeboard.org/8/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### Quiz 2, Oct. 1
+### Quiz 2, Oct. 5
 
 - [1.5 Casting and Ranges of Values](./1-5-casting-and-ranges-of-values.md)
 - [1.6 Compound Assignment Operators](./1-6-compound-assignment-operators.md)
@@ -35,7 +35,7 @@ layout: course-index
 [Unit 1 Part B](https://apclassroom.collegeboard.org/8/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### Quiz 3, Oct. 20
+### Quiz 3, Oct. 22
 
 - [1.11 Using the `Math` Class](./1-11-using-the-math-class.md)
 - [1.12 Objects - Instances of Classes](./1-12-objects-instances-of-classes.md)
@@ -46,7 +46,7 @@ layout: course-index
 [Unit 1 Part C](https://apclassroom.collegeboard.org/8/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### MP1 Exam, Nov. 11
+### MP1 Exam, Nov. 13
 
 - [2.1 Algorithms with Selection and Repetition](./2-1-algorithms-with-selection-and-repetition.md)
 - [2.2 Boolean Expressions](./2-2-boolean-expressions.md)
@@ -68,7 +68,7 @@ layout: course-index
 
 ## Marking Period 2
 
-### Quiz 4, Dec. 7
+### Quiz 4, Dec. 9
 
 - [2.7 While Loops](./2-7-while-loops.md)
 - [2.8 For Loops](./2-8-for-loops.md)
@@ -80,14 +80,14 @@ layout: course-index
 [Unit 2 Part B](https://apclassroom.collegeboard.org/8/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### Quiz 5, Dec. 21
+### Quiz 5, Dec. 23
 
 - [3.1 Abstraction and Program Design](./3-1-abstraction-and-program-design.md)
 - [3.2 Impact of Program Design](./3-2-impact-of-program-design.md)
 - [3.3 Anatomy of a Java Class](./3-3-anatomy-of-a-java-class.md)
 - [3.4 Writing Constructors](./3-4-writing-constructors.md)
 
-### MP2 Exam, Jan. 22
+### MP2 Exam, Jan. 26
 
 - [3.5 Methods: How to Write Them](./3-5-methods-how-to-write-them.md)
 - [3.6 Methods: Passing and Returning References of an Object](./3-6-methods-passing-and-returning-references-of-an-object.md)
@@ -109,7 +109,7 @@ layout: course-index
 
 ## Marking Period 3
 
-### Quiz 6, Feb. 17
+### Quiz 6, Feb. 19
 
 - [4.1 Ethical and Social Issues Around Data Collection](./4-1-ethical-and-social-issues-around-data-collection.md)
 - [4.2 Data Sets](./4-2-data-sets.md)
@@ -120,7 +120,7 @@ layout: course-index
 [Unit 4 Part A](https://apclassroom.collegeboard.org/8/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### Quiz 7, Mar. 10
+### Quiz 7, Mar. 12
 
 - [4.6 Using Text Files](./4-6-using-text-files.md)
 - [4.7 Wrapper Classes: Integer and Double](./4-7-wrapper-classes-integer-and-double.md)
@@ -131,7 +131,7 @@ layout: course-index
 [Unit 4 Part B](https://apclassroom.collegeboard.org/8/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### MP3 Exam 8, Apr. 9
+### MP3 Exam 8, Apr. 13
 
 - [4.11 2D Array Creation and Access](./4-11-2d-array-creation-and-access.md)
 - [4.12 2D Array Traversals: Nested Loops](./4-12-2d-array-traversals-nested-loops.md)
