@@ -120,11 +120,11 @@ next-link: ./1-3-frequency-tables.html
 
 ## Critical Evaluation of Your Study
 
-- Problems with samples?
+- Is the sample representative?
 - Self-selected samples?
-- Sample size issues?
-- Undue influence?
-- Non-response?
+- Is the sample large enough?
+- How many non-responses? Did you just hear from the extremes?
+- Any undue influence, like leading questions?
 - Causality?
 - Self-funded study?
 - Misleading use of data?
