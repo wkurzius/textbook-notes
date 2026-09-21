@@ -1,15 +1,11 @@
 ---
-title: "This Week"
+title: This Week in Calculus
 layout: this-week
 ---
 
 | Course Links   | This Week's Schedule ({{site.this-week-dates}})    | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
 | {{site.cal-h}} | {{site.cal-1}}<br>{{site.cal-2}}<br>{{site.cal-3}} | {{site.cal-x}} |
-| {{site.csa-h}} | {{site.csa-1}}<br>{{site.csa-2}}<br>{{site.csa-3}} | {{site.csa-x}} |
-| {{site.geo-h}} | {{site.geo-1}}<br>{{site.geo-2}}<br>{{site.geo-3}} | {{site.geo-x}} |
-| {{site.pro-h}} | {{site.pro-1}}<br>{{site.pro-2}}<br>{{site.pro-3}} | {{site.pro-x}} |
-| {{site.sta-h}} | {{site.sta-1}}<br>{{site.sta-2}}<br>{{site.sta-e}} | {{site.sta-x}} |
 {: #this-week-table}
 
 <div id="this-week-table-legend">
@@ -30,3 +26,13 @@ I am available for extra help before school most days and whenever I have Media 
 |   3   | AP CSA / Intro to Programming (*31*) | --                             |
 |   4   | Geometry (*Media Center*)            | **Media Center Duty**          |
 {: #schedule-table}
+
+## Other Courses
+
+| Course Links   | This Week's Schedule ({{site.this-week-dates}})    | Next Exam      |
+| -------------- | -------------------------------------------------- | -------------- |
+| {{site.csa-h}} | {{site.csa-1}}<br>{{site.csa-2}}<br>{{site.csa-3}} | {{site.csa-x}} |
+| {{site.geo-h}} | {{site.geo-1}}<br>{{site.geo-2}}<br>{{site.geo-3}} | {{site.geo-x}} |
+| {{site.pro-h}} | {{site.pro-1}}<br>{{site.pro-2}}<br>{{site.pro-3}} | {{site.pro-x}} |
+| {{site.sta-h}} | {{site.sta-1}}<br>{{site.sta-2}}<br>{{site.sta-e}} | {{site.sta-x}} |
+{: #this-week-table}
