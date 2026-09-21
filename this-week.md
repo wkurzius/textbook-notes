@@ -45,11 +45,11 @@ sta-e: "[*Duke Farms permission slips due 9/28*](./pdfs/field-trip-permission-sl
 
 | Course Links   | This Week's Schedule                               | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
-| {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |
-| {{page.csa-h}} | {{page.csa-1}}<br>{{page.csa-2}}<br>{{page.csa-3}} | {{page.csa-x}} |
-| {{page.geo-h}} | {{page.geo-1}}<br>{{page.geo-2}}<br>{{page.geo-3}} | {{page.geo-x}} |
-| {{page.pro-h}} | {{page.pro-1}}<br>{{page.pro-2}}<br>{{page.pro-3}} | {{page.pro-x}} |
-| {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-e}} | {{page.sta-x}} |
+| {{site.cal-h}} | {{site.cal-1}}<br>{{site.cal-2}}<br>{{site.cal-3}} | {{site.cal-x}} |
+| {{site.csa-h}} | {{site.csa-1}}<br>{{site.csa-2}}<br>{{site.csa-3}} | {{site.csa-x}} |
+| {{site.geo-h}} | {{site.geo-1}}<br>{{site.geo-2}}<br>{{site.geo-3}} | {{site.geo-x}} |
+| {{site.pro-h}} | {{site.pro-1}}<br>{{site.pro-2}}<br>{{site.pro-3}} | {{site.pro-x}} |
+| {{site.sta-h}} | {{site.sta-1}}<br>{{site.sta-2}}<br>{{site.sta-e}} | {{site.sta-x}} |
 {: #this-week-table}
 
 <div id="this-week-table-legend">
