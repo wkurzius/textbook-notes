@@ -13,7 +13,7 @@ next-link: ./1-4-inductive-reasoning.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p26**{: .envision-hw-blue} 9–21, 23–28  (19 problems, [PDF link](./pdf/aga_gm_0103_pps.pdf){: target="_blank"})
+- **p26**{: .envision-hw-blue} 9–21, 23–28 (19 problems, [PDF link](./pdf/aga_gm_0103_pps.pdf){: target="_blank"})
 
 ---
 
@@ -39,9 +39,12 @@ But we can't work on just number lines in geometry, so we need to start adding i
 
 That midpoint happens to lie perfectly in the middle, both horizontally and vertically. That means we can do what we did above, just twice. Once with the $x$-coordinate and again with the $y$-coordinate.
 
-> ### Midpoint Formula
+> ### Finding Midpoint
 >
 > The midpoint $M$ of a line is the point that divides the line into two congruent segments.
+>
+> 1. Add the matching coordinates together (e.g., both $x$- or $y$-coordinates).
+> 2. Divide each sum by two.
 >
 > $$\begin{align}
 > M = \left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right)
@@ -80,6 +83,17 @@ If we started on the right, meaning moving backwards, we would subtract instead.
 
 Like midpoint, adding a second dimension just means you have to do it a second time.
 
+> ### Dividing a Line Segment
+>
+> To find the point that is part of the way ($p$) between two points:
+>
+> 1. Draw a picture
+> 2. Find the horizontal distance between the points (subtract the $x$-coordinates).
+> 3. Find the partial distance (multiply the distance by $p$)
+> 4. Use your picture to determine if you need to add or subtract from the starting point.
+> 5. Repeat steps 2–5 for the vertical distance/$y$-coordinates.
+{: .definition}
+
 > ## Example 2: Partition a Segment
 >
 > Find the coordinates of the point that is one-third the way from $(4,-2)$ to $(-3,2)$ (see figure 1.3.2).
@@ -110,6 +124,13 @@ This gives us a new point of $\left(\frac{5}{3},-\frac{2}{3}\right)$
 
 $\blacksquare$
 {: .qed}
+
+Some organization might help since there's a fair bit of information to keep track of. Here's the above example, but laid out in a table.
+
+|                  | Start |  End | Distance | Partial ($1/3$) |  Direction | New Coordinate |
+| ---------------- | ----: | ---: | -------: | --------------: | ---------: | -------------: |
+| Horizontal ($x$) |   $4$ | $-3$ |      $7$ |           $7/3$ | Left ($-$) |          $5/3$ |
+| Vertical ($y$)   |  $-2$ |  $2$ |      $4$ |           $4/3$ |   Up ($+$) |         $-2/3$ |
 
 ## Distance in Two Dimensions
 
@@ -149,7 +170,12 @@ To speed things, we can take what we did above and make a formula. We started by
 
 > ### Distance Formula
 >
-> To find the distance $d$ between two points
+> To find the distance $d$ between two points:
+>
+> 1. Find the horizontal distance and square it.
+> 2. Find the vertical distance and square it.
+> 3. Add the two together.
+> 4. Find the square root of that sum.
 >
 > $$\begin{align}
 > d = \sqrt{\left(x_1 - x_2\right)^2 + \left(y_1-y_2\right)^2}
@@ -170,7 +196,6 @@ d &= \sqrt{\left(-3 - 2\right)^2 + \left(4-(-2)\right)^2} \\
   &= \sqrt{61} \\
   &\approx 7.81 \\
 \end{align}$$
-
 
 $\blacksquare$
 {: .qed}
