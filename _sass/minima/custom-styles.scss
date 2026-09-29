@@ -14,14 +14,6 @@ ul {
     margin-left: 50px;
 }
 
-.red {
-    color: red;
-}
-
-.ka-familiar {
-    color: #d77d0f;
-}
-
 .small {
     font-size: small;
 }
@@ -39,10 +31,6 @@ ul {
     border: solid 3px #01aaaf;
     border-radius: 10px;
     padding: 0.05rem 0.2rem;
-}
-
-.calculus-teal {
-    color: #01aaaf;
 }
 
 blockquote {
@@ -565,14 +553,6 @@ a.footnote {
     text-indent: 1.4rem hanging each-line;
 }
 
-.envision-hw-blue {
-    color: #0076bd;
-}
-
-.envision-vocab-purple {
-    color: #8e177c;
-}
-
 #this-week-table-legend {
     display: flex;
     justify-content: center;
@@ -614,4 +594,34 @@ a.this-week-extra::before {
 .site-footer #color-toggle {
 	float: right;
 	font-size: 1.5rem;
+}
+
+/* colors */
+
+.red {
+    color: red;
+}
+
+.ka-familiar {
+    color: #d77d0f;
+}
+
+.calculus-teal {
+    color: #01aaaf;
+}
+
+.envision-hw-blue {
+    color: #0076bd;
+}
+
+.envision-vocab-purple {
+    color: #8e177c;
+}
+
+.orange {
+    color: #f15d37;
+}
+
+.blue {
+    color: #0074a6;
 }
