@@ -16,3 +16,8 @@ next-link: ./1-6-deductive-reasoning.html
 - **p42**{: .envision-hw-blue} 11–31, 33–38 (27 problems, [PDF link](./pdf/aga_gm_0105_pps.pdf){: target="_blank"})
 
 ---
+
+Last section, we took our first steps towards formalizing our thought process with defining inductive reasoning, or looking for patterns to come up with a conjecture. Today we look at **conditional** statements, sentences you have read and heard throughout your life.
+
+> If your teacher is absent, go to sub study.
+
