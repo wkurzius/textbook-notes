@@ -59,26 +59,27 @@ And the last version is the **contrapositive**, or $\neg q \to \neg p$. It's a c
 
 ## Verisimilitude
 
-What you don't want to lose in all this rearranging and negating of $p$ and $q$ is whether or not the statement itself makes any sense. After writing your statements, take the time to determine it's truth value.
+What you don't want to lose in all this rearranging and negating of $p$ and $q$ is whether or not the statement itself makes any sense. After writing your statements, take the time to determine its truth value.
 
-> ## Example: Related Conditional and Truth Values.
+> ## Example: Related Conditional and Truth Values
 >
 > Write the converse, inverse, and contrapositive of the statement below and determine the truth value of each.
 >
 > > If two whole numbers are both even, then their sum is even
 {: .example}
 
-**SOLUTION** Converse if up first, which is reversing the hypothesis and conclusion ($\q \to \neg p$)
+**SOLUTION** Converse if up first, which is reversing the hypothesis and conclusion ($q \to p$).
 
 > If the sum of two whole numbers is even, then the numbers are both even.
 
-Counterexample will be helpful here. Let's start with an even number and see if we can split it into two odd numbers.
+A counterexample will be helpful here. Let's start with an even number and see if we can split it into at least one number.
 
 $$\begin{align}
-8 = 5 + 3
+8 &= 5 + 3 \\
+12 &= 1 + 11
 \end{align}$$
 
-So the converse is false.
+Looks like we needs a pair of odds, so the converse is false.
 
 Next is the inverse when we negate both parts ($\neg p \to \neg q$).
 
@@ -88,18 +89,41 @@ We can use the same counterexample here. Five and three are both not even, but t
 
 Last is contrapositive, reversed and negated ($\neg q \to \neg p$).
 
-> If the sum of two whole numbers is not even, then the numbers are both not even.
+> If the sum of two whole numbers is not even, then the numbers are not both even.
 
+We won't be able to prove this for all situations, but we can check a few to see if it works in general.
 
+$$\begin{align}
+7 &= 1 + 6 \\
+7 &= 2 + 5 \\
+7 &= 3 + 4
+\end{align}$$
+
+It looks like odd sums require both an odd and even number, so contrapositive appears to be true.
 
 $\blacksquare$
 {: .qed}
 
-
 ## Biconditional Statements
 
-The last type of conditional is the **biconditional**. They are when you can reverse the conditional (converse) and it still makes sense. These typically have the phrase "if an only if" in them.
+The last type of conditional is the **biconditional**, represented by $p \leftrightarrow q$. These are when you can reverse the conditional (converse) and it still makes sense. These typically have the phrase "if an only if" in them.
 
 > A number is even if and only if it is evenly divisible by two.
 >
 > A number is divisible evenly by two if and only if it is even.
+
+> ## Example: Biconditional Conditionals
+>
+> What are the two conditionals implied by the biconditional below?
+>
+> > The product of two numbers is negative if and only if the numbers have opposite signs.
+{: .example}
+
+**SOLUTION** Our $p$ and $q$ are "the product of two numbers is negative" and "the numbers have opposite signs". Now we can write one conditional, and then reverse them for the other.
+
+> If the product of two numbers is negative, then the numbers have opposite signs.
+>
+> If two numbers have opposite signs, then their product is negative.
+
+$\blacksquare$
+{: .qed}
