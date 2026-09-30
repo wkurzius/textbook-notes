@@ -85,3 +85,14 @@ $$\begin{align*}
 >
 > **Figure 2.2.5** A time series graph.
 {: .figure}
+
+## Creating Histograms in Google Sheets
+
+Just some general tips for using Sheets to create your histograms.
+
+- Highlight data and go to *Insert > Chart* for making charts in general
+- Histograms can only be created when given the raw data.
+- Frequency tables can only be made into bar/column charts. This is not a big deal since they essentially display the same information.
+- If only working with raw data ...
+  - Use *Data > Split text to columns* to divide each data point into their own cell
+  - Then *Edit > Paste special > Transpose* to copy rows of data into columns for easier reading
