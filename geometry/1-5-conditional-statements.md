@@ -72,14 +72,13 @@ What you don't want to lose in all this rearranging and negating of $p$ and $q$ 
 
 > If the sum of two whole numbers is even, then the numbers are both even.
 
-A counterexample will be helpful here. Let's start with an even number and see if we can split it into at least one number.
+A counterexample will be helpful here. Let's start with an even number and see if we can split it into at least one odd number.
 
 $$\begin{align}
 8 &= 5 + 3 \\
-12 &= 1 + 11
 \end{align}$$
 
-Looks like we needs a pair of odds, so the converse is false.
+That's all we need. The converse is false.
 
 Next is the inverse when we negate both parts ($\neg p \to \neg q$).
 
