@@ -39,8 +39,8 @@ sta-h: "[**Prob. & Stats**](./prob-and-stats/)<br>
         [<i class=\"fa-solid fa-file-lines\"></i>](./prob-and-stats/prob-and-stats-syllabus.html)
         [<i class=\"fa-solid fa-clock-rotate-left\"></i>](./prob-and-stats/)
         [<i class=\"fa-solid fa-globe\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\"}"
-sta-1: "**M**{: .day}[2.3 Measures of the Location of the Data](./prob-and-stats/2-3-measures-of-the-location-of-the-data.html)"
-sta-2: "**W**{: .day}[2.4 Box Plots](./prob-and-stats/2-4-box-plots.html)"
+sta-1: "**T**{: .day}[2.3 Measures of the Location of the Data](./prob-and-stats/2-3-measures-of-the-location-of-the-data.html)"
+sta-2: "**R**{: .day}[2.4 Box Plots](./prob-and-stats/2-4-box-plots.html)"
 sta-3: ""
 sta-x: "Oct. 21"
 
