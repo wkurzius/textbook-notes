@@ -12,6 +12,7 @@ next-link: ./1-8-indirect-proof.html
 
 - Four **vocabulary**{: .envision-vocab-purple} definitions
 - **p56**{: .envision-hw-blue} 9–10, 14–18, 19–20*, 21–22, 25 ([PDF link](./pdf/aga_gm_0107_pps.pdf){: target="_blank"})
-  - For 19–20, you may write a paragraph proof
+
+    \* *For 19–20, you may write a paragraph proof*
 
 ---
