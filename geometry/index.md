@@ -4,6 +4,9 @@ subtitle: 2026–2027
 layout: course-index
 ---
 
+> Full online book available through *ClassLink > Savvas EasyBridge*.
+{: .call-out}
+
 <h2>Course Schedule</h2>
 
 - Table of Contents
