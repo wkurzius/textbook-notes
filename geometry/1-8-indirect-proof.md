@@ -6,6 +6,9 @@ prev-link: ./1-7-writing-proofs.html
 next-link: ./2-1-properties-of-parallel-lines.html
 ---
 
+> Full online book available through *ClassLink > Savvas EasyBridge*.
+{: .call-out}
+
 - Use indirect reasoning to prove theorems about lines and angles
 - Use proof by contradiction and proof by contrapositive to prove conditional statements
 
