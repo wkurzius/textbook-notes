@@ -1,7 +1,7 @@
 ---
 title: 3.5 Tree and Venn Diagrams
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 prev-link: ./3-4-contingency-tables.html
 next-link: ./4-1-probability-distribution-function-for-a-discrete-random-variable.html
 ---

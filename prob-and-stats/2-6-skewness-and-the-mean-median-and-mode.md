@@ -1,7 +1,7 @@
 ---
 title: 2.6 Skewness and the Mean, Median, and Mode
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 prev-link: ./2-5-measures-of-the-center-of-the-data.html
 next-link: ./2-7-measures-of-the-spread-of-the-data.html
 ---

@@ -1,7 +1,7 @@
 ---
 title: 6.1 The Standard Normal Distribution
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 prev-link: ./5-2-the-uniform-distribution.html
 next-link: ./6-2-using-the-normal-distribution.html
 ---

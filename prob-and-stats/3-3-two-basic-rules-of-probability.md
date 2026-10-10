@@ -1,7 +1,7 @@
 ---
 title: 3.3 Two Basic Rules of Probability
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 prev-link: ./3-2-independent-and-mutually-exclusive-events.html
 next-link: ./3-4-contingency-tables.html
 ---

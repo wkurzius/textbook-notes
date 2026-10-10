@@ -1,7 +1,7 @@
 ---
 title: 4.1 Probability Distribution Function (PDF) for a Discrete Random Variable
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 prev-link: ./3-5-tree-and-venn-diagrams.html
 next-link: ./4-2-mean-or-expected-value-and-standard-deviation.html
 ---

@@ -1,7 +1,7 @@
 ---
 title: Khan Academy EOY Work
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 ---
 
 Work through the [High School Statistics course on Khan Academy](https://www.khanacademy.org/math/probability){: target="_blank"} and get the Course Mastery number as high as you can before the end of the year.

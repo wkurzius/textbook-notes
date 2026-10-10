@@ -1,7 +1,7 @@
 ---
 title: 2.3 Measures of the Location of the Data
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 prev-link: ./2-2-histograms-frequency-polygons-and-time-series-graphs.html
 next-link: ./2-4-box-plots.html
 ---

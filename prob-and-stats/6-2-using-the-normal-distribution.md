@@ -1,7 +1,7 @@
 ---
 title: 6.2 Using the Normal Distribution
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 prev-link: ./6-1-the-standard-normal-distribution.html
 next-link: ./7-1-the-central-limit-theorem-for-sample-means.html
 ---

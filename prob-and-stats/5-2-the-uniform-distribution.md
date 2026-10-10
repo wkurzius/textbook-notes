@@ -1,7 +1,7 @@
 ---
 title: 5.2 The Uniform Distribution
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 prev-link: ./5-1-continuous-probability-functions.html
 next-link: ./6-1-the-standard-normal-distribution.html
 ---

@@ -1,7 +1,7 @@
 ---
 title: 3.2 Independent and Mutually Exclusive Events
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 prev-link: ./3-1-terminology.html
 next-link: ./3-3-two-basic-rules-of-probability.html
 ---

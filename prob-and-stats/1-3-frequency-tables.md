@@ -1,7 +1,7 @@
 ---
 title: 1.3 Frequency, Frequency Tables, and Levels of Measurement
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 prev-link: ./1-2-data-sampling-and-variation-in-data-and-sampling.html
 next-link: ./1-4-experimental-design-and-ethics.html
 ---

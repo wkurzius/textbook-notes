@@ -2,7 +2,7 @@
 title: "Probability & Statistics Syllabus"
 subtitle: Semesters 1 & 2, 2026–2027
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 ---
 
 > Mr. Kurzius

@@ -1,7 +1,7 @@
 ---
 title: title
 
-course: Probability & Statistics
+course: Prob & Stats
 ---
 
 ## Chapter Objectives

@@ -6,7 +6,7 @@ prev-link: ./1-5-conditional-statements.html
 next-link: ./1-7-writing-proofs.html
 ---
 
-> Full online book available through *ClassLink > Savvas EasyBridge*.
+> Reminder: Full online book available through<br>*ClassLink > Savvas EasyBridge*
 {: .call-out}
 
 - Use deductive reasoning to draw a valid conclusion based on a set of given facts

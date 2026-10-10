@@ -1,7 +1,7 @@
 ---
 title: 2.4 Box Plots
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 prev-link: ./2-3-measures-of-the-location-of-the-data.html
 next-link: ./2-5-measures-of-the-center-of-the-data.html
 ---

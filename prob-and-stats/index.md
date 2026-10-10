@@ -24,7 +24,7 @@ layout: course-index
 - {: .lab-bullet}[1.6 Sampling Experiment](https://openstax.org/books/statistics/pages/1-6-sampling-experiment){: target="_blank"}
 -->
 
-### Chapter 2 Quiz, Oct. 21
+### Chapter 2 Quiz, Oct. 23
 
 - [2.1 Stem-and-Leaf Graphs (Stemplots), Line Graphs, and Bar Graphs](./2-1-stem-and-leaf-graphs-stemplots-line-graphs-and-bar-graphs.md)
 - [2.2 Histograms, Frequency Polygons, and Time Series Graphs](./2-2-histograms-frequency-polygons-and-time-series-graphs.md)

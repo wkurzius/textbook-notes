@@ -1,7 +1,7 @@
 ---
 title: Formula Summary
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 ---
 
 Assume all percentages are decimals unless stated otherwise.

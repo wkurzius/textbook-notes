@@ -1,7 +1,7 @@
 ---
 title: 3.4 Contingency Tables
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 prev-link: ./3-3-two-basic-rules-of-probability.html
 next-link: ./3-5-tree-and-venn-diagrams.html
 ---

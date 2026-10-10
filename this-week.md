@@ -1,37 +1,38 @@
 ---
-title: "This Week (Oct. 5–9)"
+title: "This Week (Oct. 13–16)"
 layout: this-week
 
-cal-h: "[**AP Calc**](./ap-calculus/)<br>
+cal-h: "[**AP Calculus AB**](./ap-calculus/)<br>
         [<i class=\"fa-solid fa-file-lines\"></i>](./ap-calculus/ap-calc-syllabus.html)
         [<i class=\"fa-solid fa-clock-rotate-left\"></i>](./ap-calculus/)"
-cal-1: "**T**{: .day}[1.6 Limits at Infinity](./ap-calculus/1-6-limits-at-infinity.html)"
-cal-2: "**R**{: .day}[1.6 Limits at Infinity](./ap-calculus/1-6-limits-at-infinity.html)"
+cal-1: "**T**{: .day}1.5–1.6 Quiz"
+cal-2: "**R**{: .day}[2.1 The Derivative and the Tangent Line Problem](./ap-calculus/2-1-the-derivative-and-the-tangent-line-problem.html)"
 cal-3: ""
-cal-x: "Oct. 13"
+cal-x: "Nov. 4<br>(MP Exam)"
 
 csa-h: "[**AP Comp Sci A**](./ap-comp-sci-a/)<br>
         [<i class=\"fa-solid fa-file-lines\"></i>](./ap-comp-sci-a/ap-csa-syllabus.html)
         [<i class=\"fa-solid fa-clock-rotate-left\"></i>](./ap-comp-sci-a/)
         [<i class=\"fa-solid fa-globe\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}"
-csa-1: "**M**{: .day}[1.9 Method Signatures](./ap-comp-sci-a/1-9-method-signatures.html) and [1.10 Calling Class Methods](./ap-comp-sci-a/1-10-calling-class-methods.html)"
-csa-2: "**W**{: .day}[1.11 Using the Math Class](./ap-comp-sci-a/1-11-using-the-math-class.html) and [1.12 Objects - Instances of Classes](./ap-comp-sci-a/1-12-objects-instances-of-classes.html)"
-csa-3: "**F**{: .day}[1.13 Creating and Initializing Objects: Constructors](./ap-comp-sci-a/1-13-creating-and-initializing-objects.html)"
+csa-1: "**W**{: .day}[1.14 Calling Instance Methods](./ap-comp-sci-a/1-14-calling-instance-methods.html)"
+csa-2: "**F**{: .day}[1.15 Strings](./ap-comp-sci-a/1-15-strings.html)"
+csa-3: ""
 csa-x: "Oct. 22"
 
 geo-h: "[**Geometry**](./geometry/)<br>
         [<i class=\"fa-solid fa-file-lines\"></i>](./geometry/geometry-syllabus.html)
-        [<i class=\"fa-solid fa-clock-rotate-left\"></i>](./geometry/)"
-geo-1: "**M**{: .day}[1.5 Conditional Statements](./geometry/1-5-conditional-statements.html)"
-geo-2: "**W**{: .day}Review"
-geo-3: "**F**{: .day}Quiz"
-geo-x: "Oct. 9"
+        [<i class=\"fa-solid fa-clock-rotate-left\"></i>](./geometry/)
+        [<i class=\"fa-solid fa-globe\"></i>](https://login.classlink.com/my/manville){: target=\"_blank\"}"
+geo-1: "**W**{: .day}[1.6 Deductive Reasoning](./geometry/1-6-deductive-reasoning.html)"
+geo-2: "**F**{: .day}[1.7 Writing Proofs](./geometry/1-7-writing-proofs.html)"
+geo-3: ""
+geo-x: "Oct. 26"
 
 pro-h: "**Intro to Programming**<br>
         [<i class=\"fa-solid fa-file-lines\"></i>](./intro-to-programming/intro-to-programming-syllabus.html)
         [<i class=\"fa-solid fa-globe\"></i>](https://academy.cs.cmu.edu/){: target=\"_blank\"}"
-pro-1: "**≥ A**{: .day}Start work on Unit 2"
-pro-2: "**≥ B**{: .day}Unit 1 Creative Task and Quizzes"
+pro-1: "**≥ A**{: .day}Continue work on Unit 2"
+pro-2: "**≥ B**{: .day}Begin work on Unit 2"
 pro-3: "**< B**{: .day}Continue working on Unit 1"
 pro-x: "–"
 
@@ -39,10 +40,10 @@ sta-h: "[**Prob. & Stats**](./prob-and-stats/)<br>
         [<i class=\"fa-solid fa-file-lines\"></i>](./prob-and-stats/prob-and-stats-syllabus.html)
         [<i class=\"fa-solid fa-clock-rotate-left\"></i>](./prob-and-stats/)
         [<i class=\"fa-solid fa-globe\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\"}"
-sta-1: "**T**{: .day}[2.3 Measures of the Location of the Data](./prob-and-stats/2-3-measures-of-the-location-of-the-data.html)"
-sta-2: "**R**{: .day}[2.4 Box Plots](./prob-and-stats/2-4-box-plots.html)"
+sta-1: "**T–R**{: .day}NJGPA Testing"
+sta-2: "[2.4 Measures of the Center of the Data](./prob-and-stats/2-5-measures-of-the-center-of-the-data.html)"
 sta-3: ""
-sta-x: "Oct. 21"
+sta-x: "Oct. 23"
 
 ---
 

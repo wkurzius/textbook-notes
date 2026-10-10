@@ -1,7 +1,7 @@
 ---
 title: 2.5 Measures of the Center of the Data
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 prev-link: ./2-4-box-plots.html
 next-link: ./2-6-skewness-and-the-mean-median-and-mode.html
 ---

@@ -1,7 +1,7 @@
 ---
 title: 2.2 Histograms, Frequency Polygons, and Time Series Graphs
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 prev-link: ./2-1-stem-and-leaf-graphs-stemplots-line-graphs-and-bar-graphs.html
 next-link: ./2-3-measures-of-the-location-of-the-data.html
 ---

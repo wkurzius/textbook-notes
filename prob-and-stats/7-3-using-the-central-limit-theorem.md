@@ -1,7 +1,7 @@
 ---
 title: 7.3 Using the Central Limit Theorem
 layout: page
-course: Probability & Statistics
+course: Prob & Stats
 prev-link: ./7-1-the-central-limit-theorem-for-sample-means.html
 next-link: 
 ---
