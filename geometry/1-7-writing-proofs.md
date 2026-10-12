@@ -18,4 +18,9 @@ next-link: ./1-8-indirect-proof.html
 
     \* *For 19–20, you may write a paragraph proof*
 
+## Additional Resources
+
+- [Proofs involving angles](https://www.ixl.com/math/geometry/proofs-involving-angles){: target="_blank"}
+- [Find measures of complementary, supplementary, vertical, and adjacent angles](https://www.ixl.com/math/geometry/find-measures-of-complementary-supplementary-vertical-and-adjacent-angles){: target="_blank"}
+
 ---

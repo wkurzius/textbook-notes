@@ -15,6 +15,12 @@ next-link: ./1-6-deductive-reasoning.html
 - Ten **vocabulary**{: .envision-vocab-purple} definitions
 - **p42**{: .envision-hw-blue} 11–31, 33–38 (27 problems, [PDF link](./pdf/aga_gm_0105_pps.pdf){: target="_blank"})
 
+## Additional Resources
+
+- [Conditionals](https://www.ixl.com/math/geometry/conditionals){: target="_blank"}
+- [Converses, inverses, and contrapositives](https://www.ixl.com/math/geometry/converses-inverses-and-contrapositives){: target="_blank"}
+- [Biconditionals](https://www.ixl.com/math/geometry/biconditionals){: target="_blank"}
+
 ---
 
 Last section, we took our first steps towards formalizing our thought process with defining inductive reasoning, or looking for patterns to come up with a conjecture. Today we look at **conditional** statements, sentences you have read and heard throughout your life.

@@ -13,4 +13,9 @@ next-link: ./2-4-slopes-of-parallel-and-perpendicular-lines.html
 
 - **p90**{: .envision-hw-blue} 11--22, 24--25, 28--34 (21 problems, [PDF link](./pdf/aga_gm_0203_pps.pdf){: target="_blank"})
 
+## Additional Resources
+
+- [Triangle Angle-Sum Theorem](https://www.ixl.com/math/geometry/triangle-angle-sum-theorem){: target="_blank"}
+- [Exterior Angle Theorem](https://www.ixl.com/math/geometry/exterior-angle-theorem){: target="_blank"}
+
 ---

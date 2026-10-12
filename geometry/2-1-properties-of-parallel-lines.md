@@ -14,4 +14,10 @@ next-link: ./2-2-proving-lines-parallel.html
 
 - **p76**{: .envision-hw-blue} 10–13, 15–21, 23–28 (17 problems, [PDF link](./pdf/aga_gm_0201_pps.pdf){: target="_blank"})
 
+## Additional Resources
+
+- [Transversals: name angle pairs](https://www.ixl.com/math/geometry/transversals-name-angle-pairs){: target="_blank"}
+- [Transversals of parallel lines: find angle measures](https://www.ixl.com/math/geometry/transversals-of-parallel-lines-find-angle-measures){: target="_blank"}
+- [Transversals of parallel lines: prove angle relationships](https://www.ixl.com/math/geometry/transversals-of-parallel-lines-prove-angle-relationships){: target="_blank"}
+
 ---

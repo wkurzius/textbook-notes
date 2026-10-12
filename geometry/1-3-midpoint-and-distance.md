@@ -15,6 +15,12 @@ next-link: ./1-4-inductive-reasoning.html
 - One **vocabulary**{: .envision-vocab-purple} definition
 - **p26**{: .envision-hw-blue} 9–21, 23–28 (19 problems, [PDF link](./pdf/aga_gm_0103_pps.pdf){: target="_blank"})
 
+## Additional Resources
+
+- [Midpoint formula: find the midpoint](https://www.ixl.com/math/geometry/midpoint-formula-find-the-midpoint){: target="_blank"}
+- [Partition a line segment in a given ratio](https://www.ixl.com/math/geometry/partition-a-line-segment-in-a-given-ratio){: target="_blank"}
+- [Distance formula](https://www.ixl.com/math/geometry/construct-an-angle-bisector){: target="_blank"}
+
 ---
 
 ## Midpoint

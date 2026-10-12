@@ -14,6 +14,12 @@ next-link: ./1-5-conditional-statements.html
 - Three **vocabulary**{: .envision-vocab-purple} definitions
 - **p33**{: .envision-hw-blue} 7–23 (17 problems, [PDF link](./pdf/aga_gm_0104_pps.pdf){: target="_blank"})
 
+## Additional Resources
+
+- [Number sequences](https://www.ixl.com/math/geometry/number-sequences){: target="_blank"}
+- [Shape patterns](https://www.ixl.com/math/geometry/shape-patterns){: target="_blank"}
+- [Counterexamples](https://www.ixl.com/math/geometry/counterexamples){: target="_blank"}
+
 ---
 
 The remaining sections in the chapter deal with logic and going about proving things to be true (or proving them to be false). The first one covers **inductive reasoning**. Simply put, it's looking for patterns and coming up with a conclusion based on that pattern. For example, take the first few numbers in a sequence.

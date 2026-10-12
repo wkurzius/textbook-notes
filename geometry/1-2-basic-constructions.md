@@ -15,6 +15,12 @@ next-link: "./1-3-midpoint-and-distance.html"
 - Three **vocabulary**{: .envision-vocab-purple} definitions
 - **p20**{: .envision-hw-blue} 10–19, 21–25 (15 problems, [PDF link](./pdf/aga_gm_0102_pps.pdf){: target="_blank"})
 
+## Additional Resources
+
+- [Construct a congruent segment](https://www.ixl.com/math/geometry/construct-a-congruent-segment){: target="_blank"}
+- [Construct a congruent angle](https://www.ixl.com/math/geometry/construct-a-congruent-angle){: target="_blank"}
+- [Construct an angle bisector](https://www.ixl.com/math/geometry/construct-an-angle-bisector){: target="_blank"}
+
 ---
 
 If we're going to spend all this time looking and figures and shapes, it'll be helpful to know how to draw basic geometric figures, or **constructions**. The trick is that we'll do it without measuring anything, instead using only a compass and a straightedge.

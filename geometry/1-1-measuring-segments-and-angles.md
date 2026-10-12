@@ -16,6 +16,12 @@ next-link: "./1-2-basic-constructions.html"
 - Five **vocabulary**{: .envision-vocab-purple} definitions
 - **p12**{: .envision-hw-blue} 9–27, 30–41 (31 problems, [PDF link](./pdf/aga_gm_0101_pps.pdf){: target="_blank"})
 
+## Additional Resources
+
+- [Lengths of segments on number lines](https://www.ixl.com/math/geometry/lengths-of-segments-on-number-lines){: target="_blank"}
+- [Additive property of length](https://www.ixl.com/math/geometry/additive-property-of-length){: target="_blank"}
+- [Angle measures](https://www.ixl.com/math/geometry/angle-measures){: target="_blank"}
+
 ---
 
 ## The Basics
