@@ -4,13 +4,13 @@ subtitle: 2026–2027
 layout: course-index
 ---
 
-> Full online book available through *ClassLink > Savvas EasyBridge*.
-{: .call-out}
+> Full online book available through _ClassLink > Savvas EasyBridge_.
+> {: .call-out}
 
 <h2>Course Schedule</h2>
 
 - Table of Contents
-{:toc}
+  {:toc}
 
 ---
 
@@ -26,10 +26,10 @@ layout: course-index
 
 - [1.4 Inductive Reasoning](1-4-inductive-reasoning.md)
 - [1.5 Conditional Statements](1-5-conditional-statements.md)
-- [1.6 Deductive Reasoning](1-6-deductive-reasoning.md)
 
 ### Quiz 3, Oct. 22
 
+- [1.6 Deductive Reasoning](1-6-deductive-reasoning.md)
 - [1.7 Writing Proofs](1-7-writing-proofs.md)
 - [1.8 Indirect Proof](1-8-indirect-proof.md)
 
@@ -40,8 +40,7 @@ layout: course-index
 - [2.3 Parallel Lines and Triangles](2-3-parallel-lines-and-triangles.md)
 - [2.4 Slopes of Parallel and Perpendicular Lines](2-4-slopes-of-parallel-and-perpendicular-lines.md)
 
-<!--
----
+## <!--
 
 ## Marking Period 2
 
@@ -132,4 +131,4 @@ layout: course-index
 ## Links
 
 - [Syllabus](./geometry-syllabus.md)
-- [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="_blank"}
+- [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="\_blank"}
