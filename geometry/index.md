@@ -4,15 +4,9 @@ subtitle: 2026–2027
 layout: course-index
 ---
 
+<!-- prettier-ignore -->
 > Full online book available through _ClassLink > Savvas EasyBridge_.
-> {: .call-out}
-
-<h2>Course Schedule</h2>
-
-- Table of Contents
-  {:toc}
-
----
+{: .call-out}
 
 ## Marking Period 1
 
@@ -40,7 +34,7 @@ layout: course-index
 - [2.3 Parallel Lines and Triangles](2-3-parallel-lines-and-triangles.md)
 - [2.4 Slopes of Parallel and Perpendicular Lines](2-4-slopes-of-parallel-and-perpendicular-lines.md)
 
-## <!--
+<!--
 
 ## Marking Period 2
 
@@ -132,3 +126,4 @@ layout: course-index
 
 - [Syllabus](./geometry-syllabus.md)
 - [Whiteboard notes](https://1drv.ms/o/c/c4097c61e06a2b97/EpojsyS4IFdOp0qZoDZdHikBZAinLWQ3ncbWjBZVKo0vtQ?e=5egVmL){: target="\_blank"}
+- [Properties Cheat Sheet](./pdf/properties-quick-reference.pdf){: target="\_blank"}

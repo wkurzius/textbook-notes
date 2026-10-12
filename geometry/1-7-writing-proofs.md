@@ -48,4 +48,6 @@ Let's see what a proof of this looks like. We'll use a two-column proof which wi
 | 4) $m\angle 1 = m\angle 3$                                                     | Subtraction property of equality |
 | 5) $\angle 1 \cong \angle3$                                                    | Definition of congruent angles   |
 
-Two-column proofs are very formal, and constructing one from scratch requires that you know a _lot_ of theorems.
+Two-column proofs are very formal, and constructing one from scratch requires that you know a _lot_ of theorems. Luckily, I have a list to help out: [Properties Cheat Sheet](./pdf/properties-quick-reference.pdf){: target="_blank"}.
+
+Less formal is a paragraph proof.
