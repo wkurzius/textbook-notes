@@ -4,10 +4,12 @@ layout: page
 course: Geometry
 prev-link: ./1-6-deductive-reasoning.html
 next-link: ./1-8-indirect-proof.html
+draft: true
 ---
 
+<!-- prettier-ignore -->
 > Reminder: Full online book available through<br>_ClassLink > Savvas EasyBridge_
-> {: .call-out}
+{: .call-out}
 
 - Use deductive reasoning to prove geometric theorems about lines and angles
 
