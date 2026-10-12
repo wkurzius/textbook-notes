@@ -29,6 +29,7 @@ draft: true
 
 Now that we've looked at deductive reasoning, we're going to use that look at and construct **proofs**. This is just deductive reasoning, expect there are usually more steps involved to get a conclusion. Before we get into proofs, we need something to prove.
 
+<!-- prettier-ignore -->
 > ### Vertical Angles Theorem
 >
 > Vertical angles are congruent.
@@ -49,4 +50,6 @@ Let's see what a proof of this looks like. We'll use a two-column proof which wi
 | 4) $m\angle 1 = m\angle 3$                                                     | Subtraction property of equality |
 | 5) $\angle 1 \cong \angle3$                                                    | Definition of congruent angles   |
 
-Two-column proofs are very formal, and constructing one from scratch requires that you know a *lot* of theorems. You will given a list to choose from, but we're shooting for mostly being able to read 
+Two-column proofs are very formal, and constructing one from scratch requires that you know a _lot_ of theorems. Luckily, I have a list to help out: [Properties Cheat Sheet](./pdf/properties-quick-reference.pdf){: target="_blank"}.
+
+Less formal is a paragraph proof.
