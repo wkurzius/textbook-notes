@@ -26,11 +26,9 @@ With inductive reasoning, we used patterns to come up with a conclusion (conject
 >
 > You have trouble sleeping whenever you drink a can of soda right before bed. Therefore, soda prevents you from sleeping well.
 >
-> ---
->
 > **Deductive** Conclusions from facts.
 >
-> Soda contains caffeine. Caffeine is a stimulant. You drink soda before. Therefore, you won't sleep well if you drink soda before bed.
+> Soda contains caffeine. Caffeine is a stimulant. You drink soda before bed. Therefore, you won't sleep well if you drink soda before bed.
 {: .definition}
 
 With deductive reasoning, there are two laws that we'll look at.
