@@ -16,9 +16,9 @@ draft: true
 ## Assignment
 
 - Four **vocabulary**{: .envision-vocab-purple} definitions
-- **p56**{: .envision-hw-blue} 9–10, 14–18, 19–20\*, 21–22, 25 ([PDF link](./pdf/aga_gm_0107_pps.pdf){: target="\_blank"})
+- **p56**{: .envision-hw-blue} 9–10, 14–17, 18–20\*, 21–22, 25 ([PDF link](./pdf/aga_gm_0107_pps.pdf){: target="\_blank"})
 
-  \* _For 19–20, you may write a paragraph proof_
+  \* _For 18–20, write either a paragraph or two-column proof for each. Do not be discouraged if yours does not match the answer key._
 
 ## Additional Resources
 
@@ -40,7 +40,11 @@ Now that we've looked at deductive reasoning, we're going to use that look at an
 > {: .figure}
 {: .definition}
 
-Let's see what a proof of this looks like. We'll use a two-column proof which will give a series of statements and reasons to go along with each.
+Let's see what a proof of this looks like. We'll look at a two-column proof which will give a series of statements and reasons to go along with each.
+
+**Given**: $\angle 1$ and $\angle 3$ are vertical angles
+
+**Prove**: $\angle 1 \cong \angle 3$
 
 | Statements                                                                     | Reasons                          |
 | ------------------------------------------------------------------------------ | -------------------------------- |
@@ -50,6 +54,39 @@ Let's see what a proof of this looks like. We'll use a two-column proof which wi
 | 4) $m\angle 1 = m\angle 3$                                                     | Subtraction property of equality |
 | 5) $\angle 1 \cong \angle3$                                                    | Definition of congruent angles   |
 
-Two-column proofs are very formal, and constructing one from scratch requires that you know a _lot_ of theorems. Luckily, I have a list to help out: [Properties Cheat Sheet](./pdf/properties-quick-reference.pdf){: target="_blank"}.
+The aim of any proof is to have a self-contained set of steps that lead you from what's given to the conclusion. This means our given (or givens if multiple) is stated first.
 
-Less formal is a paragraph proof.
+After that, the chain of logic begins. The statements themselves might be enough for you, but the reasons are equally important. They refer to already proven facts you can reference if there is any doubt. Number 2 for instance, where $m\angle 1 + m\angle 2 = 180^\circ$, might be a leap of logic depending on the person. With the reason, they can look up supplementary angles and see that the statement works.
+
+Now, if you were to create this yourself from scratch it would involve some planning first. It's the equivalent to preparing an argumentative essay, or a defense if you were a lawyer, or lesson prepping as a teacher. It can be difficult and you might not be able to do it on your own. Don't worry if that's the case. Get the help you need to get over what part of a proof is tripping you up.
+
+And if you are already dreading a test on this, most of the proof will be given to you. You will just need to fill in the blanks.
+
+## Theorem Bank
+
+Constructing a proof requires you know a _lot_ of theorems. Luckily, I have a list to help out: [Properties Cheat Sheet](./pdf/properties-quick-reference.pdf){: target="_blank"}. Along with that, there are a few more introduced in this section.
+
+<!-- prettier-ignore -->
+> ### Congruent Supplements Theorem
+>
+> If two angles are supplementary to congruent angles, then the two angles are also congruent.
+>
+> **In symbols**: If $m\angle 1 + m\angle 2 = 180^\circ$, $m\angle 3 + m\angle 4 = 180^\circ$, and $\angle 2 \cong m\angle 4$, then $m\angle 1 \cong m\angle 3$.
+{: .definition}
+
+<!-- prettier-ignore -->
+> ### Congruent Complements Theorem
+>
+> If two angles are complementary to congruent angles, then the two angles are also congruent.
+>
+> **In symbols**: If $m\angle 1 + m\angle 2 = 90^\circ$, $m\angle 3 + m\angle 4 = 90^\circ$, and $\angle 2 \cong m\angle 4$, then $m\angle 1 \cong m\angle 3$.
+{: .definition}
+
+<!-- prettier-ignore -->
+> ### Linear Pairs Theorem
+>
+> The sum of the measures of a linear pair is $180^\circ$.
+>
+> **In symbols**: If $\angle 1$ and $\angle 2$ form a linear pair, then $m\angle 1 + m\angle 2 = 180^\circ$.
+{: .definition}
+
