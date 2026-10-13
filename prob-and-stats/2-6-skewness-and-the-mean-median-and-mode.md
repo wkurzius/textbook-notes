@@ -45,7 +45,7 @@ next-link: ./2-7-measures-of-the-spread-of-the-data.html
 - Positive skew has the tail on the right
 - The tail drags the mean to that side, far more than the median
 
-> ![](./img/2-6-skew-averages.png)
+> ![](./img/2-6-skew-average-compare.png)
 >
 > **Figure 2.6.3** A comparison of how skew affects the different averages.
 {: .figure}

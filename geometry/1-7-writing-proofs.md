@@ -4,7 +4,6 @@ layout: page
 course: Geometry
 prev-link: ./1-6-deductive-reasoning.html
 next-link: ./1-8-indirect-proof.html
-draft: true
 ---
 
 <!-- prettier-ignore -->
@@ -16,9 +15,9 @@ draft: true
 ## Assignment
 
 - Four **vocabulary**{: .envision-vocab-purple} definitions
-- **p56**{: .envision-hw-blue} 9–10, 14–17, 18–20\*, 21–22, 25 ([PDF link](./pdf/aga_gm_0107_pps.pdf){: target="\_blank"})
+- **p56**{: .envision-hw-blue} 9–10, 14–18, 19–20\*, 21–22, 25 ([PDF link](./pdf/aga_gm_0107_pps.pdf){: target="\_blank"})
 
-  \* _For 18–20, write either a paragraph or two-column proof for each. Do not be discouraged if yours does not match the answer key._
+  \* _For 19–20, write a paragraph proof if you are having difficulty. If you stick with the two-column, do not be discouraged if yours does not match the answer key._
 
 ## Additional Resources
 
@@ -64,7 +63,7 @@ And if you are already dreading a test on this, most of the proof will be given 
 
 ## Theorem Bank
 
-Constructing a proof requires you know a _lot_ of theorems. Luckily, I have a list to help out: [Properties Cheat Sheet](./pdf/properties-quick-reference.pdf){: target="_blank"}. Along with that, there are a few more introduced in this section.
+Constructing a proof requires you know a _lot_ of theorems. Luckily, I have a list to help out: [Properties Cheat Sheet](./pdf/properties-quick-reference.pdf){: target="\_blank"}. Along with that, there are a few more introduced in this section.
 
 <!-- prettier-ignore -->
 > ### Congruent Supplements Theorem
@@ -89,4 +88,3 @@ Constructing a proof requires you know a _lot_ of theorems. Luckily, I have a li
 >
 > **In symbols**: If $\angle 1$ and $\angle 2$ form a linear pair, then $m\angle 1 + m\angle 2 = 180^\circ$.
 {: .definition}
-
