@@ -17,7 +17,7 @@ next-link: ./1-8-indirect-proof.html
 - Four **vocabulary**{: .envision-vocab-purple} definitions
 - **p56**{: .envision-hw-blue} 9–10, 14–18, 19–20\*, 21–22, 25 ([PDF link](./pdf/aga_gm_0107_pps.pdf){: target="\_blank"})
 
-  \* _For 19–20, write a paragraph proof if you are having difficulty. If you stick with the two-column, do not be discouraged if yours does not match the answer key._
+  \* _For 19–20, do not be discouraged if yours does not match the answer key._
 
 ## Additional Resources
 
@@ -26,7 +26,7 @@ next-link: ./1-8-indirect-proof.html
 
 ---
 
-Now that we've looked at deductive reasoning, we're going to use that look at and construct **proofs**. This is just deductive reasoning, expect there are usually more steps involved to get a conclusion. Before we get into proofs, we need something to prove.
+Now that we've looked at deductive reasoning, we're going to use that look at and construct **proofs**, which string together a series of deductions to get a conclusion. So, let's prove something new: the vertical angle theorem.
 
 <!-- prettier-ignore -->
 > ### Vertical Angles Theorem
@@ -39,7 +39,7 @@ Now that we've looked at deductive reasoning, we're going to use that look at an
 > {: .figure}
 {: .definition}
 
-Let's see what a proof of this looks like. We'll look at a two-column proof which will give a series of statements and reasons to go along with each.
+It's one thing to say something, and quite another to prove it. Below is a **two-column proof** of the vertical angle theorem. Two-column proofs give a series of statements along with reasons why those statements can be made. By the end, those statements should lead to the conclusion that the theorem is true.
 
 **Given**: $\angle 1$ and $\angle 3$ are vertical angles
 
@@ -55,11 +55,17 @@ Let's see what a proof of this looks like. We'll look at a two-column proof whic
 
 The aim of any proof is to have a self-contained set of steps that lead you from what's given to the conclusion. This means our given (or givens if multiple) is stated first.
 
-After that, the chain of logic begins. The statements themselves might be enough for you, but the reasons are equally important. They refer to already proven facts you can reference if there is any doubt. Number 2 for instance, where $m\angle 1 + m\angle 2 = 180^\circ$, might be a leap of logic depending on the person. With the reason, they can look up supplementary angles and see that the statement works.
+After that, the chain of logic begins. The statements themselves might be enough for you, but the reasons are equally important. They refer to already proven facts you can reference if there is any doubt. Number 2 for instance, where $m\angle 1 + m\angle 2 = 180^\circ$, might be a leap of logic depending on the person. Since the reason is given, they can look up supplementary angles and see that the statement works.
 
-Now, if you were to create this yourself from scratch it would involve some planning first. It's the equivalent to preparing an argumentative essay, or a defense if you were a lawyer, or lesson prepping as a teacher. It can be difficult and you might not be able to do it on your own. Don't worry if that's the case. Get the help you need to get over what part of a proof is tripping you up.
+## The Elephant in the Room
 
-And if you are already dreading a test on this, most of the proof will be given to you. You will just need to fill in the blanks.
+Proofs have a ... reputation. I bet the thought of creating a proof sounds incredibly difficult to you. That's because they require two things that haven't appeared often in previous math classes: creative and logical thinking. Instead of "do these steps" we've moved on to "decide what step is next and justify it". The result of this shift is open-ended problems with multiple correct answers. The Wikipedia page for the [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem){: target="\_blank"} lists _nine_ different proofs, one of which came from our 20th president, James A. Garfield.
+
+This might not be a surprise, but proofs and other open-ended problems represent the hardest problems you'll face in your life and career. The ones you can't solve just by looking up the solution. You'll have to get creative. And then you'll have to justify those decisions, either to your partner or boss.
+
+So, if you were to create a proof yourself—from scratch—it would require some planning. It's the equivalent to preparing an argumentative essay, or a defense if you were a lawyer, or lesson prepping as a teacher. It can be difficult and you might not be able to do it on your own. Don't worry if that's the case. Get the help you need for whichever part of a proof is tripping you up.
+
+And if you are already dreading the test on this, most of the proof will be given to you. You will just need to fill in the blanks.
 
 ## Theorem Bank
 

@@ -6,8 +6,9 @@ prev-link: ./1-5-conditional-statements.html
 next-link: ./1-7-writing-proofs.html
 ---
 
+<!-- prettier-ignore -->
 > Reminder: Full online book available through<br>_ClassLink > Savvas EasyBridge_
-> {: .call-out}
+{: .call-out}
 
 - Use deductive reasoning to draw a valid conclusion based on a set of given facts
 
@@ -20,6 +21,7 @@ next-link: ./1-7-writing-proofs.html
 
 With inductive reasoning, we used patterns to come up with a conclusion (conjecture). In other words, we looked at specific instances to come up what we thought was happening. **Deductive reasoning** works from the other direction. It takes general facts and works towards a conclusion.
 
+<!-- prettier-ignore -->
 > ### Inductive vs Deductive Reasoning
 >
 > **Inductive** Conclusions from patterns.
@@ -37,6 +39,7 @@ With deductive reasoning, there are two laws that we'll look at.
 
 The first reinforces the conditional work we did last section.
 
+<!-- prettier-ignore -->
 > ### The Law of Detachment
 >
 > If a conditional statement and it's hypothesis are both true, then it's conclusion must be true.
@@ -52,6 +55,7 @@ Keep in mind that this doesn't work with the conclusion. If you win a prize, it'
 
 The other law is similar to the transitive property, where if $a=b$ and $b=c$, then $a=c$.
 
+<!-- prettier-ignore -->
 > ### The Law of Syllogism
 >
 > Given two conditionals, where the conclusion of one is also the hypothesis of the other, then there is a third conditional linking the other hypothesis and conclusion.
