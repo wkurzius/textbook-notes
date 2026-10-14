@@ -13,7 +13,7 @@ cal-x: "Nov. 4<br>(MP Exam)"
 csa-h: "[**AP Comp Sci A**](./ap-comp-sci-a/)<br>
         [<i class=\"fa-solid fa-file-lines\"></i>](./ap-comp-sci-a/ap-csa-syllabus.html)
         [<i class=\"fa-solid fa-clock-rotate-left\"></i>](./ap-comp-sci-a/)
-        [<i class=\"fa-solid fa-globe\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target=\"_blank\"}"
+        [<i class=\"fa-solid fa-globe\"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/csawesome2.html){: target=\"_blank\"}"
 csa-1: "**W**{: .day}[1.14 Calling Instance Methods](./ap-comp-sci-a/1-14-calling-instance-methods.html)"
 csa-2: "**F**{: .day}[1.15 Strings](./ap-comp-sci-a/1-15-strings.html)"
 csa-3: ""

@@ -12,7 +12,7 @@ next-link: "./1-13-creating-and-initializing-objects.html"
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.12 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-12-objects.html){: target="_blank"}
+- All [1.12 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-1-12-objects.html){: target="_blank"}
 
 ---
 

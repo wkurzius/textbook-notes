@@ -11,8 +11,8 @@ next-link: ./2-5-compound-boolean-expressions.html
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [2.4 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-2-4-nested-ifs.html){: target="_blank"}
-- [Selection Coding Practice (2.1-2.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/selection-practice-coding.html){: target="_blank"}
+- All [2.4 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-2-4-nested-ifs.html){: target="_blank"}
+- [Selection Coding Practice (2.1-2.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/selection-practice-coding.html){: target="_blank"}
 
 ---
 

@@ -11,8 +11,8 @@ next-link: ./4-12-2d-array-traversals-nested-loops.html
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [4.11 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-4-11-2Darrays.html){: target="_blank"}
-- [4.48 Code Practice with 2D Arrays](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/Array2dCodePractice.html){: target="_blank"}
+- All [4.11 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-4-11-2Darrays.html){: target="_blank"}
+- [4.48 Code Practice with 2D Arrays](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/Array2dCodePractice.html){: target="_blank"}
 
 ---
 

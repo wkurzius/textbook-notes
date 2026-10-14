@@ -11,8 +11,8 @@ next-link: ./2-6-comparing-boolean-expressions.html
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [2.5 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-2-5-compound-ifs.html){: target="_blank"}
-- [Selection Coding Practice (2.1-2.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/selection-practice-coding.html)
+- All [2.5 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-2-5-compound-ifs.html){: target="_blank"}
+- [Selection Coding Practice (2.1-2.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/selection-practice-coding.html)
 
 ---
 

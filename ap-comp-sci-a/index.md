@@ -60,9 +60,9 @@ layout: course-index
 
 ### Labs and Code Practice
 
-- [1.18 Coding Practice 1a (1.1–1.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/unit1a-practice-coding.html){: target="_blank" }
-- [1.22 Coding Practice 1b (1.7–1.15)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/unit1b-practice-coding.html){: target="_blank"}
-- [2.15 Selection Coding Practice (2.1–2.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/selection-practice-coding.html){: target="_blank"}
+- [1.18 Coding Practice 1a (1.1–1.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/unit1a-practice-coding.html){: target="_blank" }
+- [1.22 Coding Practice 1b (1.7–1.15)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/unit1b-practice-coding.html){: target="_blank"}
+- [2.15 Selection Coding Practice (2.1–2.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/selection-practice-coding.html){: target="_blank"}
 
 ---
 
@@ -100,9 +100,9 @@ layout: course-index
 
 ### Labs and Code Practice
 
-- [2.22 Loops Coding Practice (2.7–2.12)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/loops-practice-coding.html){: target="_blank"}
+- [2.22 Loops Coding Practice (2.7–2.12)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/loops-practice-coding.html){: target="_blank"}
 - Lab: Magpie 2.0
-- [3.12 Unit 3 Write Code Practice for Classes](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/classes-write-code.html){: target="_blank"}
+- [3.12 Unit 3 Write Code Practice for Classes](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/classes-write-code.html){: target="_blank"}
 - Lab: Virtual Pet
 
 ---
@@ -146,10 +146,10 @@ layout: course-index
 
 ### Labs and Code Practice
 
-- [4.20 Arrays Code Practice (4.1–4.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/ArrayPractice.html){: target="_blank"}
-- [4.33 Code Practice with ArrayLists (4.7–4.10)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/ArrayListPractice.html){: target="_blank"}
-- [4.48 Code Practice with 2D Arrays (4.11–4.13)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/Array2dCodePractice.html){: target="_blank"}
-- [4.58 Code Practice for Recursion (4.14–4.17)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/recursionCodePractice.html){: target="_blank"}
+- [4.20 Arrays Code Practice (4.1–4.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/ArrayPractice.html){: target="_blank"}
+- [4.33 Code Practice with ArrayLists (4.7–4.10)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/ArrayListPractice.html){: target="_blank"}
+- [4.48 Code Practice with 2D Arrays (4.11–4.13)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/Array2dCodePractice.html){: target="_blank"}
+- [4.58 Code Practice for Recursion (4.14–4.17)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/recursionCodePractice.html){: target="_blank"}
 - Lab: Data Set (Full [cereal.csv file](./data/cereal.csv))
 
 ---

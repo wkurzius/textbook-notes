@@ -11,13 +11,13 @@ next-link: "./1-7-apis-and-libraries.html"
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.6 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-6-compound-operators.html){: target="_blank"}
+- All [1.6 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-1-6-compound-operators.html){: target="_blank"}
 
 ## Extra Practice
 
-- [Toggle Code Practice 1a (1.1–1.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/unit1a-practice-toggle-code.html){: target="_blank"}
-- [Code Practice 1a (1.1–1.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/unit1a-practice-coding.html){: target="_blank"}
-- [Multiple Choice Exercises for Unit 1a (1.1-1.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/Exercises-basics.html){: target="_blank"}
+- [Toggle Code Practice 1a (1.1–1.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/unit1a-practice-toggle-code.html){: target="_blank"}
+- [Code Practice 1a (1.1–1.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/unit1a-practice-coding.html){: target="_blank"}
+- [Multiple Choice Exercises for Unit 1a (1.1-1.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/Exercises-basics.html){: target="_blank"}
 
 ---
 

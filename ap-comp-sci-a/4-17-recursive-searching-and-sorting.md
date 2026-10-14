@@ -13,8 +13,8 @@ next-link:
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [4.17 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-4-17-recursive-search-sort.html){: target="_blank"}
-- [4.58 Code Practice for Recursion](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/recursionCodePractice.html){: target="_blank"}
+- All [4.17 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-4-17-recursive-search-sort.html){: target="_blank"}
+- [4.58 Code Practice for Recursion](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/recursionCodePractice.html){: target="_blank"}
 
 ---
 

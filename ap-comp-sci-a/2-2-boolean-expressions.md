@@ -11,8 +11,8 @@ next-link: ./2-3-if-statements.html
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [2.2 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-2-2-booleans.html){: target="_blank"}
-- [Selection Coding Practice (2.1-2.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/selection-practice-coding.html){: target="_blank"}
+- All [2.2 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-2-2-booleans.html){: target="_blank"}
+- [Selection Coding Practice (2.1-2.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/selection-practice-coding.html){: target="_blank"}
 
 ---
 
@@ -38,4 +38,4 @@ The opposite of equal is not-equal, and you get that in Java with the operator `
 
 The other relational operators are less/greater than (`<` and `>`)  and less/greater than or equal to (`<=` and `>=`). Like with the equality operators, use them with primitives only. `String` has `compareTo()` and other objects might have their own, but that's a rabbit hole for another day.
 
-> In case you get the thought "what about not less than?", that's just greater than or equal to. For anything more complicated than that, you can go check out [2.5](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-2-5-compound-ifs.html).
+> In case you get the thought "what about not less than?", that's just greater than or equal to. For anything more complicated than that, you can go check out [2.5](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-2-5-compound-ifs.html).

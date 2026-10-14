@@ -11,7 +11,7 @@ next-link: "./1-12-objects-instances-of-classes.html"
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.11 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-11-Math.html){: target="_blank"}
+- All [1.11 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-1-11-Math.html){: target="_blank"}
 
 ---
 

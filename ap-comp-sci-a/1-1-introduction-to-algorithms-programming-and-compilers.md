@@ -13,7 +13,7 @@ next-link: "./1-2-variables-and-data-types.html"
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.1 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-1-intro-algorithms.html){: target="_blank"}
+- All [1.1 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-1-1-intro-algorithms.html){: target="_blank"}
 
 ---
 

@@ -12,8 +12,8 @@ next-link: ./2-7-while-loops.html
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [2.6 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-2-6-comparing-booleans.html){: target="_blank"}
-- [Selection Coding Practice (2.1-2.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/selection-practice-coding.html){: target="_blank"}
+- All [2.6 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-2-6-comparing-booleans.html){: target="_blank"}
+- [Selection Coding Practice (2.1-2.6)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/selection-practice-coding.html){: target="_blank"}
 
 ---
 

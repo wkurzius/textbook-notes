@@ -11,7 +11,7 @@ next-link: "./1-11-using-the-math-class.html"
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.10 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-10-calling-class-methods.html){: target="_blank"}
+- All [1.10 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-1-10-calling-class-methods.html){: target="_blank"}
 
 ---
 

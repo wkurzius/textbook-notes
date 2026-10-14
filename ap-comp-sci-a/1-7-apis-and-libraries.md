@@ -11,7 +11,7 @@ next-link: "./1-8-documentation-with-comments-and-preconditions.html"
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.7 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-7-APIs-and-libraries.html){: target="_blank"}
+- All [1.7 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-1-7-APIs-and-libraries.html){: target="_blank"}
 
 ---
 

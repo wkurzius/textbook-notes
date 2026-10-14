@@ -11,7 +11,7 @@ next-link: "./1-15-strings.html"
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.14 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-14-calling-instance-methods.html){: target="_blank"}
+- All [1.14 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-1-14-calling-instance-methods.html){: target="_blank"}
 
 ---
 

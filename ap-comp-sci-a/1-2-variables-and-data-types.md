@@ -12,7 +12,7 @@ next-link: "./1-3-expressions-and-output.html"
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.2 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-2-variables.html){: target="_blank"}
+- All [1.2 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-1-2-variables.html){: target="_blank"}
 
 ---
 

@@ -13,7 +13,7 @@ next-link: "./1-4-assignment-and-input.html"
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.3 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-3-expressions.html){: target="_blank"}
+- All [1.3 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-1-3-expressions.html){: target="_blank"}
 
 ---
 

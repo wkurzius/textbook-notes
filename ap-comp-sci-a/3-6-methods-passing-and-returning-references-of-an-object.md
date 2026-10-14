@@ -11,8 +11,8 @@ next-link: ./3-7-class-variables-and-methods.html
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [3.6 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-3-6-methods-references.html){: target="_blank"}
-- [3.12 Write Code Practice](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/classes-write-code.html){: target="_blank"}
+- All [3.6 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-3-6-methods-references.html){: target="_blank"}
+- [3.12 Write Code Practice](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/classes-write-code.html){: target="_blank"}
 
 ---
 

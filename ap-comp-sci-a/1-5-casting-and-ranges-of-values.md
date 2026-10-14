@@ -12,7 +12,7 @@ next-link: "./1-6-compound-assignment-operators.html"
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.5 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-5-casting.html){: target="_blank"}
+- All [1.5 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-1-5-casting.html){: target="_blank"}
 
 ---
 

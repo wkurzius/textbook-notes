@@ -11,7 +11,7 @@ next-link: ./3-3-anatomy-of-a-java-class.html
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [3.2 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-3-2-impacts.html){: target="_blank"}
+- All [3.2 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-3-2-impacts.html){: target="_blank"}
 
 ---
 

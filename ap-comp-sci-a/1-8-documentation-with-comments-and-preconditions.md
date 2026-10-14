@@ -11,7 +11,7 @@ next-link: "./1-9-method-signatures.html"
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.8 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-8-comments.html){: target="_blank"}
+- All [1.8 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-1-8-comments.html){: target="_blank"}
 
 ---
 

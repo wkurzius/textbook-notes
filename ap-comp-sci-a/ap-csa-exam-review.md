@@ -9,7 +9,7 @@ I recommend taking at least one Practice Exam so you can see where you should fo
 - [AP Classroom](https://apclassroom.collegeboard.org/){: target="_blank"}
   - Practice Exams
   - Progress Checks
-- [CSAwesome (book)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/csawesome2.html){: target="_blank"}
+- [CSAwesome (book)](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/csawesome2.html){: target="_blank"}
   - End of unit practice (Units 1–4)
   - Practice Exams (Units 7 and 8)
   - FRQ Practice (Unit 10)

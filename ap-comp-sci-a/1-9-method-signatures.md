@@ -12,7 +12,7 @@ next-link: "./1-10-calling-class-methods.html"
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.9 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-1-9-method-signatures.html){: target="_blank"}
+- All [1.9 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-1-9-method-signatures.html){: target="_blank"}
 
 ---
 

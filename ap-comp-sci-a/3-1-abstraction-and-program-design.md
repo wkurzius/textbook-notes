@@ -11,7 +11,7 @@ next-link: ./3-2-impact-of-program-design.html
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [3.1 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2526/topic-3-1-abstraction.html){: target="_blank"}
+- All [3.1 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-3-1-abstraction.html){: target="_blank"}
 
 ---
 
