@@ -21,7 +21,7 @@ layout: course-index
 - [1.4 Inductive Reasoning](1-4-inductive-reasoning.md)
 - [1.5 Conditional Statements](1-5-conditional-statements.md)
 
-### Quiz 3, Oct. 22
+### Quiz 3, Oct. 26
 
 - [1.6 Deductive Reasoning](1-6-deductive-reasoning.md)
 - [1.7 Writing Proofs](1-7-writing-proofs.md)
