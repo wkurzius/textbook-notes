@@ -41,7 +41,7 @@ sta-h: "[**Prob. & Stats**](./prob-and-stats/)<br>
         [<i class=\"fa-solid fa-clock-rotate-left\"></i>](./prob-and-stats/)
         [<i class=\"fa-solid fa-globe\"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target=\"_blank\"}"
 sta-1: "**T–R**{: .day}NJGPA Testing"
-sta-2: "[2.5 Measures of the Center of the Data](./prob-and-stats/2-5-measures-of-the-center-of-the-data.html) and [2.6](./prob-and-stats/2-6-skewness-and-the-mean-median-and-mode.html)"
+sta-2: "[2.5 Measures of the Center of the Data](./prob-and-stats/2-5-measures-of-the-center-of-the-data.html) and<br>[2.6 Skewness and the Mean, Median, and Mode](./prob-and-stats/2-6-skewness-and-the-mean-median-and-mode.html)"
 sta-3: ""
 sta-x: "Oct. 23"
 
