@@ -6,15 +6,15 @@ prev-link: ./1-5-conditional-statements.html
 next-link: ./1-7-writing-proofs.html
 ---
 
-> Reminder: Full online book available through<br>*ClassLink > Savvas EasyBridge*
-{: .call-out}
+> Reminder: Full online book available through<br>_ClassLink > Savvas EasyBridge_
+> {: .call-out}
 
 - Use deductive reasoning to draw a valid conclusion based on a set of given facts
 
 ## Assignment
 
 - Three **vocabulary**{: .envision-vocab-purple} definitions
-- **p49**{: .envision-hw-blue} 9, 14–22, 25, 27--28 ([PDF link](./pdf/aga_gm_0106_pps.pdf){: target="_blank"})
+- **p49**{: .envision-hw-blue} 9, 14–22, 25, 27--28 ([PDF link](./pdf/aga_gm_0106_pps.pdf){: target="\_blank"})
 
 ---
 
@@ -41,7 +41,11 @@ The first reinforces the conditional work we did last section.
 >
 > If a conditional statement and it's hypothesis are both true, then it's conclusion must be true.
 >
-> *If you finish within 30 minutes, then you win a prize. You finished in 26 minutes. Therefore, you win a prize.*
+> 1. If $p$, then $q$.
+> 2. $p$.
+> 3. Therefore, $q$.
+>
+> _If you finish within 30 minutes, then you win a prize. You finished in 26 minutes. Therefore, you win a prize._
 {: .definition}
 
 Keep in mind that this doesn't work with the conclusion. If you win a prize, it's not necessarily because you finished within 30 minutes. There might be another condition that triggered earning a prize.
@@ -52,7 +56,15 @@ The other law is similar to the transitive property, where if $a=b$ and $b=c$, t
 >
 > Given two conditionals, where the conclusion of one is also the hypothesis of the other, then there is a third conditional linking the other hypothesis and conclusion.
 >
-> *If a number is divisible by 6, then it is also divisible by 2. If a number is divisible by 2, then it is an even number. Therefore, if a number is divisible by 6, then it is an even number.*
+> 1. If $p$, then $q$.
+> 2. If $q$, then $r$.
+> 3. If $p$, then $r$.
+>
+> _If a number is divisible by 6, then it is also divisible by 2. If a number is divisible by 2, then it is an even number. Therefore, if a number is divisible by 6, then it is an even number._
 {: .definition}
 
-Be careful with what you are connecting. Just because conditionals share the same part it doesn't mean they can be connected using the Law of Syllogism. If a number is divisible by 2, then it's even. If a number is divisible by 4, then it's even. That does *not* mean that if a number is divisible by 2, then it is divisible by 4.
+Be careful with what you are connecting. Just because conditionals share the same part it doesn't mean they can be connected using the Law of Syllogism.
+
+**If a number is divisible by 2, then it's even. If a number is divisible by 4, then it's even.**
+
+That does _not_ mean that if a number is divisible by 2, then it is divisible by 4.
