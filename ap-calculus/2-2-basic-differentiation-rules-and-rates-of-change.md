@@ -5,6 +5,7 @@ course: AP Calc
 last-reviewed:
 prev-link: "./2-1-the-derivative-and-the-tangent-line-problem.html"
 next-link: "./2-3-product-and-quotient-rules-and-higher-order-derivatives.html"
+last-updated: 2026-10-15 07:41:50
 ---
 
 - Find the derivative of a function using the Constant Rule.
@@ -27,21 +28,21 @@ next-link: "./2-3-product-and-quotient-rules-and-higher-order-derivatives.html"
 - After this section, you can complete these Progress Checks on AP Classroom
   - **Unit 2 MCQ Part A**
 - Khan Academy
-  - [Defining average and instantaneous rates of change at a point](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-1/v/newton-leibniz-and-usain-bolt){: target="_blank"}
-  - [Applying the power rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-5/v/power-rule){: target="_blank"}
-  - [Derivative rules: constant, sum, difference, and constant multiple: introduction](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-6a/v/derivative-properties-and-polynomial-derivatives){: target="_blank"}
-  - [Derivative rules: constant, sum, difference, and constant multiple: connecting with the power rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-6b/v/differentiating-polynomials-example){: target="_blank"}
-  - [Derivatives of cos(x), sin(x), 𝑒ˣ, and ln(x)](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-7/v/derivatives-of-sinx-and-cosx){: target="_blank"}
-  - [Interpreting the meaning of the derivative in context](https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-contextual-applications-new/ab-4-1/v/interpreting-the-meaning-of-the-derivative-in-context){: target="_blank"}
-  - [Straight-line motion: connecting position, velocity, and acceleration](https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-contextual-applications-new/ab-4-2/v/one-dimensional-motion-with-calculus){: target="_blank"}
+  - [Defining average and instantaneous rates of change at a point](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-1/v/newton-leibniz-and-usain-bolt){: target="\_blank"}
+  - [Applying the power rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-5/v/power-rule){: target="\_blank"}
+  - [Derivative rules: constant, sum, difference, and constant multiple: introduction](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-6a/v/derivative-properties-and-polynomial-derivatives){: target="\_blank"}
+  - [Derivative rules: constant, sum, difference, and constant multiple: connecting with the power rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-6b/v/differentiating-polynomials-example){: target="\_blank"}
+  - [Derivatives of cos(x), sin(x), 𝑒ˣ, and ln(x)](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-7/v/derivatives-of-sinx-and-cosx){: target="\_blank"}
+  - [Interpreting the meaning of the derivative in context](https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-contextual-applications-new/ab-4-1/v/interpreting-the-meaning-of-the-derivative-in-context){: target="\_blank"}
+  - [Straight-line motion: connecting position, velocity, and acceleration](https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-contextual-applications-new/ab-4-2/v/one-dimensional-motion-with-calculus){: target="\_blank"}
 
 ---
 
-Last section, we saw that we could either find the slope of the tangent line at specific points along a function, but we could also generalize and find the derivative of the function, allowing us to plug in $x$-values to get the desired slope.
+Last section, we saw that we could find the slope of the tangent line at specific points along a function. And we also saw we could generalize and find the derivative of the function, allowing us to plug in $x$-values to get the desired slope.
 
-You'll be happy to hear there is are faster ways to derive these derivatives, but maybe less happy to hear it involves lots of memorization. The bulk of this chapter will be going over all of these rules. Don't worry, there are cheat sheets everywhere, including at the beginning of the book [which I've reproduced here](../misc/differentiation-cheat-sheet.pdf). With all that said ...
+You'll be happy to hear there are faster ways to derive these derivatives, but maybe less happy to hear it involves lots of memorization. The bulk of this chapter will be going over these rules. Don't worry, there are cheat sheets everywhere, including at the beginning of the book [which I've reproduced here](../pdfs/differentiation-cheat-sheet.pdf). With all that said …
 
-***You will NOT get a reference sheet on the AP exam.***
+**_You will NOT get a reference sheet on the AP exam._**
 
 You also won't get one on quizzes and tests in class. Use them as needed on homework, but ween yourself off as soon as possible.
 
@@ -57,41 +58,51 @@ Without further ado ...
 
 ### Derivative of a Constant Function
 
-$$\begin{align}
+$$
+\begin{align}
 \frac{d}{dx}[c]=0
-\end{align}$$
+\end{align}
+$$
 
 Hopefully this makes sense intuitively. Since the derivative function is the slope of the function, a constant function is a horizontal line with a slope of 0.
 
 ### The Power Rule
 
-$$\begin{align}
+$$
+\begin{align}
 \frac{d}{dx}[x^n] = nx^{n-1}
-\end{align}$$
+\end{align}
+$$
 
 The derivative of $x^3$ is $3x^2$ and $x^{-4}$ is $-4x^{-5}$. We will likely go over this proof as reviewing expanding binomials is worth doing.
 
 ### Constant Multiple Rule
 
-$$\begin{align}
+$$
+\begin{align}
 \frac{d}{dx}[cf(x)] = cf'(x)
-\end{align}$$
+\end{align}
+$$
 
 In other words, you can factor out a constant, then find your derivative like normal. Don't forget that denominators count, too. There is no difference between $\frac{x^2}{5}$ and $\frac{1}{5}x^2$.
 
 ### Sum and Difference Rule
 
-$$\begin{align}
+$$
+\begin{align}
 \frac{d}{dx}[f(x) \pm g(x)] = f'(x) \pm g'(x)
-\end{align}$$
+\end{align}
+$$
 
 If you see addition or subtraction, the derivative is the sum or difference of the two derivatives. The derivative of $3x^5 + 2x$ is $15x^4 + 2$.
 
 ### Derivative of the Sine and Cosine Functions
 
-$$\begin{align}
+$$
+\begin{align}
 \frac{d}{dx}[\sin x] = \cos x
-\end{align}$$
+\end{align}
+$$
 
 With that rule in mind, take a look at the graph of $\sin x$ and $\cos x$ below.
 
@@ -105,19 +116,21 @@ One of the more imporant things about derivatives is being able to connect it to
 
 You can try the same things above with $\cos x$ and you should arrive at the conclusion below.
 
-$$\begin{align}
+$$
+\begin{align}
 \frac{d}{dx}[\cos x] = -\sin x
-\end{align}$$
+\end{align}
+$$
 
 ### Derivatives of Exponential Functions
 
 The last rule covered in this section is for $e^x$. Good news, it's an easy one.
 
-$$\begin{align}
+$$
+\begin{align}
 \frac{d}{dx}\left[e^x\right] = e^x
-\end{align}$$
-
-Yep, $e^x$ is its own derivative.
+\end{align}
+$$
 
 ## Rates of Change
 
@@ -131,35 +144,45 @@ We will eventually see where the below equation comes from, but for now make sur
 
 Given acceleration due to gravity $g$, initial velocity $v_0$, and initial position $s_0$, the function for an object's position when in free-fall is
 
-$$\begin{align}
+$$
+\begin{align}
 s(t) = -\frac{1}{2}gt^2 + v_0t + s_0
-\end{align}$$
+\end{align}
+$$
 
 Gravity on Earth is typically given as either $32 \text{ ft}/\text{s}^2$ or $9.8 \text{ m}/\text{s}^2$.
 
 So, given a diver 32 feet up with an initial velocity of 16 feet per second, we can write our position function as
 
-$$\begin{align}
+$$
+\begin{align}
 s(t) = -16t^2 + 16t + 32
-\end{align}$$
+\end{align}
+$$
 
 From here, we can derive their velocity function, since $s'(t) = v(t)$.
 
-$$\begin{align}
+$$
+\begin{align}
 v(t) = -32t + 16
-\end{align}$$
+\end{align}
+$$
 
 Well, what if we wanted to know how fast they were traveling when they hit the water? First we need our zeros, which means solving the original position function for 0.
 
-$$\begin{align}
+$$
+\begin{align}
 s(t) = -16t^2 + 16t + 32 = -16(t^2-t-2) = -16(t-2)(t+1)
-\end{align}$$
+\end{align}
+$$
 
 Our zeros are 2 and -1, but only 2 makes sense in this context, they hit the water after two seconds. Now we can just plug into our velocity function.
 
-$$\begin{align}
+$$
+\begin{align}
 v(2) = -32(2) + 16 = -48 \text{ ft}/\text{s}^2
-\end{align}$$
+\end{align}
+$$
 
 Notice how the velocity is negative. Position can be positive or negative since we can move in opposite directions (you'll also see left/right later on), so velocity will also tell you if the object is traveling in a positive or negative direction.
 
