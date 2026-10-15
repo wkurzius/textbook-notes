@@ -2,7 +2,7 @@
 title: 1.6 Limits at Infinity
 layout: page
 course: AP Calc
-last-reviewed:
+last-updated:
 prev-link: "./1-5-infinite-limits.html"
 next-link: "./2-1-the-derivative-and-the-tangent-line-problem.html"
 ---

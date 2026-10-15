@@ -2,7 +2,7 @@
 title: 2.5 Implicit Differentiation
 layout: page
 course: AP Calc
-last-reviewed: 2025-11-14 10:24:03
+last-updated: 2025-11-14 10:24:03
 prev-link: "./2-4-the-chain-rule.html"
 next-link: "./2-6-derivatives-of-inverse-functions.html"
 ---

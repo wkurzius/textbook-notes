@@ -2,7 +2,7 @@
 title: "4.7 The Natural Logarithmic Function: Integration"
 layout: page
 course: AP Calc
-last-reviewed: 2026-03-04 10:22:33
+last-updated: 2026-03-04 10:22:33
 prev-link: "./4-6-integration-by-substitution.html"
 next-link: "./4-8-inverse-trigonometric-function-integration.html"
 ---

@@ -2,7 +2,7 @@
 title: 3.1 Extrema on an Interval
 layout: page
 course: AP Calc
-last-reviewed: 2025-12-09 08:54:27
+last-updated: 2025-12-09 08:54:27
 prev-link: "./7-7-indeterminate-forms-and-lhopitals-rule.html"
 next-link: ./3-2-rolles-theorem-and-the-mean-value-theorem.html
 ---

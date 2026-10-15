@@ -2,7 +2,7 @@
 title: 6.1 Area of a Region Between Two Curves
 layout: page
 course: AP Calc
-last-reviewed:
+last-updated:
 prev-link: "./5-3-separation-of-variables.html"
 next-link: "./6-2-volume-the-disk-and-washer-methods.html"
 ---

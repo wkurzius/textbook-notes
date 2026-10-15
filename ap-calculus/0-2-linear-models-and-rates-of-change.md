@@ -2,7 +2,7 @@
 title: P.2 Linear Models and Rates of Change
 layout: page
 course: AP Calc
-last-reviewed:
+last-updated:
 prev-link: ./0-1-graphs-and-models.html
 next-link: ./0-3-functions-and-their-graphs.html
 ---

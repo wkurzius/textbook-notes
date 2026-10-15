@@ -2,7 +2,7 @@
 title: 1.1 A Preview of Calculus
 layout: page
 course: AP Calc
-last-reviewed: 2025-11-14 10:14:20
+last-updated: 2025-11-14 10:14:20
 prev-link: "./0-5-exponential-and-logarithmic-functions.html"
 next-link: "./1-2-finding-limits-graphically-and-numerically.html"
 ---

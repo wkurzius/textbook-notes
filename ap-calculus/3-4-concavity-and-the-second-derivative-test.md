@@ -2,7 +2,7 @@
 title: 3.4 Concavity and the Second Derivative Test
 layout: page
 course: AP Calc
-last-reviewed: 2026-01-02 15:26:08
+last-updated: 2026-01-02 15:26:08
 prev-link: "./3-3-the-first-derivative-test.html"
 next-link: "./3-5-a-summary-of-curve-sketching.html"
 ---

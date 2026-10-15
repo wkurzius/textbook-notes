@@ -2,7 +2,7 @@
 title: P.5 Exponential and Logarithmic Functions
 layout: page
 course: AP Calc
-last-reviewed:
+last-updated:
 prev-link: ./0-4-inverse-functions.html
 next-link: ./1-1-a-preview-of-calculus.html
 ---

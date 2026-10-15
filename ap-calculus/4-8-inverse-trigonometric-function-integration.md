@@ -2,7 +2,7 @@
 title: "4.8 Inverse Trigonometric Functions: Integration"
 layout: page
 course: AP Calc
-last-reviewed: 2026-03-06 09:17:28
+last-updated: 2026-03-06 09:17:28
 prev-link: "./4-7-the-natural-logarithmic-function-integration.html"
 next-link: ./7-1-basic-integration-rules.html
 ---

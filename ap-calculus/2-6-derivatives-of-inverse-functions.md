@@ -2,7 +2,7 @@
 title: 2.6 Derivatives of Inverse Functions
 layout: page
 course: AP Calc
-last-reviewed: 2025-11-15 10:35:52
+last-updated: 2025-11-15 10:35:52
 prev-link: "./2-5-implicit-differentiation.html"
 next-link: "./2-7-related-rates.html"
 ---

@@ -2,7 +2,7 @@
 title: 4.3 Riemann Sums and Definite Integrals
 layout: page
 course: AP Calc
-last-reviewed: 2026-02-10 20:27:12
+last-updated: 2026-02-10 20:27:12
 prev-link: "./4-2-area.html"
 next-link: "./4-4-the-fundamental-theorem-of-calculus.html"
 ---

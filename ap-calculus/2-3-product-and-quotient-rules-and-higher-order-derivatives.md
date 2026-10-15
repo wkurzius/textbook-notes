@@ -2,7 +2,7 @@
 title: 2.3 Product and Quotient Rules and Higher-Order Derivatives
 layout: page
 course: AP Calc
-last-reviewed:
+last-updated:
 prev-link: "./2-2-basic-differentiation-rules-and-rates-of-change.html"
 next-link: "./2-4-the-chain-rule.html"
 ---

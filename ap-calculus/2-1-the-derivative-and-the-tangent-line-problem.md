@@ -2,7 +2,7 @@
 title: 2.1 The Derivative and the Tangent Line Problem
 layout: page
 course: AP Calc
-last-reviewed:
+last-updated:
 prev-link: "./1-6-limits-at-infinity.html"
 next-link: "./2-2-basic-differentiation-rules-and-rates-of-change.html"
 ---

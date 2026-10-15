@@ -2,7 +2,7 @@
 title: 7.1 Basic Integration Rules
 layout: page
 course: AP Calc
-last-reviewed:
+last-updated:
 prev-link: ./4-8-inverse-trigonometric-function-integration.html
 next-link: ./5-1-slope-fields-and-eulers-method.html
 ---

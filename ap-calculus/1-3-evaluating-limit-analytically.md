@@ -2,7 +2,7 @@
 title: 1.3 Evaluating Limits Analytically
 layout: page
 course: AP Calc
-last-reviewed: 2026-09-13 13:05:12
+last-updated: 2026-09-13 13:05:12
 prev-link: "./1-2-finding-limits-graphically-and-numerically.html"
 next-link: "./1-4-continuity-and-one-sided-limits.html"
 ---

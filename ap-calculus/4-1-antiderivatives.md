@@ -2,7 +2,7 @@
 title: 4.1 Antiderivatives and Indefinite Integration
 layout: page
 course: AP Calc
-last-reviewed: 2026-01-29 18:16:26
+last-updated: 2026-01-29 18:16:26
 prev-link: "./3-6-optimization-problems.html"
 next-link: "./4-2-area.html"
 ---

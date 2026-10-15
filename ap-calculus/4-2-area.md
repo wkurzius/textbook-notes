@@ -2,7 +2,7 @@
 title: 4.2 Area
 layout: page
 course: AP Calc
-last-reviewed: 2026-02-09 10:51:23
+last-updated: 2026-02-09 10:51:23
 prev-link: "./4-1-antiderivatives.html"
 next-link: "./4-3-riemann-sums-and-definite-integrals.html"
 ---

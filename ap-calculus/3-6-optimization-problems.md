@@ -2,7 +2,7 @@
 title: 3.6 Optimization Problems
 layout: page
 course: AP Calc
-last-reviewed: 2026-01-13 08:42:36
+last-updated: 2026-01-13 08:42:36
 prev-link: "./3-5-a-summary-of-curve-sketching.html"
 next-link: "./4-1-antiderivatives.html"
 ---

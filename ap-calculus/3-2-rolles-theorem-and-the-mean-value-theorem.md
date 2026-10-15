@@ -2,7 +2,7 @@
 title: 3.2 Rolle's Theorem and the Mean Value Theorem
 layout: page
 course: AP Calc
-last-reviewed: 2025-12-16 09:33:07
+last-updated: 2025-12-16 09:33:07
 prev-link: "./3-1-extrema-on-an-interval.html"
 next-link: "./3-3-the-first-derivative-test.html"
 ---

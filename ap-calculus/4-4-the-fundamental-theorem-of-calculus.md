@@ -2,7 +2,7 @@
 title: 4.4 The Fundamental Theorem of Calculus
 layout: page
 course: AP Calc
-last-reviewed: 2026-02-21 07:44:49
+last-updated: 2026-02-21 07:44:49
 prev-link: "./4-3-riemann-sums-and-definite-integrals.html"
 next-link: "./4-5-the-net-change-theorem.html"
 ---

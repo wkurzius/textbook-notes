@@ -2,7 +2,7 @@
 title: 5.2 Growth and Decay
 layout: page
 course: AP Calc
-last-reviewed: 2026-03-23 10:15:12
+last-updated: 2026-03-23 10:15:12
 prev-link: "./5-1-slope-fields-and-eulers-method.html"
 next-link: "./5-3-separation-of-variables.html"
 ---

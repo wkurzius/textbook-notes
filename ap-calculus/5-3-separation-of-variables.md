@@ -2,7 +2,7 @@
 title: 5.3 Separation of Variables
 layout: page
 course: AP Calc
-last-reviewed: 2026-03-31 09:48:51
+last-updated: 2026-03-31 09:48:51
 prev-link: "./5-2-growth-and-decay.html"
 next-link: "./6-1-area-of-a-region-between-two-curves.html"
 ---

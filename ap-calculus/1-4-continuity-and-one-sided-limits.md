@@ -2,7 +2,7 @@
 title: 1.4 Continuity and One-Sided Limits
 layout: page
 course: AP Calc
-last-reviewed:
+last-updated:
 prev-link: "./1-3-evaluating-limit-analytically.html" 
 next-link: "./1-5-infinite-limits.html"
 ---
