@@ -59,17 +59,17 @@ After that, the chain of logic begins. The statements themselves might be enough
 
 ## The Elephant in the Room
 
-Proofs have a ... reputation. I bet the thought of creating a proof sounds incredibly difficult to you. That's because they require two things that haven't appeared often in previous math classes: creative and logical thinking. Instead of "do these steps" we've moved on to "decide what step is next and justify it". The result of this shift is open-ended problems with multiple correct answers. The Wikipedia page for the [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem){: target="\_blank"} lists _nine_ different proofs, one of which came from our 20th president, James A. Garfield.
+Proofs have a … reputation. I bet the thought of creating a proof sounds incredibly difficult to you. That's because they require two things that haven't appeared often in previous math classes: creative and logical thinking. Instead of "do these steps" we've moved on to "decide what step is next and justify it". The result of this shift is open-ended problems with multiple correct answers. The Wikipedia page for the [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem){: target="\_blank"} lists _nine_ different proofs, one of which came from our 20th president, James A. Garfield.
 
 This might not be a surprise, but proofs and other open-ended problems represent the hardest problems you'll face in your life and career. The ones you can't solve just by looking up the solution. You'll have to get creative. And then you'll have to justify those decisions, either to your partner or boss.
 
 So, if you were to create a proof yourself—from scratch—it would require some planning. It's the equivalent to preparing an argumentative essay, or a defense if you were a lawyer, or lesson prepping as a teacher. It can be difficult and you might not be able to do it on your own. Don't worry if that's the case. Get the help you need for whichever part of a proof is tripping you up.
 
-And if you are already dreading the test on this, most of the proof will be given to you. You will just need to fill in the blanks.
+And if you are already dreading the test on this, you won't have to write a full proof. Most of one will be given to you, and you just need to fill in the blanks from a short list of options.
 
 ## Theorem Bank
 
-Constructing a proof requires you know a _lot_ of theorems. Luckily, I have a list to help out: [Properties Cheat Sheet](./pdf/properties-quick-reference.pdf){: target="\_blank"}. Along with that, there are a few more introduced in this section.
+Constructing a proof requires you know a _lot_ of theorems. To help you out on the few proofs you have to create for homework, here is a list of proofs to help you out: [Properties Cheat Sheet](./pdf/properties-quick-reference.pdf){: target="\_blank"}. Along with that, the book introduces a few more.
 
 <!-- prettier-ignore -->
 > ### Congruent Supplements Theorem
@@ -94,3 +94,41 @@ Constructing a proof requires you know a _lot_ of theorems. Luckily, I have a li
 >
 > **In symbols**: If $\angle 1$ and $\angle 2$ form a linear pair, then $m\angle 1 + m\angle 2 = 180^\circ$.
 {: .definition}
+
+## One More Proof
+
+
+
+<!-- prettier-ignore -->
+> ## Example: Applying Vertical Angles
+>
+> In the figure below, find the measure of the angles by determining the value of $x$.
+>
+> > ![](./img/1-7-apply-vertical-angles.png)
+> >
+> > **Figure 1.7.2** Vertical angles of unknown measure.
+> {: .figure}
+{: .example}
+
+**SOLUTION** Since we know vertical angles are congruent, we can set the two expressions equal to each other.
+
+$$
+\begin{align}
+2x + 20 = x + 35
+\end{align}
+$$
+
+Now that we have an equation, we can solve for the one variable.
+
+$$
+\begin{align}
+2x + 20 &= x + 35 \\
+ x + 20 &= 35 \\
+      x &= 15
+\end{align}
+$$
+
+And now that we know $x$, we can plug it back in to see that our vertical angles measure $50^\circ$.
+
+$\blacksquare$
+{: .qed}
