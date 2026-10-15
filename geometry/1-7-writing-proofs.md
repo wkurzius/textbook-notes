@@ -105,7 +105,7 @@ One more example proof.
 > **Figure 1.7.2** $m\angle 1 = m\angle 2$ and $m\angle 1 = 105^\circ$
 {: .figure}
 
-This time, we want to prove $m\angle 3 = 75^\circ$. This time, I'll walk through the logic in plain language and produce a paragraph proof.
+This time, we want to prove $m\angle 3 = 75^\circ$. This time, I'll walk through the logic in plain language and produce a **paragraph proof**.
 
 > Since the measure of $\angle 1$ is equal to the measure of $\angle 2$, and the measure of $\angle 1 = 105^\circ$, then the measure of $\angle 2$ must also be $105^\circ$.
 >
