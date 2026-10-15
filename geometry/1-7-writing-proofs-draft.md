@@ -63,9 +63,9 @@ Proofs have a … reputation. I bet the thought of creating a proof sounds incre
 
 This might not be a surprise, but proofs and other open-ended problems represent the hardest problems you'll face in your life and career. The ones you can't solve just by looking up the solution. You'll have to get creative. And then you'll have to justify those decisions, either to your partner or boss.
 
-So, if you were to create a proof yourself—from scratch—it would require some planning. It's the equivalent to preparing an argumentative essay, or a defense if you were a lawyer, or lesson prepping as a teacher. It can be difficult and you might not be able to do it on your own. Don't worry if that's the case. Get the help you need for whichever part of a proof is tripping you up.
+So, to create a proof yourself—from scratch—it requires some planning. It can be difficult and you might not be able to do it on your own. Don't worry if that's the case. Get the help you need for whichever part of a proof is tripping you up.
 
-And if you are already dreading the test on this, you won't have to write a full proof. Most of one will be given to you, and you just need to fill in the blanks from a short list of options.
+And in case you are dreading the test on this, you won't be asked to write a full proof. Most of one will be given to you, and then you have to fill in the blanks from a short list of options.
 
 ## Theorem Bank
 
@@ -97,7 +97,9 @@ Constructing a proof requires you know a _lot_ of theorems. To help you out on t
 
 ## One More Proof
 
+## Applying Vertical Angles
 
+The last bit in the section is using the vertical angle theorem. This is mostly algebra work since you need to set the expressions equal to each other and solve for $x$.
 
 <!-- prettier-ignore -->
 > ## Example: Applying Vertical Angles
