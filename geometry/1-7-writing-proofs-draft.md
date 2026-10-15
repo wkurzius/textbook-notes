@@ -105,17 +105,23 @@ One more example proof.
 > **Figure 1.7.2** $m\angle 1 = m\angle 2$ and $m\angle 1 = 105^\circ$
 {: .figure}
 
-This time, we want to prove $m\angle 3 = 75^\circ$.
+This time, we want to prove $m\angle 3 = 75^\circ$. This time, I'll walk through the logic in plain language and produce a paragraph proof.
 
-| Statements                                       | Reasons                              |
-|--------------------------------------------------|--------------------------------------|
-| 1) $m\angle 1 = m\angle 2$                       | 1) Given                             |
-| 2) $m\angle 1 = 105^\circ$                       | 2) Given                             |
-| 3) $m\angle 1 = m\angle 2$                       | 3) Transitive property of equality   |
-| 4) $\angle 2$ and $\angle 3$ are a linear   pair | 4) Def. of a linear pair             |
-| 5) $m\angle 2 + m\angle 3=180^\circ$             | 5) Linear pairs theorem              |
-| 6) $105^\circ + m\angle 3=180^\circ$             | 6) Substitution property of equality |
-| 7) $m\angle 3 = 75^\circ$                        | 7) Subtraction property of equality  |
+> Since the measure of $\angle 1$ is equal to the measure of $\angle 2$, and the measure of $\angle 1 = 105^\circ$, then the measure of $\angle 2$ must also be $105^\circ$.
+>
+> $\angle 2$ and $\angle 3$ also happen to be a linear pair, so the sum of their measures must be $180^\circ$. So, if $m\angle2=105^\circ$, then $m\angle 3 =75^\circ$.
+
+For comparison, here is the two-column version.
+
+| Statements                                     | Reasons                              |
+| ---------------------------------------------- | ------------------------------------ |
+| 1) $m\angle 1 = m\angle 2$                     | 1) Given                             |
+| 2) $m\angle 1 = 105^\circ$                     | 2) Given                             |
+| 3) $m\angle 1 = m\angle 2$                     | 3) Transitive property of equality   |
+| 4) $\angle 2$ and $\angle 3$ are a linear pair | 4) Def. of a linear pair             |
+| 5) $m\angle 2 + m\angle 3=180^\circ$           | 5) Linear pairs theorem              |
+| 6) $105^\circ + m\angle 3=180^\circ$           | 6) Substitution property of equality |
+| 7) $m\angle 3 = 75^\circ$                      | 7) Subtraction property of equality  |
 
 ## Applying Vertical Angles
 
