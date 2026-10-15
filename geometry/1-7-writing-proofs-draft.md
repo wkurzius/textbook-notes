@@ -45,13 +45,13 @@ It's one thing to say something, and quite another to prove it. Below is a **two
 
 **Prove**: $\angle 1 \cong \angle 3$
 
-| Statements                                                                     | Reasons                          |
-| ------------------------------------------------------------------------------ | -------------------------------- |
-| 1) $\angle 1$ and $\angle 3$ are vertical angles                               | Given                            |
-| 2) $m\angle 1 + m\angle 2 = 180^\circ$ and $m\angle 2 + m\angle 3 = 180^\circ$ | Supplementary angles             |
-| 3) $m\angle 1 + m\angle 2 = m\angle 2 + m\angle 3$                             | Transitive property of equality  |
-| 4) $m\angle 1 = m\angle 3$                                                     | Subtraction property of equality |
-| 5) $\angle 1 \cong \angle3$                                                    | Definition of congruent angles   |
+| Statements                                                                     | Reasons                             |
+| ------------------------------------------------------------------------------ | ----------------------------------- |
+| 1) $\angle 1$ and $\angle 3$ are vertical angles                               | 1) Given                            |
+| 2) $m\angle 1 + m\angle 2 = 180^\circ$ and $m\angle 2 + m\angle 3 = 180^\circ$ | 2) Supplementary angles             |
+| 3) $m\angle 1 + m\angle 2 = m\angle 2 + m\angle 3$                             | 3) Transitive property of equality  |
+| 4) $m\angle 1 = m\angle 3$                                                     | 4) Subtraction property of equality |
+| 5) $\angle 1 \cong \angle3$                                                    | 5) Definition of congruent angles   |
 
 The aim of any proof is to have a self-contained set of steps that lead you from what's given to the conclusion. This means our given (or givens if multiple) is stated first.
 
@@ -59,7 +59,7 @@ After that, the chain of logic begins. The statements themselves might be enough
 
 ## The Elephant in the Room
 
-Proofs have a … reputation, and that comes from what doesn't show up in math classes often: justification. Instead of "do the steps" we've moved on to "justify the steps". The result of this shift is open-ended problems with multiple correct answers. The Wikipedia page for the [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem){: target="\_blank"} lists _nine_ different proofs, one of which came from our 20th president, James A. Garfield.
+Proofs have a … reputation, and that comes from what doesn't show up in math classes often: justification. Instead of "do the steps" we've moved on to "justify the steps". This shift means we have open-ended problems with multiple correct answers. The Wikipedia page for the [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem){: target="\_blank"} lists _nine_ different proofs, one of which came from our 20th president, James A. Garfield.
 
 Proofs and other open-ended problems represent the hardest problems you'll face in your life and career. The ones you can't solve just by looking up the solution. The ones where you'll have to justify your decision, either to your partner or boss.
 
@@ -97,6 +97,26 @@ Constructing a proof requires you know a _lot_ of theorems. To help you out on t
 
 ## One More Proof
 
+One more example proof.
+
+<!-- prettier-ignore -->
+> ![Parallel lines and a transversal](./img/1-7-parallel-transversal.png)
+>
+> **Figure 1.7.2** $m\angle 1 = m\angle 2$ and $m\angle 1 = 105^\circ$
+{: .figure}
+
+This time, we want to prove $m\angle 3 = 75^\circ$.
+
+| Statements                                       | Reasons                              |
+|--------------------------------------------------|--------------------------------------|
+| 1) $m\angle 1 = m\angle 2$                       | 1) Given                             |
+| 2) $m\angle 1 = 105^\circ$                       | 2) Given                             |
+| 3) $m\angle 1 = m\angle 2$                       | 3) Transitive property of equality   |
+| 4) $\angle 2$ and $\angle 3$ are a linear   pair | 4) Def. of a linear pair             |
+| 5) $m\angle 2 + m\angle 3=180^\circ$             | 5) Linear pairs theorem              |
+| 6) $105^\circ + m\angle 3=180^\circ$             | 6) Substitution property of equality |
+| 7) $m\angle 3 = 75^\circ$                        | 7) Subtraction property of equality  |
+
 ## Applying Vertical Angles
 
 The last bit in the section is using the vertical angle theorem. This is mostly algebra work since you need to set the expressions equal to each other and solve for $x$.
@@ -106,9 +126,9 @@ The last bit in the section is using the vertical angle theorem. This is mostly 
 >
 > In the figure below, find the measure of the angles by determining the value of $x$.
 >
-> > ![](./img/1-7-apply-vertical-angles.png)
+> > ![Vertical angles](./img/1-7-apply-vertical-angles.png)
 > >
-> > **Figure 1.7.2** Vertical angles of unknown measure.
+> > **Figure 1.7.3** Vertical angles of unknown measure.
 > {: .figure}
 {: .example}
 
