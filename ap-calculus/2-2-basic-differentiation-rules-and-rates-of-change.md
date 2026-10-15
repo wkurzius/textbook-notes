@@ -2,10 +2,9 @@
 title: 2.2 Basic Differentiation Rules and Rates of Change
 layout: page
 course: AP Calc
-last-updated:
+last-updated: 2026-10-15 07:41:50
 prev-link: "./2-1-the-derivative-and-the-tangent-line-problem.html"
 next-link: "./2-3-product-and-quotient-rules-and-higher-order-derivatives.html"
-last-updated: 2026-10-15 07:41:50
 ---
 
 - Find the derivative of a function using the Constant Rule.

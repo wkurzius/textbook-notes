@@ -59,9 +59,9 @@ After that, the chain of logic begins. The statements themselves might be enough
 
 ## The Elephant in the Room
 
-Proofs have a … reputation. I bet the thought of creating a proof sounds incredibly difficult to you. That's because they require two things that haven't appeared often in previous math classes: creative and logical thinking. Instead of "do these steps" we've moved on to "decide what step is next and justify it". The result of this shift is open-ended problems with multiple correct answers. The Wikipedia page for the [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem){: target="\_blank"} lists _nine_ different proofs, one of which came from our 20th president, James A. Garfield.
+Proofs have a … reputation, and that comes from what doesn't show up in math classes often: justification. Instead of "do the steps" we've moved on to "justify the steps". The result of this shift is open-ended problems with multiple correct answers. The Wikipedia page for the [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem){: target="\_blank"} lists _nine_ different proofs, one of which came from our 20th president, James A. Garfield.
 
-This might not be a surprise, but proofs and other open-ended problems represent the hardest problems you'll face in your life and career. The ones you can't solve just by looking up the solution. You'll have to get creative. And then you'll have to justify those decisions, either to your partner or boss.
+Proofs and other open-ended problems represent the hardest problems you'll face in your life and career. The ones you can't solve just by looking up the solution. The ones where you'll have to justify your decision, either to your partner or boss.
 
 So, if you were to create a proof yourself—from scratch—it would require some planning. It's the equivalent to preparing an argumentative essay, or a defense if you were a lawyer, or lesson prepping as a teacher. It can be difficult and you might not be able to do it on your own. Don't worry if that's the case. Get the help you need for whichever part of a proof is tripping you up.
 
