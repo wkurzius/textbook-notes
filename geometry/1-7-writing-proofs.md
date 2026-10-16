@@ -59,13 +59,11 @@ After that, the chain of logic begins. The statements themselves might be enough
 
 ## The Elephant in the Room
 
-Proofs have a … reputation, and that comes from what doesn't show up in math classes often: justification. Instead of "do the steps" we've moved on to "justify the steps". This shift means we have open-ended problems with multiple correct answers. The Wikipedia page for the [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem){: target="\_blank"} lists _nine_ different proofs, one of which came from our 20th president, James A. Garfield.
+Proofs have a reputation for being difficult, and that comes from what doesn't show up often in other math classes: justification. Instead of just "do the steps", proofs introduce you to "justify the steps", leading to open-ended problems with multiple correct answers. (Just as an example, here is [a book with 367 proofs for the Pythagorean theorem](https://ia800103.us.archive.org/1/items/in.ernet.dli.2015.84599/2015.84599.The-Pythagorean-Proposition_text.pdf){: target="_blank"}. Number 231 is by our 20th president, James A. Garfield.)
 
-Proofs and other open-ended problems represent the hardest problems you'll face in your life and career. The ones you can't solve just by looking up the solution. The ones where you'll have to justify your decision, either to your partner or boss.
+Proofs and other open-ended problems represent the hardest problems you'll face in your life and career. The ones you can't solve just by looking up the solution. The ones where you'll have to justify your decision, either to your partner or boss. So when you attempt to solve one of these problems, know that you will struggle. But that's OK. Get the help you need for whichever part is giving you trouble and keep going.
 
-So, to create a proof yourself—from scratch—it requires some planning. It can be difficult and you might not be able to do it on your own. Don't worry if that's the case. Get the help you need for whichever part of a proof is tripping you up.
-
-And in case you are dreading the test on this, you won't be asked to write a full proof. Most of one will be given to you, and then you have to fill in the blanks from a short list of options.
+And since you are probably wondering what this will look like on a test, you won't be asked to write a full proof. Most of one will be given to you, and then you have to fill in the blanks from a short list of options.
 
 ## Theorem Bank
 
