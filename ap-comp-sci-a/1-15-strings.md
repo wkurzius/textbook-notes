@@ -1,9 +1,10 @@
 ---
-title:  1.15 Strings
+title: 1.15 Strings
 layout: page
 course: AP CSA
 prev-link: "./1-14-calling-instance-methods.html"
 next-link: "./2-1-algorithms-with-selection-and-repetition.html"
+last-updated: 2026-10-16 11:23:44
 ---
 
 - Develop code to create string objects and determine the result of creating and combining strings
@@ -12,7 +13,7 @@ next-link: "./2-1-algorithms-with-selection-and-repetition.html"
 ## Assignment
 
 - All **vocabulary**{: .apcsa-vocab}
-- All [1.15 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-1-15-strings.html){: target="_blank"}
+- All [1.15 activities](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/topic-1-15-strings.html){: target="\_blank"}
 
 ---
 
@@ -50,7 +51,7 @@ String s = 12 + "3";    //also outputs 123
 String s = 12 + 3;      //syntax error
 ```
 
-## *String*{: .header-tt} Length, Index, and Methods
+## _String_{: .header-tt} Length, Index, and Methods
 
 Strings are made up of characters—which includes letters, numbers, symbols, and even non-printable characters like tabs and newlines—and the length of a `String` is how many characters it contains. Spare yourself some counting and use the `length()` method to get the length of a `String`. This is an object method, so use the dot operator.
 
@@ -72,7 +73,7 @@ System.out.println(i);      // outputs 7
 
 If it can't find it, it returns `-1`. This is a common tactic of return methods. They are forced to return a certain type, but in the event it fails, it returns bad data rather than crashing out. Here, `-1` is perfect because it's always an invalid index.
 
-### The *substring()*{. header-tt} Method
+### The _substring()_{: .header-tt} Method
 
 Aside from `length()` and `indexOf()`, there are a few other methods you need to worry about. The method `substring()` is fairly straightforward on the surface, but requires practice to really wrap your head around it. Both work on an existing string and extract part of it.
 
@@ -90,11 +91,11 @@ String s = "some string";
 String u = s.substring(0, 3);  // "som"
 ```
 
-Lots of practice needed for this, and you will see some funky problems involving it.
+Lots of practice is needed for this, and you will see some funky problems involving it.
 
-### *equals()*{. header-tt} and *compareTo()*{. header-tt}
+### _equals()_{: .header-tt} and _compareTo()_{: .header-tt}
 
-This came up briefly earlier, but you can compare values in Java with `==`. But this is really only for primitives, because reference variables technically point to memory addresses. So, in order to properly compare objects, including Strings, the `equals()` method exists. Like the others, it requires the dot operator.
+This came up briefly earlier, but you can compare values in Java with `==`, but this is really only for primitives since reference variables point to memory addresses rather than the data behind it. In order to properly compare objects—including strings—the `equals()` method exists. Like the others, it requires the dot operator.
 
 ```java
 String s1 = "a string";
@@ -105,7 +106,7 @@ boolean s12 = s1.equals(s2);    // true
 boolean s13 = s1.equals(s3);    // false
 ```
 
-`compareTo()` is a bit more nuanced. It operates the same way, but returns an `int`. If the strings are equal, it returns 0. If the first comes first alphabetically (or more accurately, [lexicographically](https://stackoverflow.com/questions/45950646/what-is-lexicographical-order)), then it returns a negative number. It returns a positive if the second comes first.
+`compareTo()` is a bit more nuanced. It operates the same way, but returns an `int`. If the strings are equal, it returns `0`. If the first comes first alphabetically (or more accurately, [lexicographically](https://stackoverflow.com/questions/45950646/what-is-lexicographical-order)), then it returns a negative number. It returns a positive if the second comes first.
 
 It might seem a bit arbitrary, but think of it as a subtraction problem where the second is being subtracted from the first.
 
