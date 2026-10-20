@@ -26,7 +26,7 @@ geo-h: "[**Geometry**](./geometry/)<br>
 geo-1: "**T**{: .day}[1.7 Writing Proofs](./geometry/1-7-writing-proofs.html)"
 geo-2: "**R**{: .day}[1.8 Indirect Proofs](./geometry/1-8-indirect-proof.html)"
 geo-3: ""
-geo-x: "Oct. 26"
+geo-x: "Oct. 28"
 
 pro-h: "**Intro to Programming**<br>
         [<i class=\"fa-solid fa-file-lines\"></i>](./intro-to-programming/intro-to-programming-syllabus.html)

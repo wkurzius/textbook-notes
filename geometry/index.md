@@ -21,7 +21,7 @@ layout: course-index
 - [1.4 Inductive Reasoning](1-4-inductive-reasoning.md)
 - [1.5 Conditional Statements](1-5-conditional-statements.md)
 
-### Quiz 3, Oct. 26
+### Quiz 3, Oct. 28
 
 - [1.6 Deductive Reasoning](1-6-deductive-reasoning.md)
 - [1.7 Writing Proofs](1-7-writing-proofs.md)
@@ -31,14 +31,15 @@ layout: course-index
 
 - [2.1 Properties of Parallel Lines](2-1-properties-of-parallel-lines.md)
 - [2.2 Proving Lines Parallel](2-2-proving-lines-parallel.md)
-- [2.3 Parallel Lines and Triangles](2-3-parallel-lines-and-triangles.md)
-- [2.4 Slopes of Parallel and Perpendicular Lines](2-4-slopes-of-parallel-and-perpendicular-lines.md)
 
 <!--
 
 ## Marking Period 2
 
 ### Quiz 4, Nov. 23
+
+- [2.3 Parallel Lines and Triangles](2-3-parallel-lines-and-triangles.md)
+- [2.4 Slopes of Parallel and Perpendicular Lines](2-4-slopes-of-parallel-and-perpendicular-lines.md)
 
 ### Quiz 5, Dec. 9
 
