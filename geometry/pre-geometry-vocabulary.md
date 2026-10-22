@@ -6,6 +6,8 @@ course: Geometry
 
 These are geometry terms you likely saw in middle-school, but might have forgotten since then. Knowing these will make learning the new material easier, even if some might not come up until later in the course.
 
+And here is [the PDF version that was given out during class](./pdf/pre-geo-vocab-reference.pdf){: target="_blank"}.
+
 ## The Basics
 
 | Term         | Definition                                                                      |
