@@ -38,4 +38,4 @@ For another example, we can prove that there is no "biggest number" by finding a
 
 Another way to indirectly prove something is to use its contrapositive. For any conditional to be true, its contrapositive must also be true. So, $\p\to q$ and $\neg q \to \neg p$ are both valid statements. For example, "if it's raining, then I will bring my umbrella" and "if I didn't bring my umbrella, then it is not raining".
 
-Depending on the conditional, the contrapositive might be easier to prove than the original. 
+Depending on the conditional, the contrapositive might be easier to prove than the original.
