@@ -6,9 +6,9 @@ cal-h: "[**AP Calculus AB**](./ap-calculus/)<br>
         [<i class=\"fa-solid fa-file-lines\"></i>](./ap-calculus/ap-calc-syllabus.html)
         [<i class=\"fa-solid fa-clock-rotate-left\"></i>](./ap-calculus/)"
 cal-1: "**M**{: .day}[2.2 Basic Differentiation Rules and Rates of Change](./ap-calculus/2-2-basic-differentiation-rules-and-rates-of-change.html)"
-cal-2: "**W**{: .day}[2.2 Basic Differentiation Rules and Rates of Change](./ap-calculus/2-2-basic-differentiation-rules-and-rates-of-change.html)"
-cal-3: "**F**{: .day}[2.3 Product and Quotient Rules and Higher-Order Derivatives](./ap-calculus/2-3-product-and-quotient-rules-and-higher-order-derivatives.html)"
-cal-x: "Nov. 4<br>(MP Exam)"
+cal-2: "**W**{: .day}SATs"
+cal-3: "**F**{: .day}[2.2 Basic Differentiation Rules and Rates of Change](./ap-calculus/2-2-basic-differentiation-rules-and-rates-of-change.html)"
+cal-x: "Nov. 10<br>(MP Exam)"
 
 csa-h: "[**AP Comp Sci A**](./ap-comp-sci-a/)<br>
         [<i class=\"fa-solid fa-file-lines\"></i>](./ap-comp-sci-a/ap-csa-syllabus.html)

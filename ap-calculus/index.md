@@ -31,7 +31,7 @@ layout: course-index
 [Unit 1 MCQ Parts B and C; Unit 1 FRQ Parts A, B, and C](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### MP1 Exam, Nov. 4
+### MP1 Exam, Nov. 10
 
 - [2.1 The Derivative and the Tangent Line Problem](./2-1-the-derivative-and-the-tangent-line-problem.md)
 - [2.2 Basic Differentiation Rules and Rates of Change](./2-2-basic-differentiation-rules-and-rates-of-change.md)
