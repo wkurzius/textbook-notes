@@ -53,7 +53,6 @@ sta-x: "Oct. 27"
 | {{page.geo-h}} | {{page.geo-1}}<br>{{page.geo-2}}<br>{{page.geo-3}} | {{page.geo-x}} |
 | {{page.pro-h}} | {{page.pro-1}}<br>{{page.pro-2}}<br>{{page.pro-3}} | {{page.pro-x}} |
 | {{page.sta-h}} | {{page.sta-1}}<br>{{page.sta-2}}<br>{{page.sta-3}} | {{page.sta-x}} |
-
 {: #this-week-table}
 
 <div id="this-week-table-legend">
