@@ -2,7 +2,7 @@
 title: 2.2 Basic Differentiation Rules and Rates of Change
 layout: page
 course: AP Calc
-last-updated: 2026-10-15 07:41:50
+last-updated: 2026-10-23 11:57:31
 prev-link: "./2-1-the-derivative-and-the-tangent-line-problem.html"
 next-link: "./2-3-product-and-quotient-rules-and-higher-order-derivatives.html"
 ---
@@ -135,23 +135,27 @@ $$
 
 Derivatives give you slope at a point. Slope is the change in $y$ over the change in $x$., but that is when math exists in a vacuum. Applying this idea to real-world applications means derivatives can find the instantaneous rate of change of any two related variables.
 
-A common pair of related variables is position and time, where comparing change in position to change in time gives you velocity. You've found average velocity before, but now with derivatives, you can find instantaneous velocity.
+A common pair of related variables is position and time, **where comparing change in position to change in time gives you velocity**. You've found average velocity before, but now with derivatives, you can find instantaneous velocity.
 
-### Free-Falling Objects
+You will see where the equation below comes from when we hit integration later in the year, but for now make sure you know how to use it.
 
-We will eventually see where the below equation comes from, but for now make sure you know how to use it.
+<!-- prettier-ignore -->
+> ### Position and Velocity Function
+>
+> Given acceleration due to gravity $g$, initial velocity $v_0$, and initial position $s_0$, the function for an object's position when in free-fall is
+>
+> $$\begin{align}
+> s(t) = -\frac{1}{2}gt^2 + v_0t + s_0
+> \end{align}$$
+{: .definition}
 
-Given acceleration due to gravity $g$, initial velocity $v_0$, and initial position $s_0$, the function for an object's position when in free-fall is
+<!-- prettier-ignore -->
+> ### Example: Free-Falling Objects
+>
+> At time $t = 0$ seconds, a diver jumps from a platform diving board that is 32 feet above the water. The initial velocity of the diver is 16 feet per second. When does the diver hit the water and what is the diver's velocity at impact?
+{: .example}
 
-$$
-\begin{align}
-s(t) = -\frac{1}{2}gt^2 + v_0t + s_0
-\end{align}
-$$
-
-Gravity on Earth is typically given as either $32 \text{ ft}/\text{s}^2$ or $9.8 \text{ m}/\text{s}^2$.
-
-So, given a diver 32 feet up with an initial velocity of 16 feet per second, we can write our position function as
+**SOLUTION** Gravity on Earth is typically given as either $32 \text{ ft}/\text{s}^2$ or $9.8 \text{ m}/\text{s}^2$. Since our diver is $32 \text{ feet}$ up with an initial velocity of $16 \text{ ft/s}$, we'll use the feet version.
 
 $$
 \begin{align}
@@ -167,21 +171,26 @@ v(t) = -32t + 16
 \end{align}
 $$
 
-Well, what if we wanted to know how fast they were traveling when they hit the water? First we need our zeros, which means solving the original position function for 0.
+Well, what if we wanted to know how fast they were traveling when they hit the water? First we need our zeros, which means solving the original position function for $0$.
 
 $$
 \begin{align}
-s(t) = -16t^2 + 16t + 32 = -16(t^2-t-2) = -16(t-2)(t+1)
+s(t) &= -16t^2 + 16t + 32 \\
+     &= -16(t^2-t-2) \\
+     &= -16(t-2)(t+1)
 \end{align}
 $$
 
-Our zeros are 2 and -1, but only 2 makes sense in this context, they hit the water after two seconds. Now we can just plug into our velocity function.
+Our zeros are $2$ and $-1$, but only $2$ makes sense in this context, so they hit the water after two seconds. Now we can just plug into our velocity function.
 
 $$
 \begin{align}
 v(2) = -32(2) + 16 = -48 \text{ ft}/\text{s}^2
 \end{align}
 $$
+
+$\blacksquare$
+{: .qed}
 
 Notice how the velocity is negative. Position can be positive or negative since we can move in opposite directions (you'll also see left/right later on), so velocity will also tell you if the object is traveling in a positive or negative direction.
 
