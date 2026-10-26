@@ -12,7 +12,7 @@ next-link: ./2-2-proving-lines-parallel.html
 
 ## Assignment
 
-- **p76**{: .envision-hw-blue} 10–13, 15–21, 23–28 (17 problems, [PDF link](./pdf/aga_gm_0201_pps.pdf){: target="_blank"})
+- **p76**{: .envision-hw-blue} 12–13, 15–20, 23–28 (14 problems, [PDF link](./pdf/aga_gm_0201_pps.pdf){: target="_blank"})
 
 ## Additional Resources
 
