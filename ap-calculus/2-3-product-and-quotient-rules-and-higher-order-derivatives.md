@@ -2,7 +2,7 @@
 title: 2.3 Product and Quotient Rules and Higher-Order Derivatives
 layout: page
 course: AP Calc
-last-updated:
+last-updated: 2026-10-27 09:05:42
 prev-link: "./2-2-basic-differentiation-rules-and-rates-of-change.html"
 next-link: "./2-4-the-chain-rule.html"
 ---
@@ -34,9 +34,15 @@ next-link: "./2-4-the-chain-rule.html"
 
 When you have the product of two functions, like $x^2\sin x$, to find the derivative you need to follow the product rule.
 
-$$\begin{align}
+<!-- prettier-ignore -->
+> ### The Product Rule
+>
+> The functions $f$ and $g$ are both differentiable, then $fg$ is as well.
+>
+> $$\begin{align}
 \frac{d}{dx}[f(x)g(x)] = f'(x)g(x) + f(x)g'(x)
-\end{align}$$
+> \end{align}$$
+{: .definition}
 
 The proof for this is straightforward enough that I encourage you to read through it in the book.
 
@@ -70,11 +76,15 @@ Remember that you don't _need_ to simplify, but you need to be able to simplify,
 
 Similar to the product rule, save for now we are subtracting and there is a denominator involved.
 
-$$\begin{align}
-\frac{d}{dx}\left[\frac{f(x)}{g(x)}\right] = \frac{f'(x)g(x) - f(x)g'(x)}{g(x)^2}
-\end{align}$$
+<!-- prettier-ignore -->
+> ### The Quotient Rule
+>
+> $$\begin{align}
+> \frac{d}{dx}\left[\frac{f(x)}{g(x)}\right] = \frac{f'(x)g(x) - f(x)g'(x)}{g(x)^2}
+> \end{align}$$
+{: .definition}
 
-This is also why my version of the product rule looks a bit different than the book's. My addition is reversed so that both the product rule and quotient rule reinforce the idea of "derivative of the first" then "derivative of the second".
+This is also why my version of the product rule looks a bit different than the book's. The addition is reversed so that both the product rule and quotient rule reinforce the idea of "derivative of the first" then "derivative of the second".
 
 $$\begin{align}
 \frac{d}{dx}\left[\frac{5x-2}{x^2+1}\right] &= \frac{(5)(x^2+1)-(5x-2)(2x)}{(x^2+1)^2} \\
@@ -88,12 +98,14 @@ There are a slew of good examples in the book, which I won't repeat here. We'll 
 
 ## Derivatives of Trigonometric functions
 
-We did sine and cosine, so now here's the rest.
+We did sine and cosine, so now here are the rest.
 
 $$\begin{align*}
 \frac{d}{dx}[\tan x] &= \sec^2 x & \frac{d}{dx}[\cot x] &= -\csc^2 x \\
 \frac{d}{dx}[\sec x] &= \sec x \tan x & \frac{d}{dx}[\csc x] &= -\csc x \cot x
 \end{align*}$$
+
+Tangent you should know, but if you rewrite each in terms of $\sin x$ and $\cos x$ then you derive all of them using the quotient rule.
 
 Don't forget about the cheat sheet in the book, and also the one [here](../pdfs/differentiation-cheat-sheet.pdf).
 
