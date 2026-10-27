@@ -22,11 +22,11 @@ next-link: "./2-4-the-chain-rule.html"
 - [Differentiation Cheat Sheet](../pdfs/differentiation-cheat-sheet.pdf)
 - AP Topics: 2.8, 2.9, 2.10, 3.6, 4.2
 - Khan Academy
-  - [The product rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-8/v/applying-the-product-rule-for-derivatives){: target="_blank"}
-  - [The quotient rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-9/v/quotient-rule){: target="_blank"}
-  - [Finding the derivatives of tangent, cotangent, secant, and/or cosecant functions](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-10/v/derivatives-of-tanx-and-cotx){: target="_blank"}
-  - [Calculating higher-order derivatives](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-6/v/second-derivatives){: target="_blank"}
-  - [Straight-line motion: connecting position, velocity, and acceleration](https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-contextual-applications-new/ab-4-2/v/one-dimensional-motion-with-calculus){: target="_blank"}
+  - [The product rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-8/v/applying-the-product-rule-for-derivatives){: target="\_blank"}
+  - [The quotient rule](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-9/v/quotient-rule){: target="\_blank"}
+  - [Finding the derivatives of tangent, cotangent, secant, and/or cosecant functions](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-10/v/derivatives-of-tanx-and-cotx){: target="\_blank"}
+  - [Calculating higher-order derivatives](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-6/v/second-derivatives){: target="\_blank"}
+  - [Straight-line motion: connecting position, velocity, and acceleration](https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-contextual-applications-new/ab-4-2/v/one-dimensional-motion-with-calculus){: target="\_blank"}
 
 ---
 
@@ -48,27 +48,33 @@ The proof for this is straightforward enough that I encourage you to read throug
 
 So, applying this to $x^2\sin x$ we get
 
-$$\begin{align}
+$$
+\begin{align}
 \frac{d}{dx}[x^2\sin x] = 2x\sin x + x^2\cos x
-\end{align}$$
+\end{align}
+$$
 
 In the case of more than two functions being multiplied, you can work your way down.
 
-$$\begin{align}
+$$
+\begin{align}
 \frac{d}{dx}[f(x)g(x)h(x)] &= f'(x)g(x)h(x) + f(x)\frac{d}{dx}[g(x)h(x)] \\
 &= f'(x)g(x)h(x) + f(x)\left[g'(x)h(x)+g(x)h'(x)\right] \\
 &= f'(x)g(x)h(x) + f(x)g'(x)h(x) + f(x)g(x)h'(x)
-\end{align}$$
+\end{align}
+$$
 
 The last line is the real takeaway. You'll have one term for each function, all while cycling through which function is differentiated.
 
 For another example, let's try $(3x-2x^2)(5+4x)$.
 
-$$\begin{align}
+$$
+\begin{align}
 \frac{d}{dx}[(3x-2x^2)(5+4x)] &= (3 - 4x)(5+4x) + (3x-2x^2)(4) \\
 &= (15 - 8x - 16x^2) + (12x - 8x^2) \\
 &= -24x^2 + 4x + 15
-\end{align}$$
+\end{align}
+$$
 
 Remember that you don't _need_ to simplify, but you need to be able to simplify, so it's good practice.
 
@@ -86,11 +92,13 @@ Similar to the product rule, save for now we are subtracting and there is a deno
 
 This is also why my version of the product rule looks a bit different than the book's. The addition is reversed so that both the product rule and quotient rule reinforce the idea of "derivative of the first" then "derivative of the second".
 
-$$\begin{align}
+$$
+\begin{align}
 \frac{d}{dx}\left[\frac{5x-2}{x^2+1}\right] &= \frac{(5)(x^2+1)-(5x-2)(2x)}{(x^2+1)^2} \\
 &= \frac{(5x^2+5) - (10x^2-4x)}{(x^2+1)^2} \\
 &= \frac{-5x^2+4x+5}{(x^2+1)^2}
-\end{align}$$
+\end{align}
+$$
 
 Two things to note in the above example. One, the use of parentheses. The subtraction will trip you up without them and signs will be reversed. And b) that I left the denominator alone. You can of course expand it if you want, but leaving polynomials factored is a good idea since it will make it easier to simplify if possible.
 
@@ -100,10 +108,12 @@ There are a slew of good examples in the book, which I won't repeat here. We'll 
 
 We did sine and cosine, so now here are the rest.
 
-$$\begin{align*}
+$$
+\begin{align}
 \frac{d}{dx}[\tan x] &= \sec^2 x & \frac{d}{dx}[\cot x] &= -\csc^2 x \\
 \frac{d}{dx}[\sec x] &= \sec x \tan x & \frac{d}{dx}[\csc x] &= -\csc x \cot x
-\end{align*}$$
+\end{align}
+$$
 
 Tangent you should know, but if you rewrite each in terms of $\sin x$ and $\cos x$ then you derive all of them using the quotient rule.
 
@@ -111,18 +121,30 @@ Don't forget about the cheat sheet in the book, and also the one [here](../pdfs/
 
 ## Higher Order Derivatives
 
-I mentioned this in class already, but you can find the derivative of a derivative. Basically, the rate of change of the rate of change. In terms of the position function, this translates to acceleration (how your velocity is changing).
-
-Since we have two different notations, you'll see two different ways of expressing it. The book has another that does not appear on the AP exam.
+I mentioned this in class already, but you can find the derivative of a derivative. Basically, the rate of change of the rate of change. In terms of the position function, this translates to acceleration (how your velocity is changing). And since we have two different notations, you'll see two different ways of expressing it.
 
 For your prime notation, we add prime symbols up until the third one. After that, the number of the derivative goes in parentheses.
 
-$$ f' \quad f'' \quad f''' \quad f^{(4)} \quad \dots \quad f^{(n)}$$
+$$
+\begin{align}
+f' \quad f'' \quad f''' \quad f^{(4)} \quad \dots \quad f^{(n)}
+\end{align}
+$$
 
 For your $\frac{d}{dx}$ notation, power are added to the numerator and denominator.
 
-$$ \frac{d}{dx} \quad \frac{d^2}{dx^2} \quad \frac{d^3}{dx^3} \quad \dots \quad \frac{d^n}{dx^n}$$
+$$
+\begin{align}
+\frac{d}{dx} \quad \frac{d^2}{dx^2} \quad \frac{d^3}{dx^3} \quad \dots \quad \frac{d^n}{dx^n}
+\end{align}
+$$
 
 Note that if the $y$ is included in the fraction, it is not receive the power.
 
-$$ \frac{dy}{dx} \quad \frac{d^2y}{dx^2} \quad \frac{d^3y}{dx^3} \quad \dots \quad \frac{d^ny}{dx^n}$$
+$$
+\begin{align}
+\frac{dy}{dx} \quad \frac{d^2y}{dx^2} \quad \frac{d^3y}{dx^3} \quad \dots \quad \frac{d^ny}{dx^n}
+\end{align}
+$$
+
+The extra one the book mentions is [D-notation](https://en.wikipedia.org/wiki/Notation_for_differentiation#D-notation){: target="\_blank"}. It does not appear on the exam or in the homework problems.
