@@ -1,5 +1,5 @@
 ---
-title: 2.1 Properties of Parallel Lines
+title: 2.1 Parallel Lines
 layout: page
 course: Geometry
 prev-link: ./1-8-indirect-proof.html
@@ -21,3 +21,4 @@ next-link: ./2-2-proving-lines-parallel.html
 - [Transversals of parallel lines: prove angle relationships](https://www.ixl.com/math/geometry/transversals-of-parallel-lines-prove-angle-relationships){: target="_blank"}
 
 ---
+

@@ -25,7 +25,7 @@ geo-h: '[**Geometry**](./geometry/)<br>
   [<i class="fa-solid fa-globe"></i>](https://login.classlink.com/my/manville){: target="_blank"}'
 geo-1: "**M**{: .day}Review"
 geo-2: "**W**{: .day}1.6–1.8 Quiz"
-geo-3: "**F**{: .day}[2.1 Properties of Parallel Lines](./geometry/2-1-properties-of-parallel-lines.html)"
+geo-3: "**F**{: .day}[2.1 Parallel Lines](./geometry/2-1-parallel-lines.html)"
 geo-x: "Oct. 28"
 
 pro-h: '**Intro to Programming**<br>

@@ -29,7 +29,7 @@ layout: course-index
 
 ### MP1 Exam, Nov. 11
 
-- [2.1 Properties of Parallel Lines](2-1-properties-of-parallel-lines.md)
+- [2.1 Parallel Lines](2-1-parallel-lines.md)
 - [2.2 Proving Lines Parallel](2-2-proving-lines-parallel.md)
 
 <!--
