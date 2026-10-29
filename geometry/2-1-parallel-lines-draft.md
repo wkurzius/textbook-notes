@@ -30,4 +30,10 @@ What we're looking at for the next are parallel lines, or lines that don't inter
 > **Figure 2.1.1** Lines $l$ and $m$ are parallel, $l\parallel m$, and transversal $k$ intersects both of them.
 {: .figure}
 
-Parallel lines are lines that don't intersect, but another way to look at them is that they have the same slope.
+Another way to look at parallel line is that they have the same slope, or tilt. A line that is parallel to another is just a copy shifted.
+
+<!-- prettier-ignore -->
+> <video controls><source src="./img/2-1-parallel-animation.mp4"></video>
+>
+> **Figure ** 
+{: .figure}
