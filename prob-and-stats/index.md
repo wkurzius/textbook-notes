@@ -34,7 +34,7 @@ layout: course-index
 - [2.6 Skewness and the Mean, Median, and Mode](./2-6-skewness-and-the-mean-median-and-mode.md)
 - [2.7 Measures of the Spread of the Data](./2-7-measures-of-the-spread-of-the-data.md)
 
-### Midterm Exam, Nov. 10
+### Midterm Exam, Nov. 12
 
 - [3.1 Terminology](./3-1-terminology.md)
 - [3.2 Independent and Mutually Exclusive Events](./3-2-independent-and-mutually-exclusive-events.md)
