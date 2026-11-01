@@ -1,37 +1,37 @@
 ---
-title: "This Week (Oct. 26–30)"
+title: "This Week (Nov. 2–4)"
 layout: this-week
 
 cal-h: '[**AP Calculus AB**](./ap-calculus/)<br>
   [<i class="fa-solid fa-file-lines"></i>](./ap-calculus/ap-calc-syllabus.html)
   [<i class="fa-solid fa-clock-rotate-left"></i>](./ap-calculus/)'
-cal-1: "**T**{: .day}[2.3 Product and Quotient Rules and Higher-Order Derivatives](./ap-calculus/2-3-product-and-quotient-rules-and-higher-order-derivatives.html)"
-cal-2: "**R**{: .day}[2.3 Product and Quotient Rules and Higher-Order Derivatives](./ap-calculus/2-3-product-and-quotient-rules-and-higher-order-derivatives.html)"
-cal-3: ""
+cal-1: "**M**{: .day}[2.4 The Chain Rule](./ap-calculus/2-4-the-chain-rule.html)"
+cal-2: "**W**{: .day}[2.4 The Chain Rule](./ap-calculus/2-4-the-chain-rule.html)"
+cal-3: "**F**{: .day}No school"
 cal-x: "Nov. 10"
 
 csa-h: '[**AP Comp Sci A**](./ap-comp-sci-a/)<br>
   [<i class="fa-solid fa-file-lines"></i>](./ap-comp-sci-a/ap-csa-syllabus.html)
   [<i class="fa-solid fa-clock-rotate-left"></i>](./ap-comp-sci-a/)
   [<i class="fa-solid fa-globe"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/csawesome2.html){: target="_blank"}'
-csa-1: "**M**{: .day}[2.1 Algorithms with Selection and Repetition](./ap-comp-sci-a/2-1-algorithms-with-selection-and-repetition.html) and [2.2 Boolean Expressions](./ap-comp-sci-a/2-2-boolean-expressions.html)"
-csa-2: "**W**{: .day}[2.3 `if` Statements](./ap-comp-sci-a/2-3-if-statements.html)"
-csa-3: "**F**{: .day}[2.4 Nested `if` Statements](./ap-comp-sci-a/2-4-nested-if-statements.html)"
+csa-1: "**T**{: .day}[2.5 Compound Boolean Expressions](./ap-comp-sci-a/2-5-compound-boolean-expressions.html)"
+csa-2: "**R**{: .day}No school"
+csa-3: ""
 csa-x: "Nov. 13"
 
 geo-h: '[**Geometry**](./geometry/)<br>
   [<i class="fa-solid fa-file-lines"></i>](./geometry/geometry-syllabus.html)
   [<i class="fa-solid fa-clock-rotate-left"></i>](./geometry/)
   [<i class="fa-solid fa-globe"></i>](https://login.classlink.com/my/manville){: target="_blank"}'
-geo-1: "**M**{: .day}Review"
-geo-2: "**W**{: .day}1.6–1.8 Quiz"
-geo-3: "**F**{: .day}[2.1 Parallel Lines](./geometry/2-1-parallel-lines.html)"
-geo-x: "Oct. 28"
+geo-1: "**T**{: .day}[2.2 Proving Lines Parallel](./geometry/2-2-proving-lines-parallel.html)"
+geo-2: "**R**{: .day}No school"
+geo-3: ""
+geo-x: "Nov. 11"
 
 pro-h: '**Intro to Programming**<br>
   [<i class="fa-solid fa-file-lines"></i>](./intro-to-programming/intro-to-programming-syllabus.html)
   [<i class="fa-solid fa-globe"></i>](https://academy.cs.cmu.edu/){: target="_blank"}'
-pro-1: "**≥ A**{: .day}Begin working on Unit 3"
+pro-1: "**≥ A**{: .day}Finish working on Unit 3"
 pro-2: "**≥ B**{: .day}Finish working on Unit 2"
 pro-3: "**< B**{: .day}Finish working on Unit 1"
 pro-x: "–"
@@ -40,10 +40,10 @@ sta-h: '[**Prob. & Stats**](./prob-and-stats/)<br>
   [<i class="fa-solid fa-file-lines"></i>](./prob-and-stats/prob-and-stats-syllabus.html)
   [<i class="fa-solid fa-clock-rotate-left"></i>](./prob-and-stats/)
   [<i class="fa-solid fa-globe"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target="_blank"}'
-sta-1: "**T**{: .day}Chapter 2 Quiz"
-sta-2: "**W**{: .day}[3.1 Probability Terminology](./prob-and-stats/3-1-terminology.html)"
-sta-3: ""
-sta-x: "Oct. 27"
+sta-1: "**M**{: .day}[3.2 Independent and Mutually Exclusive Events](./prob-and-stats/3-2-independent-and-mutually-exclusive-events.html) and [3.3 Two Basic Rules of Probability](./prob-and-stats/3-3-two-basic-rules-of-probability.html)"
+sta-2: "**W**{: .day}[3.4 Contingency Tables](./prob-and-stats/3-4-contingency-tables.html)"
+sta-3: "**F**{: .day}No school"
+sta-x: "Nov. 12"
 ---
 
 | Course Links   | This Week's Schedule                               | Next Exam      |
