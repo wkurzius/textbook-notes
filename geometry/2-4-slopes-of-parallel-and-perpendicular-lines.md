@@ -11,11 +11,9 @@ next-link: ./3-1-reflections.html
 
 ## Assignment
 
-- **p97**{: .envision-hw-blue} 13--24, 26, 28--33 (19 problems, [PDF link](./pdf/aga_gm_0204_pps.pdf){: target="_blank"})
-
-## Additional Resources
-
-- [Slopes of parallel and perpendicular lines](https://www.ixl.com/math/geometry/slopes-of-parallel-and-perpendicular-lines){: target="_blank"}
-- [Equations of parallel and perpendicular lines](https://www.ixl.com/math/geometry/equations-of-parallel-and-perpendicular-lines){: target="_blank"}
+- Option 1: **p97**{: .envision-hw-blue} 13--24, 26, 28--33 (19 problems, [PDF link](./pdf/aga_gm_0204_pps.pdf){: target="_blank"})
+- Option 2: **IXL**{: .ixl} (SmartScore ≥70 on each)
+  - [Slopes of parallel and perpendicular lines](https://www.ixl.com/math/geometry/slopes-of-parallel-and-perpendicular-lines){: target="_blank"}
+  - [Equations of parallel and perpendicular lines](https://www.ixl.com/math/geometry/equations-of-parallel-and-perpendicular-lines){: target="_blank"}
 
 ---

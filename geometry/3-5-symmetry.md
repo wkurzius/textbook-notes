@@ -13,6 +13,10 @@ next-link: ./4-1-congruence.html
 ## Assignment
 
 - Three **vocabulary**{: .envision-vocab-purple} definitions
-- **p140**{: .envision-hw-blue} 12--20, 22--30 (18 problems, [PDF link](./pdf/aga_gm_0305_pps.pdf){: target="_blank"})
+- Option 1: **p140**{: .envision-hw-blue} 12--20, 22--30 (18 problems, [PDF link](./pdf/aga_gm_0305_pps.pdf){: target="\_blank"})
+- Option 2: **IXL**{: .ixl} (SmartScore ≥70 on each)
+  - [Transformations that carry a polygon onto itself](https://www.ixl.com/math/geometry/transformations-that-carry-a-polygon-onto-itself){: target="\_blank"}
+  - [Rotational symmetry](https://www.ixl.com/math/geometry/rotational-symmetry){: target="\_blank"}
+  - [Draw lines of symmetry](https://www.ixl.com/math/geometry/draw-lines-of-symmetry){: target="\_blank"}
 
 ---

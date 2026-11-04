@@ -13,11 +13,9 @@ next-link: ./2-3-parallel-lines-and-triangles.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p83**{: .envision-hw-blue} 10--15, 19, 20--24 (12 problems, [PDF link](./pdf/aga_gm_0202_pps.pdf){: target="\_blank"})
-
-## Additional Resources
-
-- [Transversals: prove lines are parallel](https://www.ixl.com/math/geometry/transversals-prove-lines-are-parallel){: target="\_blank"}
+- Option 1: **p83**{: .envision-hw-blue} 10--15, 19, 20--24 (12 problems, [PDF link](./pdf/aga_gm_0202_pps.pdf){: target="\_blank"})
+- Option 2: **IXL**{: .ixl} (SmartScore ≥70 on each)
+  - [Transversals: prove lines are parallel](https://www.ixl.com/math/geometry/transversals-prove-lines-are-parallel){: target="\_blank"}
 
 ---
 

@@ -13,13 +13,11 @@ next-link: "./1-3-midpoint-and-distance.html"
 ## Optional Assignment
 
 - Three **vocabulary**{: .envision-vocab-purple} definitions
-- **p20**{: .envision-hw-blue} 10–19, 21–25 (15 problems, [PDF link](./pdf/aga_gm_0102_pps.pdf){: target="_blank"})
-
-## Additional Resources
-
-- [Construct a congruent segment](https://www.ixl.com/math/geometry/construct-a-congruent-segment){: target="_blank"}
-- [Construct a congruent angle](https://www.ixl.com/math/geometry/construct-a-congruent-angle){: target="_blank"}
-- [Construct an angle bisector](https://www.ixl.com/math/geometry/construct-an-angle-bisector){: target="_blank"}
+- Option 1: **p20**{: .envision-hw-blue} 10–19, 21–25 (15 problems, [PDF link](./pdf/aga_gm_0102_pps.pdf){: target="_blank"})
+- Option 2: **IXL**{: .ixl} (SmartScore ≥70 on each)
+  - [Construct a congruent segment](https://www.ixl.com/math/geometry/construct-a-congruent-segment){: target="_blank"}
+  - [Construct a congruent angle](https://www.ixl.com/math/geometry/construct-a-congruent-angle){: target="_blank"}
+  - [Construct an angle bisector](https://www.ixl.com/math/geometry/construct-an-angle-bisector){: target="_blank"}
 
 ---
 
