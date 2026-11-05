@@ -32,14 +32,16 @@ layout: course-index
 - [2.1 Parallel Lines](2-1-parallel-lines.md)
 - [2.2 Proving Lines Parallel](2-2-proving-lines-parallel.md)
 
-<!--
-
 ## Marking Period 2
 
-### Quiz 4, Nov. 23
+### Quiz 4, Dec. 9
 
 - [2.3 Parallel Lines and Triangles](2-3-parallel-lines-and-triangles.md)
 - [2.4 Slopes of Parallel and Perpendicular Lines](2-4-slopes-of-parallel-and-perpendicular-lines.md)
+- [3.1 Reflections](3-1-reflections.md)
+- [3.2 Translations](3-2-translations.md)
+
+<!--
 
 ### Quiz 5, Dec. 9
 
@@ -67,8 +69,6 @@ layout: course-index
 
 ## Marking Period 4
 
-- [3.1 Reflections](3-1-reflections.md)
-- [3.2 Translations](3-2-translations.md)
 - [3.3 Rotations](3-3-rotations.md)
 - [3.4 Classification of Rigid Motion](3-4-classification-of-rigid-motions.md)
 - [3.5 Symmetry](3-5-symmetry.md)
