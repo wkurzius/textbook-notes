@@ -15,14 +15,10 @@ next-link: ./1-8-indirect-proof.html
 ## Assignment
 
 - Four **vocabulary**{: .envision-vocab-purple} definitions
-- **p56**{: .envision-hw-blue} 9–10, 14–18, 19–20\*, 21–22, 25 ([PDF link](./pdf/aga_gm_0107_pps.pdf){: target="\_blank"})
-
-  \* _For 19–20, do not be discouraged if yours does not match the answer key._
-
-## Additional Resources
-
-- [Proofs involving angles](https://www.ixl.com/math/geometry/proofs-involving-angles){: target="\_blank"}
-- [Find measures of complementary, supplementary, vertical, and adjacent angles](https://www.ixl.com/math/geometry/find-measures-of-complementary-supplementary-vertical-and-adjacent-angles){: target="\_blank"}
+- Option 1: **p56**{: .envision-hw-blue} 9–10, 14–18, 19–20\*, 21–22, 25 ([PDF link](./pdf/aga_gm_0107_pps.pdf){: target="\_blank"})
+- Option 2: **IXL**{: .ixl} (SmartScore ≥70 on each)
+  - [Proofs involving angles](https://www.ixl.com/math/geometry/proofs-involving-angles){: target="\_blank"}
+  - [Find measures of complementary, supplementary, vertical, and adjacent angles](https://www.ixl.com/math/geometry/find-measures-of-complementary-supplementary-vertical-and-adjacent-angles){: target="\_blank"}
 
 ---
 

@@ -638,3 +638,12 @@ a.this-week-extra::before {
 	font-weight: bold;
     color: black;
 }
+
+.ixl {
+    color: #ffca05;
+    display: inline-block;
+}
+
+.ixl::first-letter {
+    color: #00aeef;
+}

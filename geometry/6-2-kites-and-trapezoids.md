@@ -13,6 +13,6 @@ next-link: ./6-3-properties-of-parallelograms.html
 ## Assignment
 
 - One **vocabulary**{: .envision-vocab-purple} definition
-- **p260**{: .envision-hw-blue} 12--17, 19--26 (14 problems, [PDF link](./pdf/aga_gm_0602_pps.pdf){: target="_blank"})
+- Option 1: **p260**{: .envision-hw-blue} 12--17, 19--26 (14 problems, [PDF link](./pdf/aga_gm_0602_pps.pdf){: target="_blank"})
 
 ---

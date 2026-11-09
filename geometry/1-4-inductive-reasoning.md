@@ -12,13 +12,11 @@ next-link: ./1-5-conditional-statements.html
 ## Assignment
 
 - Three **vocabulary**{: .envision-vocab-purple} definitions
-- **p33**{: .envision-hw-blue} 7–23 (17 problems, [PDF link](./pdf/aga_gm_0104_pps.pdf){: target="_blank"})
-
-## Additional Resources
-
-- [Number sequences](https://www.ixl.com/math/geometry/number-sequences){: target="_blank"}
-- [Shape patterns](https://www.ixl.com/math/geometry/shape-patterns){: target="_blank"}
-- [Counterexamples](https://www.ixl.com/math/geometry/counterexamples){: target="_blank"}
+- Option 1: **p33**{: .envision-hw-blue} 7–23 (17 problems, [PDF link](./pdf/aga_gm_0104_pps.pdf){: target="_blank"})
+- Option 2: **IXL**{: .ixl} (SmartScore ≥70 on each)
+  - [Number sequences](https://www.ixl.com/math/geometry/number-sequences){: target="_blank"}
+  - [Shape patterns](https://www.ixl.com/math/geometry/shape-patterns){: target="_blank"}
+  - [Counterexamples](https://www.ixl.com/math/geometry/counterexamples){: target="_blank"}
 
 ---
 

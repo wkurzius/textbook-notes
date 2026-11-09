@@ -49,7 +49,7 @@ layout: course-index
 
 ## Marking Period 2
 
-### Quiz 3, Dec. 4
+### Quiz 3, Dec. 8
 
 - [2.5 Implicit Differentiation](./2-5-implicit-differentiation.md)
 - [2.6 Derivatives of Inverse Functions](./2-6-derivatives-of-inverse-functions.md)
@@ -64,7 +64,7 @@ layout: course-index
 [Unit 4 MCQ; Unit 4 FRQ Parts A and B](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### Quiz 4, Dec. 22
+### Quiz 4, Jan. 4
 
 - [3.1 Extrema on an Interval](./3-1-extrema-on-an-interval.md)
 - [3.2 Rolle's Theorem and the Mean Value Theorem](./3-2-rolles-theorem-and-the-mean-value-theorem.md)
@@ -73,7 +73,7 @@ layout: course-index
 [Unit 5 MCQ Part A](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### MP2 Exam, Jan. 27
+### MP2 Exam, Jan. 25
 
 - [3.4 Concavity and the Second Derivative Test](./3-4-concavity-and-the-second-derivative-test.md)
 - [3.5 A Summary of Curve Sketching](./3-5-a-summary-of-curve-sketching.md)
@@ -90,7 +90,7 @@ layout: course-index
 
 ## Marking Period 3
 
-### Quiz 5, Feb. 22
+### Quiz 5, Feb. 24
 
 - [4.1 Antiderivatives and Indefinite Integration](./4-1-antiderivatives.md)
 - [4.2 Area](./4-2-area.md)
@@ -101,7 +101,7 @@ layout: course-index
 [Unit 6 MCQ Part A; Unit 8 FRQ Part A](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### Quiz 6, Mar. 17
+### Quiz 6, Mar. 19
 
 - [4.6 Integration by Substitution](./4-6-integration-by-substitution.md)
 - [4.7 The Natural Logarithmic Function: Integration](./4-7-the-natural-logarithmic-function-integration.md)
@@ -111,7 +111,7 @@ layout: course-index
 [Unit 6 MCQ Part B; Unit 6 FRQ Parts A and B](https://apclassroom.collegeboard.org/25/assignments?status=assigned&type=ppc){: target="_blank"}
 {: .progress-check}
 
-### MP3 Exam, Apr. 14
+### MP3 Exam, Apr. 16
 
 - [5.1 Slope Fields and Euler's Method](./5-1-slope-fields-and-eulers-method.md)
 - [5.2 Growth and Decay](./5-2-growth-and-decay.md)

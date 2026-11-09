@@ -13,13 +13,11 @@ next-link: ./1-6-deductive-reasoning.html
 ## Assignment
 
 - Ten **vocabulary**{: .envision-vocab-purple} definitions
-- **p42**{: .envision-hw-blue} 11–31, 33–38 (27 problems, [PDF link](./pdf/aga_gm_0105_pps.pdf){: target="_blank"})
-
-## Additional Resources
-
-- [Conditionals](https://www.ixl.com/math/geometry/conditionals){: target="_blank"}
-- [Converses, inverses, and contrapositives](https://www.ixl.com/math/geometry/converses-inverses-and-contrapositives){: target="_blank"}
-- [Biconditionals](https://www.ixl.com/math/geometry/biconditionals){: target="_blank"}
+- Option 1: **p42**{: .envision-hw-blue} 11–31, 33–38 (27 problems, [PDF link](./pdf/aga_gm_0105_pps.pdf){: target="\_blank"})
+- Option 2: **IXL**{: .ixl} (SmartScore ≥70 on each)
+  - [Conditionals](https://www.ixl.com/math/geometry/conditionals){: target="\_blank"}
+  - [Converses, inverses, and contrapositives](https://www.ixl.com/math/geometry/converses-inverses-and-contrapositives){: target="\_blank"}
+  - [Biconditionals](https://www.ixl.com/math/geometry/biconditionals){: target="\_blank"}
 
 ---
 
@@ -45,7 +43,7 @@ But conditional statements written in plain English don't always follow the "if-
 
 > If a shape is a square, then it has four congruent sides.
 
-Be careful of which you choose to the hypothesis. The other way around gets you "if a shape has four congruent sides, then it is a square", which is incorrect since we can provide a counterexample: a [rhombus](https://en.wikipedia.org/wiki/Rhombus){: target="_blank"}.
+Be careful of which you choose to the hypothesis. The other way around gets you "if a shape has four congruent sides, then it is a square", which is incorrect since we can provide a counterexample: a [rhombus](https://en.wikipedia.org/wiki/Rhombus){: target="\_blank"}.
 
 $\blacksquare$
 {: .qed}
@@ -73,7 +71,7 @@ What you don't want to lose in all this rearranging and negating of $p$ and $q$ 
 >
 > Write the converse, inverse, and contrapositive of the statement below and determine the truth value of each.
 >
-> > If two whole numbers are both even, then their sum is even
+> **If two whole numbers are both even, then their sum is even.**
 {: .example}
 
 **SOLUTION** Converse if up first, which is reversing the hypothesis and conclusion ($q \to p$).
@@ -82,9 +80,11 @@ What you don't want to lose in all this rearranging and negating of $p$ and $q$ 
 
 A counterexample will be helpful here. Let's start with an even number and see if we can split it into at least one odd number.
 
-$$\begin{align}
+$$
+\begin{align}
 8 &= 5 + 3 \\
-\end{align}$$
+\end{align}
+$$
 
 That's all we need. The converse is false.
 
@@ -100,11 +100,13 @@ Last is contrapositive, reversed and negated ($\neg q \to \neg p$).
 
 We won't be able to prove this for all situations, but we can check a few to see if it works in general.
 
-$$\begin{align}
+$$
+\begin{align}
 7 &= 1 + 6 \\
 7 &= 2 + 5 \\
 7 &= 3 + 4
-\end{align}$$
+\end{align}
+$$
 
 It looks like odd sums require both an odd and even number, so contrapositive appears to be true.
 
@@ -124,7 +126,7 @@ The last type of conditional is the **biconditional**, represented by $p \leftri
 >
 > What are the two conditionals implied by the biconditional below?
 >
-> > The product of two numbers is negative if and only if the numbers have opposite signs.
+> **The product of two numbers is negative if and only if the numbers have opposite signs.**
 {: .example}
 
 **SOLUTION** Our $p$ and $q$ are "the product of two numbers is negative" and "the numbers have opposite signs". Now we can write one conditional, and then reverse them for the other.

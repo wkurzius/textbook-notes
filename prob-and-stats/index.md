@@ -7,7 +7,7 @@ layout: course-index
 <h2>Course Schedule</h2>
 
 - Table of Contents
-{:toc}
+  {:toc}
 
 ---
 
@@ -46,20 +46,26 @@ layout: course-index
 
 ## Marking Period 2
 
+### Chapter 4/5 Quiz, Dec. 8
+
 - [4.1 Probability Distribution Function (PDF) for a Discrete Random Variable](./4-1-probability-distribution-function-for-a-discrete-random-variable.md)
 - [4.2 Mean or Expected Value and Standard Deviation](./4-2-mean-or-expected-value-and-standard-deviation.md)
 - [5.1 Continuous Probability Functions](./5-1-continuous-probability-functions.md)
 - [5.2 The Uniform Distribution](./5-2-the-uniform-distribution.md)
+
+<!--
+
 - [6.1 The Standard Normal Distribution](./6-1-the-standard-normal-distribution.md)
 - [6.2 Using the Normal Distribution](./6-2-using-the-normal-distribution.md)
 - [7.1 The Central Limit Theorem for Sample Means (Averages)](./7-1-the-central-limit-theorem-for-sample-means.md)
 - [7.3 Using the Central Limit Theorem](./7-3-using-the-central-limit-theorem.md)
+-->
 
 ---
 
 ## Links
 
 - [Syllabus](./prob-and-stats-syllabus.md)
-- [Online textbook](https://openstax.org/books/statistics/pages/1-introduction){: target="_blank"}
-- [Standard Normal Probabilities](../pdfs/standard-normal-probabilities.pdf){: target="_blank"}
+- [Online textbook](https://openstax.org/books/statistics/pages/1-introduction){: target="\_blank"}
+- [Standard Normal Probabilities](../pdfs/standard-normal-probabilities.pdf){: target="\_blank"}
 - [Formula Review](./formula-review.md)
