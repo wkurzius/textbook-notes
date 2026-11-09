@@ -76,9 +76,8 @@ hr {
     width: 5rem;
 }
 
-
-.bell-schedules-table td:nth-child(2n+1),
-.bell-schedules-table th:nth-child(2n+1) {
+.bell-schedules-table td:nth-child(2n + 1),
+.bell-schedules-table th:nth-child(2n + 1) {
     border-right-width: 5px;
 }
 
@@ -99,7 +98,6 @@ blockquote.definition h5 {
     border-bottom: 1px solid var(--definition-border-color);
     margin-top: 0;
     color: var(--definition-text-color);
-
 }
 
 h2#assignment,
@@ -196,11 +194,11 @@ h2#course-schedule {
     list-style: none;
 }
 
-.calc-notes-list-p>li {
+.calc-notes-list-p > li {
     counter-increment: pSection;
 }
 
-.calc-notes-list-p>li::marker {
+.calc-notes-list-p > li::marker {
     content: "P." counter(pSection) " ";
 }
 
@@ -214,11 +212,11 @@ h2#course-schedule {
     list-style: none;
 }
 
-.notes-list>li {
+.notes-list > li {
     counter-increment: section;
 }
 
-.notes-list>li::marker {
+.notes-list > li::marker {
     content: counter(chapter) "." counter(section) " ";
 }
 
@@ -250,7 +248,7 @@ h2#course-schedule {
 
 .this-week-link li::marker {
     font: var(--fa-font-solid);
-    content: '\f133   ';
+    content: "\f133   ";
 }
 
 // Marker for This Week link on home page
@@ -261,22 +259,22 @@ h2#course-schedule {
 
 .icon-list li.calendar::marker {
     font: var(--fa-font-solid);
-    content: '\f133   ';
+    content: "\f133   ";
 }
 
 .icon-list li.home::marker {
     font: var(--fa-font-solid);
-    content: '\f015   ';
+    content: "\f015   ";
 }
 
 .icon-list li.pen-square::marker {
     font: var(--fa-font-solid);
-    content: '\f044   ';
+    content: "\f044   ";
 }
 
 .icon-list li.document::marker {
     font: var(--fa-font-solid);
-    content: '\f15b   ';
+    content: "\f15b   ";
 }
 
 .apcsa-vocab {
@@ -367,7 +365,6 @@ img.icon {
 // minima block table override
 
 @media screen and (max-width: 800px) {
-
     #schedule-table,
     #this-week-table {
         display: table;
@@ -399,13 +396,21 @@ img.icon {
 }
 
 #color-toggle:hover {
-    color: color-mix(in srgb, var(--minima-text-color) 70%, var(--minima-background-color) 30%);
+    color: color-mix(
+        in srgb,
+        var(--minima-text-color) 70%,
+        var(--minima-background-color) 30%
+    );
 }
 
 footer .last-updated {
     font-size: small;
     font-style: italic;
-    color: color-mix(in srgb, var(--minima-text-color) 70%, var(--minima-background-color) 30%);
+    color: color-mix(
+        in srgb,
+        var(--minima-text-color) 70%,
+        var(--minima-background-color) 30%
+    );
 }
 
 // prev-next navigation
@@ -570,7 +575,7 @@ a.footnote {
 }
 
 .lab-bullet {
-	list-style-type: "🧪 ";
+    list-style-type: "🧪 ";
 }
 
 a.this-week-extra {
@@ -582,7 +587,6 @@ a.this-week-extra {
     padding: 0.25rem;
     line-height: normal;
     text-decoration: none;
-
 }
 
 a.this-week-extra::before {
@@ -592,8 +596,8 @@ a.this-week-extra::before {
 }
 
 .site-footer #color-toggle {
-	float: right;
-	font-size: 1.5rem;
+    float: right;
+    font-size: 1.5rem;
 }
 
 /* colors */
@@ -626,17 +630,22 @@ a.this-week-extra::before {
     color: #0074a6;
 }
 
-.call-out {
-	font-style: normal;
-	margin-left: auto;
-	margin-right: auto;
-	max-width: 375px;
-	border: 0;
-	background-color: lightblue;
-	padding: 1rem;
-	text-align: center;
-	font-weight: bold;
+.call-out,
+#open-in-new-tab {
+    font-style: normal;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 375px;
+    border: 0;
+    background-color: lightblue;
+    padding: 1rem;
+    text-align: center;
+    font-weight: bold;
     color: black;
+}
+
+#open-in-new-tab {
+    margin-bottom: 2rem;
 }
 
 .ixl {
