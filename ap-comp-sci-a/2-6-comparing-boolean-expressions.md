@@ -21,12 +21,12 @@ next-link: ./2-7-while-loops.html
 
 Two boolean expressions are equivalent if their resulting truth tables are identical. Below, you can see the statements `!(a && b)` and `!a || !b` are the same since they produce the `true`/`false` values.
 
-|  `a`  |  `b`  | `!(a && b)` | `!a \|\| !b` |
-| :---: | :---: | :---------: | :----------: |
-|   T   |   T   |      F      |      F       |
-|   T   |   F   |      T      |      T       |
-|   F   |   T   |      T      |      T       |
-|   F   |   F   |      T      |      T       |
+|  `a`  |  `b`  | `!(a && b)` | `!a || !b` |
+| :---: | :---: | :---------: | :--------: |
+|   T   |   T   |      F      |      F     |
+|   T   |   F   |      T      |      T     |
+|   F   |   T   |      T      |      T     |
+|   F   |   F   |      T      |      T     |
 
 That particular comparison is an example of DeMorgan's Law, which is sort of distribution for booleans. The individual values are negated and the AND becomes an OR, which also works the other way: `!(a || b)` is equivalent to `!a && !b`. I suggest you write out the truth table for that on your own.
 
