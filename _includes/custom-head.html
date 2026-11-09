@@ -1,13 +1,23 @@
-<link rel="shortcut icon" type="image/x-icon" href="{{ "/assets/favicon.png" | relative_url }}">
-<script defer src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+<link
+    rel="shortcut icon"
+    type="image/x-icon"
+    href="{{ '/assets/favicon.png' | relative_url }}"
+/>
+<script
+    defer
+    src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"
+></script>
 <script>
     MathJax = {
-        loader: { load: ['[tex]/units'] },
+        loader: { load: ["[tex]/units"] },
         tex: {
-            inlineMath: [['$', '$'], ['\\(', '\\)']],
-            tags: 'ams',
-            packages: { '[+]': ['units'] }
-        }
+            inlineMath: [
+                ["$", "$"],
+                ["\\(", "\\)"],
+            ],
+            tags: "ams",
+            packages: { "[+]": ["units"] },
+        },
     };
 </script>
 <link href="/assets/fontawesome/css/fontawesome.css" rel="stylesheet" />
