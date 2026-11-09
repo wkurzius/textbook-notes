@@ -33,11 +33,12 @@ Shorthand is preferred in math, so you will often see conditionals written as "i
 
 But conditional statements written in plain English don't always follow the "if-then" form.
 
+<!-- prettier-ignore -->
 > ## Example: Write a Conditional
 >
 > Rewrite the statement below as a conditional.
 >
-> > A square must have four congruent sides.
+> **A square must have four congruent sides.**
 {: .example}
 
 **SOLUTION** Since one thing is dependent on another, we can rewrite this once we determine the hypothesis.
@@ -67,6 +68,7 @@ And the last version is the **contrapositive**, or $\neg q \to \neg p$. It's a c
 
 What you don't want to lose in all this rearranging and negating of $p$ and $q$ is whether or not the statement itself makes any sense. After writing your statements, take the time to determine its truth value.
 
+<!-- prettier-ignore -->
 > ## Example: Related Conditional and Truth Values
 >
 > Write the converse, inverse, and contrapositive of the statement below and determine the truth value of each.
@@ -117,6 +119,7 @@ The last type of conditional is the **biconditional**, represented by $p \leftri
 >
 > A number is divisible evenly by two if and only if it is even.
 
+<!-- prettier-ignore -->
 > ## Example: Biconditional Conditionals
 >
 > What are the two conditionals implied by the biconditional below?
