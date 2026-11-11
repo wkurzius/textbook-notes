@@ -148,3 +148,7 @@ $$
 $$
 
 The extra one the book mentions is [D-notation](https://en.wikipedia.org/wiki/Notation_for_differentiation#D-notation){: target="\_blank"}. It does not appear on the exam or in the homework problems.
+
+## Desmos
+
+You should use Desmos to define functions, then use prime notation to get the derivative. Also, this is a note for Kurzius to fill this in for next year.
