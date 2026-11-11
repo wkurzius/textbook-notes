@@ -73,5 +73,4 @@ I am available for extra help before school most days, and whenever I have Media
 |  LF2  | **Media Center Duty**              | **Media Center Duty**        |
 |   3   | AP CSA / Intro to Programming (31) | --                           |
 |   4   | Geometry (Media Center)            | **Media Center Duty**        |
-
 {: #schedule-table}
