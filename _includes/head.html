@@ -52,13 +52,13 @@
         document.addEventListener("keyup", (event) => {
             switch (event.key) {
                 case "ArrowLeft":
-                    window.location.href =
-                        document.getElementById("post-prev").href;
+                    const prev = document.getElementById("post-prev");
+                    if (prev != null) window.location.href = prev.href;
                     break;
 
                 case "ArrowRight":
-                    window.location.href =
-                        document.getElementById("post-next").href;
+                    const next = document.getElementById("post-next");
+                    if (next != null) window.location.href = next.href;
                     break;
 
                 case "\\":

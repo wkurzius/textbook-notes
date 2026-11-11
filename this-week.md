@@ -46,21 +46,6 @@ sta-3: ""
 sta-x: "Dec. 8"
 ---
 
-Window too small? [Open this page in a new tab](./this-week.md){: target="\_blank"}.
-{: #open-in-new-tab}
-
-<script>
-        // begin open in new tab toggle //
-
-        if (inIframe) {
-            document.getElementById("open-in-new-tab").style.display = "block";
-        } else {
-            document.getElementById("open-in-new-tab").style.display = "none";
-        }
-
-        // end open in new tab toggle //
-</script>
-
 | Course Links   | This Week's Schedule                               | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |
 | {{page.cal-h}} | {{page.cal-1}}<br>{{page.cal-2}}<br>{{page.cal-3}} | {{page.cal-x}} |
