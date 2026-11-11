@@ -2,7 +2,7 @@
 title: 2.5 Implicit Differentiation
 layout: page
 course: AP Calc
-last-updated: 2025-11-14 10:24:03
+last-updated: 2026-11-11 13:25:25
 prev-link: "./2-4-the-chain-rule.html"
 next-link: "./2-6-derivatives-of-inverse-functions.html"
 ---
@@ -27,9 +27,9 @@ next-link: "./2-6-derivatives-of-inverse-functions.html"
 
 Up until this point, we've differentiated explicit functions, which is when a function $y$ is written as a function of $x$. Like, $y=1/x$. An implicit function is when this isn't the case. If we rearranged that equation, we can get the implicit function $xy=1$.
 
-So, we'll be looking at how to differentiate functions that can't be defined explicitly. Equations like $y^2=x$.
+But the function above can be written either explicitly or implicitly. We'll be looking at how to differentiate functions that _can't_ be defined explicitly. Equations like $y^2=x$.
 
-Before that, let's revisit chain rule and the power rule. And let's be really picky and define our inner function as $u=x$.
+Before that, there are two things that needed to be point out. First, let's revisit chain rule and do it while defining our inner function as ${u=x}$.
 
 $$\begin{align}
 \frac{d}{dx}[u^2] &= 2u\frac{d}{dx}[u] \\[1em]
@@ -38,9 +38,9 @@ $$\begin{align}
                   &= 2x
 \end{align}$$
 
-Since we are always differentiating with respect to $x$, those steps are unnecessary. It's the equivalent of asking how $x$ changes with respect to $x$. Well, at a rate of $1$ for every $1$.
+Since we are always differentiating with respect to $x$, those extra steps are unnecessary. It's the equivalent of asking how $x$ changes with respect to $x$. Well, at a rate of $1$ for every $1$.
 
-We're also going to bring in the fact that differentiating is an operation that should be performed on both sides of an equation.
+The second thing that needs to be brought up is that differentiating is an operation performed on both sides of an equation.
 
 $$\begin{align}
 y &= x^2 + 4 \\
@@ -48,9 +48,9 @@ y &= x^2 + 4 \\
 \frac{dy}{dx} &= 2x
 \end{align}$$
 
-Again, this was going on behind the scenes, but not worth mentioning before. Sorry about that. Remember when you learned that the coefficient of $x$ was $1$?
+Again, this was going on behind the scenes, but not worth mentioning before. Sorry about that.
 
-Now with all that out in the open, let's do some implicit differentiation.
+Now with all that out in the open, let's differentiate an implicit function. We just have to make sure to differentiate both sides and to use the chain rule on _everything_.
 
 > ## Example 1
 >
@@ -67,7 +67,7 @@ $$\begin{align}
 $\blacksquare$
 {: .qed}
 
-There's a general strategy for implicit differentiation on page 175 in the book that I'll include here as well.
+There's a general strategy for implicit differentiation on page 175 in the book that I'll include here as well. It will be helpful for the next example.
 
 > ## Guidelines for Implicit Differentiation
 >
@@ -93,7 +93,7 @@ $$\begin{align}
 $\blacksquare$
 {: .qed}
 
-When finding higher order derivatives, you can substitute in early ones when needed.
+When finding higher order derivatives, you can substitute in earlier ones as needed.
 
 > ## Example 3
 >
@@ -121,7 +121,9 @@ $$\begin{align}
 $\blacksquare$
 {: .qed}
 
-> Quick note: you will not be able to graph derivatives of implicit functions in most cases.
+> Quick note: you will not be able to graph derivatives of implicit functions in most cases. Well, you can, but it requires breaking the original implicit functions into multiple explicit functions and then substituting them into $dy/dx$. Most of the time, it's not worth the effort.
+>
+> [Here is the first derivative of example 3 graphed](https://www.desmos.com/calculator/t4o0vzkgqd){: target="_blank"}.
 
 ## Logarithmic Differentiation
 
