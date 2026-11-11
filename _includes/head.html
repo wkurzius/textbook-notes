@@ -47,7 +47,31 @@
         }
         // end dark mode set and toggle //
 
+        // begin keyboard navigation //
 
+        document.addEventListener("keyup", (event) => {
+            switch (event.key) {
+                case "ArrowLeft":
+                    window.location.href =
+                        document.getElementById("post-prev").href;
+                    break;
+
+                case "ArrowRight":
+                    window.location.href =
+                        document.getElementById("post-next").href;
+                    break;
+
+                case "\\":
+                    changeSkin();
+                    break;
+
+                default:
+                    // Ignore other keys
+                    return;
+            }
+        });
+
+        // end keyboard navigation //
     </script>
     {%- feed_meta -%} {%- if jekyll.environment == 'production' and
     site.google_analytics -%} {%- include google-analytics.html -%} {%- endif
