@@ -2,7 +2,7 @@
 title: 2.5 Implicit Differentiation
 layout: page
 course: AP Calc
-last-updated: 2026-11-11 13:25:25
+last-updated: 2026-11-12 06:11:09
 prev-link: "./2-4-the-chain-rule.html"
 next-link: "./2-6-derivatives-of-inverse-functions.html"
 ---
@@ -121,9 +121,7 @@ $$\begin{align}
 $\blacksquare$
 {: .qed}
 
-> Quick note: you will not be able to graph derivatives of implicit functions in most cases. Well, you can, but it requires breaking the original implicit functions into multiple explicit functions and then substituting them into $dy/dx$. Most of the time, it's not worth the effort.
->
-> [Here is the first derivative of example 3 graphed](https://www.desmos.com/calculator/t4o0vzkgqd){: target="_blank"}.
+Quick note: you won't be able to graph the derivatives of implicit functions easily. It requires breaking the original implicit functions into multiple explicit functions and then substituting them back into $dy/dx$. The algebra required to this can sometimes be way beyond anything we've covered, but there are some simple ones you can do, like [the first derivative of example 3](https://www.desmos.com/calculator/t4o0vzkgqd){: target="_blank"}.
 
 ## Logarithmic Differentiation
 
