@@ -1,50 +1,54 @@
 ---
-title: "This Week (Nov. 9–13)"
+title: "This Week (Nov. 16–20)"
 layout: this-week
 
 cal-h: '[**AP Calculus AB**](./ap-calculus/)<br>
     [<i class="fa-solid fa-file-lines"></i>](./ap-calculus/ap-calc-syllabus.html)
     [<i class="fa-solid fa-clock-rotate-left"></i>](./ap-calculus/)'
-cal-1: "**T**{: .day}MP1 Exam"
-cal-2: "**R**{: .day}[2.5 Implicit Differentiation](./ap-calculus/2-5-implicit-differentiation.html)"
-cal-3: ""
+cal-1: "**M**{: .day}[2.5 Implicit Differentiation](./ap-calculus/2-5-implicit-differentiation.html)"
+cal-2: "**W**{: .day}[2.6 Derivatives of Inverse Functions](./ap-calculus/2-6-derivatives-of-inverse-functions.html)"
+cal-3: "**F**{: .day}[2.6 Derivatives of Inverse Functions](./ap-calculus/2-6-derivatives-of-inverse-functions.html)"
 cal-x: "Dec. 8"
 
 csa-h: '[**AP Comp Sci A**](./ap-comp-sci-a/)<br>
     [<i class="fa-solid fa-file-lines"></i>](./ap-comp-sci-a/ap-csa-syllabus.html)
     [<i class="fa-solid fa-clock-rotate-left"></i>](./ap-comp-sci-a/)
     [<i class="fa-solid fa-globe"></i>](https://runestone.academy/ns/books/published/manvillehighschool_csawesome2_2627/csawesome2.html){: target="_blank"}'
-csa-1: "**M**{: .day}[2.6 Comparing Boolean Expressions](./ap-comp-sci-a/2-6-comparing-boolean-expressions.html)"
-csa-2: "**W**{: .day}Progress Check and Review"
-csa-3: "**F**{: .day}MP1 Exam"
+csa-1: "**T**{: .day}MP1 Exam"
+csa-2: "**R**{: .day}[2.7 `while` Loops](./ap-comp-sci-a/2-7-while-loops.html)"
+csa-3: ""
 csa-x: "Dec. 9"
 
 geo-h: '[**Geometry**](./geometry/)<br>
     [<i class="fa-solid fa-file-lines"></i>](./geometry/geometry-syllabus.html)
     [<i class="fa-solid fa-clock-rotate-left"></i>](./geometry/)
     [<i class="fa-solid fa-globe"></i>](https://login.classlink.com/my/manville){: target="_blank"}'
-geo-1: "**M**{: .day}Review"
-geo-2: "**W**{: .day}MP1 Exam"
-geo-3: "**F**{: .day}[2.3 Parallel Lines and Triangles](./geometry/2-3-parallel-lines-and-triangles.html)"
+geo-1: "**T**{: .day}[2.3 Parallel Lines and Triangles](./geometry/2-3-parallel-lines-and-triangles.html)"
+geo-2: "**R**{: .day}[2.3 Parallel Lines and Triangles](./geometry/2-3-parallel-lines-and-triangles.html)"
+geo-3: ""
 geo-x: "Dec. 9"
 
 pro-h: '**Intro to Programming**<br>
     [<i class="fa-solid fa-file-lines"></i>](./intro-to-programming/intro-to-programming-syllabus.html)
     [<i class="fa-solid fa-globe"></i>](https://academy.cs.cmu.edu/){: target="_blank"}'
-pro-1: "**≥ A**{: .day}Finish working on Unit 3"
-pro-2: "**≥ B**{: .day}Finish working on Unit 2"
-pro-3: "**< B**{: .day}Finish working on Unit 1"
+pro-1: "**≥ A**{: .day}Begin working on Unit 4"
+pro-2: "**≥ B**{: .day}Begin working on Unit 3"
+pro-3: "**< B**{: .day}Begin working on Unit 2"
 pro-x: "–"
 
 sta-h: '[**Prob. & Stats**](./prob-and-stats/)<br>
     [<i class="fa-solid fa-file-lines"></i>](./prob-and-stats/prob-and-stats-syllabus.html)
     [<i class="fa-solid fa-clock-rotate-left"></i>](./prob-and-stats/)
     [<i class="fa-solid fa-globe"></i>](https://openstax.org/books/statistics/pages/1-introduction){: target="_blank"}'
-sta-1: "**T**{: .day}[3.5 Tree and Venn Diagrams](./prob-and-stats/3-5-tree-and-venn-diagrams.html) and Review"
-sta-2: "**R**{: .day}Midterm"
-sta-3: ""
+sta-1: "**M**{: .day}[4.1 Probability Distribution Function for a Discrete Random Variable](./prob-and-stats/4-1-probability-distribution-function-for-a-discrete-random-variable.html)"
+sta-2: "**W**{: .day}[4.1 Probability Distribution Function for a Discrete Random Variable](./prob-and-stats/4-1-probability-distribution-function-for-a-discrete-random-variable.html)"
+sta-3: "**F**{: .day}[4.2 Expected Value and Standard Deviation](./prob-and-stats/4-2-mean-or-expected-value-and-standard-deviation.html)"
 sta-x: "Dec. 8"
 ---
+
+<!-- prettier-ignore -->
+> [Early Dismissals](./misc/bell-schedule.md) Tuesday, Wednesday, and Thursday this week.
+{: .call-out}
 
 | Course Links   | This Week's Schedule                               | Next Exam      |
 | -------------- | -------------------------------------------------- | -------------- |

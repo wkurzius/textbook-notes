@@ -39,7 +39,6 @@ layout: course-index
 - [2.3 Parallel Lines and Triangles](2-3-parallel-lines-and-triangles.md)
 - [2.4 Slopes of Parallel and Perpendicular Lines](2-4-slopes-of-parallel-and-perpendicular-lines.md)
 - [3.1 Reflections](3-1-reflections.md)
-- [3.2 Translations](3-2-translations.md)
 
 <!--
 
@@ -69,6 +68,7 @@ layout: course-index
 
 ## Marking Period 4
 
+- [3.2 Translations](3-2-translations.md)
 - [3.3 Rotations](3-3-rotations.md)
 - [3.4 Classification of Rigid Motion](3-4-classification-of-rigid-motions.md)
 - [3.5 Symmetry](3-5-symmetry.md)
