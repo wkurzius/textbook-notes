@@ -57,6 +57,8 @@ So, we'll need $f'$, which we can easily get since we know $f$, and $f^{-1}(3)$.
 > Solving $f(x)=3$ in this problem boils down to solving a cubic, specifically $\frac{1}{4}x^3 + x - 1=3$. This is _not_ something the AP exam is interested in you knowing, so they will provide you with this value, at least in some way.
 >
 > With that said, the book is not the AP exam and assumes you should take the time to solve it. Somewhat ironically, the book glosses over how they actually solve $f(x)=3$, maybe assuming this is something you know by now. They just [draw the rest of the owl](https://duckduckgo.com/?q=draw+the+rest+of+the+owl){: target="_blank"} and do the same for any similar worked out exercises throughout the book.
+>
+> By the way, there is a cubic formula, similar to how there is a quadratic formula. A professor from Vanderbilt has a nice write-up about it and why it's not taught: [https://math.vanderbilt.edu/schectex/courses/cubic/](https://math.vanderbilt.edu/schectex/courses/cubic/){: target="_blank"}
 
 Since solving $f(x)=3$ involves solving a cubic (one that can't be factored by grouping), this really should be done with a graphing calculator. There are ways of solving manually, but involve the rational root theorem and testing lots of factor combinations.
 
