@@ -8,7 +8,9 @@ next-link: ./5-1-continuous-probability-functions.html
 
 ## Chapter Objectives
 
-- 
+- Calculate the expected value (mean) of a discrete probability distribution.
+- Interpret expected value as a long-term average outcome rather than a prediction for a single trial.
+- Calculate the standard deviation of a discrete probability distribution.
 
 ## Assignment
 
@@ -18,7 +20,7 @@ next-link: ./5-1-continuous-probability-functions.html
 
 ---
 
-## Expected value
+## Expected Value
 
 Suppose you do some gambling (not advised) and the game is simple: flip a coin and you lose a dollar if the result is tails, but you win a dollar if it's heads. Would you make money over time? Or would you lose money, or maybe even break even?
 
@@ -28,18 +30,22 @@ Now the game is \\$2 to play and you're awarded \\$100,000 if you win, but winni
 
 Each of the 5 digits can be any digit from 0–9, meaning we have a $\frac{1}{10}$ chance of guessing correctly for each one. We need to guess all correctly, so this is an AND situation that calls for the multiplication rule. The events are independent, so we can just multiply all the probabilities together.
 
-$$ \frac{1}{10} \cdot \frac{1}{10} \cdot \frac{1}{10} \cdot\frac{1}{10} \cdot \frac{1}{10} = \frac{1}{100\,000}=0.00001$$
+$$\begin{align}
+\frac{1}{10} \cdot \frac{1}{10} \cdot \frac{1}{10} \cdot\frac{1}{10} \cdot \frac{1}{10} = \frac{1}{100\,000}=0.00001
+\end{align}$$
 
 So we have $0.00001$ chance to win \\$100,000, and a $0.99999$ chance to lose the \\$2 we spent on playing. Is this a smart bet? Since our probabilities are out of $100\,000$, let's pretend we played that many times. In theory, we would have won once and lost $99\,999$ times.
 
-$$\begin{align*}
+$$\begin{align}
 \$100\,000 - (\$2)(99\,999) &= \$100\,000 - \$199\,998\\
                             &= -\$99\,998
-\end{align*}$$
+\end{align}$$
 
 Not a good bet. In fact, since we played the game $100\,000$ times, on average we "lost" about $1 each time we played.
 
-$$ \frac{-99\,998}{100\,000}=-0.99998 $$
+$$\begin{align}
+\frac{-99\,998}{100\,000}=-0.99998
+\end{align}$$
 
 This is called **expected value** and is used to predict an average outcome for a situation while taking into account the different probabilities of each. Let's look at our new mothers from last section.
 
@@ -83,19 +89,23 @@ So, to get the expected value, sum up the products of each outcome multiplied by
 > \end{align}$$
 {: .definition}
 
-## Standard deviation and probability distributions
+## Standard Deviation and Probability Distributions
 
 Last time we saw standard deviation, we got dealt with this formula.
 
-$$ \sigma = \sqrt{\frac{\Sigma(x-\mu)^2}{n}} $$
+$$\begin{align}
+\sigma = \sqrt{\frac{\Sigma(x-\mu)^2}{n}}
+\end{align}$$
 
-It comprised of finding the difference between each value and the mean, squaring each of those differences, summing them, dividing by how many there were, and finally square rooting all of that. It was a lot, but it's essentially just finding the average distance from the mean.
+It's comprised of finding the difference between each value and the mean, squaring each of those differences, summing them, dividing by how many there were, and finally square rooting all of that. It was a lot, but it's essentially just finding the average distance from the mean.
 
 With probability distributions, we can still find the standard deviation, though the process is a bit different. Like with expected value, we want to account for how often each outcome can occur. The more likely outcomes should be weighted more than the less frequent ones.
 
 Let's rewrite the original formula slightly.
 
-$$ \sigma = \sqrt{\Sigma(x-\mu)^2\frac{1}{n}} $$
+$$\begin{align}
+\sigma = \sqrt{\Sigma(x-\mu)^2\frac{1}{n}}
+\end{align}$$
 
 This way shows us that each squared difference is multiplied by $\frac{1}{n}$. If there were four items in the set, each would be multiplied by $\frac{1}{4}$. If there were $20$, then it would $\frac{1}{20}$. Each item gets an equal share of the whole.
 
@@ -121,6 +131,8 @@ Now, each squared difference is multiplied by it's probability, and then all of 
 |  $4$  | $\frac{4}{50}$  | $(4-2.1)^2= 3.61$ |    $0.2888$     |
 |  $5$  | $\frac{1}{50}$  | $(5-2.1)^2= 8.41$ |    $0.1682$     |
 
-$$ \sqrt{0.1764 + 0.2662 + 0.0046 + 0.1458 + 0.2888 + 0.1682} = 1.0247$$
+$$\begin{align}
+\sqrt{0.1764 + 0.2662 + 0.0046 + 0.1458 + 0.2888 + 0.1682} = 1.0247
+\end{align}$$
 
 The standard deviation of our distribution of mothers and their sleeping habits is $1.0247$.
