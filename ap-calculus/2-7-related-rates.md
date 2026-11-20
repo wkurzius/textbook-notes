@@ -86,7 +86,7 @@ Well, we can use the Pythagorean equation to find $x$, and $y'$ is how the altit
 
 $$\begin{align}
 2ss' &= 2xx' + 2yy' \\
-2(\units[10]{mi})(\units[-400]{mi/hr}) &= 2(\units[8]{mi})x' + 2(\units[6]{mi}))(0) \\
+2(\units[10]{mi})(\units[-400]{mi/hr}) &= 2(\units[8]{mi})x' + 2(\units[6]{mi})(0) \\
 \units[-8000]{mi^2/hr} &= \units[16]{mi}\cdot x' \\
 \units[-500]{mi/hr} &= x'
 \end{align}$$
