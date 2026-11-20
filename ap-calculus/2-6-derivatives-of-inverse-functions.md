@@ -2,7 +2,7 @@
 title: 2.6 Derivatives of Inverse Functions
 layout: page
 course: AP Calc
-last-updated: 2025-11-15 10:35:52
+last-updated: 2026-11-18 13:09:17
 prev-link: "./2-5-implicit-differentiation.html"
 next-link: "./2-7-related-rates.html"
 ---
@@ -41,18 +41,19 @@ g'(x) &= \frac{1}{f'(g(x))}
 
 This relationship allows you to find the derivative of the inverse at a point, even when the function is unknown. And in fact, most AP problems involving derivatives and inverses provide points for you, so there's no need to figure out the inverse function and its derivative.
 
-### Example 1
-
+<!-- prettier-ignore -->
+> ## Example 1
+>
 > Let $f(x) = \frac{1}{4}x^3 + x - 1$. Find $f^{-1}(3)$.
 {: .example}
 
-This is, more or less, the first example in the book. To find $f^{-1}(3)$, let's set up our relationship.
+**SOLUTION** To find $f^{-1}(3)$, let's set up our relationship.
 
 $$\begin{align}
 (f^{-1})'(3) = \frac{1}{f'(f^{-1}(3))}
 \end{align}$$
 
-So, we'll need $f'$, which we can easily get since we know $f$, and $f^{-1}(3)$. For the latter, we don't know the function for $f^{-1}$ but we can find it by solving $f(x)=3$.
+So, we'll need $f'$, which we can easily get since we know $f$, and then $f^{-1}(3)$. For the latter, we don't know the function for $f^{-1}$ but we can find it by solving $f(x)=3$.
 
 > Solving $f(x)=3$ in this problem boils down to solving a cubic, specifically $\frac{1}{4}x^3 + x - 1=3$. This is _not_ something the AP exam is interested in you knowing, so they will provide you with this value, at least in some way.
 >
