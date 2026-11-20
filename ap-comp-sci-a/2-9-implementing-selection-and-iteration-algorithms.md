@@ -30,8 +30,8 @@ Rather than show how to do all of these, this is a good time to start setting up
 
 I'll modify these directions as needed, but I am writing them from home and they haven't been tested yet. And these are just recommendations for the Windows machines in the lab. If you want to go about it a different way, that's fine and I'm more than happy to help you out.
 
-1. Get [VS Code](https://code.visualstudio.com/download) (already installed). Use winget if you want to feel like a hacker. In a terminal window `winget install Microsoft.VisualStudioCode`.
-2. Get [JDK provided by Adoptium](https://adoptium.net/ ) (also installed). Don't sweat the version. In winget use `winget install EclipseAdoptium.Temurin.21.JDK`
+1. Get [VS Code](https://code.visualstudio.com/download) (already installed). Use `winget` if you want to feel like a hacker. In a terminal window `winget install Microsoft.VisualStudioCode`.
+2. Get [JDK provided by Adoptium](https://adoptium.net/ ) (also installed). Don't sweat the version. In `winget` use `winget install EclipseAdoptium.Temurin.21.JDK`
 
 That's really enough to get you started. VS Code will recommend extensions, but I advise against doing that. They save some typing, but muscle memory is important so skipping things might hurt you in the long run. Strictly a judgement call on your part.
 
@@ -39,7 +39,7 @@ That's really enough to get you started. VS Code will recommend extensions, but 
 
 The computers erase every time they power down, which is a problem. I will see if I can get you permanent network folders, but in the meantime I wouldn't do any serious programming on the machines.
 
-Once we do get you permanent directories
+Once we do get you permanent directories …
 
 1. Create a folder for your Java projects
 2. Open that folder in VS Code
@@ -47,7 +47,7 @@ Once we do get you permanent directories
 
 ## Running
 
-The keyboard shortcut `` Ctrl + ` `` will swap to a terminal in that folder, and hitting it again will bring you back to your editor. While in the terminal window, you can execute commands that will compile and run your code. The two you need are
+The keyboard shortcut `` Ctrl + ` `` (that's a backtick and is above the Tab key), will swap to a terminal in that folder, and hitting it again will bring you back to your editor. While in the terminal window, you can execute commands that will compile and run your code. The two you need are
 
 `javac ClassName.java`
 
