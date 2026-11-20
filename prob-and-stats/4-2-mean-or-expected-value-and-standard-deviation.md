@@ -136,3 +136,7 @@ $$\begin{align}
 \end{align}$$
 
 The standard deviation of our distribution of mothers and their sleeping habits is $1.0247$.
+
+## Spreadsheet Example
+
+Here is a [spreadsheet version of the work above](https://docs.google.com/spreadsheets/d/1Z1dJPzJMyRVNaecEIaOWk4EUqas01Cb8BlB6IgDucT0/edit?usp=sharing){: target="_blank"}.
