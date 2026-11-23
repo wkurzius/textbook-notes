@@ -135,7 +135,7 @@ y-3=\frac{3}{5}(x-7) \\
 y=\frac{3}{5}(x-7)+3
 \end{align}$$
 
-For me, this is fine. Both are valid equations for the line. However, the book's answers, along with IXL, expect your answer in slope-intercept form. So, let's finish the example by converting the above to slope-intercept form, or $y=mx+b$.
+For me, this is fine. Both are valid equations for the line. However, the book's answers, along with IXL, expect your answer in slope-intercept form. So, let's finish the example by converting the above to slope-intercept form, or ${y=mx+b}$.
 
 $$\begin{align}
 y &= \frac{3}{5}(x-7)+3 \\
@@ -154,7 +154,7 @@ Now that we reviewed equation writing, we can write them when parallel and perpe
 <!-- prettier-ignore -->
 > ## Example: Write the Equation for a Parallel Line
 >
-> Write the equation for the line that passes through the point $(4,1)$ and is parallel to ${y=\frac{1}{2}x-3}$.
+> Write the equation for the line that passes through the point $(4,1)$ and is parallel to ${y=\frac{1}{2}x-3}$. Then write the equation for the line perpendicular to it, also passing through $(4,1)$.
 {: .example}
 
 **SOLUTION** The only difference between this example and the one immediately before is that our slope is "hidden" in the equation. Luckily, it's in slope-intercept form so we can immediately see the slope is $\frac{1}{2}$.
@@ -162,12 +162,20 @@ Now that we reviewed equation writing, we can write them when parallel and perpe
 $$\begin{align}
 y - 1 &= \frac{1}{2}(x - 4)  \\
     y &= \frac{1}{2}(x - 4) +1 \\
-    y &= \frac{1}{2}x - 2 + 3
+    y &= \frac{1}{2}x - 3
 \end{align}$$
 
 All three of the above are valid answers. Just remember that IXL *requires* slope-intercept form.
 
+For the perpendicular line, nothing changes except the slope. $1/2$ was the original, so the negative reciprocal would be $-2$.
+
+$$\begin{align}
+y - 1 &= -2(x - 4)  \\
+    y &= -2(x - 4) +1 \\
+    y &= -2x + 9
+\end{align}$$
+
 $\blacksquare$
 {: .qed}
 
-If you are dealing with perpendicular lines, nothing changes except you need to remember to change the slope. If the example above asked you to write the equation for a perpendicular line, the slope would be $-2$ instead of $1/2$.
+I encourage you to graph your lines on either the yellow TI-84s, or in [Desmos](https://www.desmos.com/calculator){: target="_blank"}.
