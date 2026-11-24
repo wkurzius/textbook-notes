@@ -5,6 +5,7 @@ title: TODO
 ## General
 
 - Stylesheet clean-up and migrate to 3.0.0 to suppress warnings
+- .example to .example-head to minimize block quote issues
 
 ## Calc
 

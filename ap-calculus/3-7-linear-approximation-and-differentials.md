@@ -34,12 +34,13 @@ Zoom in a part of a function's graph enough and it will begin to look like a lin
 > **Figure 3.7.1** Zoom in close enough and curves will start to look like lines. We can use these lines to estimate values of a function.
 {: .figure}
 
-> ### Tangent Line Example
->
-> Find the line tangent to $f(x)=1 + \sin x$ at $(0,1)$ and use to estimate $f(0.01)$.
-{: .example}
+<!-- prettier-ignore -->
+### Tangent Line Example
+{: .example-head}
 
-We are given a point, so we just need a slope, which we can get from the derivative of $f$.
+Find the line tangent to $f(x)=1 + \sin x$ at $(0,1)$ and use to estimate $f(0.01)$.
+
+**SOLUTION** We are given a point, so we just need a slope, which we can get from the derivative of $f$.
 
 $$\begin{align}
 y &= f'(0)(x - 0) + 1 \label{eq:1}\\
@@ -76,12 +77,12 @@ Note the word "approximated". Like linear approximation, what we find with $dy$ 
 
 Also worth noting is that $dy=f'(x)dx$ looks a lot like a definition for a derivative $\frac{dy}{dx}=f'(x)$. The proof for making this jump is more complicated than performing a simple algebra step, but this is an easy way to remember the definition of a differential.
 
-> ### Differential Example
->
-> Let $y=x^2$, $x=1$, and $dx=0.01$. Find $dy$ and compare it $\Delta y$.
-{: .example}
+### Differential Example
+{: .example-head}
 
-We are given $x$ and $dx$, so we need only the derivative.
+Let $y=x^2$, $x=1$, and $dx=0.01$. Find $dy$ and compare it $\Delta y$.
+
+**SOLUTION** We are given $x$ and $dx$, so we need only the derivative.
 
 $$\begin{align}
 dy &= f'(x)dx \\
@@ -103,12 +104,12 @@ So, our estimate is $dy=0.02$ while the true value is $\Delta y=0.0201$.
 $\blacksquare$
 {: .qed}
 
-> ### Error Propagation Example
->
-> The radius of a ball bearing is measured at $\units[0.7]{in}$, but with an accuracy $\units[0.01]{in}$. Estimate the propagated error in the volume of the ball bearing.
-{: .example}
+### Error Propagation Example
+{: .example-head}
 
-Physical measurements are never perfectly accurate, and those inaccuracies have an impact on calculations. Differentials are helpful in determining the accuracy of those calculations, also known as the propagated error.
+The radius of a ball bearing is measured at $\units[0.7]{in}$, but with an accuracy $\units[0.01]{in}$. Estimate the propagated error in the volume of the ball bearing.
+
+**SOLUTION** Physical measurements are never perfectly accurate, and those inaccuracies have an impact on calculations. Differentials are helpful in determining the accuracy of those calculations, also known as the propagated error.
 
 The formula for the volume of a sphere is $V(r)=\frac{4}{3}\pi r^3$, so the derivative is $V'(r)=4\pi r^2$.
 
